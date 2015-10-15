@@ -230,6 +230,7 @@
   {"Advisor Media": {"http://advisormedia.cz/": ["advisormedia.cz"]}},
   {"AdXpansion": {"http://www.adxpansion.com/": ["adxpansion.com"]}},
   {"adyard": {"http://adyard.de/": ["adyard.de"]}},
+  {"Adworx": {"http://adworx.at/": ["adworx.at", "adworx.be", "adworx.nl"]}},
   {"ADZ": {"http://www.adzcentral.com/": ["adzcentral.com"]}},
   {"adzly": {"http://www.adzly.com/": ["adzly.com"]}},
   {"Adzerk": {"http://www.adzerk.com/": ["adzerk.com", "adzerk.net"]}},
