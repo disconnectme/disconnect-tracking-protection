@@ -226,6 +226,7 @@
     "advertisespace.com"
   ]}},
   {"Adversal.com": {"http://www.adversal.com/": ["adversal.com", "adv-adserver.com"]}},
+  {"Adverticum": {"http://www.adverticum.com/": ["adverticum.com", "adverticum.net"]}},
   {"AdXpansion": {"http://www.adxpansion.com/": ["adxpansion.com"]}},
   {"adyard": {"http://adyard.de/": ["adyard.de"]}},
   {"ADZ": {"http://www.adzcentral.com/": ["adzcentral.com"]}},
