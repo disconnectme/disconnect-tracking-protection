@@ -1317,6 +1317,7 @@
   {"Technorati": {"http://technorati.com/": [
     "technorati.com", "technoratimedia.com"
   ]}},
+  {"Teads.tv": {"http://teads.tv/": ["teads.tv", "ebuzzing.com"]}},
   {"TellApart": {"http://tellapart.com/": ["tellapart.com", "tellapt.com"]}},
   {"Telstra": {"http://www.telstra.com.au/": [
     "sensis.com.au",
