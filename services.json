@@ -1578,6 +1578,9 @@
   {"Convert Insights": {"http://www.convert.com/": [
     "convert.com", "reedge.com"
   ]}},
+  {"Conversant Media": {"http://www.conversantmedia.com/": [
+    "zmedia.com", "conversantmedia.com"
+  ]}},
   {"Convertro": {"http://www.convertro.com/": ["convertro.com"]}},
   {"Crazy Egg": {"http://www.crazyegg.com/": ["cetrk.com", "crazyegg.com"]}},
   {"Crowd Science": {"http://crowdscience.com/": ["crowdscience.com"]}},
