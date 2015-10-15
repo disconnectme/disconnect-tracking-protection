@@ -199,6 +199,7 @@
   {"AdServerPub": {"http://www.adserverpub.com/": ["adserverpub.com"]}},
   {"AdShuffle": {"http://www.adshuffle.com/": ["adshuffle.com"]}},
   {"AdSide": {"http://www.adside.com/": ["adside.com", "doclix.com"]}},
+  {"AdSmart": {"http://adsmart.com/": ["adsmart.com"]}},
   {"AdSpeed": {"http://www.adspeed.com/": ["adspeed.com", "adspeed.net"]}},
   {"AdSpirit": {"http://www.adspirit.de/": [
     "adspirit.com", "adspirit.de", "adspirit.net"
