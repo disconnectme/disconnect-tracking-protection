@@ -225,6 +225,7 @@
   {"AdvertiseSpace": {"http://www.advertisespace.com/": [
     "advertisespace.com"
   ]}},
+  {"Adversal.com": {"http://www.adversal.com/": ["adversal.com", "adv-adserver.com"]}},
   {"AdXpansion": {"http://www.adxpansion.com/": ["adxpansion.com"]}},
   {"adyard": {"http://adyard.de/": ["adyard.de"]}},
   {"ADZ": {"http://www.adzcentral.com/": ["adzcentral.com"]}},
