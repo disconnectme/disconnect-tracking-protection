@@ -1503,6 +1503,7 @@
   {"YellowHammer": {"http://www.yhmg.com/": [
     "attracto.com", "clickhype.com", "yellowhammermg.com", "yhmg.com"
   ]}},
+  {"Yes Ads": {"http://yesads.com/": ["yesads.com"]}},
   {"YieldAds": {"http://yieldads.com/": ["yieldads.com"]}},
   {"YieldBuild": {"http://yieldbuild.com/": ["yieldbuild.com"]}},
   {"Yieldlab": {"http://www.yieldlab.de/": ["yieldlab.de", "yieldlab.net"]}},
