@@ -545,6 +545,7 @@
     "serving-sys.com",
     "unicast.com"
   ]}},
+  {"Directtrack": {"http://directtrack.com/": ["directtrack.com"]}},
   {"dianomi": {"http://www.dianomi.com/": ["dianomi.com"]}},
   {"Didit": {"http://www.didit.com/": ["did-it.com", "didit.com"]}},
   {"Digital River": {"http://www.digitalriver.com/": [
