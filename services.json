@@ -1546,6 +1546,7 @@
   ]}},
   {"Amadesa": {"http://www.amadesa.com/": ["amadesa.com"]}},
   {"Amazon.com": {"http://www.amazon.com/": ["alexa.com", "alexametrics.com"]}},
+  {"Amazing Counters": {"http://amazingcounters.com/": ["amazingcounters.com"]}},
   {"anormal-media.de": {"http://anormal-media.de/": [
     "anormal-media.de", "anormal-tracker.de"
   ]}},
