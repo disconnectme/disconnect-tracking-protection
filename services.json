@@ -210,6 +210,7 @@
   {"ADTECH": {"http://www.adtech.com/": [
     "adtech.com", "adtech.de", "adtechus.com"
   ]}},
+  {"Adsrevenue.net": {"http://adsrevenue.net/": ["adsrevenue.net"]}},
   {"Adtegrity.com": {"http://www.adtegrity.com/": [
     "adtegrity.com", "adtegrity.net"
   ]}},
