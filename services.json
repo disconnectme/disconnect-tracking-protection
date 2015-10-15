@@ -424,6 +424,7 @@
   {"Clicksor": {"http://www.clicksor.com/": [
     "clicksor.com", "clicksor.net"
   ]}},
+  {"Clickbooth": {"http://www.clickbooth.com/": ["clickbooth.com", "adtoll.com"]}},
   {"Clickwinks": {"http://www.clickwinks.com/": ["clickwinks.com"]}},
   {"ClicManager": {"http://www.clicmanager.fr/": ["clicmanager.fr"]}},
   {"Clove Network": {"http://www.clovenetwork.com/": ["clovenetwork.com"]}},
