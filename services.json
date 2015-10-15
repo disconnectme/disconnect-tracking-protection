@@ -282,7 +282,8 @@
     "leadback.com",
     "tacoda.net"
   ]}},
-  {"Appenda": {"http://http://www.appenda.com//": ["appenda.com"]}},
+  {"Appenda": {"http://www.appenda.com/": ["appenda.com"]}},
+  {"Appier": {"http://appier.com/": ["appier.com"]}},
   {"Applifier": {"http://www.applifier.com/": ["applifier.com"]}},
   {"AppFlood": {"http://appflood.com/": ["appflood.com"]}},
   {"AppNexus": {"http://www.appnexus.com/": [
