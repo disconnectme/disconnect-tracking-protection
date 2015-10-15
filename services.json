@@ -603,6 +603,7 @@
   {"EroAdvertising": {"http://www.ero-advertising.com/": [
     "ero-advertising.com"
   ]}},
+  {"Etarget": {"http://etargetnet.com/": ["etargetnet.com", "etarget.eu"]}},
   {"Etineria": {"http://www.etineria.com/": [
     "adwitserver.com", "etineria.com"
   ]}},
