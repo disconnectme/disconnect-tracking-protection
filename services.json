@@ -1125,6 +1125,7 @@
   {"Pontiflex": {"http://www.pontiflex.com/": ["pontiflex.com"]}},
   {"PopAds": {"https://www.popads.net/": ["popads.net", "popadscdn.net"]}},
   {"PopRule": {"http://poprule.com/": ["gocampaignlive.com", "poprule.com"]}},
+  {"Popunder.ru": {"http://popunder.ru/": ["popunder.ru"]}},
   {"PrecisionClick": {"http://www.precisionclick.com/": [
     "precisionclick.com"
   ]}},
