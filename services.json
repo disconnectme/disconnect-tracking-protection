@@ -833,6 +833,7 @@
   {"Krux": {"http://www.krux.com/": [
     "krux.com", "kruxdigital.com", "krxd.net"
   ]}},
+  {"Lakana": {"http://www.lakana.com/": ["lakana.com", "ibsys.com"]}},
   {"Layer-Ad.org": {"http://layer-ad.org/": ["layer-ad.org"]}},
   {"LeadBolt": {"http://www.leadbolt.com/": ["leadbolt.com"]}},
   {"LeadFormix": {"http://www.leadformix.com/": [
