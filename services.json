@@ -857,7 +857,6 @@
   {"Krux": {"http://www.krux.com/": [
     "krux.com", "kruxdigital.com", "krxd.net"
   ]}},
-  {"Lakana": {"http://www.lakana.com/": ["lakana.com", "ibsys.com"]}},
   {"Layer-Ad.org": {"http://layer-ad.org/": ["layer-ad.org"]}},
   {"Layer Ads": {"http://layer-ads.net/": ["layer-ads.net"]}},
   {"LeadBolt": {"http://www.leadbolt.com/": ["leadbolt.com"]}},
@@ -1073,9 +1072,9 @@
     "servedbyopenx.com"
   ]}},
   {"Opera": {"http://www.opera.com/": [
-    "mobiletheory.com", 
-    "operamediaworks.com", 
-    "operasoftware.com", 
+    "mobiletheory.com",
+    "operamediaworks.com",
+    "operasoftware.com",
     "opera.com"
   ]}},
   {"OPT": {"http://www.opt.ne.jp/": ["advg.jp", "opt.ne.jp", "p-advg.com"]}},
@@ -1327,7 +1326,7 @@
   {"Tatto Media": {"http://tattomedia.com/": [
     "quicknoodles.com", "tattomedia.com"
   ]}},
-  {"Targetix": {"http://targetix.net/": ["targetix.net"]}}, 
+  {"Targetix": {"http://targetix.net/": ["targetix.net"]}},
   {"Teadma": {"http://www.teadma.com/": ["teadma.com"]}},
   {"Technorati": {"http://technorati.com/": [
     "technorati.com", "technoratimedia.com"
@@ -1529,7 +1528,7 @@
     "yldmgrimg.net"
   ]}},
   {"Yandex": {"http://www.yandex.com/": [
-    "web-visor.com", "moikrug.ru", "yandex.com", "yandex.ru", "yandex.st", 
+    "web-visor.com", "moikrug.ru", "yandex.com", "yandex.ru", "yandex.st",
     "yandex.ua", "yandex.com.tr", "yandex.by"
   ]}},
   {"Ybrant Digital": {"http://www.ybrantdigital.com/": [
@@ -2746,4 +2745,3 @@
   "^http:\\/\\/search\\.yahoo\\.com\\/search\\?ei=.*?&fr=crmas&p=(.*)",
   "https://proxy.disconnect.me/search?s=d2hhdGlmaWRpZHRoaXMx&q=$1"
 ]]}
-
