@@ -1892,7 +1892,7 @@
   {"Echo": {"http://aboutecho.com/": [
     "aboutecho.com", "haloscan.com", "js-kit.com"
   ]}},
-  {"Facebook": {"http://www.facebook.com/": ["akamaihd.net", "instagram.com", "fbcdn.net"]}},
+  {"Facebook": {"http://www.facebook.com/": ["akamaihd.net", "instagram.com", "fbcdn.net", "messenger.com"]}},
   {"Flattr": {"http://flattr.com/": ["flattr.com"]}},
   {"FreeWheel": {"http://www.freewheel.tv/": ["freewheel.tv", "fwmrm.net"]}},
   {"Genius.com": {"http://www.genius.com/": ["genius.com"]}},
