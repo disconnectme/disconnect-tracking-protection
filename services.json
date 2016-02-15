@@ -93,6 +93,7 @@
     "adaramedia.com", "opinmind.com", "yieldoptimizer.com"
   ]}},
   {"Adatus": {"http://www.adatus.com/": ["adatus.com"]}},
+  {"AdBrain": {"http://www.adbrain.com/": ["adbrain.com", "adbrn.com"]}},
   {"adBrite": {"http://www.adbrite.com/": ["adbrite.com"]}},
   {"Adbroker.de": {"http://adbroker.de/": ["adbroker.de"]}},
   {"Adchemy": {"http://www.adchemy.com/": ["adchemy.com"]}},
@@ -214,6 +215,7 @@
     "adtech.com", "adtech.de", "adtechus.com"
   ]}},
   {"Adsrevenue.net": {"http://adsrevenue.net/": ["adsrevenue.net"]}},
+  {"Adsnative.com": {"http://adsnative.com/": ["adsnative.com"]}},
   {"Adtegrity.com": {"http://www.adtegrity.com/": [
     "adtegrity.com", "adtegrity.net"
   ]}},
@@ -338,6 +340,7 @@
   {"Betgenius": {"http://www.betgenius.com/": [
     "betgenius.com", "connextra.com"
   ]}},
+  {"Bidswitch": {"http://www.bidswitch.com/": ["bidswitch.net", "bidswitch.com"]}},
   {"BidVertiser": {"http://www.bidvertiser.com/": ["bidvertiser.com"]}},
   {"bigmir)net": {"http://www.bigmir.net/": ["bigmir.net"]}},
   {"BinLayer": {"http://binlayer.com/": ["binlayer.com"]}},
@@ -350,7 +353,7 @@
   {"BlogHer": {"http://www.blogher.com/": ["blogher.com", "blogherads.com"]}},
   {"BlogRollr": {"http://blogrollr.com/": ["blogrollr.com"]}},
   {"BLOOM Digital Platforms": {"http://bloom-hq.com/": [
-    "adgear.com", "bloom-hq.com"
+    "adgear.com", "bloom-hq.com", "adgrx.com"
   ]}},
   {"BloomReach": {"http://www.bloomreach.com/": [
     "bloomreach.com", "brcdn.com", "brsrvr.com"
@@ -647,7 +650,7 @@
     "eyereturn.com", "eyereturnmarketing.com"
   ]}},
   {"Eyeviewdigital": {"http://www.eyeviewdigital.com/": [
-    "eyeviewdigital.com"
+    "eyeviewdigital.com", "eyeviewads.com"
   ]}},
   {"Facilitate Digital": {"http://www.facilitatedigital.com/": [
     "adsfac.eu",
@@ -1221,7 +1224,7 @@
   {"RevenueMax": {"http://revenuemax.de/": ["revenuemax.de"]}},
   {"RevContent": {"http://revcontent.com/": ["revcontent.com"]}},
   {"Rhythm": {"http://rhythmnewmedia.com/": [
-    "rhythmnewmedia.com", "rnmd.net"
+    "rhythmnewmedia.com", "rnmd.net", "rhythmxchange.com", "1rx.io"
   ]}},
   {"RichRelevance": {"http://www.richrelevance.com/": ["richrelevance.com"]}},
   {"RightAction": {"http://rightaction.com/": ["rightaction.com"]}},
@@ -1300,7 +1303,7 @@
   {"Spongecell": {"http://www.spongecell.com/": ["spongecell.com"]}},
   {"SponsorAds": {"http://www.sponsorads.de/": ["sponsorads.de"]}},
   {"Spot200": {"http://spot200.com/": ["spot200.com"]}},
-  {"SpotXchange": {"http://www.spotxchange.com/": ["spotxchange.com"]}},
+  {"SpotXchange": {"http://www.spotxchange.com/": ["spotxchange.com", "spotxcdn.com"]}},
   {"StarGames": {"https://www.stargames.net/": ["stargamesaffiliate.com"]}},
   {"SteelHouse": {"http://www.steelhouse.com/": [
     "steelhouse.com", "steelhousemedia.com"
@@ -1313,7 +1316,7 @@
   {"Summit": {"http://www.summit.co.uk/": ["summitmedia.co.uk"]}},
   {"SupersonicAds": {"http://www.supersonicads.com/": ["supersonicads.com"]}},
   {"Switch": {"http://www.switchconcepts.com/": [
-    "switchadhub.com", "switchconcepts.co.uk", "switchconcepts.com", "ethicalads.net"
+    "switchadhub.com", "switchconcepts.co.uk", "switchconcepts.com", "ethicalads.net", "switchads.com"
   ]}},
   {"Swoop": {"http://swoop.com/": ["swoop.com"]}},
   {"SymphonyAM": {"http://www.factortg.com/": ["factortg.com"]}},
@@ -1715,7 +1718,7 @@
   {"Net Applications": {"http://www.netapplications.com/": [
     "hitsprocessor.com", "netapplications.com"
   ]}},
-  {"New Relic": {"http://newrelic.com/": ["newrelic.com"]}},
+  {"New Relic": {"http://newrelic.com/": ["newrelic.com", "nr-data.net"]}},
   {"NewsRight": {"http://www.newsright.com/": ["apnewsregistry.com"]}},
   {"NextSTAT": {"http://www.nextstat.com/": ["nextstat.com"]}},
   {"Nielsen": {"http://www.nielsen.com/": [
@@ -1768,6 +1771,7 @@
   {"STATSIT": {"http://www.statsit.com/": ["statsit.com"]}},
   {"Stratigent": {"http://www.stratigent.com/": ["stratigent.com"]}},
   {"stat4u": {"http://stat.4u.pl/": ["4u.pl"]}},
+  {"Tealium": {"http://tealium.com/": ["tealium.com", "tiqcdn.com"]}},
   {"TENSQUARE": {"http://www.tensquare.com/": ["tensquare.com"]}},
   {"The Heron Partnership": {"http://www.heronpartners.com.au/": [
     "heronpartners.com.au", "marinsm.com"
@@ -1819,7 +1823,7 @@
     "abmr.net", "akamai.com", "edgesuite.net"
   ]}},
   {"AKQA": {"http://www.akqa.com/": ["akqa.com", "srtk.net"]}},
-  {"Amazon.com": {"http://www.amazon.com/": ["amazon.com", "cloudfront.net"]}},
+  {"Amazon.com": {"http://www.amazon.com/": ["amazon.com", "cloudfront.net", "amazonaws.com"]}},
   {"AOL": {"http://www.aol.com/": [
     "5min.com",
     "aim.com",
