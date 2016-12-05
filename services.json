@@ -2479,6 +2479,14 @@
         }
       },
       {
+        "Goldbach": {
+          "http://www.goldbachgroup.com/": [
+            "goldbachgroup.com",
+            "goldbach.com"
+          ]
+        }
+      },
+      {
         "Grapeshot": {
           "http://www.grapeshot.co.uk/": [
             "grapeshot.co.uk"
@@ -3586,6 +3594,13 @@
         "Nanigans": {
           "http://www.nanigans.com/": [
             "nanigans.com"
+          ]
+        }
+      },
+      {
+        "Nativo": {
+          "http://www.nativo.net/": [
+            "postrelease.com"
           ]
         }
       },
@@ -5501,6 +5516,13 @@
         }
       },
       {
+        "Yieldmo": {
+          "https://yieldmo.com": [
+            "yieldmo.com"
+          ]
+        }
+      },
+      {
         "Yoggrt": {
           "http://www.yoggrt.com/": [
             "yoggrt.com"
@@ -6977,6 +6999,13 @@
         }
       },
       {
+        "Twitter": {
+          "https://twitter.com/": [
+            "twimg.com"
+          ]
+        }
+      },
+      {
         "Twitter Counter": {
           "http://twittercounter.com/": [
             "twittercounter.com"
@@ -8028,6 +8057,13 @@
         }
       },
       {
+        "Soasta": {
+          "https://www.soasta.com": [
+            "go-mpulse.net"
+          ]
+        }
+      },
+      {
         "StatCounter": {
           "http://statcounter.com/": [
             "statcounter.com"
@@ -8509,7 +8545,6 @@
             "backtype.com",
             "crashlytics.com",
             "tweetdeck.com",
-            "twimg.com",
             "twitter.com",
             "twitter.jp"
           ]
