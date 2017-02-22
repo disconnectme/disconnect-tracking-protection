@@ -345,6 +345,13 @@
         }
       },
       {
+        "AdKernel": {
+          "http://adkernel.com": [
+            "adkernel.com"
+          ]
+        }
+      },
+      {
         "AdLantis": {
           "http://www.adlantis.jp/": [
             "adimg.net",
@@ -661,6 +668,13 @@
         }
       },
       {
+        "Adlucent": {
+          "http://adlucent.com": [
+            "adlucent.com"
+          ]
+        }
+      },
+      {
         "Admeta": {
           "http://www.admeta.com/": [
             "admeta.com",
@@ -759,6 +773,14 @@
         "Adsrevenue.net": {
           "http://adsrevenue.net/": [
             "adsrevenue.net"
+          ]
+        }
+      },
+      {
+        "Adsty": {
+          "http://adsty.com/": [
+            "adx1.com",
+            "adsty.com"
           ]
         }
       },
@@ -954,6 +976,13 @@
         "Amobee": {
           "http://amobee.com/": [
             "amobee.com"
+          ]
+        }
+      },
+      {
+        "Answers.com": {
+          "http://www.answers.com/": [
+            "dsply.com"
           ]
         }
       },
@@ -1927,6 +1956,13 @@
         }
       },
       {
+        "Digital Target": {
+          "http://digitaltarget.ru": [
+            "digitaltarget.ru"
+          ]
+        }
+      },
+      {
         "Digital Window": {
           "http://www.digitalwindow.com/": [
             "digitalwindow.com",
@@ -1946,6 +1982,13 @@
           "http://www.directresponsegroup.com/": [
             "directresponsegroup.com",
             "ppctracking.net"
+          ]
+        }
+      },
+      {
+        "DirectAdvert": {
+          "http://www.directadvert.ru/": [
+            "directadvert.ru"
           ]
         }
       },
@@ -3126,6 +3169,13 @@
         }
       },
       {
+        "Lower My Bills": {
+          "lowermybills.com": [
+            "lowermybills.com"
+          ]
+        }
+      },
+      {
         "LucidMedia": {
           "http://www.lucidmedia.com/": [
             "lucidmedia.com"
@@ -3584,6 +3634,14 @@
         }
       },
       {
+        "MyPressPlus": {
+          "http://www.mypressplus.com/": [
+            "ppjol.net",
+            "mypressplus.com"
+          ]
+        }
+      },
+      {
         "MyWebGrocer": {
           "http://www.mywebgrocer.com/": [
             "mywebgrocer.com"
@@ -3993,6 +4051,14 @@
         "PocketCents": {
           "http://pocketcents.com/": [
             "pocketcents.com"
+          ]
+        }
+      },
+      {
+        "Polar Mobile": {
+          "http://polarmobile.com": [
+            "polarmobile.com",
+            "mediavoice.com"
           ]
         }
       },
@@ -5382,6 +5448,14 @@
           "http://www.wp.pl/": [
             "adtotal.pl",
             "wp.pl"
+          ]
+        }
+      },
+      {
+        "Wishabi": {
+          "http://wishabi.com": [
+            "wishabi.com",
+            "wishabi.net"
           ]
         }
       },
@@ -6999,13 +7073,6 @@
         }
       },
       {
-        "Twitter": {
-          "https://twitter.com/": [
-            "twimg.com"
-          ]
-        }
-      },
-      {
         "Twitter Counter": {
           "http://twittercounter.com/": [
             "twittercounter.com"
@@ -7259,6 +7326,13 @@
           "http://www.addfreestats.com/": [
             "3dstats.com",
             "addfreestats.com"
+          ]
+        }
+      },
+      {
+        "Adobe": {
+          "http://www.adobe.com/": [
+            "adobedtm.com"
           ]
         }
       },
@@ -7851,7 +7925,8 @@
       {
         "New Relic": {
           "http://newrelic.com/": [
-            "newrelic.com"
+            "newrelic.com",
+            "nr-data.net"
           ]
         }
       },
@@ -8266,7 +8341,8 @@
             "comscore.com",
             "scorecardresearch.com",
             "sitestat.com",
-            "voicefive.com"
+            "voicefive.com",
+            "mdotlabs.com"
           ]
         }
       },
@@ -8545,6 +8621,7 @@
             "backtype.com",
             "crashlytics.com",
             "tweetdeck.com",
+            "twimg.com",
             "twitter.com",
             "twitter.jp"
           ]
