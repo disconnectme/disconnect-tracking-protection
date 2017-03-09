@@ -17,6 +17,14 @@
         }
       },
       {
+        "365Media": {
+          "http://365media.com/": [
+            "365dm.com",
+            "365media.com"
+          ]
+        }
+      },
+      {
         "4INFO": {
           "http://www.4info.com/": [
             "4info.com",
@@ -107,7 +115,8 @@
             "advertising.com",
             "atwola.com",
             "leadback.com",
-            "tacoda.net"
+            "tacoda.net",
+            "adtechjp.com"
           ]
         }
       },
@@ -581,6 +590,14 @@
         }
       },
       {
+        "Adbrain": {
+          "http://www.adbrain.com/": [
+            "adbrn.com",
+            "adbrain.com"
+          ]
+        }
+      },
+      {
         "Adbroker.de": {
           "http://adbroker.de/": [
             "adbroker.de"
@@ -615,6 +632,13 @@
         "Adfonic": {
           "http://adfonic.com/": [
             "adfonic.com"
+          ]
+        }
+      },
+      {
+        "Adforge": {
+          "http://adforgeinc.com/": [
+            "adforgeinc.com"
           ]
         }
       },
@@ -675,6 +699,14 @@
         }
       },
       {
+        "Admarketplace": {
+          "http://www.admarketplace.com/": [
+            "admarketplace.net",
+            "admarketplace.com"
+          ]
+        }
+      },
+      {
         "Admeta": {
           "http://www.admeta.com/": [
             "admeta.com",
@@ -687,6 +719,13 @@
           "http://www.admicro.vn/": [
             "admicro.vn",
             "vcmedia.vn"
+          ]
+        }
+      },
+      {
+        "Admixer": {
+          "https://admixer.co.kr/main": [
+            "admixer.co.kr"
           ]
         }
       },
@@ -770,6 +809,13 @@
         }
       },
       {
+        "Adscience": {
+          "https://www.adscience.nl/": [
+            "adscience.nl"
+          ]
+        }
+      },
+      {
         "Adsrevenue.net": {
           "http://adsrevenue.net/": [
             "adsrevenue.net"
@@ -781,6 +827,14 @@
           "http://adsty.com/": [
             "adx1.com",
             "adsty.com"
+          ]
+        }
+      },
+      {
+        "Adsupply": {
+          "http://www.adsupply.com/": [
+            "4dsply.com",
+            "adsupply.com"
           ]
         }
       },
@@ -803,6 +857,13 @@
         "Adultmoda": {
           "http://www.adultmoda.com/": [
             "adultmoda.com"
+          ]
+        }
+      },
+      {
+        "Adventive": {
+          "http://adventive.com/": [
+            "adventive.com"
           ]
         }
       },
@@ -903,6 +964,13 @@
           "http://www.affine.tv/": [
             "affine.tv",
             "affinesystems.com"
+          ]
+        }
+      },
+      {
+        "Affinity": {
+          "http://www.affinity.com/": [
+            "affinity.com"
           ]
         }
       },
@@ -1033,6 +1101,13 @@
         }
       },
       {
+        "AppsFlyer": {
+          "http://appsflyer.com/": [
+            "appsflyer.com"
+          ]
+        }
+      },
+      {
         "Arkwrights Homebrew": {
           "http://www.arkwrightshomebrew.com/": [
             "arkwrightshomebrew.com",
@@ -1118,7 +1193,8 @@
         "BLOOM Digital Platforms": {
           "http://bloom-hq.com/": [
             "adgear.com",
-            "bloom-hq.com"
+            "bloom-hq.com",
+            "adgrx.com"
           ]
         }
       },
@@ -1450,7 +1526,8 @@
         "CPX Interactive": {
           "http://www.cpxinteractive.com/": [
             "cpxadroit.com",
-            "cpxinteractive.com"
+            "cpxinteractive.com",
+            "adreadypixels.com"
           ]
         }
       },
@@ -2331,6 +2408,14 @@
         }
       },
       {
+        "Fluct": {
+          "https://corp.fluct.jp/": [
+            "fluct.jp",
+            "adingo.jp"
+          ]
+        }
+      },
+      {
         "Flurry": {
           "http://www.flurry.com/": [
             "flurry.com"
@@ -2489,6 +2574,14 @@
           "http://getglue.com/": [
             "getglue.com",
             "smrtlnks.com"
+          ]
+        }
+      },
+      {
+        "GetIntent": {
+          "http://getintent.com/": [
+            "adhigh.net",
+            "getintent.com"
           ]
         }
       },
@@ -3170,7 +3263,7 @@
       },
       {
         "Lower My Bills": {
-          "lowermybills.com": [
+          "http://lowermybills.com": [
             "lowermybills.com"
           ]
         }
@@ -3961,6 +4054,14 @@
         }
       },
       {
+        "PageFair": {
+          "https://pagefair.com/": [
+            "pagefair.com",
+            "pagefair.net"
+          ]
+        }
+      },
+      {
         "Paid-To-Promote.net": {
           "http://www.paid-to-promote.net/": [
             "paid-to-promote.net"
@@ -4413,7 +4514,9 @@
         "Rhythm": {
           "http://rhythmnewmedia.com/": [
             "rhythmnewmedia.com",
-            "rnmd.net"
+            "rnmd.net",
+            "1rx.io",
+            "rhythmone.com"
           ]
         }
       },
@@ -4828,6 +4931,13 @@
         }
       },
       {
+        "Syrup Ad": {
+          "http://adotsolution.com/": [
+            "adotsolution.com"
+          ]
+        }
+      },
+      {
         "TLVMedia": {
           "http://tlvmedia.com/": [
             "tlvmedia.com"
@@ -5103,6 +5213,14 @@
         "Triggit": {
           "http://triggit.com/": [
             "triggit.com"
+          ]
+        }
+      },
+      {
+        "TripleLift": {
+          "http://triplelift.com/": [
+            "3lift.com",
+            "triplelift.com"
           ]
         }
       },
@@ -7317,7 +7435,8 @@
         "Acxiom": {
           "http://www.acxiom.com/": [
             "acxiom.com",
-            "mm7.net"
+            "mm7.net",
+            "acxiomapac.com"
           ]
         }
       },
@@ -7326,6 +7445,14 @@
           "http://www.addfreestats.com/": [
             "3dstats.com",
             "addfreestats.com"
+          ]
+        }
+      },
+      {
+        "Adloox": {
+          "http://www.adloox.com/": [
+            "adlooxtracking.com",
+            "adloox.com"
           ]
         }
       },
@@ -7709,6 +7836,13 @@
         }
       },
       {
+        "Hotjar": {
+          "https://www.hotjar.com": [
+            "hotjar.com"
+          ]
+        }
+      },
+      {
         "IBM": {
           "http://www.ibm.com/": [
             "cmcore.com",
@@ -8007,6 +8141,14 @@
           "http://www.pronunciator.com/": [
             "pronunciator.com",
             "visitorville.com"
+          ]
+        }
+      },
+      {
+        "Protected Media": {
+          "http://www.protected.media/": [
+            "protected.media",
+            "ad-score.com"
           ]
         }
       },
