@@ -8672,6 +8672,13 @@
         }
       },
       {
+        "Sqate.io": {
+          "http://sqate.io/": [
+            "sqate.io"
+          ]
+        }
+      },
+      {
         "VKontakte": {
           "http://vk.com/": [
             "userapi.com",
