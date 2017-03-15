@@ -6317,7 +6317,8 @@
           "http://www.akamai.com/": [
             "abmr.net",
             "akamai.com",
-            "edgesuite.net"
+            "edgesuite.net",
+            "akamaihd.net"
           ]
         }
       },
@@ -6407,8 +6408,7 @@
       {
         "CBS Interactive": {
           "http://www.cbsinteractive.com/": [
-            "cbsinteractive.com",
-            "com.com"
+            "cbsinteractive.com"
           ]
         }
       },
@@ -6515,7 +6515,6 @@
       {
         "Facebook": {
           "http://www.facebook.com/": [
-            "akamaihd.net",
             "instagram.com",
             "fbcdn.net",
             "messenger.com"
