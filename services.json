@@ -2115,6 +2115,13 @@
         }
       },
       {
+        "DynamicYield": {
+          "https://www.dynamicyield.com/": [
+            "dynamicyield.com"
+          ]
+        }
+      },
+      {
         "EQ Ads": {
           "http://www.eqads.com/": [
             "eqads.com"
@@ -2559,6 +2566,14 @@
           "http://www.gemius.com/": [
             "gemius.com",
             "gemius.pl"
+          ]
+        }
+      },
+      {
+        "Genesis Media": {
+          "http://www.genesismedia.com/": [
+            "genesismedia.com",
+            "genesismediaus.com"
           ]
         }
       },
@@ -4947,7 +4962,8 @@
       {
         "Taboola": {
           "https://www.taboola.com/": [
-            "taboola.com"
+            "taboola.com",
+            "perfectmarket.com"
           ]
         }
       },
@@ -5693,6 +5709,13 @@
         }
       },
       {
+        "YieldBids": {
+          "http://ybx.io/": [
+            "ybx.io"
+          ]
+        }
+      },
+      {
         "YieldBuild": {
           "http://yieldbuild.com/": [
             "yieldbuild.com"
@@ -5771,6 +5794,13 @@
         "Zumobi": {
           "http://www.zumobi.com/": [
             "zumobi.com"
+          ]
+        }
+      },
+      {
+        "ZypMedia": {
+          "http://www.zypmedia.com/": [
+            "zypmedia.com"
           ]
         }
       },
@@ -7687,6 +7717,13 @@
         }
       },
       {
+        "Deep Intent": {
+          "https://www.deepintent.com/": [
+            "deepintent.com"
+          ]
+        }
+      },
+      {
         "Demandbase": {
           "http://www.demandbase.com/": [
             "demandbase.com"
@@ -8030,6 +8067,13 @@
         "Mouseflow": {
           "http://mouseflow.com/": [
             "mouseflow.com"
+          ]
+        }
+      },
+      {
+        "Mozilla": {
+          "https://www.mozilla.org/": [
+            "itsatracker.com"
           ]
         }
       },
