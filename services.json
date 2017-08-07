@@ -646,7 +646,8 @@
         "Adform": {
           "http://www.adform.com/": [
             "adform.com",
-            "adform.net"
+            "adform.net",
+            "adformdsp.net"
           ]
         }
       },
@@ -702,7 +703,8 @@
         "Admarketplace": {
           "http://www.admarketplace.com/": [
             "admarketplace.net",
-            "admarketplace.com"
+            "admarketplace.com",
+            "ampxchange.com"
           ]
         }
       },
@@ -726,6 +728,13 @@
         "Admixer": {
           "https://admixer.co.kr/main": [
             "admixer.co.kr"
+          ]
+        }
+      },
+      {
+        "Admized": {
+          "http://www.admized.com/": [
+            "admized.com"
           ]
         }
       },
@@ -787,6 +796,13 @@
         }
       },
       {
+        "Adotmob": {
+          "https://adotmob.com/": [
+            "adotmob.com"
+          ]
+        }
+      },
+      {
         "Adperium": {
           "http://www.adperium.com/": [
             "adperium.com"
@@ -816,6 +832,13 @@
         }
       },
       {
+        "Adsperity": {
+          "https://www.adsperity.com/": [
+            "adsperity.com"
+          ]
+        }
+      },
+      {
         "Adsrevenue.net": {
           "http://adsrevenue.net/": [
             "adsrevenue.net"
@@ -835,6 +858,13 @@
           "http://www.adsupply.com/": [
             "4dsply.com",
             "adsupply.com"
+          ]
+        }
+      },
+      {
+        "Adswizz": {
+          "http://adswizz.com": [
+            "adswizz.com"
           ]
         }
       },
@@ -3557,6 +3587,15 @@
         }
       },
       {
+        "MetrixLab": {
+          "https://www.metrixlab.com": [
+            "opinionbar.com",
+            "metrixlab.com",
+            "adoftheyear.com"
+          ]
+        }
+      },
+      {
         "MicroAd": {
           "http://www.microad.jp/": [
             "microad.jp"
@@ -4182,6 +4221,14 @@
         "Politads": {
           "http://politads.com/": [
             "politads.com"
+          ]
+        }
+      },
+      {
+        "Polymorph": {
+          "http://getpolymorph.com/": [
+            "getpolymorph.com",
+            "adsnative.com"
           ]
         }
       },
@@ -5831,13 +5878,6 @@
         "adBrite": {
           "http://www.adbrite.com/": [
             "adbrite.com"
-          ]
-        }
-      },
-      {
-        "adMarketplace": {
-          "http://www.admarketplace.com/": [
-            "admarketplace.com"
           ]
         }
       },
@@ -7494,6 +7534,13 @@
         }
       },
       {
+        "Adventori": {
+          "https://adventori.com": [
+            "adventori.com"
+          ]
+        }
+      },
+      {
         "Amadesa": {
           "http://www.amadesa.com/": [
             "amadesa.com"
@@ -8010,6 +8057,14 @@
         }
       },
       {
+        "MarkMonitor": {
+          "https://www.markmonitor.com": [
+            "markmonitor.com",
+            "9c9media.ca"
+          ]
+        }
+      },
+      {
         "Marktest": {
           "http://www.marktest.com/": [
             "marktest.com",
@@ -8030,15 +8085,6 @@
             "meetrics.de",
             "meetrics.net",
             "research.de.com"
-          ]
-        }
-      },
-      {
-        "MetrixLab": {
-          "http://metrixlab.com/": [
-            "crm-metrix.com",
-            "customerconversio.com",
-            "metrixlab.com"
           ]
         }
       },
@@ -8484,6 +8530,14 @@
         }
       },
       {
+        "White Ops": {
+          "https://www.whiteops.com/": [
+            "adzmath.com",
+            "whiteops.com"
+          ]
+        }
+      },
+      {
         "Woopra": {
           "http://www.woopra.com/": [
             "woopra-ns.com",
@@ -8797,7 +8851,8 @@
             "smtad.net",
             "teracent.com",
             "teracent.net",
-            "ytsa.net"
+            "ytsa.net",
+            "googletagmanager.com"
           ]
         }
       },
