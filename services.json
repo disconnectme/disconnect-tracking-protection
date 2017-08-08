@@ -3591,7 +3591,9 @@
           "https://www.metrixlab.com": [
             "opinionbar.com",
             "metrixlab.com",
-            "adoftheyear.com"
+            "adoftheyear.com",
+            "crm-metrix.com",
+            "customerconversio.com"
           ]
         }
       },
@@ -8117,10 +8119,11 @@
         }
       },
       {
-        "Mozilla": {
-          "https://www.mozilla.org/": [
-            "itsatracker.com"
-          ]
+        "ItIsATracker": {
+          "https://itisatracker.com/": [
+            "itisatracker.com"
+          ],
+          "dnt": "eff"
         }
       },
       {
