@@ -7122,6 +7122,13 @@
         }
       },
       {
+        "Salesforce.com": {
+          "http://www.salesforce.com/": [
+            "salesforceliveagent.com"
+          ]
+        }
+      },
+      {
         "ScribeFire": {
           "http://www.scribefire.com/": [
             "scribefire.com"
