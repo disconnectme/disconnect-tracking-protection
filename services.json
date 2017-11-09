@@ -667,6 +667,14 @@
         }
       },
       {
+        "Adglare": {
+          "https://www.adglare.com/": [
+            "adglare.net",
+            "adglare.com"
+          ]
+        }
+      },
+      {
         "Adiant": {
           "http://www.adiant.com/": [
             "adblade.com",
@@ -7472,6 +7480,13 @@
         }
       },
       {
+        "Yandex": {
+          "http://www.yandex.com/": [
+            "api-maps.yandex.ru"
+          ]
+        }
+      },
+      {
         "Zendesk": {
           "http://www.zendesk.com/": [
             "zendesk.com"
@@ -8115,7 +8130,8 @@
       {
         "Mixpanel": {
           "https://mixpanel.com/": [
-            "mixpanel.com"
+            "mixpanel.com",
+            "mxpnl.com"
           ]
         }
       },
