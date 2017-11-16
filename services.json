@@ -1777,6 +1777,14 @@
         }
       },
       {
+        "CoinHive": {
+          "https://coinhive.com": [
+            "coinhive.com",
+            "coin-hive.com"
+          ]
+        }
+      },
+      {
         "Collective": {
           "http://collective.com/": [
             "collective-media.net",
@@ -1913,6 +1921,13 @@
             "crosspixel.net",
             "crosspixelmedia.com",
             "crsspxl.com"
+          ]
+        }
+      },
+      {
+        "CryptoLoot": {
+          "https://crypto-loot.com": [
+            "crypto-loot.com"
           ]
         }
       },
@@ -4067,6 +4082,14 @@
         "OptimumResponse": {
           "http://www.optimumresponse.com/": [
             "optimumresponse.com"
+          ]
+        }
+      },
+      {
+        "OptinMonster": {
+          "https://optinmonster.com/": [
+            "optnmstr.com",
+            "optinmonster.com"
           ]
         }
       },
@@ -7884,10 +7907,24 @@
         }
       },
       {
+        "Fullstory": {
+          "https://www.fullstory.com/": [
+            "fullstory.com"
+          ]
+        }
+      },
+      {
         "GTop": {
           "http://www.gtop.ro/": [
             "gtop.ro",
             "gtopstats.com"
+          ]
+        }
+      },
+      {
+        "GetSiteControl": {
+          "https://getsitecontrol.com/": [
+            "getsitecontrol.com"
           ]
         }
       },
@@ -7962,6 +7999,13 @@
         "Hotjar": {
           "https://www.hotjar.com": [
             "hotjar.com"
+          ]
+        }
+      },
+      {
+        "HubSpot": {
+          "http://www.hubspot.com/": [
+            "hs-analytics.net"
           ]
         }
       },
@@ -8384,6 +8428,13 @@
         }
       },
       {
+        "SessionCam": {
+          "https://sessioncam.com/": [
+            "sessioncam.com"
+          ]
+        }
+      },
+      {
         "ShinyStat": {
           "http://www.shinystat.com/": [
             "shinystat.com"
@@ -8394,6 +8445,13 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
+          ]
+        }
+      },
+      {
+        "Smartlook": {
+          "https://www.smartlook.com/": [
+            "smartlook.com"
           ]
         }
       },
