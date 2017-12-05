@@ -6443,7 +6443,8 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon.com",
-            "cloudfront.net"
+            "cloudfront.net",
+            "alexa.com"
           ]
         }
       },
@@ -7619,7 +7620,6 @@
       {
         "Amazon.com": {
           "http://www.amazon.com/": [
-            "alexa.com",
             "alexametrics.com"
           ]
         }
