@@ -7211,6 +7211,15 @@
         }
       },
       {
+        "StackPath": {
+          "https://www.stackpath.com/": [
+            "maxcdn.com",
+            "netdna-ssl.com",
+            "netdna-cdn.com"
+          ]
+        }
+      },
+      {
         "Superfish": {
           "http://www.superfish.com/": [
             "superfish.com"
