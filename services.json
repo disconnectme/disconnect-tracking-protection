@@ -2512,8 +2512,7 @@
             "foxonestop.com",
             "mobsmith.com",
             "myads.com",
-            "othersonline.com",
-            "rubiconproject.com"
+            "othersonline.com"
           ]
         }
       },
@@ -4657,6 +4656,13 @@
         "Rovion": {
           "http://www.rovion.com/": [
             "rovion.com"
+          ]
+        }
+      },
+      {
+        "Rubicon Project": {
+          "http://rubiconproject.com": [
+            "rubiconproject.com"
           ]
         }
       },
