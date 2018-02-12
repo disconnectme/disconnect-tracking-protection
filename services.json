@@ -1424,6 +1424,14 @@
         }
       },
       {
+        "Bouncex": {
+          "https://www.bouncex.com/": [
+            "bouncex.com",
+            "bounceexchange.com"
+          ]
+        }
+      },
+      {
         "Brainient": {
           "http://brainient.com/": [
             "brainient.com"
@@ -4634,7 +4642,8 @@
             "rhythmnewmedia.com",
             "rnmd.net",
             "1rx.io",
-            "rhythmone.com"
+            "rhythmone.com",
+            "rhythmxchange.com"
           ]
         }
       },
