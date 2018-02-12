@@ -5826,6 +5826,13 @@
         }
       },
       {
+        "Yieldify": {
+          "https://www.yieldify.com/": [
+            "yieldify.com"
+          ]
+        }
+      },
+      {
         "Yieldlab": {
           "http://www.yieldlab.de/": [
             "yieldlab.de",
