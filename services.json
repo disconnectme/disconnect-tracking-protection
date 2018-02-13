@@ -1424,6 +1424,13 @@
         }
       },
       {
+        "Boo-Box": {
+          "http://boo-box.com/": [
+            "boo-box.com"
+          ]
+        }
+      },
+      {
         "Bouncex": {
           "https://www.bouncex.com/": [
             "bouncex.com",
@@ -4689,6 +4696,13 @@
           "http://www.sas.com/": [
             "aimatch.com",
             "sas.com"
+          ]
+        }
+      },
+      {
+        "Sabavision": {
+          "http://www.sabavision.com": [
+            "sabavision.com"
           ]
         }
       },
@@ -8060,6 +8074,13 @@
         }
       },
       {
+        "Infernotions": {
+          "https://infernotions.com/": [
+            "infernotions.com"
+          ]
+        }
+      },
+      {
         "InfoStars": {
           "http://infostars.ru/": [
             "hotlog.ru",
@@ -8393,6 +8414,13 @@
           "http://www.researchnow.com/": [
             "researchnow.com",
             "valuedopinions.co.uk"
+          ]
+        }
+      },
+      {
+        "Retail Automata": {
+          "https://retailautomata.com": [
+            "retailautomata.com"
           ]
         }
       },
