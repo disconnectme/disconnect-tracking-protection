@@ -116,7 +116,8 @@
             "atwola.com",
             "leadback.com",
             "tacoda.net",
-            "adtechjp.com"
+            "adtechjp.com",
+            "vidible.tv"
           ]
         }
       },
@@ -797,6 +798,13 @@
         }
       },
       {
+        "Adomik": {
+          "http://www.adomik.com/": [
+            "adomik.com"
+          ]
+        }
+      },
+      {
         "Adorika": {
           "http://www.clickotmedia.com/": [
             "clickotmedia.com"
@@ -1388,15 +1396,6 @@
         "BlogRollr": {
           "http://blogrollr.com/": [
             "blogrollr.com"
-          ]
-        }
-      },
-      {
-        "BloomReach": {
-          "http://www.bloomreach.com/": [
-            "bloomreach.com",
-            "brcdn.com",
-            "brsrvr.com"
           ]
         }
       },
@@ -3342,6 +3341,13 @@
         "Local Yokel Media": {
           "http://www.localyokelmedia.com/": [
             "localyokelmedia.com"
+          ]
+        }
+      },
+      {
+        "LockerDome": {
+          "https://lockerdome.com/": [
+            "lockerdome.com"
           ]
         }
       },
@@ -7595,6 +7601,14 @@
         }
       },
       {
+        "AIData": {
+          "http://www.aidata.me/": [
+            "advombat.ru",
+            "aidata.me"
+          ]
+        }
+      },
+      {
         "AT Internet": {
           "http://www.atinternet.com/": [
             "atinternet.com",
@@ -7704,6 +7718,13 @@
         }
       },
       {
+        "BloomReach": {
+          "http://www.bloomreach.com/": [
+            "p.brsrvr.com"
+          ]
+        }
+      },
+      {
         "Bluemetrix": {
           "http://www.bluemetrix.com/": [
             "bluemetrix.com",
@@ -7745,6 +7766,13 @@
         "CNZZ": {
           "http://www.cnzz.com/": [
             "cnzz.com"
+          ]
+        }
+      },
+      {
+        "Cardlytics": {
+          "http://www.cardlytics.com/": [
+            "cardlytics.com"
           ]
         }
       },
