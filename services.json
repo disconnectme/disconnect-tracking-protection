@@ -8352,14 +8352,6 @@
         }
       },
       {
-        "New Relic": {
-          "http://newrelic.com/": [
-            "newrelic.com",
-            "nr-data.net"
-          ]
-        }
-      },
-      {
         "NewsRight": {
           "http://www.newsright.com/": [
             "apnewsregistry.com"
