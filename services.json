@@ -1530,7 +1530,8 @@
         "BuySellAds": {
           "http://buysellads.com/": [
             "beaconads.com",
-            "buysellads.com"
+            "buysellads.com",
+            "carbonads.com"
           ]
         }
       },
@@ -5296,7 +5297,6 @@
       {
         "Tinder": {
           "http://tinder.com/": [
-            "carbonads.com",
             "tinder.com"
           ]
         }
