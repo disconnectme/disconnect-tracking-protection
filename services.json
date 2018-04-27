@@ -1375,6 +1375,13 @@
         }
       },
       {
+        "Bleacher Report": {
+          "http://bleacherreport.com": [
+            "bleacherreport.net"
+          ]
+        }
+      },
+      {
         "Black Label Ads": {
           "http://www.blacklabelads.com/": [
             "blacklabelads.com"
