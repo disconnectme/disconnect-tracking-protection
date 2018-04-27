@@ -4942,6 +4942,13 @@
         }
       },
       {
+        "Sourcepoint": {
+          "https://www.sourcepoint.com": [
+            "summerhamster.com"
+          ]
+        }
+      },
+      {
         "Space Chimp Media": {
           "http://spacechimpmedia.com/": [
             "spacechimpmedia.com"
