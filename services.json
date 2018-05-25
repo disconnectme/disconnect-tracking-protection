@@ -2215,13 +2215,6 @@
         }
       },
       {
-        "DynamicYield": {
-          "https://www.dynamicyield.com/": [
-            "dynamicyield.com"
-          ]
-        }
-      },
-      {
         "EQ Ads": {
           "http://www.eqads.com/": [
             "eqads.com"
@@ -7956,6 +7949,14 @@
         "DirectCORP": {
           "http://www.directcorp.de/": [
             "ipcounter.de"
+          ]
+        }
+      },
+      {
+        "DynamicYield": {
+          "https://www.dynamicyield.com/": [
+            "px.dynamicyield.com",
+            "px-eu.dynamicyield.com"
           ]
         }
       },
