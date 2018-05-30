@@ -553,6 +553,14 @@
         }
       },
       {
+        "AdYield": {
+          "http://www.adyield.com/": [
+            "adyield.com",
+            "adxyield.com"
+          ]
+        }
+      },
+      {
         "Adality": {
           "http://adality.de/": [
             "adality.de",
@@ -2217,7 +2225,8 @@
       {
         "DynamicYield": {
           "https://www.dynamicyield.com/": [
-            "dynamicyield.com"
+            "px.dynamicyield.com",
+            "px-eu.dynamicyield.com"
           ]
         }
       },
@@ -3240,6 +3249,14 @@
             "krux.com",
             "kruxdigital.com",
             "krxd.net"
+          ]
+        }
+      },
+      {
+        "LKQD": {
+          "http://lkqd.com": [
+            "lkqd.net",
+            "lkqd.com"
           ]
         }
       },
@@ -5574,6 +5591,13 @@
         "Vemba": {
           "https://www.vemba.com/": [
             "vemba.com"
+          ]
+        }
+      },
+      {
+        "Venatus Media": {
+          "http://venatusmedia.com": [
+            "venatusmedia.com"
           ]
         }
       },
