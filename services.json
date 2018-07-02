@@ -914,8 +914,7 @@
           "https://adthink.com/": [
             "adthink.com",
             "audienceinsights.net"
-          ],
-          "password-abuse": "true"
+          ]
         }
       },
       {
@@ -1429,7 +1428,8 @@
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -1821,7 +1821,9 @@
         "CoinHive": {
           "https://coinhive.com": [
             "coinhive.com",
-            "coin-hive.com"
+            "coin-hive.com",
+            "cnhv.co",
+            "authedmine.com"
           ],
           "performance": "true",
           "cryptominer": "true"
@@ -2772,7 +2774,8 @@
           "http://www.guj.de/": [
             "guj.de",
             "ligatus.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -5756,6 +5759,14 @@
         }
       },
       {
+        "Webmine": {
+          "https://webmine.cz/": [
+            "webmine.cz"
+          ],
+          "cryptominer": "true"
+        }
+      },
+      {
         "Weborama": {
           "http://weborama.com/": [
             "weborama.com",
@@ -7861,7 +7872,8 @@
             "clicktale.com",
             "clicktale.net",
             "pantherssl.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8047,7 +8059,8 @@
         "Fullstory": {
           "https://www.fullstory.com/": [
             "fullstory.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8417,8 +8430,7 @@
           "http://www.onaudience.com/": [
             "onaudience.com",
             "behavioralengine.com"
-          ],
-          "password-abuse": "true"
+          ]
         }
       },
       {
@@ -8591,7 +8603,8 @@
         "SessionCam": {
           "https://sessioncam.com/": [
             "sessioncam.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8605,14 +8618,16 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
         "Smartlook": {
           "https://www.smartlook.com/": [
             "smartlook.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8949,7 +8964,8 @@
             "connectedads.net",
             "xgraph.com",
             "xgraph.net"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
