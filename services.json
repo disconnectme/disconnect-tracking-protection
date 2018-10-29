@@ -2785,6 +2785,13 @@
         }
       },
       {
+        "Httpool": {
+          "http://www.httpool.com/": [
+            "httpool.com"
+          ]
+        }
+      },
+      {
         "GoldSpot Media": {
           "http://www.goldspotmedia.com/": [
             "goldspotmedia.com"
@@ -2925,13 +2932,6 @@
             "horyzon-media.com",
             "meetic-partners.com",
             "smartadserver.com"
-          ]
-        }
-      },
-      {
-        "Httpool": {
-          "http://www.httpool.com/": [
-            "httpool.com"
           ]
         }
       },
@@ -6012,6 +6012,13 @@
         }
       },
       {
+        "beencounter": {
+          "http://www.beencounter.com/": [
+            "beencounter.com"
+          ]
+        }
+      },
+      {
         "Ybrant Digital": {
           "http://www.ybrantdigital.com/": [
             "addynamix.com",
@@ -6252,13 +6259,6 @@
         "appssavvy": {
           "http://appssavvy.com/": [
             "appssavvy.com"
-          ]
-        }
-      },
-      {
-        "beencounter": {
-          "http://www.beencounter.com/": [
-            "beencounter.com"
           ]
         }
       },
@@ -6598,6 +6598,35 @@
           "http://www.zapunited.com/": [
             "zaparena.com",
             "zapunited.com"
+          ]
+        }
+      },
+      {
+        "AdMatrix": {
+          "http://www.admatrix.jp/": [
+            "admatrix.jp"
+          ]
+        }
+      },
+      {
+        "ContentABC": {
+          "http://contentabc.com/": [
+            "contentabc.com"
+          ]
+        }
+      },
+      {
+        "Sublime Skinz": {
+          "http://sublime.xyz/": [
+            "ayads.co",
+            "sublime.xyz"
+          ]
+        }
+      },
+      {
+        "Survata": {
+          "https://www.survata.com/": [
+            "survata.com"
           ]
         }
       }
@@ -7763,7 +7792,8 @@
             "yandex.st",
             "yandex.ua",
             "yandex.com.tr",
-            "yandex.by"
+            "yandex.by",
+            "kinopoisk.ru"
           ]
         }
       },
@@ -9105,6 +9135,13 @@
           "http://www.oewa.at/": [
             "oewa.at",
             "oewabox.at"
+          ]
+        }
+      },
+      {
+        "Narrative": {
+          "http://narrative.io/2/": [
+            "narrative.io"
           ]
         }
       }
