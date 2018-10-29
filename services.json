@@ -17,14 +17,6 @@
         }
       },
       {
-        "365Media": {
-          "http://365media.com/": [
-            "365dm.com",
-            "365media.com"
-          ]
-        }
-      },
-      {
         "4INFO": {
           "http://www.4info.com/": [
             "4info.com",
@@ -2234,14 +2226,6 @@
         }
       },
       {
-        "Drawbridge": {
-          "http://http://drawbrid.ge/": [
-            "adsymptotic.com",
-            "drawbrid.ge"
-          ]
-        }
-      },
-      {
         "DynAdmic": {
           "https://dynadmic.com/": [
             "dynadmic.com",
@@ -3777,19 +3761,6 @@
         "MicroAd": {
           "http://www.microad.jp/": [
             "microad.jp"
-          ]
-        }
-      },
-      {
-        "Microsoft": {
-          "http://www.microsoft.com/": [
-            "adbureau.net",
-            "adecn.com",
-            "aquantive.com",
-            "atdmt.com",
-            "msads.net",
-            "netconversions.com",
-            "roiservice.com"
           ]
         }
       },
@@ -6629,6 +6600,34 @@
             "survata.com"
           ]
         }
+      },
+      {
+        "Drawbridge": {
+          "http://drawbrid.ge/": [
+            "adsymptotic.com",
+            "drawbrid.ge"
+          ]
+        }
+      },
+      {
+        "Microsoft": {
+          "http://www.microsoft.com/": [
+            "adbureau.net",
+            "adecn.com",
+            "aquantive.com",
+            "atdmt.com",
+            "msads.net",
+            "netconversions.com",
+            "roiservice.com"
+          ]
+        }
+      },
+      {
+        "365Media": {
+          "http://365media.com/": [
+            "365media.com"
+          ]
+        }
       }
     ],
     "Content": [
@@ -7326,37 +7325,6 @@
         }
       },
       {
-        "Microsoft": {
-          "http://www.microsoft.com/": [
-            "bing.com",
-            "gamesforwindows.com",
-            "getgamesmart.com",
-            "healthvault.com",
-            "ieaddons.com",
-            "iegallery.com",
-            "live.com",
-            "microsoft.com",
-            "microsoftalumni.com",
-            "microsoftalumni.org",
-            "microsoftstore.com",
-            "msn.com",
-            "msnbc.com",
-            "msndirect.com",
-            "nbcnews.com",
-            "office.com",
-            "officelive.com",
-            "outlook.com",
-            "s-msn.com",
-            "skype.com",
-            "windowsphone.com",
-            "worldwidetelescope.org",
-            "xbox.com",
-            "zune.com",
-            "zune.net"
-          ]
-        }
-      },
-      {
         "NDN": {
           "http://www.newsinc.com/": [
             "newsinc.com"
@@ -7830,6 +7798,35 @@
         "kikin": {
           "http://www.kikin.com/": [
             "kikin.com"
+          ]
+        }
+      },
+      {
+        "Microsoft": {
+          "http://www.microsoft.com/": [
+            "bing.com",
+            "gamesforwindows.com",
+            "getgamesmart.com",
+            "healthvault.com",
+            "ieaddons.com",
+            "iegallery.com",
+            "live.com",
+            "microsoft.com",
+            "microsoftalumni.com",
+            "microsoftalumni.org",
+            "microsoftstore.com",
+            "msn.com",
+            "msndirect.com",
+            "office.com",
+            "officelive.com",
+            "outlook.com",
+            "s-msn.com",
+            "skype.com",
+            "windowsphone.com",
+            "worldwidetelescope.org",
+            "xbox.com",
+            "zune.com",
+            "zune.net"
           ]
         }
       }
@@ -9331,7 +9328,8 @@
             "tweetdeck.com",
             "twimg.com",
             "twitter.com",
-            "twitter.jp"
+            "twitter.jp",
+            "ads-twitter.com"
           ]
         }
       }
