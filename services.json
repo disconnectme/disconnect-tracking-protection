@@ -1260,6 +1260,15 @@
         }
       },
       {
+        "aster18cdn.nl": {
+          "http://aster18cdn.nl/": [
+            "aster18cdn.nl"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
         "AT Internet": {
           "http://www.atinternet.com/": [
             "hit-parade.com"
@@ -1569,6 +1578,15 @@
           "http://www.blutrumpet.com/": [
             "blutrumpet.com"
           ]
+        }
+      },
+      {
+        "bmst.pw": {
+          "http://bmst.pw/": [
+            "bmst.pw"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -1933,6 +1951,15 @@
         }
       },
       {
+        "CoinPot": {
+          "http://coinpot.co": [
+            "coinpot.co"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
         "Collective": {
           "http://collective.com/": [
             "collective-media.net",
@@ -2129,7 +2156,9 @@
           "https://crypto-loot.com": [
             "crypto-loot.com",
             "cryptaloot.pro",
-            "webmine.pro"
+            "webmine.pro",
+            "gitgrub.pro",
+            "statdynamic.com"
           ],
           "cryptominer": "true",
           "performance": "true"
@@ -2794,6 +2823,15 @@
           "http://www.flashtalking.com/": [
             "flashtalking.com"
           ]
+        }
+      },
+      {
+        "flightzy.date": {
+          "http://flightzy.date": [
+            "flightzy.date"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -4126,12 +4164,40 @@
         }
       },
       {
-        "Mineralt": {
-          "https://mineralt.io/": [
-            "mineralt.io"
+        "MinerAlt": {
+          "http://mineralt.io": [
+            "gramombird.com",
+            "mepirtedic.com",
+            "besstahete.info",
+            "feesocrald.com",
+            "analytics.blue",
+            "pampopholf.com",
+            "tulip18.com",
+            "mineralt.io",
+            "istlandoll.com",
+            "dinorslick.icu"
           ],
           "performance": "true",
           "cryptominer": "true"
+        }
+      },
+      {
+        "Minescripts": {
+          "http://minescripts.info": [
+            "minescripts.info",
+            "sslverify.info"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
+        }
+      },
+      {
+        "MineXMR": {
+          "http://minexmr.stream": [
+            "minexmr.stream"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -4340,6 +4406,16 @@
             "navdmp.com",
             "navegg.com"
           ]
+        }
+      },
+      {
+        "NeroHut": {
+          "https://nerohut.com": [
+            "nerohut.com",
+            "nhsrv.cf"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -6314,6 +6390,15 @@
         }
       },
       {
+        "WebminePool": {
+          "http://webminepool.com": [
+            "webminepool.com"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
+        }
+      },
+      {
         "Weborama": {
           "http://weborama.com/": [
             "weborama.com",
@@ -6634,6 +6719,15 @@
           "http://www.zumobi.com/": [
             "zumobi.com"
           ]
+        }
+      },
+      {
+        "zymerget.bid": {
+          "http://zymerget.bid": [
+            "zymerget.bid"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
