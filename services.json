@@ -9011,13 +9011,6 @@
         }
       },
       {
-        "Sputnik.ru": {
-          "http://sputnik.ru": [
-            "stat.sputnik.ru"
-          ]
-        }
-      },
-      {
         "stat4u": {
           "http://stat.4u.pl/": [
             "4u.pl"
