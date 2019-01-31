@@ -2626,13 +2626,6 @@
         }
       },
       {
-        "Evidon": {
-          "http://www.evidon.com/": [
-            "betrad.com"
-          ]
-        }
-      },
-      {
         "Evisions Marketing": {
           "http://www.evisionsmarketing.com/": [
             "engineseeker.com",
@@ -7973,14 +7966,6 @@
         }
       },
       {
-        "AkroseLabs": {
-          "https://www.arkoselabs.com/index.html": [
-            "funcaptcha.com"
-          ],
-          "fingerprinting": "true"
-        }
-      },
-      {
         "Amadesa": {
           "http://www.amadesa.com/": [
             "amadesa.com"
@@ -9015,6 +9000,13 @@
         "Soasta": {
           "https://www.soasta.com": [
             "go-mpulse.net"
+          ]
+        }
+      },
+      {
+        "Sputnik.ru": {
+          "http://sputnik.ru": [
+            "sputnik.ru"
           ]
         }
       },
