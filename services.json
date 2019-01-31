@@ -2021,6 +2021,13 @@
         }
       },
       {
+        "Connexity": {
+          "http://www.connexity.com/": [
+            "pricegrabber.com"
+          ]
+        }
+      },
+      {
         "Consilium Media": {
           "http://www.consiliummedia.com/": [
             "consiliummedia.com"
@@ -2621,8 +2628,7 @@
       {
         "Evidon": {
           "http://www.evidon.com/": [
-            "betrad.com",
-            "evidon.com"
+            "betrad.com"
           ]
         }
       },
@@ -2692,8 +2698,7 @@
         "Experian": {
           "http://www.experian.com/": [
             "audienceiq.com",
-            "experian.com",
-            "pricegrabber.com"
+            "experian.com"
           ]
         }
       },
@@ -6070,6 +6075,13 @@
         }
       },
       {
+        "Turn": {
+          "http://www.turn.com/": [
+            "turn.com"
+          ]
+        }
+      },
+      {
         "Twelvefold": {
           "http://www.twelvefold.com/": [
             "buzzlogic.com",
@@ -7674,13 +7686,6 @@
         }
       },
       {
-        "Turn": {
-          "http://www.turn.com/": [
-            "turn.com"
-          ]
-        }
-      },
-      {
         "TurnTo": {
           "http://www.turntonetworks.com/": [
             "turnto.com",
@@ -9014,6 +9019,13 @@
         }
       },
       {
+        "Sputnik.ru": {
+          "http://sputnik.ru": [
+            "stat.sputnik.ru"
+          ]
+        }
+      },
+      {
         "stat4u": {
           "http://stat.4u.pl/": [
             "4u.pl"
@@ -9309,7 +9321,6 @@
       {
         "Lockerz": {
           "http://lockerz.com/": [
-            "addtoany.com",
             "lockerz.com"
           ]
         }
@@ -9595,7 +9606,8 @@
             "teracent.net",
             "ytsa.net",
             "googletagmanager.com",
-            "adservice.google.com"
+            "adservice.google.com",
+            "adservice.google.ca"
           ]
         }
       },
