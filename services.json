@@ -9413,8 +9413,7 @@
           "http://aster18cdn.nl/": [
             "aster18cdn.nl"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9427,8 +9426,7 @@
             "wsservices.org",
             "bmst.pw"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9436,8 +9434,7 @@
           "http://coinpot.co": [
             "coinpot.co"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9449,7 +9446,6 @@
             "gitgrub.pro",
             "statdynamic.com"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9458,8 +9454,7 @@
           "http://flightzy.date": [
             "flightzy.date"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9468,8 +9463,7 @@
             "adless.io",
             "gridcash.net"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9477,7 +9471,6 @@
           "http://jsecoin.com": [
             "jsecoin.com"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9495,8 +9488,7 @@
             "istlandoll.com",
             "dinorslick.icu"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9505,7 +9497,6 @@
             "minescripts.info",
             "sslverify.info"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9514,7 +9505,6 @@
           "http://minexmr.stream": [
             "minexmr.stream"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9524,7 +9514,6 @@
             "nerohut.com",
             "nhsrv.cf"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9533,8 +9522,7 @@
           "http://sparechange.io": [
             "sparechange.io"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       },
       {
@@ -9542,8 +9530,7 @@
           "https://webmine.cz/": [
             "webmine.cz",
             "authedwebmine.cz"
-          ],
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -9551,7 +9538,6 @@
           "http://webminepool.com": [
             "webminepool.com"
           ],
-          "cryptominer": "true",
           "performance": "true"
         }
       },
@@ -9560,8 +9546,7 @@
           "http://zymerget.bid": [
             "zymerget.bid"
           ],
-          "performance": "true",
-          "cryptominer": "true"
+          "performance": "true"
         }
       }
     ],
