@@ -9520,13 +9520,6 @@
         }
       },
       {
-        "Tealium": {
-          "https://tealium.com/": [
-            "tiqcdn.com"
-          ]
-        }
-      },
-      {
         "USocial": {
           "https://usocial.pro": [
             "usocial.pro"
