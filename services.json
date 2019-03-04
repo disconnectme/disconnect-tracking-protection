@@ -9551,6 +9551,13 @@
         }
       },
       {
+        "CashBeet": {
+          "http://cashbeet.com": [
+            "cashbeet.com"
+          ]
+        }
+      },
+      {
         "CoinHive": {
           "https://coinhive.com": [
             "coinhive.com",
@@ -9558,7 +9565,8 @@
             "cnhv.co",
             "authedmine.com",
             "wsservices.org",
-            "bmst.pw"
+            "bmst.pw",
+            "ad-miner.com"
           ],
           "performance": "true"
         }
@@ -9578,17 +9586,40 @@
             "cryptaloot.pro",
             "webmine.pro",
             "gitgrub.pro",
-            "statdynamic.com"
+            "statdynamic.com",
+            "cryptolootminer.com",
+            "flashx.pw",
+            "reauthenticator.com"
           ],
           "performance": "true"
         }
       },
       {
+        "CryptoWebMiner": {
+          "https://www.crypto-webminer.com": [
+            "crypto-webminer.com",
+            "ethtrader.de",
+            "bitcoin-pay.eu",
+            "ethpocket.de"
+          ]
+        }
+      },
+      {
         "flightzy.date": {
           "http://flightzy.date": [
-            "flightzy.date"
+            "flightzy.date",
+            "flightzy.win",
+            "flightzy.bid"
           ],
           "performance": "true"
+        }
+      },
+      {
+        "Freemine": {
+          "http://freemine.pro": [
+            "freemine.pro",
+            "alflying.date"
+          ]
         }
       },
       {
@@ -9603,7 +9634,14 @@
       {
         "JSE": {
           "http://jsecoin.com": [
-            "jsecoin.com"
+            "jsecoin.com",
+            "hostingcloud.racing",
+            "freecontent.stream",
+            "hostingcloud.science",
+            "hashing.win",
+            "freecontent.bid",
+            "freecontent.date",
+            "flightzy.win"
           ],
           "performance": "true"
         }
@@ -9620,7 +9658,12 @@
             "tulip18.com",
             "mineralt.io",
             "istlandoll.com",
-            "dinorslick.icu"
+            "dinorslick.icu",
+            "istlandoll.com",
+            "vidzi.tv",
+            "1q2w3.website",
+            "yololike.space",
+            "tercabilis.info"
           ],
           "performance": "true"
         }
@@ -9652,11 +9695,25 @@
         }
       },
       {
+        "Service4refresh": {
+          "https://service4refresh.info": [
+            "service4refresh.info"
+          ]
+        }
+      },
+      {
         "SpareChange": {
           "http://sparechange.io": [
             "sparechange.io"
           ],
           "performance": "true"
+        }
+      },
+      {
+        "SwiftMining": {
+          "https://swiftmining.win/": [
+            "swiftmining.win"
+          ]
         }
       },
       {
@@ -9676,9 +9733,19 @@
         }
       },
       {
+        "Webmining": {
+          "https://webmining.co/": [
+            "webmining.co"
+          ]
+        }
+      },
+      {
         "zymerget.bid": {
           "http://zymerget.bid": [
-            "zymerget.bid"
+            "zymerget.bid",
+            "zymerget.faith",
+            "anybest.site",
+            "alflying.win"
           ],
           "performance": "true"
         }
