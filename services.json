@@ -9436,9 +9436,18 @@
     ],
     "Cryptomining": [
       {
-        "aster18cdn.nl": {
-          "http://aster18cdn.nl/": [
-            "aster18cdn.nl"
+        "a.js": {
+          "http://zymerget.bid": [
+            "zymerget.bid",
+            "zymerget.faith",
+            "anybest.site",
+            "alflying.win",
+            "flightsy.bid",
+            "flightsy.win",
+            "alflying.date",
+            "flightzy.date",
+            "flightzy.win",
+            "flightzy.bid"
           ],
           "performance": "true"
         }
@@ -9446,7 +9455,8 @@
       {
         "CashBeet": {
           "http://cashbeet.com": [
-            "cashbeet.com"
+            "cashbeet.com",
+            "serv1swork.com"
           ]
         }
       },
@@ -9498,24 +9508,6 @@
         }
       },
       {
-        "flightzy.date": {
-          "http://flightzy.date": [
-            "flightzy.date",
-            "flightzy.win",
-            "flightzy.bid"
-          ],
-          "performance": "true"
-        }
-      },
-      {
-        "Freemine": {
-          "http://freemine.pro": [
-            "freemine.pro",
-            "alflying.date"
-          ]
-        }
-      },
-      {
         "Gridcash": {
           "https://www.gridcash.net/": [
             "adless.io",
@@ -9554,7 +9546,9 @@
             "vidzi.tv",
             "1q2w3.website",
             "yololike.space",
-            "tercabilis.info"
+            "tercabilis.info",
+            "aster18cdn.nl",
+            "belicimo.pw"
           ],
           "performance": "true"
         }
@@ -9628,17 +9622,6 @@
           "https://webmining.co/": [
             "webmining.co"
           ]
-        }
-      },
-      {
-        "zymerget.bid": {
-          "http://zymerget.bid": [
-            "zymerget.bid",
-            "zymerget.faith",
-            "anybest.site",
-            "alflying.win"
-          ],
-          "performance": "true"
         }
       }
     ],

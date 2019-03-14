@@ -1,18 +1,18 @@
 # Tracker Descriptions
 - [Admicro](#Admicro)
 - [AdScore](#AdScore)
-- [aster18cdn.nl](#aster18cdn.nl)
+- [a.js](#a.js)
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
 - [BlueCava](#BlueCava)
 - [BoostBox](#BoostBox)
 - [C3-Metrics](#C3-Metrics)
+- [CashBeet](#CashBeet)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
 - [DoubleVerify](#DoubleVerify)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
-- [flightzy.date](#flightzy.date)
 - [Foresee](#Foresee)
 - [Gridcash](#Gridcash)
 - [iMedia](#iMedia)
@@ -26,7 +26,6 @@
 - [PerimeterX](#PerimeterX)
 - [SpareChange](#SpareChange)
 - [Webmine](#Webmine)
-- [zymerget.bid](#zymerget.bid)
 ## Admicro
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -109,56 +108,59 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
             }
         }();
 ```
-## aster18cdn.nl
+## a.js
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
-aster18cdn.nl has been identified using the following domains:
-- aster18cdn.nl
-
-Observered on: http://jashanmalgroup.com
+Observered on: http://telecomsource.net
 - CPU utilization
-    - Baseline load: 208.31%
-    - Cryptomining script blocked: 18.84%
+    - Baseline load: 515.77%
+    - Cryptomining script blocked: 14.21%
 
 Raw log:
 ```
 {
     "WhenNotBlocked": {
-        "test_webpage": "http://jashanmalgroup.com",
+        "test_webpage": "http://telecomsource.net",
         "isBlockingMiners": false,
         "miners": [
-            "aster18cdn.nl"
+            "zymerget.bid"
         ],
         "miner_requests": [
-            "https://aster18cdn.nl/bootstrap.min.js"
+            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.empty.html",
+            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.min.js",
+            "https://zymerget.bid/004U7k/w.js"
         ],
         "run_stats": {
-            "cpu": 208.30810351947872,
-            "memory": "543.2 MB"
+            "cpu": 515.7668845315904,
+            "memory": "650.8 MB"
         },
         "workers_created": [
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63",
-            "blob:https://www.jashanmalgroup.com/88ebc6d4-1004-4d9e-846a-fd4feac29b63"
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
+            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae"
         ]
     },
     "WhenBlocked": {
-        "test_webpage": "http://jashanmalgroup.com",
+        "test_webpage": "http://telecomsource.net",
         "isBlockingMiners": true,
         "miners": [
-            "aster18cdn.nl"
+            "zymerget.bid"
         ],
         "miner_requests": [
-            "https://aster18cdn.nl/bootstrap.min.js"
+            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.empty.html"
         ],
         "run_stats": {
-            "cpu": 18.836178861788618,
-            "memory": "470.2 MB"
+            "cpu": 14.214015151515152,
+            "memory": "456.6 MB"
         },
         "workers_created": []
     }
@@ -531,6 +533,45 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 ```
 
 
+## CashBeet
+This service has been classified as `Cryptomining` for the following reasons:
+### Technical Review
+Raw log: 
+```
+{
+    "WhenNotBlocked": {
+        "test_webpage": "http://ilkxeber.info/",
+        "isBlockingMiners": false,
+        "miners": [
+            "cashbeet.com"
+        ],
+        "miner_requests": [
+            "http://cashbeet.com/8252605565b09521.3.n.2.2.l50.js",
+            "https://cashbeet.com/7c93027c-4137-4ad3-a911-53fc51a6ab42/iframe.html"
+        ],
+        "run_stats": {
+            "cpu": 41.32903225806452,
+            "memory": "568.7 MB"
+        },
+        "workers_created": []
+    },
+    "WhenBlocked": {
+        "test_webpage": "http://ilkxeber.info/",
+        "isBlockingMiners": true,
+        "miners": [
+            "cashbeet.com"
+        ],
+        "miner_requests": [
+            "http://cashbeet.com/8252605565b09521.3.n.2.2.l50.js"
+        ],
+        "run_stats": {
+            "cpu": 17.823802294197034,
+            "memory": "486.4 MB"
+        },
+        "workers_created": []
+    }
+}
+```
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -721,62 +762,6 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 1. Eyereturn claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://eyereturnmarketing.com/privacy/`
 
 > Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes
-## flightzy.date
-This service has been classified as `Cryptomining` for the following reasons:
-### Technical Review
-Observered on: http://tartaria.sk
-- CPU utilization
-    - Baseline load: 399.89%
-    - Cryptomining script blocked: 40.49%
-
-Raw log:
-```
-{
-    "WhenNotBlocked": {
-        "test_webpage": "http://tartaria.sk",
-        "isBlockingMiners": false,
-        "miners": [
-            "flightzy.date"
-        ],
-        "miner_requests": [
-            "https://flightzy.date/00oti2/w.js"
-        ],
-        "run_stats": {
-            "cpu": 399.89349206349203,
-            "memory": "748 MB"
-        },
-        "workers_created": [
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492",
-            "blob:https://www.tartaria.sk/7174ef5c-544c-4f17-8c4e-0a6908c1c492"
-        ]
-    },
-    "WhenBlocked": {
-        "test_webpage": "http://tartaria.sk",
-        "isBlockingMiners": true,
-        "miners": [
-            "flightzy.date"
-        ],
-        "miner_requests": [
-            "https://flightzy.date/00oti2/w.js"
-        ],
-        "run_stats": {
-            "cpu": 40.48730972351661,
-            "memory": "597.9 MB"
-        },
-        "workers_created": []
-    }
-}
-```
 ## Foresee
 This service has been classified as `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1538,61 +1523,3 @@ var CryptonightWASMWrapper = function() {
 };
 ```
 
-## zymerget.bid
-This service has been classified as `Cryptomining` for the following reasons:
-### Technical Review
-Observered on: http://telecomsource.net
-- CPU utilization
-    - Baseline load: 515.77%
-    - Cryptomining script blocked: 14.21%
-
-Raw log:
-```
-{
-    "WhenNotBlocked": {
-        "test_webpage": "http://telecomsource.net",
-        "isBlockingMiners": false,
-        "miners": [
-            "zymerget.bid"
-        ],
-        "miner_requests": [
-            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.empty.html",
-            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.min.js",
-            "https://zymerget.bid/004U7k/w.js"
-        ],
-        "run_stats": {
-            "cpu": 515.7668845315904,
-            "memory": "650.8 MB"
-        },
-        "workers_created": [
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae",
-            "blob:https://zymerget.bid/41cbf39d-34eb-4514-aa6a-e1f6359aa5ae"
-        ]
-    },
-    "WhenBlocked": {
-        "test_webpage": "http://telecomsource.net",
-        "isBlockingMiners": true,
-        "miners": [
-            "zymerget.bid"
-        ],
-        "miner_requests": [
-            "https://zymerget.bid/004U7k/WyJOaWNvbGw4MDMiLDQsMC40LDAsIjEwMCUiXQ.xab7rZEvIDAC1wkHggEujSmVWlg.empty.html"
-        ],
-        "run_stats": {
-            "cpu": 14.214015151515152,
-            "memory": "456.6 MB"
-        },
-        "workers_created": []
-    }
-}
-```

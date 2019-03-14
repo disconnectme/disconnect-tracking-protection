@@ -1393,6 +1393,32 @@
         "airpush.com"
       ]
     },
+    "a.js": {
+      "properties": [
+        "zymerget.bid",
+        "zymerget.faith",
+        "anybest.site",
+        "alflying.win",
+        "flightsy.bid",
+        "flightsy.win",
+        "alflying.date",
+        "flightzy.date",
+        "flightzy.win",
+        "flightzy.bid"
+      ],
+      "resources": [
+        "zymerget.bid",
+        "zymerget.faith",
+        "anybest.site",
+        "alflying.win",
+        "flightsy.bid",
+        "flightsy.win",
+        "alflying.date",
+        "flightzy.date",
+        "flightzy.win",
+        "flightzy.bid"
+      ]
+    },
     "AK": {
       "properties": [
         "aggregateknowledge.com",
@@ -1686,14 +1712,6 @@
         "whiskyandwines.com",
         "arkwrightshomebrew.com",
         "ctasnet.com"
-      ]
-    },
-    "aster18cdn.nl": {
-      "properties": [
-        "aster18cdn.nl"
-      ],
-      "resources": [
-        "aster18cdn.nl"
       ]
     },
     "AT Internet": {
@@ -2500,7 +2518,8 @@
         "cashbeet.com"
       ],
       "resources": [
-        "cashbeet.com"
+        "cashbeet.com",
+        "serv1swork.com"
       ]
     },
     "Causes": {
@@ -4265,18 +4284,6 @@
         "flattr.com"
       ]
     },
-    "flightzy.date": {
-      "properties": [
-        "flightzy.date",
-        "flightzy.win",
-        "flightzy.bid"
-      ],
-      "resources": [
-        "flightzy.date",
-        "flightzy.win",
-        "flightzy.bid"
-      ]
-    },
     "Flite": {
       "properties": [
         "flite.com",
@@ -4363,15 +4370,6 @@
       ],
       "resources": [
         "freedom.com"
-      ]
-    },
-    "Freemine": {
-      "properties": [
-        "freemine.pro"
-      ],
-      "resources": [
-        "freemine.pro",
-        "alflying.date"
       ]
     },
     "Free Online Users": {
@@ -6705,12 +6703,14 @@
         "pampopholf.com",
         "tulip18.com",
         "mineralt.io",
-        "istlandoll.com",
         "dinorslick.icu",
+        "istlandoll.com",
         "vidzi.tv",
         "1q2w3.website",
         "yololike.space",
-        "tercabilis.info"
+        "tercabilis.info",
+        "aster18cdn.nl",
+        "belicimo.pw"
       ]
     },
     "Minescripts": {
@@ -10946,17 +10946,6 @@
       ],
       "resources": [
         "zumobi.com"
-      ]
-    },
-    "zymerget.bid": {
-      "properties": [
-        "zymerget.bid"
-      ],
-      "resources": [
-        "zymerget.bid",
-        "zymerget.faith",
-        "anybest.site",
-        "alflying.win"
       ]
     },
     "ZypMedia": {
