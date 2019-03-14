@@ -3709,6 +3709,13 @@
         }
       },
       {
+        "Localytics": {
+          "https://www.localytics.com/": [
+            "localytics.com"
+          ]
+        }
+      },
+      {
         "LockerDome": {
           "https://lockerdome.com/": [
             "lockerdome.com"
@@ -4666,6 +4673,13 @@
         "Performancing": {
           "http://performancing.com/": [
             "performancing.com"
+          ]
+        }
+      },
+      {
+        "PerimeterX": {
+          "https://www.perimeterx.com": [
+            "perimeterx.net"
           ]
         }
       },
