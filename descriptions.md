@@ -584,6 +584,7 @@ Script: `http://supplier.clickyab.com/api/multi.js`
 
 ```
 swfContainerId:"fingerprintjs2"
+```
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
