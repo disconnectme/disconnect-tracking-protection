@@ -8,6 +8,7 @@
 - [BoostBox](#BoostBox)
 - [C3-Metrics](#C3-Metrics)
 - [CashBeet](#CashBeet)
+- [Clickayab](#Clickayab)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
@@ -17,6 +18,7 @@
 - [Gridcash](#Gridcash)
 - [iMedia](#iMedia)
 - [JSE](#JSE)
+- [lptracker](#lptracker)
 - [MediaMath](#MediaMath)
 - [MinerAlt](#MinerAlt)
 - [Minescripts](#Minescripts)
@@ -25,6 +27,8 @@
 - [OnlineMetrix](#OnlineMetrix)
 - [PerimeterX](#PerimeterX)
 - [SpareChange](#SpareChange)
+- [Upland](#Upland)
+- [ViralLoops](#ViralLoops)
 - [Webmine](#Webmine)
 ## Admicro
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -572,6 +576,14 @@ Raw log:
     }
 }
 ```
+## Clickayab
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `http://supplier.clickyab.com/api/multi.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+
+```
+swfContainerId:"fingerprintjs2"
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -965,6 +977,16 @@ This service has been classified as `Cryptomining` for the following reasons:
       } else {
 ```
 
+## lptracker
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2215e8-dirty`
+1. Script embeds on open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+
+2. Sends fingerprint to tracking company, `https://stats.lptracker.io/track`
+```
+{"site_id":62106,"fingerprint_hash":"XXXXXXXXXXX","version":"2.20.0-312-g9dbe2215e8-dirty","page":"https://green-game.ru/","domain":"green-game.ru","referer":"https://green-game.ru/"}: 
+   ```
 ## MediaMath
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1491,6 +1513,140 @@ function Miner(spareChangeApiKey, p1, p2) {
 }
 ```
 
+## Upland
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://t.sf14g.com/sf14g.js`
+1. Generates fingerprint based on plugins, fonts, canvas, etc:
+
+```
+jsFnt: function (keys, done) {
+            return setTimeout(function () {
+                var baseFonts = ['monospace', 'sans-serif', 'serif'],
+                    fontList = [
+                        'Andale Mono', 'Arial', 'Arial Black', 'Arial Hebrew', 'Arial MT', 'Arial Narrow', 'Arial Rounded MT Bold', 'Arial Unicode MS',
+                        'Bitstream Vera Sans Mono', 'Book Antiqua', 'Bookman Old Style',
+                        'Calibri', 'Cambria', 'Cambria Math', 'Century', 'Century Gothic', 'Century Schoolbook', 'Comic Sans', 'Comic Sans MS', 'Consolas', 'Courier', 'Courier New',
+                        'Geneva', 'Georgia',
+                        'Helvetica', 'Helvetica Neue',
+                        'Impact',
+                        'Lucida Bright', 'Lucida Calligraphy', 'Lucida Console', 'Lucida Fax', 'LUCIDA GRANDE', 'Lucida Handwriting', 'Lucida Sans', 'Lucida Sans Typewriter', 'Lucida Sans Unicode',
+                        'Microsoft Sans Serif', 'Monaco', 'Monotype Corsiva', 'MS Gothic', 'MS Outlook', 'MS PGothic', 'MS Reference Sans Serif', 'MS Sans Serif', 'MS Serif', 'MYRIAD', 'MYRIAD PRO',
+                        'Palatino', 'Palatino Linotype',
+                        'Segoe Print', 'Segoe Script', 'Segoe UI', 'Segoe UI Light', 'Segoe UI Semibold', 'Segoe UI Symbol',
+                        'Tahoma', 'Times', 'Times New Roman', 'Times New Roman PS', 'Trebuchet MS',
+                        'Verdana', 'Wingdings', 'Wingdings 2', 'Wingdings 3'
+                    ], testString = 'mmmmmmmmmmlli', testSize = '72px', h = document.getElementsByTagName('body')[0],
+                    baseFontsDiv = document.createElement('div'), fontsDiv = document.createElement('div'), defaultWidth = {},
+                    defaultHeight = {};
+```
+```
+getRegularPlugins: function () {
+            var plugins = [];
+            if (navigator.plugins) {
+                for (var i = 0, l = navigator.plugins.length; i < l; i++) {
+                    if (navigator.plugins[i]) { plugins.push(navigator.plugins[i]); }
+                }
+            }
+            if (this.pluginsShouldBeSorted()) {
+                plugins = plugins.sort(function (a, b) {
+                    if (a.name > b.name) { return 1; }
+                    if (a.name < b.name) { return -1; }
+                    return 0;
+                });
+            }
+            return this.map(plugins, function (p) {
+                var mimeTypes = this.map(p, function (mt) {
+                    return [mt.type, mt.suffixes].join('~');
+                }).join(',');
+                return [p.name, p.description, mimeTypes].join('::');
+            }, this);
+        }
+```
+```
+getCanvasFp: function () {
+            var result = [];
+
+            var canvas = document.createElement('canvas');
+            canvas.width = 2000;
+            canvas.height = 200;
+            canvas.style.display = 'inline';
+
+            var ctx = canvas.getContext('2d');
+            ctx.rect(0, 0, 10, 10);
+            ctx.rect(2, 2, 6, 6);
+            result.push('canvas winding:' + ((ctx.isPointInPath(5, 5, 'evenodd') === false) ? 'yes' : 'no'));
+
+            ctx.textBaseline = 'alphabetic';
+            ctx.fillStyle = '#f60';
+            ctx.fillRect(125, 1, 62, 20);
+            ctx.fillStyle = '#069';
+            ctx.font = '11pt no-real-font-123';
+            ctx.fillText('Cwm fjordbank glyphs vext quiz, \ud83d\ude03', 2, 15);
+            ctx.fillStyle = 'rgba(102, 204, 0, 0.2)';
+            ctx.font = '18pt Arial';
+            ctx.fillText('Cwm fjordbank glyphs vext quiz, \ud83d\ude03', 4, 45);
+            ctx.globalCompositeOperation = 'multiply';
+            ctx.fillStyle = 'rgb(255,0,255)';
+            ctx.beginPath();
+            ctx.arc(50, 50, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = 'rgb(0,255,255)';
+            ctx.beginPath();
+            ctx.arc(100, 50, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = 'rgb(255,255,0)';
+            ctx.beginPath();
+            ctx.arc(75, 100, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = 'rgb(255,0,255)';
+            ctx.arc(75, 75, 75, 0, Math.PI * 2, true);
+            ctx.arc(75, 75, 25, 0, Math.PI * 2, true);
+            ctx.fill('evenodd');
+
+            if (canvas.toDataURL) {
+                result.push('canvas fp:' + canvas.toDataURL());
+            }
+            return result.join('~');
+        }
+```
+2. Sends fingerprint to tracking company:
+```
+ setTimeout(function () {
+        Llfp().get(function (fp, components) {
+            llfp = fp; // for forms scripts
+            //console.log(fp);
+            var trackingEndpointUrl = 'https://tracking.leadlander.com/api/tracking',
+                pageHit = {
+                    accountId: window.sf14gv !== undefined ? sf14gv : window.tl813v !== undefined ? tl813v : llactid, //sf14gv is passed from user code; this is for legacy compatablity.
+                    page: location.href,
+                    referer: document.referrer || '',
+                    fp: fp
+                }, serialize = function (obj) {
+                    var str = [];
+                    for (var p in obj)
+                        if (obj.hasOwnProperty(p)) {
+                            str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+                        }
+                    return str.join("&");
+                };
+            var image = new Image();
+            image.src = trackingEndpointUrl + '?' + serialize(pageHit);
+        });
+    }, 75);
+   ```
+## ViralLoops
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+
+```
+swfContainerId:"fingerprintjs2"
+```
 ## Webmine
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review

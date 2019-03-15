@@ -1830,6 +1830,13 @@
         }
       },
       {
+        "Clickayab": {
+          "http://www.clickyab.com": [
+            "clickyab.com"
+          ]
+        }
+      },
+      {
         "Clickbooth": {
           "http://www.clickbooth.com/": [
             "clickbooth.com",
@@ -3610,14 +3617,6 @@
         }
       },
       {
-        "LeadLander": {
-          "http://www.leadlander.com/": [
-            "leadlander.com",
-            "trackalyzer.com"
-          ]
-        }
-      },
-      {
         "Legolas Media": {
           "http://www.legolas-media.com/": [
             "legolas-media.com"
@@ -3748,6 +3747,13 @@
         "Lower My Bills": {
           "http://lowermybills.com": [
             "lowermybills.com"
+          ]
+        }
+      },
+      {
+        "lptracker": {
+          "https://lptracker.io/": [
+            "lptracker.io"
           ]
         }
       },
@@ -6047,6 +6053,14 @@
         }
       },
       {
+        "Upland": {
+          "https://uplandsoftware.com/": [
+            "leadlander.com",
+            "trackalyzer.com"
+          ]
+        }
+      },
+      {
         "up-value": {
           "http://www.up-value.de/": [
             "up-value.de"
@@ -6166,6 +6180,13 @@
         "VigLink": {
           "http://www.viglink.com/": [
             "viglink.com"
+          ]
+        }
+      },
+      {
+        "ViralLoops": {
+          "https://viral-loops.com": [
+            "viral-loops.com"
           ]
         }
       },
@@ -9276,6 +9297,13 @@
         }
       },
       {
+        "Clickayab": {
+          "http://www.clickyab.com": [
+            "clickyab.com"
+          ]
+        }
+      },
+      {
         "Consumable": {
           "http://consumable.com/": [
             "consumable.com"
@@ -9330,6 +9358,13 @@
         "justuno": {
           "https://www.justuno.com/": [
             "justuno.com"
+          ]
+        }
+      },
+      {
+        "lptracker": {
+          "https://lptracker.io/": [
+            "lptracker.io"
           ]
         }
       },
@@ -9420,9 +9455,24 @@
         }
       },
       {
+        "Upland": {
+          "https://uplandsoftware.com/": [
+            "sf14g.com",
+            "leadlander.com"
+          ]
+        }
+      },
+      {
         "USocial": {
           "https://usocial.pro": [
             "usocial.pro"
+          ]
+        }
+      },
+      {
+        "ViralLoops": {
+          "https://viral-loops.com": [
+            "viral-loops.com"
           ]
         }
       },
