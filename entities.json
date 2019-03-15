@@ -3765,8 +3765,7 @@
         "eff.org",
         "trackersimulator.org",
         "eviltracker.net",
-        "do-not-tracker.org",
-        "itisatracker.com"
+        "do-not-tracker.org"
       ]
     },
     "Effective Measure": {
@@ -5598,6 +5597,14 @@
       "resources": [
         "digbro.com",
         "adversalservers.com"
+      ]
+    },
+    "ItIsATracker": {
+      "properties": [
+        "itisatracker.com"
+      ],
+      "resources": [
+        "itisatracker.com"
       ]
     },
     "I.UA": {

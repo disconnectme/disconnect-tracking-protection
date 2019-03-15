@@ -8135,8 +8135,7 @@
           "https://www.eff.org/": [
             "trackersimulator.org",
             "eviltracker.net",
-            "do-not-tracker.org",
-            "itisatracker.com"
+            "do-not-tracker.org"
           ]
         }
       },
@@ -8388,6 +8387,14 @@
           "http://www.iperceptions.com/": [
             "iperceptions.com"
           ]
+        }
+      },
+      {
+        "ItIsATracker": {
+          "https://itisatracker.com/": [
+            "itisatracker.com"
+          ],
+          "dnt": "eff"
         }
       },
       {
