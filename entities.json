@@ -641,6 +641,16 @@
         "admatrix.jp"
       ]
     },
+    "AdMaven": {
+      "properties": [
+        "ad-maven.com"
+      ],
+      "resources": [
+        "rensovetors.info",
+        "boudja.com",
+        "ad-maven.com"
+      ]
+    },
     "AdMaximizer Network": {
       "properties": [
         "admaximizer.com"
@@ -2275,7 +2285,8 @@
         "brightedge.com"
       ],
       "resources": [
-        "brightedge.com"
+        "brightedge.com",
+        "b0e8.com"
       ]
     },
     "BrightRoll": {
@@ -4207,6 +4218,14 @@
         "faithadnet.com"
       ]
     },
+    "Fanplayr": {
+      "properties": [
+        "fanplayr.com"
+      ],
+      "resources": [
+        "fanplayr.com"
+      ]
+    },
     "Fathom": {
       "properties": [
         "fathomdelivers.com",
@@ -4626,6 +4645,14 @@
       "resources": [
         "glammedia.com",
         "glam.com"
+      ]
+    },
+    "Gleam": {
+      "properties": [
+        "gleam.io"
+      ],
+      "resources": [
+        "gleam.io"
       ]
     },
     "Global Takeoff": {
@@ -7970,6 +7997,14 @@
         "dashboardad.net"
       ]
     },
+    "PrismApp": {
+      "properties": [
+        "prismapp.io"
+      ],
+      "resources": [
+        "prismapp.io"
+      ]
+    },
     "Proclivity": {
       "properties": [
         "proclivitysystems.com",
@@ -8549,6 +8584,15 @@
       "resources": [
         "samurai-factory.jp",
         "shinobi.jp"
+      ]
+    },
+    "SAP": {
+      "properties": [
+        "sap.com"
+      ],
+      "resources": [
+        "sap.com",
+        "seewhy.com"
       ]
     },
     "Sapient": {

@@ -483,6 +483,15 @@
         }
       },
       {
+        "AdMaven": {
+          "https://ad-maven.com/": [
+            "rensovetors.info",
+            "boudja.com",
+            "ad-maven.com"
+          ]
+        }
+      },
+      {
         "AdMaximizer Network": {
           "http://admaximizer.com/": [
             "admaximizer.com"
@@ -2743,6 +2752,13 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Fathom": {
           "http://www.fathomdelivers.com/": [
             "fathomdelivers.com",
@@ -2980,6 +2996,13 @@
           "http://www.glammedia.com/": [
             "glam.com",
             "glammedia.com"
+          ]
+        }
+      },
+      {
+        "Gleam": {
+          "https://gleam.io/": [
+            "gleam.io"
           ]
         }
       },
@@ -4856,6 +4879,13 @@
         }
       },
       {
+        "PrismApp": {
+          "https://www.prismapp.io/": [
+            "prismapp.io"
+          ]
+        }
+      },
+      {
         "Proclivity": {
           "http://www.proclivitymedia.com/": [
             "proclivitymedia.com",
@@ -5233,6 +5263,13 @@
           "http://www.samurai-factory.jp/": [
             "samurai-factory.jp",
             "shinobi.jp"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "seewhy.com"
           ]
         }
       },
@@ -7949,7 +7986,8 @@
       {
         "BrightEdge": {
           "http://www.brightedge.com/": [
-            "brightedge.com"
+            "brightedge.com",
+            "b0e8.com"
           ]
         }
       },
@@ -9243,6 +9281,15 @@
     ],
     "Fingerprinting": [
       {
+        "AdMaven": {
+          "https://ad-maven.com/": [
+            "rensovetors.info",
+            "boudja.com",
+            "ad-maven.com"
+          ]
+        }
+      },
+      {
         "Admicro": {
           "http://www.admicro.vn/": [
             "admicro.vn",
@@ -9295,6 +9342,13 @@
         }
       },
       {
+        "BrightEdge": {
+          "http://www.brightedge.com/": [
+            "b0e8.com"
+          ]
+        }
+      },
+      {
         "C3 Metrics": {
           "http://c3metrics.com/": [
             "attributionmodel.com",
@@ -9340,10 +9394,24 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Foresee": {
           "https://www.foresee.com": [
             "answerscloud.com",
             "foresee.com"
+          ]
+        }
+      },
+      {
+        "Gleam": {
+          "https://gleam.io/": [
+            "gleam.io"
           ]
         }
       },
@@ -9422,6 +9490,20 @@
         "Pixlee": {
           "https://www.pixlee.com/": [
             "pixlee.com"
+          ]
+        }
+      },
+      {
+        "PrismApp": {
+          "https://www.prismapp.io/": [
+            "prismapp.io"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "seewhy.com"
           ]
         }
       },

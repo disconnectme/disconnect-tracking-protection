@@ -1,4 +1,5 @@
 # Tracker Descriptions
+- [AdMaven](#AdMaven)
 - [Admicro](#Admicro)
 - [AdScore](#AdScore)
 - [a.js](#a.js)
@@ -6,6 +7,7 @@
 - [Augur](#Augur)
 - [BlueCava](#BlueCava)
 - [BoostBox](#BoostBox)
+- [BrightEdge](#BrightEdge)
 - [C3-Metrics](#C3-Metrics)
 - [CashBeet](#CashBeet)
 - [Clickayab](#Clickayab)
@@ -14,7 +16,9 @@
 - [CryptoLoot](#CryptoLoot)
 - [DoubleVerify](#DoubleVerify)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
+- [Fanplayr](#Fanplayr)
 - [Foresee](#Foresee)
+- [Gleam](#Gleam)
 - [Gridcash](#Gridcash)
 - [iMedia](#iMedia)
 - [JSE](#JSE)
@@ -26,10 +30,32 @@
 - [NeroHut](#NeroHut)
 - [OnlineMetrix](#OnlineMetrix)
 - [PerimeterX](#PerimeterX)
+- [PrismApp](#PrismApp)
+- [SAP](#SAP)
 - [SpareChange](#SpareChange)
 - [Upland](#Upland)
 - [ViralLoops](#ViralLoops)
 - [Webmine](#Webmine)
+## AdMaven
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+            wa.T(va, function() {
+                try {
+                    var a = new window.Fingerprint2.FP2Options;
+                    a.exclude.PixelRatio = !0;
+                    a.exclude.AdBlock = !0;
+                    a.extendedJsFonts = !0;
+                    (new window.Fingerprint2(a)).get()
+                } catch (b) {
+                    J(B.m,
+                        "fp2: " + b)
+                }
+            })
+
+```
 ## Admicro
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -489,6 +515,43 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
       return ret;
     }
 ```
+## BrightEdge
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://cdn.b0e8.com/conv_v3.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+var audioTimeoutId$jscomp$0 = setTimeout(function() {
+       console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".');
+       /**
+        * @return {undefined}
+        */
+       context$jscomp$0.oncomplete = function() {
+       };
+       /** @type {null} */
+       context$jscomp$0 = null;
+       return done$jscomp$1("audioTimeout");
+     }
+
+```
+2. Fingerprint is then sent to to BrightEdge:
+```
+ var _bright3 = new Object({
+   C_NAME : "BE_CLA3",
+   BE_URL : "a.b0e8.com/brightedge3.php",
+   BE_SURL : "a.b0e8.com/brightedge3.php",
+   IX_CONTENTS_HOSTNAME : "ix-contents.brightedge.com",
+   IX_CONTENTS_STAGING_HOSTNAME : "ixl-nginx1-001.gcp.staging.brightedge.com",
+   IX_STAGING_EXTERNAL_HOSTNAMES : /(ix-testing.brightedge.com)|(valuemyweb.com)/g,
+   IX_STAGING_INTERNAL_HOSTNAMES : /(-staging.brightedge.com)/g,
+   IX_TRUNCATE_HEADLINE_CHAR_COUNT : 100,
+   IX_TRUNCATE_DESC_CHAR_COUNT : 200,
+   TIMEOUT : 100 * 12 * 31 * 24 * 60 * 60 * 1E3,
+   S_TIMEOUT : 30 * 60 * 1E3,
+   VERSION : "3.39",
+
+```
+
 ## C3 Metrics
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -775,6 +838,34 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 1. Eyereturn claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://eyereturnmarketing.com/privacy/`
 
 > Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes
+## Fanplayr
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releases/1.56.0/platform.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+
+```
+                cpuClassKey: function(a) {
+                    return this.options.excludeCpuClass || a.push(this.getNavigatorCpuClass()), a
+                },
+                platformKey: function(a) {
+                    return this.options.excludePlatform || a.push(this.getNavigatorPlatform()), a
+                },
+                doNotTrackKey: function(a) {
+                    return this.options.excludeDoNotTrack || a.push(this.getDoNotTrack()), a
+                },
+                canvasKey: function(a) {
+                    return !this.options.excludeCanvas && this.isCanvasSupported() && a.push(this.getCanvasFp()), a
+                },
+                webglKey: function(a) {
+                    return !this.options.excludeWebGL && this.isCanvasSupported() && a.push(this.getWebglFp()), a
+                },
+                pluginsKey: function(a) {
+                    return this.isIE() ? a.push(this.getIEPluginsString()) : a.push(this.getRegularPluginsString()), a
+                },
+
+```
+2. Script then sends fingerprint to Fanplayer server
 ## Foresee
 This service has been classified as `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -856,6 +947,41 @@ This service has been classified as `Fingerprinting` for the following reasons:
   };
   /** @type {function(string): undefined} */
   self.Fingerprint = Binder;
+```
+
+## Gleam
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://js.gleam.io/assets/w-a08f4344eff99f85d18b1274a8789282a47d9e81d80d2fec172019c7e5fab781.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+/*
+* Fingerprintjs2 2.0.5 - Modern & flexible browser fingerprint library v2
+* https://github.com/Valve/fingerprintjs2
+* Copyright (c) 2015 Valentin Vasilyev (valentin.vasilyev@outlook.com)
+* Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
+*
+* THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+* AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+* IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+* ARE DISCLAIMED. IN NO EVENT SHALL VALENTIN VASILYEV BE LIABLE FOR ANY
+* DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+* (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+* ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+* (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+* THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
+
+```
+2. Fingerprint is then stored to be transmitted with subsequent requests
+```
+if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http({
+                    url: "/" + campaignService.campaign.key + "/" + this.entry_method.id + "/claim",
+                    params: {
+                        fingerprint: fingerprintService.hash($scope.fingerprint)
+                    }
+                })
 ```
 
 ## Gridcash
@@ -1468,6 +1594,165 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
+## PrismApp
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://prismapp-files.s3.amazonaws.com/widget/prism.js?v2`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+var Fingerprint2 = PRISM_require("fingerprintjs2")
+```
+
+```
+                        getCanvasFp: function() {
+                            var e = [],
+                                t = document.createElement("canvas");
+                            t.width = 2e3, t.height = 200, t.style.display = "inline";
+                            var i = t.getContext("2d");
+                            return i.rect(0, 0, 10, 10), i.rect(2, 2, 6, 6), e.push("canvas winding:" + (i.isPointInPath(5, 5, "evenodd") === !1 ? "yes" : "no")), i.textBaseline = "alphabetic", i.fillStyle = "#f60", i.fillRect(125, 1, 62, 20), i.fillStyle = "#069", this.options.dontUseFakeFontInCanvas ? i.font = "11pt Arial" : i.font = "11pt no-real-font-123", i.fillText("Cwm fjordbank glyphs vext quiz, ðŸ˜ƒ", 2, 15), i.fillStyle = "rgba(102, 204, 0, 0.2)", i.font = "18pt Arial", i.fillText("Cwm fjordbank glyphs vext quiz, ðŸ˜ƒ", 4, 45), i.globalCompositeOperation = "multiply", i.fillStyle = "rgb(255,0,255)", i.beginPath(), i.arc(50, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(0,255,255)", i.beginPath(), i.arc(100, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,255,0)", i.beginPath(), i.arc(75, 100, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,0,255)", i.arc(75, 75, 75, 0, 2 * Math.PI, !0), i.arc(75, 75, 25, 0, 2 * Math.PI, !0), i.fill("evenodd"), e.push("canvas fp:" + t.toDataURL()), e.join("~")
+                        },
+
+```
+2. Fingerprint is then sent to api.prismapp.io:
+```
+BRUNCH_ENV: "production",
+            API_ENDPOINT: "https://api.prismapp.io",
+
+```
+```
+                    var context = this,
+                        payload = {
+                            device_id: context.shamu.analytics.fingerprint,
+                            conversation_id: msgObj.conversation_id,
+                            message_id: msgObj.id,
+                            channel: context.shamu.config.visitor.channel_name
+                        };
+                    api.post("/v2/metrics/messages", payload, function() {
+                        setTimeout(function() {
+                            context.feedMessage({}, msgObj)
+                        }, util.exponentialBackoff())
+                    }, function(response, xhr) {
+                        util.resetExponentialBackoff()
+                    })
+
+```
+
+## SAP
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD36293095`
+1. Script gathers several device characteristics to generate a fingerprint:
+```
+			cy.control.cySetUserDefined("DEVICEIDENTITYDONOTTRACK",navigator.doNotTrack);
+			cy.control.cySetUserDefined("DEVICEIDENTITYTIMEZONEOFFSET",String(new Date().getTimezoneOffset()));
+			cy.control.cySetUserDefined("DEVICEIDENTITYSTATIC",murmurhash3_32_gc((navigator.language + String(Math.pow (2, window.screen.colorDepth)) + screen.width + "&times;" + screen.height + sessionStorageCheck + indexedDBCheck + openDatabaseCheck + navigator.cpuClass + navigator.platform), cy_s));
+			cy.control.cySetUserDefined("DEVICEIDENTITYUSERAGENT",murmurhash3_32_gc(navigator.userAgent.replace(/[0-9]/g, ''), cy_s));
+			cy.control.cySetUserDefined("DEVICEIDENTITYCANVAS",murmurhash3_32_gc(getCanvasFingerPrint(), cy_s));
+			cy.control.cySetUserDefined("DEVICEIDENTITYBROWSERPLUGINS",cy_d3h);		
+			
+
+```
+2. Then script sends device properties to seewhy.com: 
+```
+cy.control._getBaseURL = function(/* optional */ res)
+{
+	var resource="seewhy.gif";
+	if (res)
+	{
+		resource = res;
+	}
+        var uidtest;
+	var protocol;
+	var port;
+	var swd='abandonment6.saas.seewhy.com';
+	var path='/abandonment2/WE/' +resource;
+	var ssl = window.location.protocol.toLowerCase().indexOf('https') >= 0;
+	if (ssl)
+	{
+		protocol='https';
+		port=443;
+	}
+	else
+	{
+		cy.control._cyConvertCYPropertyNamesToUpperCase();
+		uidtest=(cy.USERID==undefined) ? -1 : cy.USERID.length;
+
+		if (uidtest>0)
+		{
+			protocol='https';
+			port=443;
+		}
+		else
+		{
+			protocol='http';
+			port=80;
+		}
+
+
+	}
+	var swi = protocol+'://'+swd+':'+port+path;
+	var rn = Math.random();
+
+	return swi+"/"+rn;
+}
+
+```
+```
+function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* optional */ ocy, /* optional */ cysetter)
+{
+	var block = false;
+	if (isBlocking && typeof(isBlocking) == "boolean")
+	{
+		block = isBlocking;
+	}
+
+	try
+	{
+		cy.control._cySetCYProperties(ocy, cysetter);
+
+		if (block === true)
+		{
+			src = cy.control._cyGetElementSrc("seewhy.js");
+
+			// Doing a document.write requires that it be done before the page has finished loading (otherwise we will completely
+			// overwrite the page with the output of the document.write call).
+
+			if (document.readyState)
+			{
+				if (document.readyState != "complete")
+				{
+					document.write('<script type="text/javascript" src="',src,'"><\/script>');
+				}
+			}
+			else
+			{
+				document.write('<script type="text/javascript" src="',src,'"><\/script>');
+			}
+		}
+		else
+		{
+			var cy_image = cy.control._cyCreateImage(false);
+
+			cy_image.src = cy.control._cyGetElementSrc("seewhy.nogif");
+			
+			cy_image.style.cssText = 'display:none;'; 
+		}
+
+		var delay = false;
+		if (doDelay && typeof(doDelay) == "boolean")
+		{
+			delay = doDelay;
+		}
+
+		if (delay === true)
+		{
+			cy.control._cyWait(cy.control._cyGetWaitDuration());
+		}
+	}
+	catch(err){}
+}
+
+``` 
 ## SpareChange
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
