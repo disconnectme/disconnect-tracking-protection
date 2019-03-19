@@ -1375,6 +1375,14 @@
         }
       },
       {
+        "Azet": {
+          "http://mediaimpact.sk/": [
+            "rsz.sk",
+            "azetklik.sk"
+          ]
+        }
+      },
+      {
         "BackBeat Media": {
           "http://www.backbeatmedia.com/": [
             "backbeatmedia.com"
@@ -1865,6 +1873,13 @@
           "http://www.clickdistrict.com/": [
             "clickdistrict.com",
             "creative-serving.com"
+          ]
+        }
+      },
+      {
+        "ClickFrog": {
+          "https://clickfrog.ru/": [
+            "clickfrog.ru"
           ]
         }
       },
@@ -4728,6 +4743,13 @@
         }
       },
       {
+        "PinPoll": {
+          "https://pinpoll.com/": [
+            "pinpoll.com"
+          ]
+        }
+      },
+      {
         "Pixel.sg": {
           "http://www.pixel.sg/": [
             "pixel.sg"
@@ -4837,6 +4859,13 @@
         }
       },
       {
+        "PPCProtect": {
+          "https://ppcprotect.com": [
+            "ppcprotect.com"
+          ]
+        }
+      },
+      {
         "PrecisionClick": {
           "http://www.precisionclick.com/": [
             "precisionclick.com"
@@ -4898,6 +4927,13 @@
         "Project Wonderful": {
           "http://www.projectwonderful.com/": [
             "projectwonderful.com"
+          ]
+        }
+      },
+      {
+        "PrometheusIntelligenceTechnology": {
+          "https://prometheusintelligencetechnology.com/": [
+            "prometheusintelligencetechnology.com"
           ]
         }
       },
@@ -6563,6 +6599,15 @@
           "http://www.yume.com/": [
             "yume.com",
             "yumenetworks.com"
+          ]
+        }
+      },
+      {
+        "ZafulAffiliate": {
+          "https://affiliate.zaful.com/": [
+            "zaful.com",
+            "gw-ec.com",
+            "affasi.com"
           ]
         }
       },
@@ -9328,6 +9373,14 @@
         }
       },
       {
+        "Azet": {
+          "http://mediaimpact.sk/": [
+            "rsz.sk",
+            "azetklik.sk"
+          ]
+        }
+      },
+      {
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
@@ -9361,6 +9414,18 @@
         "Clickayab": {
           "http://www.clickyab.com": [
             "clickyab.com"
+          ]
+        }
+      },
+      {
+        "ClickFrog": {
+          "https://clickfrog.ru/": [
+            "quitzon.net",
+            "bashirian.biz",
+            "franecki.net",
+            "buckridge.link",
+            "wisokykulas.bid",
+            "reichelcormier.bid"
           ]
         }
       },
@@ -9480,6 +9545,13 @@
         }
       },
       {
+        "PinPoll": {
+          "https://pinpoll.com/": [
+            "pinpoll.com"
+          ]
+        }
+      },
+      {
         "PixAnalytics": {
           "https://pixanalytics.com/": [
             "pixanalytics.com"
@@ -9494,9 +9566,23 @@
         }
       },
       {
+        "PPCProtect": {
+          "https://ppcprotect.com": [
+            "ppcprotect.com"
+          ]
+        }
+      },
+      {
         "PrismApp": {
           "https://www.prismapp.io/": [
             "prismapp.io"
+          ]
+        }
+      },
+      {
+        "PrometheusIntelligenceTechnology": {
+          "https://prometheusintelligencetechnology.com/": [
+            "prometheusintelligencetechnology.com"
           ]
         }
       },
@@ -9569,6 +9655,15 @@
         "YSance": {
           "https://www.ysance.com/data-services/fr/home/": [
             "y-track.com"
+          ]
+        }
+      },
+      {
+        "ZafulAffiliate": {
+          "https://affiliate.zaful.com/": [
+            "zaful.com",
+            "gw-ec.com",
+            "affasi.com"
           ]
         }
       }

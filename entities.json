@@ -1907,6 +1907,18 @@
         "w3roi.com"
       ]
     },
+    "Azet": {
+      "properties": [
+        "mediaimpact.sk",
+        "azet.sk"
+      ],
+      "resources": [
+        "mediaimpact.sk",
+        "azet.sk",
+        "rsz.sk",
+        "azetklik.sk"
+      ]
+    },
     "BackBeat Media": {
       "properties": [
         "backbeatmedia.com"
@@ -2737,6 +2749,20 @@
       "resources": [
         "clickdistrict.com",
         "creative-serving.com"
+      ]
+    },
+    "ClickFrog": {
+      "properties": [
+        "clickfrog.ru"
+      ],
+      "resources": [
+        "quitzon.net",
+        "bashirian.biz",
+        "franecki.net",
+        "buckridge.link",
+        "wisokykulas.bid",
+        "reichelcormier.bid",
+        "clickfrog.ru"
       ]
     },
     "ClickFuel": {
@@ -7781,6 +7807,14 @@
         "pictela.net"
       ]
     },
+    "PinPoll": {
+      "properties": [
+        "pinpoll.com"
+      ],
+      "resources": [
+        "pinpoll.com"
+      ]
+    },
     "Pinterest": {
       "properties": [
         "pinterest.com",
@@ -7950,6 +7984,14 @@
         "powerlinks.com"
       ]
     },
+    "PPCProtect": {
+      "properties": [
+        "ppcprotect.com"
+      ],
+      "resources": [
+        "ppcprotect.com"
+      ]
+    },
     "PrecisionClick": {
       "properties": [
         "precisionclick.com"
@@ -8022,6 +8064,14 @@
       ],
       "resources": [
         "projectwonderful.com"
+      ]
+    },
+    "PrometheusIntelligenceTechnology": {
+      "properties": [
+        "prometheusintelligencetechnology.com"
+      ],
+      "resources": [
+        "prometheusintelligencetechnology.com"
       ]
     },
     "Pronunciator": {
@@ -10928,6 +10978,14 @@
       "resources": [
         "yume.com",
         "yumenetworks.com"
+      ]
+    },
+    "ZafulAffiliate": {
+      "properties": [
+        "zaful.com"
+      ],
+      "resources": [
+        "zaful.com"
       ]
     },
     "Zango": {

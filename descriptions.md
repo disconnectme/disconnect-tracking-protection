@@ -5,12 +5,14 @@
 - [a.js](#a.js)
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
+- [Azet](#Azet)
 - [BlueCava](#BlueCava)
 - [BoostBox](#BoostBox)
 - [BrightEdge](#BrightEdge)
 - [C3-Metrics](#C3-Metrics)
 - [CashBeet](#CashBeet)
 - [Clickayab](#Clickayab)
+- [ClickFrog](#ClickFrog)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
@@ -30,12 +32,16 @@
 - [NeroHut](#NeroHut)
 - [OnlineMetrix](#OnlineMetrix)
 - [PerimeterX](#PerimeterX)
+- [PinPoll](#PinPoll)
+- [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
+- [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
 - [SAP](#SAP)
 - [SpareChange](#SpareChange)
 - [Upland](#Upland)
 - [ViralLoops](#ViralLoops)
 - [Webmine](#Webmine)
+- [ZafulAffiliate](#ZafulAffiliate)
 ## AdMaven
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -372,6 +378,18 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 
 > To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
 
+## Azet
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://rsz.sk/delivery/sd3.php`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+function getFp() {
+    akFp = getCk('OAFP'); if (akFp === '' && typeof Fingerprint2 !== 'undefined') { new Fingerprint2().get(function (result) { setCk('OAFP', result, 1); akFp = result; var akFpImg = new Image(1, 1); akFpImg.style.display = 'none'; akFpImg.src = '//rsz.sk/delivery/sd3.php?fp=' + akFp; document.body.appendChild(akFpImg); /*console.log('akFpNew', akFp);*/ }); } else { /*console.log('akFpOld', akFp);*/ }
+    var akImg = new Image(1, 1); akImg.style.display = 'none'; akImg.src = 'https://azetklik.sk/delivery/v2/set?id=5fdf6dd9302cf57f609d6be26de85107&fp=' + akFp; document.body.appendChild(akImg);
+}
+
+```
 ## BlueCava
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -647,6 +665,40 @@ Script: `http://supplier.clickyab.com/api/multi.js`
 
 ```
 swfContainerId:"fingerprintjs2"
+```
+## ClickFrog
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `http://franecki.net/js/lib.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(e) {
+        var t = {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i]
+        };
+        this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+
+
+```
+2. Sends computed fingerprint to various endpoints:
+```
+    _match: function() {
+        var m = ["quitzon.net", "bashirian.biz", "franecki.net", "buckridge.link", "0qq20ey4fo5veh0t.wisokykulas.bid"],
+            i = 0,
+            l = m.length,
+            r;
+        for (; i < l; i++) {
+            var p = "//" + m[i] + "/r/?auid=" + AMSP._dmp.adwuid + "&p=" + AMSP._dmp.adwuid;
+            try {
+                window.XDomainRequest ? (r = new XDomainRequest) : (r = window.XMLHttpRequest ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP")), r.timeout = 1e3, r.withCredentials = true, r.open("GET", p, !0), r.send()
+            } catch (er) {}
+        }
+    }
+
 ```
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
@@ -1594,6 +1646,98 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
+## PinPoll
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://pinpoll.com/global.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+var Fingerprint2 = function e(t) {
+    if (!(this instanceof e)) return new e(t);
+    this.options = this.extend(t, {
+        swfContainerId: "fingerprintjs2",
+        swfPath: "flash/compiled/FontList.swf",
+        detectScreenOrientation: !0,
+        sortPluginsFor: [/palemoon/i],
+        userDefinedFonts: [],
+        excludeDoNotTrack: !0
+    }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+};
+```
+2. Sends computed fingerprint back to pinpoll.com:
+```
+                    d.style.display = "none", d.src = "https://static.pinpoll.com/static/start.html";
+                    var u = !1,
+                        p = function() {
+                            !u && a && l && (function() {
+                                0 === s.offsetHeight && (r = !0), s.remove(), d.remove();
+                                var a = {
+                                    plugins: n(),
+                                    timezone: (new Date).getTimezoneOffset(),
+                                    adblock: r ? 1 : 0,
+                                    dnt: window.navigator.doNotTrack,
+                                    cookiesEnabled: o() ? 1 : 0,
+                                    thirdPartyCookiesEnabled: c ? 1 : 0,
+                                    referrer: document.referrer,
+                                    title: document.title,
+                                    location: {
+                                        hash: document.location.hash,
+                                        hostname: document.location.hostname,
+                                        pathname: document.location.pathname,
+                                        protocol: document.location.protocol,
+                                        search: document.location.search
+                                    },
+                                    screen: {
+                                        width: window.screen.width,
+                                        height: window.screen.height,
+                                        colorDepth: window.screen.colorDepth,
+                                        orientation: window.screen.orientation ? window.screen.orientation.type : null
+                                    },
+                                    metaTags: i(),
+                                    fingerprint: t.fingerprint
+                                };
+                                e.open("post", "https://pa.pinpoll.com/v1/"), e.withCredentials = !0, e.setRequestHeader("Content-Type", "application/json"), e.send(JSON.stringify(a))
+                            }(), u = !0)
+                        };
+
+```
+
+## PPCProtect
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        var t = function(e) {
+            if (!(this instanceof t)) return new t(e);
+            this.options = this.extend(e, {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: []
+            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+
+```
+2. Sends computed fingerprint back to ppcprotect.com:
+```
+    new Fingerprint2({}).get(function(e, t) {
+        o.hash = e, o.data = t, sendData("https://monitor.ppcprotect.com/v1.0/pageview", {
+            _method: "POST",
+            ppcuid: i,
+            gclid: n,
+            uuid: r,
+            url: window.location.href,
+            ref: decodeURI(document.referrer),
+            pvn: a,
+            fp: o
+        })
+    })
+
+
+```
+
 ## PrismApp
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1634,6 +1778,38 @@ BRUNCH_ENV: "production",
                     }, function(response, xhr) {
                         util.resetExponentialBackoff()
                     })
+
+```
+
+## PrometheusIntelligenceTechnology
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+/*
+* Fingerprintjs2 1.5.1 - Modern & flexible browser fingerprint library v2
+* PATCHED: https://github.com/cdwiegand/fingerprintjs2.git
+* ORIG: https://github.com/Valve/fingerprintjs2
+* Copyright (c) 2015 Valentin Vasilyev (valentin.vasilyev@outlook.com)
+* Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
+
+```
+2. Fingerprint is then stored to be transmitted back to prometheusintelligencetechnology.com
+```
+  try {
+    var pit = window.prometheus;
+    new Fingerprint2().get(function(result, components) {
+      console.log('Prometheus fingerprint: ' + result);
+      pit.fp2 = result; // compat
+      pit.tryAppend(pit.makeRef('script', 'https://prometheusintelligencetechnology.com/pit/fp?fp=' + result));
+      pit.passIdAlong('fp2', result);
+      pit.tracking = pit.tracking || {};
+      pit.tracking.fp2 = result;
+    });
+  } catch (e) {
+    pit.tryAppend(pit.makeRef('script', 'https://prometheusintelligencetechnology.com/pit/fp?fperr=' + e.toString()));
+  }})();
 
 ```
 
@@ -1965,3 +2141,47 @@ var CryptonightWASMWrapper = function() {
 };
 ```
 
+## ZafulAffiliate
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://js.affasi.com/affasi_js.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(t) {
+        if (!(this instanceof e)) return new e(t);
+        this.options = this.extend(t, {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+
+```
+2. Sends computed fingerprint back to Zaful:
+```
+                return l.data.affid = i.affid, l.data.ads_lkid = i.lkid, l.data.web_id = i.web_id, l.data.user_id = i.uid, l.data.id = o, l.signature = e("533da74033" + JSON.stringify(l.data)),
+                    function(e, t, i, n, a) {
+                        var r = "http:" == location.protocol ? "http://affiliate.gw-ec.com/interface/link/create-dynamic" : "https://affiliate.zaful.com/interface/link/create-dynamic";
+                        $.ajax({
+                            url: r,
+                            type: "post",
+                            data: e,
+                            dataType: "json"
+                        }).always(function(e) {
+                            if (0 == e.status) {
+                                for (var r in e.data) dmp_cacche_dictionary.set(r, e.data[r]);
+                                var o = null,
+                                    s = "garousel_advert";
+                                i.garousel_advert || (s = "img_advert"), i[s].content.forEach(function(e) {
+                                    o = dmp_cacche_dictionary.get(e.id), e.link_id = o.link_id, e.link_url = o.link_url
+                                }), d(t, i, n, a)
+                            }
+                        })
+                    }({
+                        result: JSON.stringify(l)
+                    }, t, r, n, a), void(o = i = l = null)
+
+
+```
