@@ -2373,6 +2373,13 @@
         }
       },
       {
+        "Disqus": {
+          "http://disqus.com/": [
+            "disqusads.com"
+          ]
+        }
+      },
+      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"

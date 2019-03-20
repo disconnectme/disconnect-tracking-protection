@@ -3631,10 +3631,12 @@
     },
     "Disqus": {
       "properties": [
-        "disqus.com"
+        "disqus.com",
+        "disqusads.com"
       ],
       "resources": [
-        "disqus.com"
+        "disqus.com",
+        "disqusads.com"
       ]
     },
     "dmpxs": {
