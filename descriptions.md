@@ -3,13 +3,17 @@
 - [Admicro](#Admicro)
 - [AdScore](#AdScore)
 - [a.js](#a.js)
+- [Albacross](#Albacross)
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
+- [AvantMetrics](#AvantMetrics)
 - [Azet](#Azet)
 - [BlueCava](#BlueCava)
 - [BoostBox](#BoostBox)
+- [Brandcrumb](#Brandcrumb)
 - [BrightEdge](#BrightEdge)
 - [C3-Metrics](#C3-Metrics)
+- [CartsGuru](#CartsGuru)
 - [CashBeet](#CashBeet)
 - [Clickayab](#Clickayab)
 - [ClickFrog](#ClickFrog)
@@ -17,9 +21,11 @@
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
 - [DoubleVerify](#DoubleVerify)
+- [EyeNewton](#EyeNewton)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
 - [Fanplayr](#Fanplayr)
 - [Foresee](#Foresee)
+- [Friends2Follow](#Friends2Follow)
 - [Gleam](#Gleam)
 - [Gridcash](#Gridcash)
 - [iMedia](#iMedia)
@@ -29,15 +35,20 @@
 - [MinerAlt](#MinerAlt)
 - [Minescripts](#Minescripts)
 - [MineXMR](#MineXMR)
+- [Negishim](#Negishim)
 - [NeroHut](#NeroHut)
+- [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
+- [Opolen](#Opolen)
 - [PerimeterX](#PerimeterX)
 - [PinPoll](#PinPoll)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
+- [Provers](#Provers)
 - [SAP](#SAP)
 - [SpareChange](#SpareChange)
+- [Storeland](#Storeland)
 - [Upland](#Upland)
 - [ViralLoops](#ViralLoops)
 - [Webmine](#Webmine)
@@ -202,6 +213,61 @@ Raw log:
     }
 }
 ```
+## Albacross
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://serve.albacross.com/track.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        var e = function(e) {
+            var t = {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i]
+            };
+            this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+
+
+```
+2. Sends computed fingerprint back to server:
+```
+NosivaCore.getCollectorUrl = function(env) {
+            switch (env) {
+                case "production":
+                    return "https://collect.albacross.com";
+                case "staging":
+                    return "http://collect.albakaos.com";
+                case "local":
+                    return "http://localhost:8080"
+            }
+        }
+
+NosivaCore.markers = {}, NosivaCore.params = ["first_name", "last_name", "email", "company_name", "company_number", "campaign_id", "ad_id", "adform_tag_id", "adform_advertiser_id", "adform_campaign_id", "adform_tracking_setup_id", "adform_creative_id", "adform_cookie_id", "adform_unique_impression_id", "adform_media_id", "adform_line_item_id", "adform_media_network_id", "adform_banner_domain", "adform_rtb_inventory_source_id", "adform_rtb_domain", "adform_rtb_deal_or_package_id", "adform_request_id", "adform_advertising_id", "adform_external_publisher_id"], NosivaCore.shortFormat = !1, NosivaCore.domReady = function(fn) {
+            "loading" != document.readyState ? fn() : document.addEventListener ? document.addEventListener("DOMContentLoaded", fn) : document.attachEvent("onreadystatechange", function() {
+                "loading" != document.readyState && fn()
+            })
+        }, NosivaCore.sendEvents = function(events, callback, retries) {
+            if (document.body) {
+                "undefined" == typeof retries && (retries = 0), "undefined" != typeof callback && null !== callback && callback();
+                var url = "";
+                url = NosivaCore.shortFormat ? NosivaCore.getCollectorUrl(Nosiva.environment) + "/e.gif?" + NosivaCore.stringifyEvents(events, !0) : NosivaCore.getCollectorUrl(Nosiva.environment) + "/d.gif?d=" + NosivaCore.stringifyEvents(events, !1);
+                var img = new Image;
+                img.height = 0, img.width = 0, img.style.height = "0", img.style.width = "0", img.style.border = "0", img.style.margin = "0", img.style.padding = "0", img.style.position = "fixed", img.style.bottom = "0", img.style.left = "0", img.src = url, document.body.appendChild(img), img.onload = function() {
+                    null !== img.parentNode && document.body.removeChild(img)
+                }, 2 > retries && (img.onerror = function() {
+                    setTimeout(function() {
+                        document.body.removeChild(img), NosivaCore.sendEvents(events, null, retries + 1)
+                    }, 1e3)
+                })
+            }
+        }
+
+
+
+```
+
 ## AuditedMedia
 This service has been classified as `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -378,6 +444,65 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 
 > To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
 
+## AvantMetrics
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://cdn.avmws.com/1013929/`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var Fingerprint2 = function(options) {
+        throw new Error("'new Fingerprint()' is deprecated, see https://github.com/Valve/fingerprintjs2#upgrade-guide-from-182-to-200")
+    };
+
+```
+2. Sends computed fingerprint back to server:
+```
+function logPageView(customData) {
+            var request;
+            request = configTrackerUrl + "?url=" + escapeWrapper(documentAlias.location.href) + "&ref=" + escapeWrapper(getReferrer()) + "&name=" + escapeWrapper(documentAlias.title) + "&avmws=" + escapeWrapper(getCookie("avmws")) + "&rand=" + Math.random() + "&lib=1";
+            if (isDefined(customData)) {
+                request += "&data=" + escapeWrapper(stringify(customData))
+            }
+            if (window.requestIdleCallback) {
+                requestIdleCallback(function() {
+                    try {
+                        Fingerprint2.get({
+                            excludeFlashFonts: true,
+                            excludeJsFonts: true
+                        }, function(components) {
+                            var values = components.map(function(component) {
+                                return component.value
+                            });
+                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
+                            request += "&fingerprint=" + escapeWrapper(murmur);
+                            getScript(request)
+                        })
+                    } catch (e) {
+                        getScript(request)
+                    }
+                })
+            } else {
+                setTimeout(function() {
+                    try {
+                        Fingerprint2.get({
+                            excludeFlashFonts: true,
+                            excludeJsFonts: true
+                        }, function(components) {
+                            var values = components.map(function(component) {
+                                return component.value
+                            });
+                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
+                            request += "&fingerprint=" + escapeWrapper(murmur);
+                            getScript(request)
+                        })
+                    } catch (e) {
+                        getScript(request)
+                    }
+                }, 500)
+            }
+        }
+```
+
 ## Azet
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -533,6 +658,52 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
       return ret;
     }
 ```
+## Brandcrumb
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://static.brandcrumb.com/bc.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        var b = function(a) {
+            if (!(this instanceof b)) return new b(a);
+            var c = {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: []
+            };
+            this.options = this.extend(a, c), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+
+```
+2. Sends computed fingerprint back to server:
+```
+e.prototype.getFingerprint = function() {
+        var a = this,
+            b = new Fingerprint2;
+        b.get(function(b, c) {
+            var d = {};
+            for (var e in c) d[c[e].key] = c[e].value;
+            var h = {
+                fingerprint: b,
+                user_agent: d.user_agent,
+                user_agent_hash: g(d, "user_agent"),
+                regular_plugins: d.regular_plugins,
+                regular_plugins_hash: g(d, "regular_plugins"),
+                available_resolution_hash: g(d, "available_resolution"),
+                has_lied_languages_hash: g(d, "has_lied_languages"),
+                webgl_hash: g(d, "webgl"),
+                canvas_hash: g(d, "canvas"),
+                pixel_ratio_hash: g(d, "pixel_ratio"),
+                canvas_webgl_hash: g(f(d, "canvas"), "webgl")
+            };
+            a.sendPixel(a.getUrl("dharma"), h)
+        })
+    }
+
+```
+
 ## BrightEdge
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -617,6 +788,74 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
 ```
 
+
+## CartsGuru
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://tracker-client.carts.guru/dist/shopify-client.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+window.Fingerprint2 = ((i = function i(e) {
+            if (!(this instanceof i)) return new i(e);
+            this.options = this.extend(e, {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: [],
+                excludeDoNotTrack: !0
+            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        }
+
+```
+2. Sends computed fingerprint back to server
+```
+var b = {
+            version: "1.0.0",
+            xhrTimeout: parseInt("5000"),
+            trkUrl: "https://tracker.carts.guru/",
+            trkClientUrl: "https://tracker-client.carts.guru/",
+            trkDomain: "tracker.carts.guru",
+            trkPrefix: "trkcg_",
+            SOURCE_TYPE: JSON.parse('{"Ads":"ads","Direct":"direct","Organic":"organic","Referral":"referral"}'),
+            CART_SOURCE_TYPE: JSON.parse('{"FBM":1,"CI":2}'),
+            organicSources: JSON.parse('["aol.com","ask.com","bing.com","google.com","google.com.ua","yahoo.com","search.yahoo.com","mamma.com","naver.com","lycos.com","hotbot.com","bbc.com","eniro.se","dotdash.com","about.com","aol.com","ask.com","globososo.com","go.mail.ru","rambler.ru","tut.by"]'),
+            ACTIVITY_TYPES: JSON.parse('{"event":1,"action":2,"fbm":3}'),
+            ACTIVITIES: {
+                events: ["visit", "quit"],
+                actions: ["click", "cartAdd", "cartRemove", "cartUpdate", "cartCheckout", "cartContinue", "cartPopup", "OpenCartDiv", "confirmOptIn"],
+                fbm: ["confirmOptIn", "optIn", "optOut", "MessengerCheckboxUserConfirmation"],
+                specials: ["set", "unset", "delete"]
+            },
+            EVENTS: {
+                pageView: 1,
+                productView: 2,
+                cartView: 3,
+                cartCreate: 4,
+                cartUpdate: 5,
+                checkoutView: 6
+            },
+            PAGE_ROUTES: {
+                root: "index",
+                home: "home",
+                collections: "collection",
+                products: "product",
+                cart: "cart",
+                search: "search"
+            }
+        }
+
+                    C.makeRequest("check-user-ref", {
+                        siteId: this.model.siteId,
+                        fingerprint: this.model.fingerprint,
+                        fingerprintId: this.model.fingerprintId,
+                        cg_accountid: this.model.cg_accountid
+                    }, function(e, t) {
+                        if (e) return console.warn(e);
+                        t.user_ref ? (o.userRef = t.user_ref, o.setUserRef(t.user_ref)) : sessionStorage.setItem("cgCheckedUserRef", "true"), i(t)
+                    })
+
+```
 
 ## CashBeet
 This service has been classified as `Cryptomining` for the following reasons:
@@ -884,6 +1123,38 @@ sortable.push(["pf", this.navigator.platform || ""]);
 sortable.push(["dnt", this.navigator.doNotTrack || ""]);
 sortable.push(["canv", this.Ps()]);
 ```
+## EyeNewton
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://eyenewton.ru/scripts/callback.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+                var c = setTimeout(function() {
+                    return console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".'), i.oncomplete = function() {}, i = null, n("audioTimeout")
+                }, t.timeout);
+
+
+```
+2. Sends computed fingerprint back to server
+```
+ajax.get(settings_url, e, function(t) {
+                if (eyenewtonLoader.next(), !t) return clearInterval(init_interval), !1;
+                try {
+                    var e = JSON.parse(t)
+                } catch (e) {
+                    return remoteErrorLog(e, "getSettings", typeof t + " " + t.length + " " + t), !1
+                }
+                if (0 == e.length) return clearInterval(init_interval), !1;
+                if ("undefined" != typeof newton_callback_id_internal && null != e.callback_id && newton_callback_id_internal != e.callback_id) return clearInterval(init_interval), !1;
+                if ((default_settings = merge_options(default_settings, e)).callback) {
+                    default_settings.appearance_disabled = parseInt(default_settings.appearance_disabled), disableAppearanceOnMainPageLot(), default_settings.appearance_init = parseInt(default_settings.appearance_init), default_settings.appearance_exit = parseInt(default_settings.appearance_exit), default_settings.appearance_time = parseInt(default_settings.appearance_time), default_settings.current_time = parseInt(default_settings.current_time), default_settings.show_once_day = parseInt(default_settings.show_once_day), default_settings.hide_after_hours = parseInt(default_settings.hide_after_hours), default_settings.show_on_mobile = parseInt(default_settings.show_on_mobile), default_settings.dialog_enabled = parseInt(default_settings.dialog_enabled), default_settings.disable_delayed_calls = parseInt(default_settings.disable_delayed_calls), default_settings.have_departments = parseInt(default_settings.have_departments), default_settings.silent_mode = 1 == default_settings.silent_mode, default_settings.is_multiwidget = parseInt(default_settings.is_multiwidget), default_settings.multiwidget_application = parseInt(default_settings.multiwidget_application), default_settings.multiwidget_consultant = parseInt(default_settings.multiwidget_consultant), default_settings.enable_mobile_direct_call = parseInt(default_settings.enable_mobile_direct_call), default_settings.enable_log = parseInt(default_settings.enable_log), default_settings.chat_enabled = parseInt(default_settings.chat_enabled), default_settings.chat_active = parseInt(default_settings.chat_active), default_settings.manager_photo_enabled = parseInt(default_settings.manager_photo_enabled), default_settings.banner_enabled = parseInt(default_settings.banner_enabled), default_settings.banner_bottom = parseInt(default_settings.banner_bottom), default_settings.mini_version_enabled = parseInt(default_settings.mini_version_enabled);
+                    var n = getParam("show_phone_button");
+                    void 0 !== n && (default_settings.show_phone_button = n), null == (init_time = getInitTime()) && setInitTime(init_time = default_settings.current_time)
+                }
+                settingsLoaded = !0
+            })
+```
+
 ## eyeReturn Marketing
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -999,6 +1270,39 @@ This service has been classified as `Fingerprinting` for the following reasons:
   };
   /** @type {function(string): undefined} */
   self.Fingerprint = Binder;
+```
+
+## Friends2Follow
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friends2follow/dist/friends2follow_socialstack.min.js?v=201902040`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var a = function(a) {
+        var b = {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        };
+        this.options = this.extend(a, b), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+
+```
+2. Sends computed fingerprint back to server:
+```
+            addHoneyTracking: function() {
+                var b = a(this);
+                b.find(".socialstack-item").each(function() {
+                    var b = a(this),
+                        c = b.find("div.header a.username"),
+                        d = Drupal.settings.baseURL + Drupal.settings.basePath + "f2fh.php?fi=" + Drupal.settings.f2f_widget_settings.fingerprint,
+                        e = a.getQueryString.click;
+                    "undefined" != typeof e && (clickMaco = decodeURIComponent(e), a.validateURL(clickMaco) && (d = decodeURIComponent(e) + encodeURIComponent(d))), a('<a href="' + d + '" class="hp" target="_blank">' + c.text() + "</a>").appendTo(b)
+                })
+            }
+
 ```
 
 ## Gleam
@@ -1481,6 +1785,34 @@ Raw log:
     }
 }
 ```
+## Negishim
+This service has been classified as `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://www.negishim.com/accessibility/accessibility_pro_group255.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+var fps = "";
+try {
+    var fp = new Fingerprint2;
+    fp.get(function(e, t) {
+        fps = e
+    })
+} catch (e) {
+    fps = ""
+}
+
+```
+2. Sends computed fingerprint back to server:
+```
+var negishim_base = "https://www.negishim.com/accessibility/",
+    checkes = 0;
+
+var a = window.location.href.replace("?", "^").replace(/&/g, "~");
+    e += "<img id='accessibility_icon' src='" + negishim_base + "wheelchair.ashx?is_pro=1&fps=" + fps + "&v=255&css_style=" + css_style + "&src=" + window.location.host + "&purl=" + a + "&ii=" + (new Date).getTime() + "' alt='נגישות' class='accessibility_component' aria-hidden=\"true\"/>"
+
+
+```
+
 ## NeroHut
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -1537,6 +1869,62 @@ Raw log:
     }
 }
 ```
+## OneAd
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://ad-specs.guoshipartners.com/static/js/isip.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+a.Fingerprint2 = function(a) {
+                var b = {
+                    swfContainerId: "fingerprintjs2",
+                    swfPath: "flash/compiled/FontList.swf"
+                };
+                this.options = this.extend(a, b), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+            }, a.Fingerprint2.prototype = {
+                extend: function(a, b) {
+                    if (null == a) return b;
+                    for (var c in a) null != a[c] && b[c] !== a[c] && (b[c] = a[c]);
+                    return b
+                },
+                log: function(a) {
+                    window.console
+                },
+                get: function(a) {
+                    var b = [];
+                    b = this.userAgentKey(b), b = this.languageKey(b), b = this.colorDepthKey(b), b = this.screenResolutionKey(b), b = this.timezoneOffsetKey(b), b = this.sessionStorageKey(b), b = this.localStorageKey(b), b = this.indexedDbKey(b), b = this.addBehaviorKey(b), b = this.openDatabaseKey(b), b = this.cpuClassKey(b), b = this.platformKey(b), b = this.doNotTrackKey(b), b = this.pluginsKey(b), b = this.canvasKey(b), b = this.webglKey(b), b = this.adBlockKey(b), b = this.hasLiedLanguagesKey(b), b = this.hasLiedResolutionKey(b), b = this.hasLiedOsKey(b), b = this.hasLiedBrowserKey(b), b = this.touchSupportKey(b);
+                    var c = this,
+                        d = c.x64hash128(b.join("~~~"), 31);
+                    a(d)
+                },
+
+
+```
+2. Sends computed fingerprint back to OneAd:
+```
+                try {
+                    d.src = "//img.onead.com.tw/async?" + ONEAD.to_param({
+                        host: "http:" + ONEAD.external_url || "",
+                        dt: (new Date).getTime() || "",
+                        c1: a.pid || "",
+                        c2: a.play_mode || "",
+                        p1: c,
+                        p2: b,
+                        p3: window.location.href || "",
+                        p4: document.title || "",
+                        p5: document.referrer || "",
+                        p6: a.ffp || "",
+                        p7: a.cat || "",
+                        p8: a.igs || "",
+                        p9: a.uigs || "",
+                        p10: a.cigs || "",
+                        p11: a.ude || "",
+                        p12: a.cde || ""
+                    })
+                } catch (e) {}
+
+```
+
 ## OnlineMetrix
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1547,6 +1935,81 @@ function tmx_run_page_fingerprinting(saveNotifs) {
   }
 }
 ```
+## Opolen
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://static.opolen.com.br/polen-lojaintegrada-pollinator.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var n = function(t) {
+        if (!(this instanceof n)) return new n(t);
+        this.options = this.extend(t, {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: [],
+            excludeDoNotTrack: !0,
+            excludePixelRatio: !0
+        });
+        this.nativeForEach = Array.prototype.forEach;
+        this.nativeMap = Array.prototype.map
+    };
+
+```
+2. Sends computed fingerprint back to server:
+```
+loadPolenContainer: function() {
+            try {
+                if (polenFramework.polenKey == null) {
+                    polenHelper.logList.push("Polen key not found");
+                    return
+                }
+                var n = polenStorage.getPolenContainer(),
+                    t = polenStorage.getPolenTransactionId(n);
+                jPolen.when(polenHelper.generateFingerprint()).done(function(n) {
+                    var r = polenHelper.getParameterByName("polen") == "ativo" ? !1 : null,
+                        u = polenHelper.mobilecheck(),
+                        i = {
+                            key: polenFramework.polenKey,
+                            domain: polenFramework.domain,
+                            page: polenFramework.currentUrl,
+                            transactionId: t,
+                            abTestName: "",
+                            ngoUrl: "",
+                            fingerprint: n,
+                            original: r,
+                            isMobile: u
+                        };
+                    jPolen.when(polenHelper.post(polenHelper.apiUrl + "/Transaction/GetPolenContainer/", i)).done(function(n) {
+                        n ? n.success ? (polenStorage.setPolenContainer(n), polenStorage.setIsOriginal(n.original), polenStorage.setPolenTransactionId(n.transactionId), polenFramework.polenHtmlLoaded == !1 && (polenFramework.loadHtml(), polenFramework.polenHtmlLoaded = !0), polenPlatform.Load(), polenFramework.triggerTracers()) : n.unauthorizedUrl ? polenStorage.setPolenContainer(n.data) : polenHelper.log({
+                            message: "errorType: " + n.errorType,
+                            stack: n.errorDescription + " / " + n.errorDescription2
+                        }, "post transaction/loadPolenContainer success=false", JSON.stringify(i), n.logToDatabase) : polenHelper.log({
+                            message: "errorType: Api returned null",
+                            stack: "errorType: Api returned null"
+                        }, "post transaction/loadPolenContainer null", JSON.stringify(i))
+                    }).fail(function(n, t, r) {
+                        polenHelper.checkUrlChange();
+                        polenHelper.log({
+                            message: r + " " + n.status,
+                            stack: n.responseText
+                        }, "post transaction/loadPolenContainer", JSON.stringify(i), n.responseJSON.logToDatabase)
+                    })
+                }).fail(function(n, t, i) {
+                    polenHelper.log({
+                        message: i + " " + n.status,
+                        stack: n.responseText
+                    }, "post GET FINGERPRINT", JSON.stringify(request))
+                })
+            } catch (i) {
+                polenHelper.log(i, "LoadPolen", "cookieEnabled:" + navigator.cookieEnabled)
+            }
+        }
+
+
+```
+
 ## PerimeterX
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1813,6 +2276,42 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 
 ```
 
+## Provers
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        var e = function(t) {
+            if (!(this instanceof e)) return new e(t);
+            this.options = this.extend(t, {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: [],
+                excludeDoNotTrack: !0,
+                excludePixelRatio: !0
+            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+
+```
+2. Sends computed fingerprint back to provers.pro:
+```
+    new Fingerprint2().get(function(result) {
+        var s = document.createElement('script');
+        var x = document.getElementsByTagName('script')[0];
+        s.src = options.url + '?fp=' + result;
+        s.type = 'text/javascript';
+        s.async = true;
+        x.parentNode.insertBefore(s, x);
+    })
+})({
+    "url": "http:\/\/provers.pro\/Z-noA."
+});
+
+```
+
 ## SAP
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1975,6 +2474,41 @@ function Miner(spareChangeApiKey, p1, p2) {
 }
 ```
 
+## Storeland
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://sl-h-statistics-ch-1.storeland.ru/static/fp.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var fp = new Fingerprint2;
+    fp.get(function(e, t) {
+        details.f_fingerprint = e, setCookie("fp", e, 5);
+        for (var r in t) {
+            var i = t[r];
+            null !== i.value && null !== i.key && ("canvas" !== i.key && "webgl" !== i.key ? details["f_" + i.key] = i.value.toString() : details["f_" + i.key] = i.value.toString().substr(0, 100))
+        }
+        data.append("data", JSON.stringify(details)), xhr.open("POST", "//sl-h-statistics-ch-1.storeland.ru/", !0), xhr.send(data)
+    })
+
+```
+2. Sends computed fingerprint back to server:
+```
+try {
+    var fp = new Fingerprint2;
+    fp.get(function(e, t) {
+        details.f_fingerprint = e, setCookie("fp", e, 5);
+        for (var r in t) {
+            var i = t[r];
+            null !== i.value && null !== i.key && ("canvas" !== i.key && "webgl" !== i.key ? details["f_" + i.key] = i.value.toString() : details["f_" + i.key] = i.value.toString().substr(0, 100))
+        }
+        data.append("data", JSON.stringify(details)), xhr.open("POST", "//sl-h-statistics-ch-1.storeland.ru/", !0), xhr.send(data)
+    })
+} catch (e) {
+    details.f_fingerprint = "error: " + e.name + "::" + e.message + "\n" + e.stack, data.append("data", JSON.stringify(details)), xhr.open("POST", "//sl-h-statistics-ch-1.storeland.ru/", !0), xhr.send(data)
+} else setCookie("fp", getCookie("fp"), 5), details.f_user_agent = "", details.f_fingerprint = getCookie("fp"), data.append("data", JSON.stringify(details)), xhr.open("POST", "//sl-h-statistics-ch-1.storeland.ru/", !0), xhr.send(data);
+
+
+```
 ## Upland
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review

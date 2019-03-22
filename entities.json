@@ -648,7 +648,8 @@
       "resources": [
         "rensovetors.info",
         "boudja.com",
-        "ad-maven.com"
+        "ad-maven.com",
+        "agreensdistra.info"
       ]
     },
     "AdMaximizer Network": {
@@ -1459,6 +1460,14 @@
         "srtk.net"
       ]
     },
+    "Albacross": {
+      "properties": [
+        "albacross.com"
+      ],
+      "resources": [
+        "albacross.com"
+      ]
+    },
     "AllStarMediaGroup": {
       "properties": [
         "allstarmediagroup.com"
@@ -1872,6 +1881,14 @@
         "avantlink.com"
       ]
     },
+    "AvantMetrics": {
+      "properties": [
+        "avantmetrics.com"
+      ],
+      "resources": [
+        "avmws.com"
+      ]
+    },
     "Avocet": {
       "properties": [
         "avocet.io"
@@ -2258,6 +2275,14 @@
         "brandaffinity.net"
       ]
     },
+    "Brandcrumb": {
+      "properties": [
+        "brandcrumb.com"
+      ],
+      "resources": [
+        "brandcrumb.com"
+      ]
+    },
     "Brand.net": {
       "properties": [
         "brand.net"
@@ -2524,6 +2549,14 @@
       "resources": [
         "cart.ro",
         "statistics.ro"
+      ]
+    },
+    "CartsGuru": {
+      "properties": [
+        "carts.guru"
+      ],
+      "resources": [
+        "carts.guru"
       ]
     },
     "Casale Media": {
@@ -4156,6 +4189,14 @@
         "sublimemedia.net"
       ]
     },
+    "EyeNewton": {
+      "properties": [
+        "eyenewton.ru"
+      ],
+      "resources": [
+        "eyenewton.ru"
+      ]
+    },
     "Eyeota": {
       "properties": [
         "eyeota.net"
@@ -4462,6 +4503,14 @@
         "ffn.com",
         "adultfriendfinder.com",
         "pop6.com"
+      ]
+    },
+    "Friends2Follow": {
+      "properties": [
+        "friends2follow.com"
+      ],
+      "resources": [
+        "friends2follow.com"
       ]
     },
     "Frog Sex": {
@@ -7100,6 +7149,14 @@
         "newsinc.com"
       ]
     },
+    "Negishim": {
+      "properties": [
+        "negishim.org"
+      ],
+      "resources": [
+        "negishim.org"
+      ]
+    },
     "NeroHut": {
       "properties": [
         "nerohut.com"
@@ -7416,6 +7473,15 @@
         "behavioralengine.com"
       ]
     },
+    "OneAd": {
+      "properties": [
+        "onead.com.tw"
+      ],
+      "resources": [
+        "onevision.com.tw",
+        "guoshipartners.com"
+      ]
+    },
     "One iota": {
       "properties": [
         "itsoneiota.com",
@@ -7508,6 +7574,14 @@
       "resources": [
         "opera.com",
         "mobiletheory.com"
+      ]
+    },
+    "Opolen": {
+      "properties": [
+        "opolen.com.br"
+      ],
+      "resources": [
+        "opolen.com.br"
       ]
     },
     "OPT": {
@@ -8110,6 +8184,14 @@
       "resources": [
         "protected.media",
         "ad-score.com"
+      ]
+    },
+    "Provers": {
+      "properties": [
+        "provers.pro"
+      ],
+      "resources": [
+        "provers.pro"
       ]
     },
     "Public-Idées": {
@@ -9221,6 +9303,14 @@
       "resources": [
         "steelhouse.com",
         "steelhousemedia.com"
+      ]
+    },
+    "Storeland": {
+      "properties": [
+        "storeland.ru"
+      ],
+      "resources": [
+        "storeland.ru"
       ]
     },
     "Storygize": {

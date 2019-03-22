@@ -487,7 +487,8 @@
           "https://ad-maven.com/": [
             "rensovetors.info",
             "boudja.com",
-            "ad-maven.com"
+            "ad-maven.com",
+            "agreensdistra.info"
           ]
         }
       },
@@ -1113,6 +1114,13 @@
         }
       },
       {
+        "Albacross": {
+          "https://albacross.com": [
+            "albacross.com"
+          ]
+        }
+      },
+      {
         "AllStarMediaGroup": {
           "http://allstarmediagroup.com/": [
             "allstarmediagroup.com"
@@ -1604,6 +1612,13 @@
         }
       },
       {
+        "Brandcrumb": {
+          "http://www.brandcrumb.com": [
+            "brandcrumb.com"
+          ]
+        }
+      },
+      {
         "Brand.net": {
           "http://www.brand.net/": [
             "brand.net"
@@ -1743,6 +1758,13 @@
           "http://www.cart.ro/": [
             "cart.ro",
             "statistics.ro"
+          ]
+        }
+      },
+      {
+        "CartsGuru": {
+          "https://carts.guru/": [
+            "carts.guru"
           ]
         }
       },
@@ -2732,6 +2754,13 @@
         }
       },
       {
+        "EyeNewton": {
+          "http://eyenewton.ru/": [
+            "eyenewton.ru"
+          ]
+        }
+      },
+      {
         "eyeReturn Marketing": {
           "http://www.eyereturnmarketing.com/": [
             "eyereturn.com",
@@ -2896,6 +2925,13 @@
             "adultfriendfinder.com",
             "ffn.com",
             "pop6.com"
+          ]
+        }
+      },
+      {
+        "Friends2Follow": {
+          "https://friends2follow.com/": [
+            "friends2follow.com"
           ]
         }
       },
@@ -4512,6 +4548,14 @@
         }
       },
       {
+        "OneAd": {
+          "https://www.onead.com.tw/": [
+            "onevision.com.tw",
+            "guoshipartners.com"
+          ]
+        }
+      },
+      {
         "One iota": {
           "http://www.itsoneiota.com/": [
             "itsoneiota.com",
@@ -4963,6 +5007,13 @@
           "http://www.protected.media/": [
             "protected.media",
             "ad-score.com"
+          ]
+        }
+      },
+      {
+        "Provers": {
+          "http://provers.pro": [
+            "provers.pro"
           ]
         }
       },
@@ -7980,6 +8031,13 @@
         }
       },
       {
+        "AvantMetrics": {
+          "http://www.avantmetrics.com": [
+            "avmws.com"
+          ]
+        }
+      },
+      {
         "Awio": {
           "http://www.awio.com/": [
             "awio.com",
@@ -8754,6 +8812,13 @@
         }
       },
       {
+        "Opolen": {
+          "https://opolen.com.br": [
+            "opolen.com.br"
+          ]
+        }
+      },
+      {
         "Oracle": {
           "http://www.oracle.com/": [
             "eloqua.com",
@@ -8981,6 +9046,13 @@
         "STATSIT": {
           "http://www.statsit.com/": [
             "statsit.com"
+          ]
+        }
+      },
+      {
+        "Storeland": {
+          "https://storeland.ru/": [
+            "storeland.ru"
           ]
         }
       },
@@ -9337,7 +9409,8 @@
           "https://ad-maven.com/": [
             "rensovetors.info",
             "boudja.com",
-            "ad-maven.com"
+            "ad-maven.com",
+            "agreensdistra.info"
           ]
         }
       },
@@ -9364,6 +9437,13 @@
         }
       },
       {
+        "Albacross": {
+          "https://albacross.com": [
+            "albacross.com"
+          ]
+        }
+      },
+      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamsitecertifier.com",
@@ -9376,6 +9456,13 @@
         "Augur": {
           "http://www.augur.io/": [
             "augur.io"
+          ]
+        }
+      },
+      {
+        "AvantMetrics": {
+          "http://www.avantmetrics.com": [
+            "avmws.com"
           ]
         }
       },
@@ -9402,6 +9489,13 @@
         }
       },
       {
+        "Brandcrumb": {
+          "http://www.brandcrumb.com": [
+            "brandcrumb.com"
+          ]
+        }
+      },
+      {
         "BrightEdge": {
           "http://www.brightedge.com/": [
             "b0e8.com"
@@ -9414,6 +9508,13 @@
             "attributionmodel.com",
             "c3metrics.com",
             "c3tag.com"
+          ]
+        }
+      },
+      {
+        "CartsGuru": {
+          "https://carts.guru/": [
+            "carts.guru"
           ]
         }
       },
@@ -9458,6 +9559,13 @@
         }
       },
       {
+        "EyeNewton": {
+          "http://eyenewton.ru/": [
+            "eyenewton.ru"
+          ]
+        }
+      },
+      {
         "eyeReturn Marketing": {
           "http://www.eyereturnmarketing.com/": [
             "eyereturn.com",
@@ -9477,6 +9585,13 @@
           "https://www.foresee.com": [
             "answerscloud.com",
             "foresee.com"
+          ]
+        }
+      },
+      {
+        "Friends2Follow": {
+          "https://friends2follow.com/": [
+            "friends2follow.com"
           ]
         }
       },
@@ -9524,6 +9639,13 @@
         }
       },
       {
+        "Negishim": {
+          "http://www.negishim.org": [
+            "negishim.org"
+          ]
+        }
+      },
+      {
         "NuDataSecurity": {
           "https://nudatasecurity.com/": [
             "nudatasecurity.com"
@@ -9531,9 +9653,24 @@
         }
       },
       {
+        "OneAd": {
+          "https://www.onead.com.tw/": [
+            "onevision.com.tw",
+            "guoshipartners.com"
+          ]
+        }
+      },
+      {
         "OnlineMetrix": {
           "http://h.online-metrix.net": [
             "online-metrix.net"
+          ]
+        }
+      },
+      {
+        "Opolen": {
+          "https://opolen.com.br": [
+            "opolen.com.br"
           ]
         }
       },
@@ -9594,6 +9731,13 @@
         }
       },
       {
+        "Provers": {
+          "http://provers.pro": [
+            "provers.pro"
+          ]
+        }
+      },
+      {
         "SAP": {
           "https://www.sap.com": [
             "seewhy.com"
@@ -9626,6 +9770,13 @@
         "Signifyd": {
           "https://www.signifyd.com/": [
             "signifyd.com"
+          ]
+        }
+      },
+      {
+        "Storeland": {
+          "https://storeland.ru/": [
+            "storeland.ru"
           ]
         }
       },
