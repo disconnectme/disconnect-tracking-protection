@@ -123,6 +123,13 @@
         }
       },
       {
+        "Adabra": {
+          "https://www.adabra.com/": [
+            "adabra.com"
+          ]
+        }
+      },
+      {
         "Adality": {
           "http://adality.de/": [
             "adality.de",
@@ -311,6 +318,13 @@
         "Adfusion": {
           "http://www.adfusion.com/": [
             "adfusion.com"
+          ]
+        }
+      },
+      {
+        "AdGainerSolutions": {
+          "http://adgainersolutions.com/adgainer/": [
+            "adgainersolutions.com"
           ]
         }
       },
@@ -1002,7 +1016,8 @@
         "AdYouLike": {
           "https://www.adyoulike.com/": [
             "omnitagjs.com",
-            "adyoulike.com"
+            "adyoulike.com",
+            "pulpix.com"
           ]
         }
       },
@@ -1832,6 +1847,13 @@
         "ChoiceStream": {
           "http://www.choicestream.com/": [
             "choicestream.com"
+          ]
+        }
+      },
+      {
+        "ClearLink": {
+          "https://www.clearlink.com/": [
+            "clearlink.com"
           ]
         }
       },
@@ -3825,6 +3847,13 @@
         }
       },
       {
+        "LotLinx": {
+          "https://www.lotlinx.com": [
+            "lotlinx.com"
+          ]
+        }
+      },
+      {
         "Lower My Bills": {
           "http://lowermybills.com": [
             "lowermybills.com"
@@ -4201,6 +4230,13 @@
         "MobFox": {
           "http://www.mobfox.com/": [
             "mobfox.com"
+          ]
+        }
+      },
+      {
+        "Mobials": {
+          "http://mobials.com": [
+            "mobials.com"
           ]
         }
       },
@@ -6269,6 +6305,13 @@
         }
       },
       {
+        "Vendemore": {
+          "https://vendemore.com/": [
+            "vendemore.com"
+          ]
+        }
+      },
+      {
         "Vendio": {
           "http://www.vendio.com/": [
             "singlefeed.com",
@@ -6287,6 +6330,13 @@
         "Veremedia": {
           "http://www.veremedia.com/": [
             "veremedia.com"
+          ]
+        }
+      },
+      {
+        "VerticalHealth": {
+          "https://www.verticalhealth.com/": [
+            "verticalhealth.net"
           ]
         }
       },
@@ -8031,8 +8081,8 @@
         }
       },
       {
-        "AvantMetrics": {
-          "http://www.avantmetrics.com": [
+        "AvantLink": {
+          "http://www.avantlink.com/": [
             "avmws.com"
           ]
         }
@@ -8054,6 +8104,13 @@
             "belstat.de",
             "belstat.fr",
             "belstat.nl"
+          ]
+        }
+      },
+      {
+        "BetssonPalantir": {
+          "https://betssonpalantir.com/": [
+            "betssonpalantir.com"
           ]
         }
       },
@@ -8265,6 +8322,13 @@
         }
       },
       {
+        "DistilNetworks": {
+          "https://www.distilnetworks.com/": [
+            "distiltag.com"
+          ]
+        }
+      },
+      {
         "DoubleVerify": {
           "http://www.doubleverify.com/": [
             "doubleverify.com"
@@ -8275,6 +8339,13 @@
         "dwstat.com": {
           "http://www.dwstat.cn/": [
             "dwstat.cn"
+          ]
+        }
+      },
+      {
+        "ECSAnalytics": {
+          "https://www.theecsinc.com/": [
+            "ecsanalytics.com"
           ]
         }
       },
@@ -8413,6 +8484,13 @@
         "GoStats": {
           "http://gostats.com/": [
             "gostats.com"
+          ]
+        }
+      },
+      {
+        "GrapheneMedia": {
+          "http://graphenemedia.in/": [
+            "graphenedigitalanalytics.in"
           ]
         }
       },
@@ -8710,6 +8788,14 @@
         "MyPagerank.Net": {
           "http://www.mypagerank.net/": [
             "mypagerank.net"
+          ]
+        }
+      },
+      {
+        "Mystighty": {
+          "http://mystighty.info/": [
+            "mystighty.info",
+            "sweeterge.info"
           ]
         }
       },
@@ -9098,6 +9184,13 @@
         }
       },
       {
+        "TrafficScore": {
+          "https://trafficscore.com/": [
+            "trafficscore.com"
+          ]
+        }
+      },
+      {
         "Umbel": {
           "https://www.umbel.com/": [
             "umbel.com"
@@ -9268,142 +9361,21 @@
         }
       }
     ],
-    "Social": [
-      {
-        "AddThis": {
-          "http://www.addthis.com/": [
-            "addthis.com",
-            "addthiscdn.com",
-            "addthisedge.com",
-            "clearspring.com",
-            "connectedads.net",
-            "xgraph.com",
-            "xgraph.net"
-          ]
-        }
-      },
-      {
-        "Causes": {
-          "http://www.causes.com/": [
-            "causes.com"
-          ]
-        }
-      },
-      {
-        "Digg": {
-          "http://digg.com/": [
-            "digg.com"
-          ]
-        }
-      },
-      {
-        "LinkedIn": {
-          "http://www.linkedin.com/": [
-            "licdn.com",
-            "linkedin.com"
-          ]
-        }
-      },
-      {
-        "Lockerz": {
-          "http://lockerz.com/": [
-            "lockerz.com"
-          ]
-        }
-      },
-      {
-        "Mail.Ru": {
-          "http://mail.ru/": [
-            "list.ru",
-            "mail.ru"
-          ]
-        }
-      },
-      {
-        "Meebo": {
-          "https://www.meebo.com/": [
-            "meebo.com",
-            "meebocdn.net"
-          ]
-        }
-      },
-      {
-        "Papaya": {
-          "http://papayamobile.com/": [
-            "papayamobile.com"
-          ]
-        }
-      },
-      {
-        "reddit": {
-          "http://www.reddit.com/": [
-            "reddit.com"
-          ]
-        }
-      },
-      {
-        "Shareaholic": {
-          "http://www.shareaholic.com/": [
-            "buzzster.com",
-            "shareaholic.com"
-          ]
-        }
-      },
-      {
-        "ShareThis": {
-          "http://sharethis.com/": [
-            "sharethis.com"
-          ]
-        }
-      },
-      {
-        "StumbleUpon": {
-          "http://www.stumbleupon.com/": [
-            "stumble-upon.com",
-            "stumbleupon.com"
-          ]
-        }
-      },
-      {
-        "USocial": {
-          "https://usocial.pro": [
-            "usocial.pro"
-          ]
-        }
-      },
-      {
-        "VKontakte": {
-          "http://vk.com/": [
-            "userapi.com",
-            "vk.com",
-            "vkontakte.ru"
-          ]
-        }
-      },
-      {
-        "Yahoo!": {
-          "http://www.yahoo.com/": [
-            "mybloglog.com",
-            "rocketmail.com",
-            "address.yahoo.com",
-            "alerts.yahoo.com",
-            "avatars.yahoo.com",
-            "buzz.yahoo.com",
-            "calendar.yahoo.com",
-            "edit.yahoo.com",
-            "legalredirect.yahoo.com",
-            "login.yahoo.com",
-            "mail.yahoo.com",
-            "my.yahoo.com",
-            "notepad.yahoo.com",
-            "pulse.yahoo.com",
-            "webmessenger.yahoo.com",
-            "ymail.com"
-          ]
-        }
-      }
-    ],
     "Fingerprinting": [
+      {
+        "Adabra": {
+          "https://www.adabra.com/": [
+            "adabra.com"
+          ]
+        }
+      },
+      {
+        "AdGainerSolutions": {
+          "http://adgainersolutions.com/adgainer/": [
+            "adgainersolutions.com"
+          ]
+        }
+      },
       {
         "AdMaven": {
           "https://ad-maven.com/": [
@@ -9437,6 +9409,13 @@
         }
       },
       {
+        "AdYouLike": {
+          "https://www.adyoulike.com/": [
+            "pulpix.com"
+          ]
+        }
+      },
+      {
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
@@ -9460,8 +9439,8 @@
         }
       },
       {
-        "AvantMetrics": {
-          "http://www.avantmetrics.com": [
+        "AvantLink": {
+          "http://www.avantlink.com/": [
             "avmws.com"
           ]
         }
@@ -9471,6 +9450,13 @@
           "http://mediaimpact.sk/": [
             "rsz.sk",
             "azetklik.sk"
+          ]
+        }
+      },
+      {
+        "BetssonPalantir": {
+          "https://betssonpalantir.com/": [
+            "betssonpalantir.com"
           ]
         }
       },
@@ -9519,6 +9505,13 @@
         }
       },
       {
+        "ClearLink": {
+          "https://www.clearlink.com/": [
+            "clearlink.com"
+          ]
+        }
+      },
+      {
         "Clickayab": {
           "http://www.clickyab.com": [
             "clickyab.com"
@@ -9555,6 +9548,13 @@
         "DoubleVerify": {
           "http://www.doubleverify.com/": [
             "doubleverify.com"
+          ]
+        }
+      },
+      {
+        "ECSAnalytics": {
+          "https://www.theecsinc.com/": [
+            "ecsanalytics.com"
           ]
         }
       },
@@ -9603,6 +9603,13 @@
         }
       },
       {
+        "GrapheneMedia": {
+          "http://graphenemedia.in/": [
+            "graphenedigitalanalytics.in"
+          ]
+        }
+      },
+      {
         "Gruner + Jahr": {
           "http://www.guj.de/": [
             "ligatus.com"
@@ -9635,6 +9642,21 @@
           "http://www.mediamath.com/": [
             "mathtag.com",
             "mediamath.com"
+          ]
+        }
+      },
+      {
+        "Mobials": {
+          "http://mobials.com": [
+            "mobials.com"
+          ]
+        }
+      },
+      {
+        "Mystighty": {
+          "http://mystighty.info/": [
+            "mystighty.info",
+            "sweeterge.info"
           ]
         }
       },
@@ -9803,6 +9825,20 @@
         }
       },
       {
+        "Vendemore": {
+          "https://vendemore.com/": [
+            "vendemore.com"
+          ]
+        }
+      },
+      {
+        "VerticalHealth": {
+          "https://www.verticalhealth.com/": [
+            "verticalhealth.net"
+          ]
+        }
+      },
+      {
         "ViralLoops": {
           "https://viral-loops.com": [
             "viral-loops.com"
@@ -9822,6 +9858,141 @@
             "zaful.com",
             "gw-ec.com",
             "affasi.com"
+          ]
+        }
+      }
+    ],
+    "Social": [
+      {
+        "AddThis": {
+          "http://www.addthis.com/": [
+            "addthis.com",
+            "addthiscdn.com",
+            "addthisedge.com",
+            "clearspring.com",
+            "connectedads.net",
+            "xgraph.com",
+            "xgraph.net"
+          ]
+        }
+      },
+      {
+        "Causes": {
+          "http://www.causes.com/": [
+            "causes.com"
+          ]
+        }
+      },
+      {
+        "Digg": {
+          "http://digg.com/": [
+            "digg.com"
+          ]
+        }
+      },
+      {
+        "LinkedIn": {
+          "http://www.linkedin.com/": [
+            "licdn.com",
+            "linkedin.com"
+          ]
+        }
+      },
+      {
+        "Lockerz": {
+          "http://lockerz.com/": [
+            "lockerz.com"
+          ]
+        }
+      },
+      {
+        "Mail.Ru": {
+          "http://mail.ru/": [
+            "list.ru",
+            "mail.ru"
+          ]
+        }
+      },
+      {
+        "Meebo": {
+          "https://www.meebo.com/": [
+            "meebo.com",
+            "meebocdn.net"
+          ]
+        }
+      },
+      {
+        "Papaya": {
+          "http://papayamobile.com/": [
+            "papayamobile.com"
+          ]
+        }
+      },
+      {
+        "reddit": {
+          "http://www.reddit.com/": [
+            "reddit.com"
+          ]
+        }
+      },
+      {
+        "Shareaholic": {
+          "http://www.shareaholic.com/": [
+            "buzzster.com",
+            "shareaholic.com"
+          ]
+        }
+      },
+      {
+        "ShareThis": {
+          "http://sharethis.com/": [
+            "sharethis.com"
+          ]
+        }
+      },
+      {
+        "StumbleUpon": {
+          "http://www.stumbleupon.com/": [
+            "stumble-upon.com",
+            "stumbleupon.com"
+          ]
+        }
+      },
+      {
+        "USocial": {
+          "https://usocial.pro": [
+            "usocial.pro"
+          ]
+        }
+      },
+      {
+        "VKontakte": {
+          "http://vk.com/": [
+            "userapi.com",
+            "vk.com",
+            "vkontakte.ru"
+          ]
+        }
+      },
+      {
+        "Yahoo!": {
+          "http://www.yahoo.com/": [
+            "mybloglog.com",
+            "rocketmail.com",
+            "address.yahoo.com",
+            "alerts.yahoo.com",
+            "avatars.yahoo.com",
+            "buzz.yahoo.com",
+            "calendar.yahoo.com",
+            "edit.yahoo.com",
+            "legalredirect.yahoo.com",
+            "login.yahoo.com",
+            "mail.yahoo.com",
+            "my.yahoo.com",
+            "notepad.yahoo.com",
+            "pulse.yahoo.com",
+            "webmessenger.yahoo.com",
+            "ymail.com"
           ]
         }
       }

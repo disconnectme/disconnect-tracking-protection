@@ -176,6 +176,14 @@
         "ad6media.fr"
       ]
     },
+    "Adabra": {
+      "properties": [
+        "adabra.com"
+      ],
+      "resources": [
+        "adabra.com"
+      ]
+    },
     "Adality": {
       "properties": [
         "adality.de"
@@ -428,6 +436,14 @@
       ],
       "resources": [
         "adfusion.com"
+      ]
+    },
+    "AdGainerSolutions": {
+      "properties": [
+        "adgainersolutions.com"
+      ],
+      "resources": [
+        "adgainersolutions.com"
       ]
     },
     "AdGent Digital": {
@@ -1280,7 +1296,8 @@
       ],
       "resources": [
         "omnitagjs.com",
-        "adyoulike.com"
+        "adyoulike.com",
+        "pulpix.com"
       ]
     },
     "ADZ": {
@@ -1875,17 +1892,11 @@
     },
     "AvantLink": {
       "properties": [
-        "avantlink.com"
-      ],
-      "resources": [
-        "avantlink.com"
-      ]
-    },
-    "AvantMetrics": {
-      "properties": [
+        "avantlink.com",
         "avantmetrics.com"
       ],
       "resources": [
+        "avantlink.com",
         "avmws.com"
       ]
     },
@@ -2054,6 +2065,14 @@
       "resources": [
         "betgenius.com",
         "connextra.com"
+      ]
+    },
+    "BetssonPalantir": {
+      "properties": [
+        "betssonpalantir.com"
+      ],
+      "resources": [
+        "betssonpalantir.com"
       ]
     },
     "Bidtellect": {
@@ -2700,6 +2719,14 @@
       ],
       "resources": [
         "choicestream.com"
+      ]
+    },
+    "ClearLink": {
+      "properties": [
+        "clearlink.com"
+      ],
+      "resources": [
+        "clearlink.com"
       ]
     },
     "ClearSaleing": {
@@ -3672,6 +3699,15 @@
         "disqusads.com"
       ]
     },
+    "DistilNetworks": {
+      "properties": [
+        "distilnetworks.com"
+      ],
+      "resources": [
+        "distilnetworks.com",
+        "distiltag.com"
+      ]
+    },
     "dmpxs": {
       "properties": [
         "dmpxs.com"
@@ -3824,6 +3860,15 @@
         "aboutecho.com",
         "haloscan.com",
         "js-kit.com"
+      ]
+    },
+    "ECSAnalytics": {
+      "properties": [
+        "theecsinc.com",
+        "ecsanalytics.com"
+      ],
+      "resources": [
+        "ecsanalytics.com"
       ]
     },
     "EFF": {
@@ -5055,6 +5100,14 @@
         "grapeshot.co.uk"
       ]
     },
+    "GrapheneMedia": {
+      "properties": [
+        "graphenemedia.in"
+      ],
+      "resources": [
+        "graphenedigitalanalytics.in"
+      ]
+    },
     "Gravity": {
       "properties": [
         "gravity.com",
@@ -6225,6 +6278,14 @@
         "crwdcntrl.net"
       ]
     },
+    "LotLinx": {
+      "properties": [
+        "lotlinx.com"
+      ],
+      "resources": [
+        "lotlinx.com"
+      ]
+    },
     "Lower My Bills": {
       "properties": [
         "lowermybills.com"
@@ -6888,6 +6949,14 @@
         "mobfox.com"
       ]
     },
+    "Mobials": {
+      "properties": [
+        "mobials.com"
+      ],
+      "resources": [
+        "mobials.com"
+      ]
+    },
     "Mobile Meteor": {
       "properties": [
         "mobilemeteor.com"
@@ -7085,6 +7154,15 @@
       "resources": [
         "ppjol.net",
         "mypressplus.com"
+      ]
+    },
+    "Mystighty": {
+      "properties": [
+        "mystighty.info"
+      ],
+      "resources": [
+        "mystighty.info",
+        "sweeterge.info"
       ]
     },
     "myThings": {
@@ -9859,6 +9937,14 @@
         "trafficrevenue.net"
       ]
     },
+    "TrafficScore": {
+      "properties": [
+        "trafficscore.com"
+      ],
+      "resources": [
+        "trafficscore.com"
+      ]
+    },
     "Traffiq": {
       "properties": [
         "traffiq.com"
@@ -10290,6 +10376,14 @@
         "venatusmedia.com"
       ]
     },
+    "Vendemore": {
+      "properties": [
+        "vendemore.com"
+      ],
+      "resources": [
+        "vendemore.com"
+      ]
+    },
     "Vendio": {
       "properties": [
         "vendio.com",
@@ -10322,6 +10416,14 @@
       ],
       "resources": [
         "verticalacuity.com"
+      ]
+    },
+    "VerticalHealth": {
+      "properties": [
+        "verticalhealth.com"
+      ],
+      "resources": [
+        "verticalhealth.net"
       ]
     },
     "VerticalResponse": {

@@ -1,13 +1,17 @@
 # Tracker Descriptions
+- [Adabra](#Adabra)
+- [AdGainerSolutions](#AdGainerSolutions)
 - [AdMaven](#AdMaven)
 - [Admicro](#Admicro)
 - [AdScore](#AdScore)
+- [AdYouLike](#AdYouLike)
 - [a.js](#a.js)
 - [Albacross](#Albacross)
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
-- [AvantMetrics](#AvantMetrics)
+- [AvantLink](#AvantLink)
 - [Azet](#Azet)
+- [BetssonPalantir](#BetssonPalantir)
 - [BlueCava](#BlueCava)
 - [BoostBox](#BoostBox)
 - [Brandcrumb](#Brandcrumb)
@@ -15,18 +19,21 @@
 - [C3-Metrics](#C3-Metrics)
 - [CartsGuru](#CartsGuru)
 - [CashBeet](#CashBeet)
+- [ClearLink](#ClearLink)
 - [Clickayab](#Clickayab)
 - [ClickFrog](#ClickFrog)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
 - [DoubleVerify](#DoubleVerify)
+- [ECSAnalytics](#ECSAnalytics)
 - [EyeNewton](#EyeNewton)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
 - [Fanplayr](#Fanplayr)
 - [Foresee](#Foresee)
 - [Friends2Follow](#Friends2Follow)
 - [Gleam](#Gleam)
+- [GrapheneMedia](#GrapheneMedia)
 - [Gridcash](#Gridcash)
 - [iMedia](#iMedia)
 - [JSE](#JSE)
@@ -35,6 +42,8 @@
 - [MinerAlt](#MinerAlt)
 - [Minescripts](#Minescripts)
 - [MineXMR](#MineXMR)
+- [Mobials](#Mobials)
+- [Mystighty](#Mystighty)
 - [Negishim](#Negishim)
 - [NeroHut](#NeroHut)
 - [OneAd](#OneAd)
@@ -50,9 +59,78 @@
 - [SpareChange](#SpareChange)
 - [Storeland](#Storeland)
 - [Upland](#Upland)
+- [Vendemore](#Vendemore)
+- [VerticalHealth](#VerticalHealth)
 - [ViralLoops](#ViralLoops)
 - [Webmine](#Webmine)
 - [ZafulAffiliate](#ZafulAffiliate)
+## Adabra
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://track.adabra.com/sbn_fingerprint.v1.16.47.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(t) {
+        if (!(this instanceof e)) return new e(t);
+        this.options = this.extend(t, {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+```
+2. Sends computed fingerprint back to server
+```
+Request URL: https://track.adabra.com/log?tit=www.gioiapura.it%2FOfferte%20su%20Orologi%20e%20Gioielli%20delle%20Migliori%20Marche%3A%20gioielleria%20online%20Gioiapura&_viewts=1553539057&pguri=https%3A%2F%2Fwww.gioiapura.it%2F&_usrc=7431f35392f1f144&_usrccts=1553539050&fp2=********&idp=110&pgty=101&az=RV&ec_lng=it&cli_ctlg=32&sl_qty=1&idrcctx=1350&__adbraud=110||115,129,594,596,1897,1936,1939,3441,3572|ca310d19-1405-4ca7-a9a9-5fe87a521194|374,381,421,1080,1199,1268,1281
+```
+[Go back to top](#tracker-descriptions)
+
+## AdGainerSolutions
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(e) {
+        var t = {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i]
+        };
+        this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+
+```
+2. Sends computed fingerprint back to server
+```
+    (new Fingerprint2).get(function(n, r) {
+        if (i = i + "&device_id=" + n + "&t=" + (new Date).getTime(), "undefined" != typeof ga && ga(function() {
+                i = i + "&ga_client_id=" + ga.getAll()[0].get("clientId") + "&ga_tracking_id=" + Object.keys(gaData)[0]
+            }), "undefined" != typeof vis_data)
+            for (var o in vis_data) i = i + "&vwo_" + o + "=" + vis_data[o];
+        var s = function(e) {
+            for (var t = [], i = 0; i < e.scripts.length; i++) t.push('<script type="text/javascript" async src="' + e.scripts[i].script + '" />');
+            jQuery("#tagManager_DIV").html(t.join(""))
+        };
+        if (window.XDomainRequest) {
+            var l = new XDomainRequest;
+            l.open("get", e + "incomingdata/tagManager?campaign_id=" + t + "&vars=" + i + "&referrer=" + a), l.send(), l.onload = function() {
+                var e = $.parseJSON(l.responseText);
+                null != e && void 0 !== e && s(e)
+            }
+        } else jQuery.support.cors = !0, jQuery.post(e + "incomingdata/tagManager", {
+            campaign_id: t,
+            vars: i,
+            referrer: a
+        }, s, "json")
+    })
+
+```
+[Go back to top](#tracker-descriptions)
+
 ## AdMaven
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -73,6 +151,8 @@ Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
             })
 
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Admicro
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -93,6 +173,8 @@ c.prototype.getCanvas = function () {
         } catch (a) { return "Unknown" }
     }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## AdScore
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -155,6 +237,59 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
             }
         }();
 ```
+[Go back to top](#tracker-descriptions)
+
+## AdYouLike
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://cdn.pulpix.com/static/pulpix.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+("Fingerprint2", this, function() {
+        "use strict";
+        var e = function(t) {
+            if (!(this instanceof e)) return new e(t);
+            var r = {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: []
+            };
+            this.options = this.extend(t, r), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+
+```
+2. Sends computed fingerprint back to server
+```
+{
+                    key: "_computeTrackingEvent",
+                    value: function(e, r) {
+                        r.name = e;
+                        var o = new A(r),
+                            a = Object.assign({
+                                timestamp: (new Date).toISOString(),
+                                ab_test: t.chosenVariations,
+                                visitor_id: l.visitorId,
+                                session_id: l.sessionId,
+                                visitor_fingerprint: l.visitorFingerprint,
+                                visitor_random_id: l.visitorRandomId,
+                                document_referrer: window.document.referrer || void 0,
+                                device_orientation: p(),
+                                has_adblock: i(),
+                                is_tab_active: n.isTabActive(),
+                                is_visitor_active: f(),
+                                device_type: n.isMobile() ? "mobile" : "desktop",
+                                canonical_url: n.getCanonicalUrl()
+                            }, n.removeUndefinedKeys(o));
+                        return new s(a)
+                    }
+                }
+
+```
+
+[Go back to top](#tracker-descriptions)
+
 ## a.js
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -213,6 +348,8 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Albacross
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -267,6 +404,8 @@ NosivaCore.markers = {}, NosivaCore.params = ["first_name", "last_name", "email"
 
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## AuditedMedia
 This service has been classified as `Fingerprinting` for the following reasons:
@@ -431,6 +570,8 @@ This service has been classified as `Fingerprinting` for the following reasons:
         )()
     }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Augur
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -444,18 +585,45 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 
 > To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
 
-## AvantMetrics
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+## AvantLink
+This service has been classified as `Analytics`, `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
-Script: `https://cdn.avmws.com/1013929/`
+Script: `https://cdn.avmws.com/1013737/`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
 ```
-    var Fingerprint2 = function(options) {
-        throw new Error("'new Fingerprint()' is deprecated, see https://github.com/Valve/fingerprintjs2#upgrade-guide-from-182-to-200")
+var defaultOptions = {
+        preprocessor: null,
+        audio: {
+            timeout: 1e3,
+            excludeIOS11: true
+        },
+        fonts: {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            userDefinedFonts: [],
+            extendedJsFonts: false
+        },
+        screen: {
+            detectScreenOrientation: true
+        },
+        plugins: {
+            sortPluginsFor: [/palemoon/i],
+            excludeIE: false
+        },
+        extraComponents: [],
+        excludes: {
+            enumerateDevices: true,
+            pixelRatio: true,
+            doNotTrack: true,
+            fontsFlash: true
+        },
+        NOT_AVAILABLE: "not available",
+        ERROR: "error",
+        EXCLUDED: "excluded"
     };
 
 ```
-2. Sends computed fingerprint back to server:
+2. Sends computed fingerprint back to server
 ```
 function logPageView(customData) {
             var request;
@@ -501,7 +669,9 @@ function logPageView(customData) {
                 }, 500)
             }
         }
+
 ```
+[Go back to top](#tracker-descriptions)
 
 ## Azet
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -515,6 +685,115 @@ function getFp() {
 }
 
 ```
+[Go back to top](#tracker-descriptions)
+
+## BetssonPalantir
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+            var t = {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: []
+            };
+```
+2. Sends computed fingerprint back to server
+```
+   function __AmonsulSender(e) {
+    function t() {
+        return location.protocol == "https:"
+    }
+
+    function n() {
+        return t() ? "https://" + e : "http://" + e
+    }
+
+    function r(e) {
+        var t = s("__amonsulfp");
+        !t || t == undefined ? (new Fingerprint2).get(function(t) {
+            o("__amonsulfp", t, 7300), e(t)
+        }) : e(t)
+    }
+
+    function i() {
+        var e = s("__amonsulid");
+        if (!e || e == undefined) e = Math.uuid();
+        return o("__amonsulid", e, 7300), e
+    }
+
+    function s(e) {
+        var t = e + "=",
+            n = document.cookie.split(";");
+        for (var r = 0; r < n.length; r++) {
+            var i = n[r];
+            while (i.charAt(0) == " ") i = i.substring(1);
+            if (i.indexOf(t) == 0) return i.substring(t.length, i.length)
+        }
+        return ""
+    }
+
+    function o(e, t, n) {
+        var r = new Date;
+        n = n || 365, r.setTime(r.getTime() + n * 24 * 60 * 60 * 1e3);
+        var i = "expires=" + r.toUTCString();
+        document.cookie = e + "=" + t + "; " + i
+    }
+
+    function u(e) {
+        var t = e || {};
+        t.uuid = i();
+        var n, r = new Date,
+            s = Math.round(r.getTime() / 1e3),
+            o = "&r=" + String(Math.random()).slice(2, 8) + "&h=" + r.getHours() + "&m=" + r.getMinutes() + "&s=" + r.getSeconds() + "&_idts=" + s;
+        o += "&fp=" + encodeURIComponent(e.fingerprint);
+        for (n in t) Object.prototype.hasOwnProperty.call(t, n) && !a(t[n]) && (o += "&" + n + "=" + t[n]);
+        return o
+    }
+
+    function a(e) {
+        return e == null || e.length === 0
+    }
+
+    function f(e, t, n) {
+        var r = window.XMLHttpRequest ? new window.XMLHttpRequest : window.ActiveXObject ? new window.ActiveXObject("Microsoft.XMLHTTP") : null;
+        r.open("POST", e, !0), r.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8"), r.onreadystatechange = function() {
+            4 == r.readyState && (typeof n == "function" && n(req), r = null)
+        }, r.send(t)
+    }
+
+    function l(e, t, n, r, s, o) {
+        return "ec=" + encodeURIComponent(n) + "&ea=" + encodeURIComponent(r) + "&el=" + encodeURIComponent(s) + "&uid=" + encodeURIComponent(e) + "&vid=" + encodeURIComponent(i()) + "&fp=" + encodeURIComponent(t) + "&data=" + encodeURIComponent(o)
+    }
+    var e = e || "";
+    this.getVersion = function() {
+        return "0.1-pre"
+    }, this.logEventMessage = function(e, t, i, s, o) {
+        r(function(r) {
+            var u = l(e, r, t, i, s, o);
+            f(n() + "/event", u)
+        })
+    }, this.logRawMessage = function(e) {
+        r(function(t) {
+            e.fingerprint = t;
+            var r = u(e);
+            f(n() + "/track", r)
+        })
+    }, this.getTrackingInfo = function(e) {
+        r(function(t) {
+            var n = {};
+            n.fingerprint = t, n.amonsulid = i(), e(n)
+        });
+        return
+    }
+}
+```
+
+[Go back to top](#tracker-descriptions)
+
 ## BlueCava
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -606,6 +885,8 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
         stop();
       }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## BoostBox
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -658,6 +939,8 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
       return ret;
     }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Brandcrumb
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -704,6 +987,8 @@ e.prototype.getFingerprint = function() {
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## BrightEdge
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -740,6 +1025,8 @@ var audioTimeoutId$jscomp$0 = setTimeout(function() {
    VERSION : "3.39",
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## C3 Metrics
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -788,6 +1075,8 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
 ```
 
+
+[Go back to top](#tracker-descriptions)
 
 ## CartsGuru
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -857,6 +1146,8 @@ var b = {
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## CashBeet
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -896,6 +1187,79 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
+## ClearLink
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://mapi.clearlink.com/js/cl-track.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+("Fingerprint2", this, function() {
+            "use strict";
+            var e = function(t) {
+                if (!(this instanceof e)) return new e(t);
+                var n = {
+                    swfContainerId: "fingerprintjs2",
+                    swfPath: "flash/compiled/FontList.swf",
+                    detectScreenOrientation: !0,
+                    sortPluginsFor: [/palemoon/i],
+                    userDefinedFonts: []
+                };
+                this.options = this.extend(t, n), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+            };
+            return e.prototype = {
+                extend: function(e, t) {
+                    if (null == e) return t;
+                    for (var n in e) null != e[n] && t[n] !== e[n] && (t[n] = e[n]);
+                    return t
+                },
+                get: function(e) {
+                    var t = [];
+                    t = this.userAgentKey(t), t = this.languageKey(t), t = this.colorDepthKey(t), t = this.pixelRatioKey(t), t = this.hardwareConcurrencyKey(t), t = this.screenResolutionKey(t), t = this.availableScreenResolutionKey(t), t = this.timezoneOffsetKey(t), t = this.sessionStorageKey(t), t = this.localStorageKey(t), t = this.indexedDbKey(t), t = this.addBehaviorKey(t), t = this.openDatabaseKey(t), t = this.cpuClassKey(t), t = this.platformKey(t), t = this.doNotTrackKey(t), t = this.pluginsKey(t), t = this.canvasKey(t), t = this.webglKey(t), t = this.adBlockKey(t), t = this.hasLiedLanguagesKey(t), t = this.hasLiedResolutionKey(t), t = this.hasLiedOsKey(t), t = this.hasLiedBrowserKey(t), t = this.touchSupportKey(t), t = this.customEntropyFunction(t);
+                    var n = this;
+                    this.fontsKey(t, function(t) {
+                        var r = [];
+                        n.each(t, function(e) {
+                            var t = e.value;
+                            "undefined" != typeof e.value.join && (t = e.value.join(";")), r.push(t)
+                        });
+                        var i = n.x64hash128(r.join("~~~"), 31);
+                        return e(i, t)
+                    })
+                }
+
+```
+2. Sends computed fingerprint back to server
+```
+function c(e, t, n, r, i) {
+                n && (e.push(["setCustomVariable", 1, "PromoCode", n, "visit"]), i.promoCode = n), t && (e.push(["setCustomVariable", 2, "RequestID", t, "visit"]), i.requestId = t), r = r || i && i.fingerprint, r && (e.push(["setCustomVariable", 3, "Fingerprint", r, "visit"]), e.push(["setUserId", r]), i.fingerprint = r, h(r, t))
+            }
+
+            function d() {
+                var e = o();
+                c(n._paq, e, a(), !1, n.piwikData), _paq.push(["trackPageView"]), h(n.piwikData && n.piwikData.fingerprint, e)
+            }
+
+            function h(e, t) {
+                if (t && e) {
+                    var n = w.getMapiUrl() + ("/cpr/external/request/" + t);
+                    T.putJSON(n, {
+                        data: {
+                            request: {
+                                fingerprint: {
+                                    fingerprint: e,
+                                    request_id: t
+                                }
+                            }
+                        }
+                    })
+                }
+            }
+```
+
+[Go back to top](#tracker-descriptions)
+
 ## Clickayab
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -905,6 +1269,8 @@ Script: `http://supplier.clickyab.com/api/multi.js`
 ```
 swfContainerId:"fingerprintjs2"
 ```
+[Go back to top](#tracker-descriptions)
+
 ## ClickFrog
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -939,6 +1305,8 @@ Script: `http://franecki.net/js/lib.js`
     }
 
 ```
+[Go back to top](#tracker-descriptions)
+
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -986,6 +1354,8 @@ up: {"type":"submit","params":{"version":7,"job_id":"448165886709466","nonce":"0
 
 down: {"type":"hash_accepted","params":{"hashes":256}}
 ```
+[Go back to top](#tracker-descriptions)
+
 ## CoinPot
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -1057,6 +1427,8 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## CryptoLoot
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -1076,6 +1448,8 @@ function _0x45bcc2() {
   }, 2E3);
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## DoubleVerify
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1123,6 +1497,30 @@ sortable.push(["pf", this.navigator.platform || ""]);
 sortable.push(["dnt", this.navigator.doNotTrack || ""]);
 sortable.push(["canv", this.Ps()]);
 ```
+[Go back to top](#tracker-descriptions)
+
+## ECSAnalytics
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://common.ecsanalytics.com/js/vendor/fp.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(e) {
+        var t = {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i]
+        };
+        this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+```
+2. Sends computed fingerprint back to server
+```
+Request URL: https://mittmedia.ecsanalytics.com/analytics/p.gif?r=ex&cid=REMOVED&d=lt.se&jid=REMOVED&vid=f2qwg0&eid=REMOVED&v=1.7.0
+```
+[Go back to top](#tracker-descriptions)
+
 ## EyeNewton
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1154,6 +1552,8 @@ ajax.get(settings_url, e, function(t) {
                 settingsLoaded = !0
             })
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## eyeReturn Marketing
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -1189,6 +1589,8 @@ Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releas
 
 ```
 2. Script then sends fingerprint to Fanplayer server
+[Go back to top](#tracker-descriptions)
+
 ## Foresee
 This service has been classified as `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1272,6 +1674,8 @@ This service has been classified as `Fingerprinting` for the following reasons:
   self.Fingerprint = Binder;
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## Friends2Follow
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1304,6 +1708,8 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
             }
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## Gleam
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -1340,6 +1746,27 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
                 })
 ```
 
+[Go back to top](#tracker-descriptions)
+
+## GrapheneMedia
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://www.graphenedigitalanalytics.in/ccanalytics/fingerprint2.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(t) {
+        if (!(this instanceof e)) return new e(t);
+        this.options = this.extend(t, {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+```
+[Go back to top](#tracker-descriptions)
+
 ## Gridcash
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -1367,6 +1794,8 @@ This service has been classified as `Cryptomining` for the following reasons:
             xhr.send()
         }
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## iMedia
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -1438,6 +1867,8 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
         return canvas;
       };
 ```
+[Go back to top](#tracker-descriptions)
+
 ## JSE
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -1460,6 +1891,8 @@ This service has been classified as `Cryptomining` for the following reasons:
       } else {
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## lptracker
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1470,6 +1903,8 @@ Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2
 ```
 {"site_id":62106,"fingerprint_hash":"XXXXXXXXXXX","version":"2.20.0-312-g9dbe2215e8-dirty","page":"https://green-game.ru/","domain":"green-game.ru","referer":"https://green-game.ru/"}: 
    ```
+[Go back to top](#tracker-descriptions)
+
 ## MediaMath
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -1624,6 +2059,8 @@ classID : "clsid:D27CDB6E-AE6D-11CF-96B8-444553540000",
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## MinerAlt
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -1677,6 +2114,8 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Minescripts
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -1729,6 +2168,8 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## MineXMR
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -1785,6 +2226,134 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
+## Mobials
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        t.default = function() {
+            return new Promise(function(e, t) {
+                if (!r) return t("Fingerprint2 library not loaded");
+                var n = function() {
+                    try {
+                        (new r).get(function(t, n) {
+                            return e(t)
+                        })
+                    } catch (e) {
+                        t(e)
+                    }
+                };
+                window.requestIdleCallback ? window.requestIdleCallback(n) : setTimeout(n, 500)
+            })
+        }
+
+```
+2. Sends computed fingerprint back to server
+```
+        t.default = function() {
+            return Promise.all([r.get("mobAuserId"), r.get("crossable")]).then(function(e) {
+                var t = e[0],
+                    n = e[1];
+                if (t) return {
+                    userId: t,
+                    crossable: function(e) {
+                        return "true" === e
+                    }(n)
+                };
+                var a = document.createElement("iframe"),
+                    o = i.getOnce(function(e) {
+                        return "mobials.userId.ready" === e.data.action
+                    }, "https://moba.mobials.com").then(function() {
+                        return i.postMessageRpc(a.contentWindow, {
+                            action: "mobials.userId.request"
+                        }, "https://moba.mobials.com")
+                    }).then(function(e) {
+                        return r.set("mobAuserId", e.data.userId), r.set("crossable", e.data.crossable), {
+                            userId: e.data.userId,
+                            crossable: e.data.crossable
+                        }
+                    });
+                return a.setAttribute("id", "mobialsAf"), a.setAttribute("width", "1"), a.setAttribute("height", "1"), document.body.appendChild(a), a.setAttribute("src", "https://moba.mobials.com/v1/user_id"), a.style.border = "0", a.style.visibility = "hidden", o
+            })
+        }
+
+```
+
+[Go back to top](#tracker-descriptions)
+
+## Mystighty
+This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `http://mystighty.info/c/D.9m6Qb/2n5-lwSoWOQW9hM/jLcv3-M/z/g/xGN/Sp0UyXNUzFcnzmO/DOUE1M`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+var e = function(t) {
+            if (!(this instanceof e)) return new e(t);
+            this.options = this.extend(t, {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: [],
+                excludeDoNotTrack: !0,
+                excludePixelRatio: !0
+            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+        };
+```
+2. Sends computed fingerprint back to server
+```
+function logPageView(customData) {
+            var request;
+            request = configTrackerUrl + "?url=" + escapeWrapper(documentAlias.location.href) + "&ref=" + escapeWrapper(getReferrer()) + "&name=" + escapeWrapper(documentAlias.title) + "&avmws=" + escapeWrapper(getCookie("avmws")) + "&rand=" + Math.random() + "&lib=1";
+            if (isDefined(customData)) {
+                request += "&data=" + escapeWrapper(stringify(customData))
+            }
+            if (window.requestIdleCallback) {
+                requestIdleCallback(function() {
+                    try {
+                        Fingerprint2.get({
+                            excludeFlashFonts: true,
+                            excludeJsFonts: true
+                        }, function(components) {
+                            var values = components.map(function(component) {
+                                return component.value
+                            });
+                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
+                            request += "&fingerprint=" + escapeWrapper(murmur);
+                            getScript(request)
+                        })
+                    } catch (e) {
+                        getScript(request)
+                    }
+                })
+            } else {
+                setTimeout(function() {
+                    try {
+                        Fingerprint2.get({
+                            excludeFlashFonts: true,
+                            excludeJsFonts: true
+                        }, function(components) {
+                            var values = components.map(function(component) {
+                                return component.value
+                            });
+                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
+                            request += "&fingerprint=" + escapeWrapper(murmur);
+                            getScript(request)
+                        })
+                    } catch (e) {
+                        getScript(request)
+                    }
+                }, 500)
+            }
+        }
+
+```
+
+[Go back to top](#tracker-descriptions)
+
 ## Negishim
 This service has been classified as `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1812,6 +2381,8 @@ var a = window.location.href.replace("?", "^").replace(/&/g, "~");
 
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## NeroHut
 This service has been classified as `Cryptomining` for the following reasons:
@@ -1869,6 +2440,8 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## OneAd
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1925,6 +2498,8 @@ a.Fingerprint2 = function(a) {
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## OnlineMetrix
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -1935,6 +2510,8 @@ function tmx_run_page_fingerprinting(saveNotifs) {
   }
 }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Opolen
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2009,6 +2586,8 @@ loadPolenContainer: function() {
 
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## PerimeterX
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -2109,6 +2688,8 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
+[Go back to top](#tracker-descriptions)
+
 ## PinPoll
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2165,6 +2746,8 @@ var Fingerprint2 = function e(t) {
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## PPCProtect
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2200,6 +2783,8 @@ Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## PrismApp
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -2244,6 +2829,8 @@ BRUNCH_ENV: "production",
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## PrometheusIntelligenceTechnology
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2275,6 +2862,8 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
   }})();
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## Provers
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -2311,6 +2900,8 @@ Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
 });
 
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## SAP
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -2428,6 +3019,8 @@ function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* opti
 }
 
 ``` 
+[Go back to top](#tracker-descriptions)
+
 ## SpareChange
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -2474,6 +3067,8 @@ function Miner(spareChangeApiKey, p1, p2) {
 }
 ```
 
+[Go back to top](#tracker-descriptions)
+
 ## Storeland
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2509,6 +3104,8 @@ try {
 
 
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Upland
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2634,6 +3231,76 @@ getCanvasFp: function () {
         });
     }, 75);
    ```
+[Go back to top](#tracker-descriptions)
+
+## Vendemore
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://d2hya7iqhf5w3h.cloudfront.net/scripts/analytics.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+('Fingerprint2', this, function() {
+    'use strict';
+    var _0x75b9x15 = function(options) {
+        if (!(this instanceof _0x75b9x15)) {
+            return new _0x75b9x15(options)
+        };
+        var _0x75b9x17 = {
+            swfContainerId: 'fingerprintjs2',
+            swfPath: 'flash/compiled/FontList.swf',
+            detectScreenOrientation: true,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        };
+        this['options'] = this['extend'](options, _0x75b9x17);
+        this['nativeForEach'] = Array['prototype']['forEach'];
+        this['nativeMap'] = Array['prototype']['map']
+    };
+```
+2. Sends computed fingerprint back to server
+```
+new Fingerprint2(options)['get'](function(_0x75b9x48) {
+    var _0x75b9x8a = 'https://analytics.vendemore.com/visits';
+    _0x75b9x8a += '?vlmref=' + customerCookieValue;
+    _0x75b9x8a += '&vaid=' + ourCookieValue;
+    _0x75b9x8a += '&fingerprint=' + _0x75b9x48;
+    _0x75b9x8a += '&url=' + requestUrl;
+    _0x75b9x8a += '&title=' + title;
+    _0x75b9x8a += '&path=' + path;
+    _0x75b9x8a += '&domain=' + domain;
+    _0x75b9x8a += '&referrer=' + referrer;
+    httpGetAsync(_0x75b9x8a, interactionControllerResponse)
+})
+```
+
+[Go back to top](#tracker-descriptions)
+
+## VerticalHealth
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://assets.verticalhealth.net/fingerprint2.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var e = function(t) {
+        if (!(this instanceof e)) return new e(t);
+        var i = {
+            swfContainerId: "fingerprintjs2",
+            swfPath: "flash/compiled/FontList.swf",
+            detectScreenOrientation: !0,
+            sortPluginsFor: [/palemoon/i],
+            userDefinedFonts: []
+        };
+        this.options = this.extend(t, i), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
+    };
+
+```
+2. Sends computed fingerprint back to server
+```
+Request URL: https://id.verticalhealth.net/pixel.gif?fprint=REMOVED&partnerid=iodine&context=%7B%22depression%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22diagnosis%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22new%20york%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22morphine%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tramadol%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22lortab%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22vicodin%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22one%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgery%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tissue%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22muscle%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgeon%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22panic%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22doctor%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22pain%22%3A%7B%22score%22%3A3%2C%22count%22%3A3%7D%2C%22add%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22addictive%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22abuse%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22adhd%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22medications%22%3A%7B%22score%22%3A6%2C%22count%22%3A4%7D%7D
+```
+
+[Go back to top](#tracker-descriptions)
+
 ## ViralLoops
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2643,6 +3310,8 @@ Script: `https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js`
 ```
 swfContainerId:"fingerprintjs2"
 ```
+[Go back to top](#tracker-descriptions)
+
 ## Webmine
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -2674,6 +3343,8 @@ var CryptonightWASMWrapper = function() {
   self.onmessage = this.onMessage.bind(this);
 };
 ```
+
+[Go back to top](#tracker-descriptions)
 
 ## ZafulAffiliate
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
@@ -2719,3 +3390,5 @@ Script: `https://js.affasi.com/affasi_js.min.js`
 
 
 ```
+[Go back to top](#tracker-descriptions)
+
