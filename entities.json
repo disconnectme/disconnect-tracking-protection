@@ -237,6 +237,14 @@
         "adatus.com"
       ]
     },
+    "Adbot": {
+      "properties": [
+        "adbot.tw"
+      ],
+      "resources": [
+        "adbot.tw"
+      ]
+    },
     "Adbrain": {
       "properties": [
         "adbrain.com"
@@ -665,7 +673,8 @@
         "rensovetors.info",
         "boudja.com",
         "ad-maven.com",
-        "agreensdistra.info"
+        "agreensdistra.info",
+        "wrethicap.info"
       ]
     },
     "AdMaximizer Network": {
@@ -758,7 +767,8 @@
         "adnium.com"
       ],
       "resources": [
-        "adnium.com"
+        "adnium.com",
+        "montwam.top"
       ]
     },
     "adnologies": {
@@ -2093,6 +2103,14 @@
         "bidvertiser.com"
       ]
     },
+    "BigClick": {
+      "properties": [
+        "bigclick.me"
+      ],
+      "resources": [
+        "bgclck.me"
+      ]
+    },
     "BigDoor": {
       "properties": [
         "bigdoor.com"
@@ -2102,7 +2120,7 @@
         "onetruefan.com"
       ]
     },
-    "bigmir)net": {
+    "bigmirnet": {
       "properties": [
         "bigmir.net"
       ],
@@ -2326,6 +2344,14 @@
       ],
       "resources": [
         "branica.com"
+      ]
+    },
+    "BreakTime": {
+      "properties": [
+        "breaktime.com.tw"
+      ],
+      "resources": [
+        "breaktime.com.tw"
       ]
     },
     "Brightcove": {
@@ -2834,6 +2860,14 @@
         "clickfuel.com",
         "myconversionlab.com",
         "conversiondashboard.com"
+      ]
+    },
+    "ClickGuard": {
+      "properties": [
+        "clickguard.com"
+      ],
+      "resources": [
+        "clickguard.com"
       ]
     },
     "ClickInc": {
@@ -4568,6 +4602,14 @@
         "double-check.com"
       ]
     },
+    "FuelX": {
+      "properties": [
+        "fuelx.com"
+      ],
+      "resources": [
+        "fuel451.com"
+      ]
+    },
     "Fullstory": {
       "properties": [
         "fullstory.com"
@@ -5254,6 +5296,16 @@
         "heyzap.com"
       ]
     },
+    "HilltopAds": {
+      "properties": [
+        "hilltopads.com"
+      ],
+      "resources": [
+        "hilltopads.com",
+        "hilltopads.net",
+        "shoporielder.pro"
+      ]
+    },
     "Hi-media": {
       "properties": [
         "himediagroup.com"
@@ -5300,12 +5352,28 @@
         "smartadserver.com"
       ]
     },
+    "HotelChamp": {
+      "properties": [
+        "hotelchamp.com"
+      ],
+      "resources": [
+        "hotelchamp.com"
+      ]
+    },
     "Hotjar": {
       "properties": [
         "hotjar.com"
       ],
       "resources": [
         "hotjar.com"
+      ]
+    },
+    "HotMart": {
+      "properties": [
+        "hotmart.com"
+      ],
+      "resources": [
+        "hotmart.com"
       ]
     },
     "HOTWords": {
@@ -8272,6 +8340,14 @@
         "provers.pro"
       ]
     },
+    "Psonstrentie": {
+      "properties": [
+        "psonstrentie.info"
+      ],
+      "resources": [
+        "psonstrentie.info"
+      ]
+    },
     "Public-Idées": {
       "properties": [
         "publicidees.com"
@@ -8692,6 +8768,14 @@
         "xplusone.com"
       ]
     },
+    "Rollick": {
+      "properties": [
+        "gorollick.com"
+      ],
+      "resources": [
+        "rollick.io"
+      ]
+    },
     "Rovion": {
       "properties": [
         "rovion.com"
@@ -8911,6 +8995,14 @@
         "nabbr.com"
       ]
     },
+    "Semantiqo": {
+      "properties": [
+        "semantiqo.com"
+      ],
+      "resources": [
+        "semantiqo.com"
+      ]
+    },
     "Semasio": {
       "properties": [
         "semasio.com"
@@ -8918,6 +9010,14 @@
       "resources": [
         "semasio.com",
         "semasio.net"
+      ]
+    },
+    "SendPulse": {
+      "properties": [
+        "sendpulse.com"
+      ],
+      "resources": [
+        "sendpulse.com"
       ]
     },
     "Service4refresh": {
@@ -9666,6 +9766,14 @@
         "technoratimedia.com"
       ]
     },
+    "TechSolutions": {
+      "properties": [
+        "techsolutions.com.tw"
+      ],
+      "resources": [
+        "techsolutions.com.tw"
+      ]
+    },
     "TellApart": {
       "properties": [
         "tellapart.com",
@@ -9790,6 +9898,14 @@
       "resources": [
         "tinder.com",
         "carbonads.com"
+      ]
+    },
+    "TinyCloud": {
+      "properties": [
+        "tiny.cloud"
+      ],
+      "resources": [
+        "tinymce.com"
       ]
     },
     "TiqIQ": {
@@ -10676,6 +10792,14 @@
         "webgozar.ir"
       ]
     },
+    "Webmecanik": {
+      "properties": [
+        "webmecanik.com"
+      ],
+      "resources": [
+        "webmecanik.com"
+      ]
+    },
     "WebMetro": {
       "properties": [
         "revanadigital.com",
@@ -10811,6 +10935,14 @@
       ],
       "resources": [
         "amung.us"
+      ]
+    },
+    "WideOrbit": {
+      "properties": [
+        "wideorbit.com"
+      ],
+      "resources": [
+        "dep-x.com"
       ]
     },
     "Wingify": {

@@ -168,6 +168,13 @@
         }
       },
       {
+        "Adbot": {
+          "https://adbot.tw/": [
+            "adbot.tw"
+          ]
+        }
+      },
+      {
         "Adbrain": {
           "http://www.adbrain.com/": [
             "adbrn.com",
@@ -502,7 +509,8 @@
             "rensovetors.info",
             "boudja.com",
             "ad-maven.com",
-            "agreensdistra.info"
+            "agreensdistra.info",
+            "wrethicap.info"
           ]
         }
       },
@@ -1494,7 +1502,22 @@
         }
       },
       {
-        "bigmir)net": {
+        "BigClick": {
+          "http://bigclick.me/": [
+            "bgclck.me",
+            "xcvgdf.party"
+          ]
+        }
+      },
+      {
+        "BigClick": {
+          "http://bigclick.me/": [
+            "bgclck.me"
+          ]
+        }
+      },
+      {
+        "bigmirnet": {
           "http://www.bigmir.net/": [
             "bigmir.net"
           ]
@@ -1645,6 +1668,13 @@
           "http://www.brandscreen.com/": [
             "brandscreen.com",
             "rtbidder.net"
+          ]
+        }
+      },
+      {
+        "BreakTime": {
+          "https://www.breaktime.com.tw/": [
+            "breaktime.com.tw"
           ]
         }
       },
@@ -2966,6 +2996,14 @@
         }
       },
       {
+        "FuelX": {
+          "https://fuelx.com/": [
+            "fuelx.com",
+            "fuel451.com"
+          ]
+        }
+      },
+      {
         "Future Ads": {
           "https://www.futureads.com/": [
             "futureads.com",
@@ -3210,6 +3248,15 @@
         }
       },
       {
+        "HilltopAds": {
+          "https://hilltopads.com/": [
+            "hilltopads.com",
+            "hilltopads.net",
+            "shoporielder.pro"
+          ]
+        }
+      },
+      {
         "Hi-media": {
           "http://www.hi-media.com/": [
             "comclick.com",
@@ -3223,6 +3270,20 @@
             "horyzon-media.com",
             "meetic-partners.com",
             "smartadserver.com"
+          ]
+        }
+      },
+      {
+        "HotelChamp": {
+          "https://www.hotelchamp.com": [
+            "hotelchamp.com"
+          ]
+        }
+      },
+      {
+        "HotMart": {
+          "https://www.hotmart.com/en/": [
+            "hotmart.com"
           ]
         }
       },
@@ -5054,6 +5115,13 @@
         }
       },
       {
+        "Psonstrentie": {
+          "http://psonstrentie.info": [
+            "psonstrentie.info"
+          ]
+        }
+      },
+      {
         "Public-Idées": {
           "http://www.publicidees.com/": [
             "publicidees.com"
@@ -5456,6 +5524,13 @@
           "http://selectablemedia.com/": [
             "nabbr.com",
             "selectablemedia.com"
+          ]
+        }
+      },
+      {
+        "Semantiqo": {
+          "http://semantiqo.com/": [
+            "semantiqo.com"
           ]
         }
       },
@@ -6449,6 +6524,13 @@
         }
       },
       {
+        "Webmecanik": {
+          "https://www.webmecanik.com/": [
+            "webmecanik.com"
+          ]
+        }
+      },
+      {
         "WebMetro": {
           "http://www.webmetro.com/": [
             "dsmmadvantage.com",
@@ -6469,6 +6551,13 @@
           "http://www.webtraffic.se/": [
             "webtraffic.no",
             "webtraffic.se"
+          ]
+        }
+      },
+      {
+        "WideOrbit": {
+          "https://www.wideorbit.com/": [
+            "dep-x.com"
           ]
         }
       },
@@ -8188,6 +8277,13 @@
         }
       },
       {
+        "ClickGuard": {
+          "https://www.clickguard.com/": [
+            "clickguard.com"
+          ]
+        }
+      },
+      {
         "ClickTale": {
           "http://www.clicktale.com/": [
             "clicktale.com",
@@ -9022,6 +9118,13 @@
         }
       },
       {
+        "Rollick": {
+          "https://gorollick.com": [
+            "rollick.io"
+          ]
+        }
+      },
+      {
         "Roxr": {
           "http://roxr.net/": [
             "getclicky.com",
@@ -9060,6 +9163,13 @@
         "Segment.io": {
           "https://segment.io/": [
             "segment.io"
+          ]
+        }
+      },
+      {
+        "SendPulse": {
+          "https://sendpulse.com/": [
+            "sendpulse.com"
           ]
         }
       },
@@ -9150,6 +9260,13 @@
         }
       },
       {
+        "TechSolutions": {
+          "https://www.techsolutions.com.tw/": [
+            "techsolutions.com.tw"
+          ]
+        }
+      },
+      {
         "TENSQUARE": {
           "http://www.tensquare.com/": [
             "tensquare.com"
@@ -9161,6 +9278,13 @@
           "http://www.heronpartners.com.au/": [
             "heronpartners.com.au",
             "marinsm.com"
+          ]
+        }
+      },
+      {
+        "TinyCloud": {
+          "https://www.tiny.cloud/": [
+            "tinymce.com"
           ]
         }
       },
@@ -9370,6 +9494,13 @@
         }
       },
       {
+        "Adbot": {
+          "https://adbot.tw/": [
+            "adbot.tw"
+          ]
+        }
+      },
+      {
         "AdGainerSolutions": {
           "http://adgainersolutions.com/adgainer/": [
             "adgainersolutions.com"
@@ -9382,7 +9513,8 @@
             "rensovetors.info",
             "boudja.com",
             "ad-maven.com",
-            "agreensdistra.info"
+            "agreensdistra.info",
+            "wrethicap.info"
           ]
         }
       },
@@ -9397,7 +9529,8 @@
       {
         "Adnium": {
           "https://adnium.com": [
-            "adnium.com"
+            "adnium.com",
+            "montwam.top"
           ]
         }
       },
@@ -9461,6 +9594,21 @@
         }
       },
       {
+        "BigClick": {
+          "http://bigclick.me/": [
+            "bgclck.me",
+            "xcvgdf.party"
+          ]
+        }
+      },
+      {
+        "BigClick": {
+          "http://bigclick.me/": [
+            "bgclck.me"
+          ]
+        }
+      },
+      {
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
@@ -9478,6 +9626,13 @@
         "Brandcrumb": {
           "http://www.brandcrumb.com": [
             "brandcrumb.com"
+          ]
+        }
+      },
+      {
+        "BreakTime": {
+          "https://www.breaktime.com.tw/": [
+            "breaktime.com.tw"
           ]
         }
       },
@@ -9527,6 +9682,13 @@
             "buckridge.link",
             "wisokykulas.bid",
             "reichelcormier.bid"
+          ]
+        }
+      },
+      {
+        "ClickGuard": {
+          "https://www.clickguard.com/": [
+            "clickguard.com"
           ]
         }
       },
@@ -9596,6 +9758,14 @@
         }
       },
       {
+        "FuelX": {
+          "https://fuelx.com/": [
+            "fuelx.com",
+            "fuel451.com"
+          ]
+        }
+      },
+      {
         "Gleam": {
           "https://gleam.io/": [
             "gleam.io"
@@ -9613,6 +9783,28 @@
         "Gruner + Jahr": {
           "http://www.guj.de/": [
             "ligatus.com"
+          ]
+        }
+      },
+      {
+        "HilltopAds": {
+          "https://hilltopads.com/": [
+            "hilltopads.net",
+            "shoporielder.pro"
+          ]
+        }
+      },
+      {
+        "HotelChamp": {
+          "https://www.hotelchamp.com": [
+            "hotelchamp.com"
+          ]
+        }
+      },
+      {
+        "HotMart": {
+          "https://www.hotmart.com/en/": [
+            "hotmart.com"
           ]
         }
       },
@@ -9760,6 +9952,20 @@
         }
       },
       {
+        "Psonstrentie": {
+          "http://psonstrentie.info": [
+            "psonstrentie.info"
+          ]
+        }
+      },
+      {
+        "Rollick": {
+          "https://gorollick.com": [
+            "rollick.io"
+          ]
+        }
+      },
+      {
         "SAP": {
           "https://www.sap.com": [
             "seewhy.com"
@@ -9771,6 +9977,20 @@
           "http://selectablemedia.com/": [
             "nabbr.com",
             "selectablemedia.com"
+          ]
+        }
+      },
+      {
+        "Semantiqo": {
+          "http://semantiqo.com/": [
+            "semantiqo.com"
+          ]
+        }
+      },
+      {
+        "SendPulse": {
+          "https://sendpulse.com/": [
+            "sendpulse.com"
           ]
         }
       },
@@ -9810,6 +10030,20 @@
         }
       },
       {
+        "TechSolutions": {
+          "https://www.techsolutions.com.tw/": [
+            "techsolutions.com.tw"
+          ]
+        }
+      },
+      {
+        "TinyCloud": {
+          "https://www.tiny.cloud/": [
+            "tinymce.com"
+          ]
+        }
+      },
+      {
         "Upland": {
           "https://uplandsoftware.com/": [
             "sf14g.com",
@@ -9842,6 +10076,20 @@
         "ViralLoops": {
           "https://viral-loops.com": [
             "viral-loops.com"
+          ]
+        }
+      },
+      {
+        "Webmecanik": {
+          "https://www.webmecanik.com/": [
+            "webmecanik.com"
+          ]
+        }
+      },
+      {
+        "WideOrbit": {
+          "https://www.wideorbit.com/": [
+            "dep-x.com"
           ]
         }
       },
