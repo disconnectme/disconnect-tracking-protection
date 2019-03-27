@@ -1406,6 +1406,15 @@
         }
       },
       {
+        "Awin": {
+          "http://www.awin.com/": [
+            "digitalwindow.com",
+            "perfiliate.com",
+            "dwin1.com"
+          ]
+        }
+      },
+      {
         "Azet": {
           "http://mediaimpact.sk/": [
             "rsz.sk",
@@ -1487,6 +1496,13 @@
         }
       },
       {
+        "BidSwitch": {
+          "https://www.bidswitch.com/": [
+            "bidswitch.net"
+          ]
+        }
+      },
+      {
         "Bidtellect": {
           "https://www.bidtellect.com/": [
             "bttrack.com",
@@ -1504,15 +1520,15 @@
       {
         "BigClick": {
           "http://bigclick.me/": [
-            "bgclck.me",
-            "xcvgdf.party"
+            "bgclck.me"
           ]
         }
       },
       {
         "BigClick": {
           "http://bigclick.me/": [
-            "bgclck.me"
+            "bgclck.me",
+            "xcvgdf.party"
           ]
         }
       },
@@ -1699,6 +1715,13 @@
         "Brilig": {
           "http://www.brilig.com/": [
             "brilig.com"
+          ]
+        }
+      },
+      {
+        "BuckSense": {
+          "http://www.bucksense.com": [
+            "bucksense.com"
           ]
         }
       },
@@ -2406,14 +2429,6 @@
         "Digital Target": {
           "http://digitaltarget.ru": [
             "digitaltarget.ru"
-          ]
-        }
-      },
-      {
-        "Digital Window": {
-          "http://www.digitalwindow.com/": [
-            "digitalwindow.com",
-            "perfiliate.com"
           ]
         }
       },
@@ -6670,7 +6685,8 @@
             "yieldmanager.com",
             "yieldmanager.net",
             "yldmgrimg.net",
-            "flurry.com"
+            "flurry.com",
+            "ads.yahoo.com"
           ]
         }
       },
@@ -8233,6 +8249,13 @@
         }
       },
       {
+        "Bombora": {
+          "https://bombora.com/": [
+            "ml314.com"
+          ]
+        }
+      },
+      {
         "Branica": {
           "http://www.branica.com/": [
             "branica.com"
@@ -9596,15 +9619,15 @@
       {
         "BigClick": {
           "http://bigclick.me/": [
-            "bgclck.me",
-            "xcvgdf.party"
+            "bgclck.me"
           ]
         }
       },
       {
         "BigClick": {
           "http://bigclick.me/": [
-            "bgclck.me"
+            "bgclck.me",
+            "xcvgdf.party"
           ]
         }
       },

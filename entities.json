@@ -1934,6 +1934,17 @@
         "aweber.com"
       ]
     },
+    "Awin": {
+      "properties": [
+        "awin.com"
+      ],
+      "resources": [
+        "awin.com",
+        "digitalwindow.com",
+        "perfiliate.com",
+        "dwin1.com"
+      ]
+    },
     "Awio": {
       "properties": [
         "awio.com",
@@ -2085,6 +2096,14 @@
         "betssonpalantir.com"
       ]
     },
+    "BidSwitch": {
+      "properties": [
+        "bidswitch.com"
+      ],
+      "resources": [
+        "bidswitch.net"
+      ]
+    },
     "Bidtellect": {
       "properties": [
         "bttrack.com",
@@ -2108,7 +2127,8 @@
         "bigclick.me"
       ],
       "resources": [
-        "bgclck.me"
+        "bgclck.me",
+        "xcvgdf.party"
       ]
     },
     "BigDoor": {
@@ -2271,6 +2291,14 @@
         "blutrumpet.com"
       ]
     },
+    "Bombora": {
+      "properties": [
+        "bombora.com"
+      ],
+      "resources": [
+        "ml314.com"
+      ]
+    },
     "Boo-Box": {
       "properties": [
         "boo-box.com"
@@ -2422,6 +2450,14 @@
       ],
       "resources": [
         "bubblestat.com"
+      ]
+    },
+    "BuckSense": {
+      "properties": [
+        "bucksense.com"
+      ],
+      "resources": [
+        "bucksense.com"
       ]
     },
     "Buffer": {
@@ -3668,16 +3704,6 @@
       ],
       "resources": [
         "digitaltarget.ru"
-      ]
-    },
-    "Digital Window": {
-      "properties": [
-        "awin.com"
-      ],
-      "resources": [
-        "awin.com",
-        "digitalwindow.com",
-        "perfiliate.com"
       ]
     },
     "Digitize": {
