@@ -1378,6 +1378,13 @@
         }
       },
       {
+        "Automattic": {
+          "http://automattic.com/": [
+            "pubmine.com"
+          ]
+        }
+      },
+      {
         "Avalanchers": {
           "http://www.avalanchers.com/": [
             "avalanchers.com"
@@ -1505,7 +1512,8 @@
       {
         "BidSwitch": {
           "https://www.bidswitch.com/": [
-            "bidswitch.net"
+            "bidswitch.net",
+            "mfadsrvr.com"
           ]
         }
       },
@@ -2597,6 +2605,13 @@
         "Emego": {
           "http://www.usemax.de/": [
             "usemax.de"
+          ]
+        }
+      },
+      {
+        "Emerse": {
+          "https://www.emerse.com": [
+            "emerse.com"
           ]
         }
       },
