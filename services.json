@@ -5750,6 +5750,13 @@
         }
       },
       {
+        "Sojern": {
+          "https://www.sojern.com": [
+            "sojern.com"
+          ]
+        }
+      },
+      {
         "Sonobi": {
           "http://sonobi.com/": [
             "sonobi.com"
