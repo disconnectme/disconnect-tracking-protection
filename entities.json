@@ -2113,6 +2113,14 @@
       "betssonpalantir.com"
     ]
   },
+  "Bidr": {
+    "properties": [
+      "bidr.io"
+    ],
+    "resources": [
+      "bidr.io"
+    ]
+  },
   "BidSwitch": {
     "properties": [
       "bidswitch.com"
@@ -4646,7 +4654,8 @@
     ],
     "resources": [
       "freewheel.tv",
-      "fwmrm.net"
+      "fwmrm.net",
+      "stickyadstv.com"
     ]
   },
   "FriendFinder Networks": {

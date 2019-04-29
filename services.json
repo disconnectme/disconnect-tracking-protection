@@ -1510,6 +1510,13 @@
         }
       },
       {
+        "Bidr": {
+          "http://bidr.io": [
+            "bidr.io"
+          ]
+        }
+      },
+      {
         "BidSwitch": {
           "https://www.bidswitch.com/": [
             "bidswitch.net",
@@ -3013,6 +3020,13 @@
         "Freedom Communications": {
           "http://www.freedom.com/": [
             "freedom.com"
+          ]
+        }
+      },
+      {
+        "FreeWheel": {
+          "http://www.freewheel.tv/": [
+            "stickyadstv.com"
           ]
         }
       },
