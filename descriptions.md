@@ -296,7 +296,7 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 [Go back to top](#tracker-descriptions)
 
 ## AdScore
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Fingerprinting` for the following reasons:
 ### Technical Review
 ```
         k = function() {
