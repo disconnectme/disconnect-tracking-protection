@@ -93,7 +93,6 @@
 - [StackTrack](#StackTrack)
 - [Storeland](#Storeland)
 - [TechSolutions](#TechSolutions)
-- [TinyCloud](#TinyCloud)
 - [Upland](#Upland)
 - [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
@@ -4794,55 +4793,6 @@ var ProcessorGeneral = async function ProcessorGeneral(action, event, args) {
     };
 
 ```
-[Go back to top](#tracker-descriptions)
-
-## TinyCloud
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://cloud.tinymce.com/stable/tinymce.min.js?apiKey=rdot8x2j0c8zpca4scu895yzqr2flrigkzjpa93v10wrfttq`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-                            var a = function(b) {
-                                if (!(this instanceof a)) return new a(b);
-                                var c = {
-                                    swfContainerId: "fingerprintjs2",
-                                    swfPath: "flash/compiled/FontList.swf",
-                                    detectScreenOrientation: !0,
-                                    sortPluginsFor: [/palemoon/i],
-                                    userDefinedFonts: []
-                                };
-                                this.options = this.extend(b, c), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-                            };
-
-```
-2. Sends computed fingerprint back to server
-```
-                    send: function(c, d, e) {
-                        var f = jb.supplant("?aid=${aid}&tna=${tna}&p=${p}&dtm=${dtm}&stm=${stm}&tz=${tz}&e=${e}&se_ca=${se_ca}&eid=${eid}&fp=${fp}&tv=${tv}", {
-                            aid: b,
-                            tna: "tinymce_cloud",
-                            p: "web",
-                            dtm: d,
-                            stm: kb.now(),
-                            tz: "undefined" != typeof Intl ? encodeURIComponent(Intl.DateTimeFormat().resolvedOptions().timeZone) : "N%2FA",
-                            e: "se",
-                            eid: sb.v4(),
-                            se_ca: c,
-                            fp: e.hash(),
-                            tv: "js-2.6.1"
-                        });
-                        return ka.nu(function(b) {
-                            var c = document.createElement("img");
-                            c.src = nb.getServiceUrl(a) + f, c.onload = function() {
-                                b(!0)
-                            }, c.onerror = function() {
-                                b(!1)
-                            }
-                        })
-                    }
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## Upland

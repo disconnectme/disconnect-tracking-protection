@@ -9397,13 +9397,6 @@
         }
       },
       {
-        "TinyCloud": {
-          "https://www.tiny.cloud/": [
-            "tinymce.com"
-          ]
-        }
-      },
-      {
         "TNS": {
           "http://www.tnsglobal.com/": [
             "sesamestats.com",
@@ -10290,13 +10283,6 @@
         "TechSolutions": {
           "https://www.techsolutions.com.tw/": [
             "techsolutions.com.tw"
-          ]
-        }
-      },
-      {
-        "TinyCloud": {
-          "https://www.tiny.cloud/": [
-            "tinymce.com"
           ]
         }
       },
