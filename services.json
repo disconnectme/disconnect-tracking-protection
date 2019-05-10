@@ -7759,13 +7759,6 @@
         }
       },
       {
-        "Parse.ly": {
-          "http://parsely.com/": [
-            "parsely.com"
-          ]
-        }
-      },
-      {
         "Peerius": {
           "http://www.peerius.com/": [
             "peerius.com"
