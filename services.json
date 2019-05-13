@@ -4839,7 +4839,8 @@
         "Outbrain": {
           "http://www.outbrain.com/": [
             "outbrain.com",
-            "sphere.com"
+            "sphere.com",
+            "visualrevenue.com"
           ]
         }
       },
@@ -7735,33 +7736,12 @@
         }
       },
       {
-        "Optimizely": {
-          "https://www.optimizely.com/": [
-            "optimizely.com"
-          ]
-        }
-      },
-      {
         "Oracle": {
           "http://www.oracle.com/": [
             "atgsvcs.com",
             "instantservice.com",
             "istrack.com",
             "oracle.com"
-          ]
-        }
-      },
-      {
-        "Outbrain": {
-          "http://www.outbrain.com/": [
-            "visualrevenue.com"
-          ]
-        }
-      },
-      {
-        "Parse.ly": {
-          "http://parsely.com/": [
-            "parsely.com"
           ]
         }
       },
@@ -8056,14 +8036,6 @@
             "websitealive7.com",
             "websitealive8.com",
             "websitealive9.com"
-          ]
-        }
-      },
-      {
-        "Wingify": {
-          "http://wingify.com/": [
-            "visualwebsiteoptimizer.com",
-            "wingify.com"
           ]
         }
       },
@@ -9102,6 +9074,13 @@
         }
       },
       {
+        "Optimizely": {
+          "https://www.optimizely.com/": [
+            "optimizely.com"
+          ]
+        }
+      },
+      {
         "Oracle": {
           "http://www.oracle.com/": [
             "eloqua.com",
@@ -9114,6 +9093,13 @@
           "http://www.oewa.at/": [
             "oewa.at",
             "oewabox.at"
+          ]
+        }
+      },
+      {
+        "Parse.ly": {
+          "http://parsely.com/": [
+            "parsely.com"
           ]
         }
       },
@@ -9546,6 +9532,14 @@
         "whos.amung.us": {
           "http://whos.amung.us/": [
             "amung.us"
+          ]
+        }
+      },
+      {
+        "Wingify": {
+          "http://wingify.com/": [
+            "visualwebsiteoptimizer.com",
+            "wingify.com"
           ]
         }
       },
