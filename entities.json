@@ -1712,6 +1712,7 @@
       "aim.com",
       "aol.com",
       "aolcdn.com",
+      "aolcloud.net",
       "atwola.com",
       "editions.com",
       "leadback.com",
@@ -2083,6 +2084,14 @@
     ],
     "resources": [
       "bazaarvoice.com"
+    ]
+  },
+  "BeachFront": {
+    "properties": [
+      "beachfront.com"
+    ],
+    "resources": [
+      "beachfront.com"
     ]
   },
   "Beanstock Media": {
@@ -2775,6 +2784,14 @@
       "com.com"
     ]
   },
+  "Cedato": {
+    "properties": [
+      "cedato.com"
+    ],
+    "resources": [
+      "cedato.com"
+    ]
+  },
   "Cedexis": {
     "properties": [
       "cedexis.com"
@@ -3247,6 +3264,14 @@
     ],
     "resources": [
       "congoo.com"
+    ]
+  },
+  "Connatix.com": {
+    "properties": [
+      "connatix.com"
+    ],
+    "resources": [
+      "connatix.com"
     ]
   },
   "Connexity": {
@@ -3856,6 +3881,14 @@
     "resources": [
       "distilnetworks.com",
       "distiltag.com"
+    ]
+  },
+  "DistrictM": {
+    "properties": [
+      "districtm.net"
+    ],
+    "resources": [
+      "districtm.io"
     ]
   },
   "dmpxs": {
@@ -4511,15 +4544,13 @@
   "Federated Media": {
     "properties": [
       "hyfn.com",
-      "lijit.com",
-      "sovrn"
+      "lijit.com"
     ],
     "resources": [
       "federatedmedia.net",
       "fmpub.net",
       "hyfn.com",
-      "lijit.com",
-      "sovrn"
+      "lijit.com"
     ]
   },
   "Feedjit": {
@@ -4751,6 +4782,14 @@
     "resources": [
       "futureads.com",
       "resultlinks.com"
+    ]
+  },
+  "Fyber": {
+    "properties": [
+      "fyber.com"
+    ],
+    "resources": [
+      "fyber.com"
     ]
   },
   "Game Advertising Online": {
@@ -5664,6 +5703,14 @@
       "inboundwriter.com"
     ]
   },
+  "IndexExchange": {
+    "properties": [
+      "indexexchange.com"
+    ],
+    "resources": [
+      "indexexchange.com"
+    ]
+  },
   "Infectious Media": {
     "properties": [
       "infectiousmedia.com"
@@ -5735,10 +5782,12 @@
   },
   "InMobi": {
     "properties": [
+      "aerserv.com",
       "inmobi.com",
       "sproutinc.com"
     ],
     "resources": [
+      "aerserv.com",
       "inmobi.com",
       "sproutinc.com"
     ]
@@ -6083,6 +6132,14 @@
     ],
     "resources": [
       "kaltura.com"
+    ]
+  },
+  "Kargo": {
+    "properties": [
+      "kargo.com"
+    ],
+    "resources": [
+      "kargo.com"
     ]
   },
   "Kenshoo": {
@@ -6499,6 +6556,14 @@
     "resources": [
       "lfov.net",
       "loopfuse.net"
+    ]
+  },
+  "LoopMe": {
+    "properties": [
+      "loopme.com"
+    ],
+    "resources": [
+      "loopme.com"
     ]
   },
   "Lotame": {
@@ -7196,6 +7261,14 @@
     ],
     "resources": [
       "mobials.com"
+    ]
+  },
+  "MobileAdTrading": {
+    "properties": [
+      "mobileadtrading.com"
+    ],
+    "resources": [
+      "mobileadtrading.com"
     ]
   },
   "Mobile Meteor": {
@@ -8452,6 +8525,14 @@
       "urtbk.com"
     ]
   },
+  "Primis": {
+    "properties": [
+      "primis.tech"
+    ],
+    "resources": [
+      "sekindo.com"
+    ]
+  },
   "PrismApp": {
     "properties": [
       "prismapp.io"
@@ -9526,6 +9607,14 @@
       "sojern.com"
     ]
   },
+  "SomoAudience": {
+    "properties": [
+      "somoaudience.com"
+    ],
+    "resources": [
+      "somoaudience.com"
+    ]
+  },
   "Sonobi": {
     "properties": [
       "sonobi.com"
@@ -9541,6 +9630,14 @@
     "resources": [
       "sophus3.co.uk",
       "sophus3.com"
+    ]
+  },
+  "Sovrn": {
+    "properties": [
+      "sovrn.com"
+    ],
+    "resources": [
+      "sovrn.com"
     ]
   },
   "Space Chimp Media": {
@@ -9630,6 +9727,14 @@
       "spot200.com"
     ]
   },
+  "SpotX": {
+    "properties": [
+      "spotx.tv"
+    ],
+    "resources": [
+      "spotx.tv"
+    ]
+  },
   "SpotXchange": {
     "properties": [
       "spotxchange.com"
@@ -9645,6 +9750,14 @@
     ],
     "resources": [
       "springmetrics.com"
+    ]
+  },
+  "SpringServe": {
+    "properties": [
+      "springserve.com"
+    ],
+    "resources": [
+      "springserve.com"
     ]
   },
   "Sputnik.ru": {
@@ -10393,6 +10506,14 @@
       "truste.com"
     ]
   },
+  "TrustX": {
+    "properties": [
+      "trustx.org"
+    ],
+    "resources": [
+      "trustx.org"
+    ]
+  },
   "TubeMogul": {
     "properties": [
       "tmogul.com",
@@ -10493,6 +10614,15 @@
       "ubertags.com"
     ]
   },
+  "ucfunnel": {
+    "properties": [
+      "ucfunnel.com"
+    ],
+    "resources": [
+      "aralego.com",
+      "ucfunnel.com"
+    ]
+  },
   "uCoz": {
     "properties": [
       "ucoz.ae",
@@ -10572,7 +10702,7 @@
   },
   "Unruly": {
     "properties": [
-      "unrulymedia.com"
+      "unruly.co"
     ],
     "resources": [
       "unrulymedia.com"
@@ -10983,6 +11113,14 @@
     "resources": [
       "vserv.com",
       "vserv.mobi"
+    ]
+  },
+  "Vuble": {
+    "properties": [
+      "vuble.tv"
+    ],
+    "resources": [
+      "mediabong.com"
     ]
   },
   "Wahoha": {
@@ -11471,6 +11609,14 @@
       "ybx.io"
     ]
   },
+  "YieldBot": {
+    "properties": [
+      "yieldbot.com"
+    ],
+    "resources": [
+      "yldbt.com"
+    ]
+  },
   "YieldBuild": {
     "properties": [
       "yieldbuild.com"
@@ -11503,6 +11649,14 @@
     ],
     "resources": [
       "yieldmo.com"
+    ]
+  },
+  "YieldNexus": {
+    "properties": [
+      "ynxs.io"
+    ],
+    "resources": [
+      "ynxs.io"
     ]
   },
   "YOC": {
