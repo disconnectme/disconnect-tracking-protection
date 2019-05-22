@@ -542,6 +542,14 @@
       "adjuggler.net"
     ]
   },
+  "Adjust": {
+    "properties": [
+      "adjust.com"
+    ],
+    "resources": [
+      "adjust.com"
+    ]
+  },
   "AdKeeper": {
     "properties": [
       "keep.com"
@@ -1062,6 +1070,14 @@
     ],
     "resources": [
       "adsrevenue.net"
+    ]
+  },
+  "AdStir": {
+    "properties": [
+      "ad-stir.com"
+    ],
+    "resources": [
+      "ad-stir.com"
     ]
   },
   "AdsTours": {
@@ -1637,6 +1653,14 @@
       "turn.com"
     ]
   },
+  "Amplitude": {
+    "properties": [
+      "amplitude.com"
+    ],
+    "resources": [
+      "amplitude.com"
+    ]
+  },
   "AndBeyond": {
     "properties": [
       "andbeyond.media"
@@ -2161,6 +2185,22 @@
       "betssonpalantir.com"
     ]
   },
+  "BetweenDigital": {
+    "properties": [
+      "betweendigital.com"
+    ],
+    "resources": [
+      "betweendigital.com"
+    ]
+  },
+  "Bidfluence": {
+    "properties": [
+      "bidfluence.com"
+    ],
+    "resources": [
+      "bidfluence.com"
+    ]
+  },
   "Bidr": {
     "properties": [
       "bidr.io"
@@ -2415,6 +2455,14 @@
       "brainient.com"
     ]
   },
+  "Branch": {
+    "properties": [
+      "branch.io"
+    ],
+    "resources": [
+      "branch.io"
+    ]
+  },
   "Brand Affinity Technologies": {
     "properties": [
       "brandaffinity.net"
@@ -2650,6 +2698,14 @@
       "networldmedia.net"
     ]
   },
+  "c1exchange": {
+    "properties": [
+      "c1exchange.com"
+    ],
+    "resources": [
+      "c1exchange.com"
+    ]
+  },
   "C3 Metrics": {
     "properties": [
       "attributionmodel.com",
@@ -2692,6 +2748,14 @@
     ],
     "resources": [
       "capitaldata.fr"
+    ]
+  },
+  "Carambola": {
+    "properties": [
+      "carambola.com"
+    ],
+    "resources": [
+      "carambo.la"
     ]
   },
   "Caraytech": {
@@ -3799,6 +3863,14 @@
     ],
     "resources": [
       "digg.com"
+    ]
+  },
+  "DigitalAdConsortium": {
+    "properties": [
+      "dac.co.jp"
+    ],
+    "resources": [
+      "impact-ad.jp"
     ]
   },
   "Digital River": {
@@ -6337,6 +6409,14 @@
       "ztsrv.com"
     ]
   },
+  "LeanPlum": {
+    "properties": [
+      "leanplum.com"
+    ],
+    "resources": [
+      "leanplum.com"
+    ]
+  },
   "Legolas Media": {
     "properties": [
       "legolas-media.com"
@@ -6850,6 +6930,7 @@
       "matomymarket.com",
       "matomymedia.com",
       "mediawhiz.com",
+      "optimatic.com",
       "xtendmedia.com"
     ]
   },
@@ -7511,6 +7592,14 @@
     ],
     "resources": [
       "narrative.io"
+    ]
+  },
+  "NativeAds": {
+    "properties": [
+      "nativeads.com"
+    ],
+    "resources": [
+      "nativeads.com"
     ]
   },
   "Nativo": {
@@ -8645,6 +8734,14 @@
       "revinet.com"
     ]
   },
+  "PulsePoint": {
+    "properties": [
+      "pulsepoint.com"
+    ],
+    "resources": [
+      "pulsepoint.com"
+    ]
+  },
   "PunchTab": {
     "properties": [
       "punchtab.com"
@@ -8686,6 +8783,14 @@
     "resources": [
       "quantcast.com",
       "quantserve.com"
+    ]
+  },
+  "QuantumAdvertising": {
+    "properties": [
+      "quantum-advertising.com"
+    ],
+    "resources": [
+      "quantum-advertising.com"
     ]
   },
   "QuinStreet": {
@@ -8972,6 +9077,14 @@
       "rnmd.net"
     ]
   },
+  "RichAudience": {
+    "properties": [
+      "richaudience.com"
+    ],
+    "resources": [
+      "richaudience.com"
+    ]
+  },
   "RichRelevance": {
     "properties": [
       "richrelevance.com"
@@ -9066,6 +9179,14 @@
       "getclicky.com",
       "roxr.net",
       "staticstuff.net"
+    ]
+  },
+  "rtk": {
+    "properties": [
+      "rtk.io"
+    ],
+    "resources": [
+      "rtk.io"
     ]
   },
   "RubiconProject": {
@@ -9499,6 +9620,14 @@
       "smartlook.com"
     ]
   },
+  "SmartyAds": {
+    "properties": [
+      "smartyads.com"
+    ],
+    "resources": [
+      "smartyads.com"
+    ]
+  },
   "Smi": {
     "properties": [
       "24smi.net"
@@ -9630,6 +9759,14 @@
     "resources": [
       "sophus3.co.uk",
       "sophus3.com"
+    ]
+  },
+  "Sortable": {
+    "properties": [
+      "sortable.com"
+    ],
+    "resources": [
+      "deployads.com"
     ]
   },
   "Sovrn": {
@@ -10947,6 +11084,14 @@
       "intellitxt.com",
       "picadmedia.com",
       "vibrantmedia.com"
+    ]
+  },
+  "VideoIntelligence": {
+    "properties": [
+      "vi.ai"
+    ],
+    "resources": [
+      "vi.ai"
     ]
   },
   "Videology": {

@@ -411,6 +411,13 @@
         }
       },
       {
+        "Adjust": {
+          "https://adjust.com": [
+            "adjust.com"
+          ]
+        }
+      },
+      {
         "AdKeeper": {
           "http://www.adkeeper.com/": [
             "adkeeper.com",
@@ -827,6 +834,13 @@
         "Adsrevenue.net": {
           "http://adsrevenue.net/": [
             "adsrevenue.net"
+          ]
+        }
+      },
+      {
+        "AdStir": {
+          "https://en.ad-stir.com/": [
+            "ad-stir.com"
           ]
         }
       },
@@ -1518,6 +1532,20 @@
         }
       },
       {
+        "BetweenDigital": {
+          "http://betweendigital.com": [
+            "betweendigital.com"
+          ]
+        }
+      },
+      {
+        "Bidfluence": {
+          "https://www.bidfluence.com/": [
+            "bidfluence.com"
+          ]
+        }
+      },
+      {
         "Bidr": {
           "http://bidr.io": [
             "bidr.io"
@@ -1815,6 +1843,13 @@
         }
       },
       {
+        "c1exchange": {
+          "https://c1exchange.com/": [
+            "c1exchange.com"
+          ]
+        }
+      },
+      {
         "C3 Metrics": {
           "http://c3metrics.com/": [
             "attributionmodel.com",
@@ -1841,6 +1876,13 @@
         "CAPITALDATA": {
           "http://www.capitaldata.fr/": [
             "capitaldata.fr"
+          ]
+        }
+      },
+      {
+        "Carambola": {
+          "https://www.carambola.com/": [
+            "carambo.la"
           ]
         }
       },
@@ -2465,6 +2507,13 @@
           "http://www.didit.com/": [
             "did-it.com",
             "didit.com"
+          ]
+        }
+      },
+      {
+        "DigitalAdConsortium": {
+          "https://www.dac.co.jp/": [
+            "impact-ad.jp"
           ]
         }
       },
@@ -3898,6 +3947,13 @@
         }
       },
       {
+        "LeanPlum": {
+          "https://www.leanplum.com/": [
+            "leanplum.com"
+          ]
+        }
+      },
+      {
         "Legolas Media": {
           "http://www.legolas-media.com/": [
             "legolas-media.com"
@@ -4188,6 +4244,7 @@
             "matomymarket.com",
             "matomymedia.com",
             "mediawhiz.com",
+            "optimatic.com",
             "xtendmedia.com"
           ]
         }
@@ -4585,6 +4642,13 @@
         "Nanigans": {
           "http://www.nanigans.com/": [
             "nanigans.com"
+          ]
+        }
+      },
+      {
+        "NativeAds": {
+          "https://nativeads.com/": [
+            "nativeads.com"
           ]
         }
       },
@@ -5283,6 +5347,13 @@
         }
       },
       {
+        "PulsePoint": {
+          "https://www.pulsepoint.com/": [
+            "pulsepoint.com"
+          ]
+        }
+      },
+      {
         "quadrantOne": {
           "http://www.quadrantone.com/": [
             "quadrantone.com"
@@ -5302,6 +5373,13 @@
             "quantcast.com",
             "quantcount.com",
             "quantserve.com"
+          ]
+        }
+      },
+      {
+        "QuantumAdvertising": {
+          "http://quantum-advertising.com": [
+            "quantum-advertising.com"
           ]
         }
       },
@@ -5502,6 +5580,13 @@
         }
       },
       {
+        "RichAudience": {
+          "https://richaudience.com/": [
+            "richaudience.com"
+          ]
+        }
+      },
+      {
         "RichRelevance": {
           "http://www.richrelevance.com/": [
             "richrelevance.com"
@@ -5545,6 +5630,13 @@
         "Rovion": {
           "http://www.rovion.com/": [
             "rovion.com"
+          ]
+        }
+      },
+      {
+        "rtk": {
+          "http://rtk.io/": [
+            "rtk.io"
           ]
         }
       },
@@ -5778,6 +5870,13 @@
         }
       },
       {
+        "SmartyAds": {
+          "https://smartyads.com/": [
+            "smartyads.com"
+          ]
+        }
+      },
+      {
         "Smiley Media": {
           "http://www.smileymedia.com/": [
             "smileymedia.com"
@@ -5862,6 +5961,13 @@
           "http://www.sophus3.com/": [
             "sophus3.co.uk",
             "sophus3.com"
+          ]
+        }
+      },
+      {
+        "Sortable": {
+          "https://www.sortable.com/": [
+            "deployads.com"
           ]
         }
       },
@@ -6625,6 +6731,13 @@
             "intellitxt.com",
             "picadmedia.com",
             "vibrantmedia.com"
+          ]
+        }
+      },
+      {
+        "VideoIntelligence": {
+          "https://www.vi.ai/": [
+            "vi.ai"
           ]
         }
       },
@@ -8336,6 +8449,13 @@
         }
       },
       {
+        "Amplitude": {
+          "https://amplitude.com/": [
+            "amplitude.com"
+          ]
+        }
+      },
+      {
         "anormal-media.de": {
           "http://anormal-media.de/": [
             "anormal-media.de",
@@ -8432,6 +8552,13 @@
         "Bombora": {
           "https://bombora.com/": [
             "ml314.com"
+          ]
+        }
+      },
+      {
+        "Branch": {
+          "https://branch.io/": [
+            "branch.io"
           ]
         }
       },
