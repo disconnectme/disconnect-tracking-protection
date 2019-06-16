@@ -7926,6 +7926,15 @@
         }
       },
       {
+	"Messenger": {
+	  "https://www.messenger.com/": [
+	    "facebook.com",
+	    "facebook.net",
+	    "fbcdn.net"
+	  ]
+	}
+      },
+      {
         "Microsoft": {
           "http://www.microsoft.com/": [
             "bing.com",
