@@ -1810,6 +1810,13 @@
         }
       },
       {
+        "Button": {
+          "https://www.usebutton.com": [
+            "usebutton.com"
+          ]
+        }
+      },
+      {
         "BuySellAds": {
           "http://buysellads.com/": [
             "beaconads.com",
@@ -10708,9 +10715,7 @@
       {
         "Shareaholic": {
           "http://www.shareaholic.com/": [
-            "buzzster.com",
-            "shareaholic.com",
-            "shareaholic.net"
+            "shareaholic.com"
           ]
         }
       },

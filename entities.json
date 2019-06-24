@@ -2639,6 +2639,14 @@
       "businessol.com"
     ]
   },
+  "Button": {
+    "properties": [
+      "usebutton.com"
+    ],
+    "resources": [
+      "usebutton.com"
+    ]
+  },
   "buySAFE": {
     "properties": [
       "buysafe.com"
@@ -9464,13 +9472,10 @@
   },
   "Shareaholic": {
     "properties": [
-      "buzzster.com",
       "shareaholic.com"
     ],
     "resources": [
-      "buzzster.com",
-      "shareaholic.com",
-      "shareaholic.net"
+      "shareaholic.com"
     ]
   },
   "ShareASale": {
