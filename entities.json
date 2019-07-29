@@ -4554,6 +4554,7 @@
       "messenger.com"
     ],
     "resources": [
+      "atdmt.com",
       "atlassolutions.com",
       "facebook.com",
       "facebook.de",
@@ -4562,6 +4563,7 @@
       "fb.com",
       "fb.me",
       "fbcdn.net",
+      "fbsbx.com",
       "friendfeed.com",
       "instagram.com",
       "messenger.com"
@@ -7191,7 +7193,6 @@
   },
   "Microsoft": {
     "properties": [
-      "atdmt.com",
       "bing.com",
       "gamesforwindows.com",
       "getgamesmart.com",
@@ -7218,7 +7219,6 @@
       "adbureau.net",
       "adecn.com",
       "aquantive.com",
-      "atdmt.com",
       "bing.com",
       "gamesforwindows.com",
       "getgamesmart.com",

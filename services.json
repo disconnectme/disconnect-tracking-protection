@@ -4429,7 +4429,6 @@
             "adbureau.net",
             "adecn.com",
             "aquantive.com",
-            "atdmt.com",
             "msads.net",
             "netconversions.com",
             "roiservice.com"
@@ -10968,12 +10967,14 @@
       {
         "Facebook": {
           "http://www.facebook.com/": [
+            "atdmt.com",
             "atlassolutions.com",
             "facebook.com",
             "facebook.de",
             "facebook.fr",
             "facebook.net",
             "fb.com",
+            "fbsbx.com",
             "friendfeed.com"
           ]
         }
