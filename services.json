@@ -8252,6 +8252,15 @@
         }
       },
       {
+        "Parse.ly": {
+          "http://parsely.com/": [
+            "api.parsely.com",
+            "currents.parsely.com",
+            "dash.parsely.com"
+          ]
+        }
+      },
+      {
         "Peerius": {
           "http://www.peerius.com/": [
             "peerius.com"
@@ -9598,7 +9607,8 @@
       {
         "Parse.ly": {
           "http://parsely.com/": [
-            "parsely.com"
+            "config.parsely.com",
+            "pixel.parsely.com"
           ]
         }
       },
