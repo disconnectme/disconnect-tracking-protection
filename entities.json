@@ -10252,6 +10252,14 @@
       "teads.tv"
     ]
   },
+  "Tealium": {
+    "properties": [
+      "tealium.com"
+    ],
+    "resources": [
+      "tealiumiq.com"
+    ]
+  },
   "Technorati": {
     "properties": [
       "technorati.com"
