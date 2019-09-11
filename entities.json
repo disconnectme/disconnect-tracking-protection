@@ -9266,11 +9266,30 @@
   },
   "Salesforce.com": {
     "properties": [
-      "salesforce.com"
+      "documentforce.com",
+      "force.com",
+      "forcesslreports.com",
+      "forceusercontent.com",
+      "lightning.com",
+      "salesforce.com",
+      "salesforce-communities.com",
+      "salesforce-hub.com",
+      "salesforceliveagent.com",
+      "trailblazer.me",
+      "visualforce.com"
     ],
     "resources": [
+      "documentforce.com",
+      "force.com",
+      "forcesslreports.com",
+      "forceusercontent.com",
+      "lightning.com",
       "salesforce.com",
-      "salesforceliveagent.com"
+      "salesforce-communities.com",
+      "salesforce-hub.com",
+      "salesforceliveagent.com",
+      "trailblazer.me",
+      "visualforce.com"
     ]
   },
   "Salesintelligence": {
