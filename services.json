@@ -8981,8 +8981,7 @@
         "IBM": {
           "http://www.ibm.com/": [
             "cmcore.com",
-            "coremetrics.com",
-            "ibm.com"
+            "coremetrics.com"
           ]
         }
       },
