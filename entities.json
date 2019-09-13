@@ -5136,6 +5136,7 @@
       "abc.xyz",
       "admeld.com",
       "blogger.com",
+      "crashlytics.com",
       "google-melange.com",
       "google.ad",
       "google.ae",
@@ -5340,6 +5341,7 @@
       "apture.com",
       "blogger.com",
       "cc-dt.com",
+      "crashlytics.com",
       "destinationurl.com",
       "doubleclick.net",
       "ggpht.com",
@@ -10704,7 +10706,6 @@
   },
   "Twitter": {
     "properties": [
-      "crashlytics.com",
       "digits.com",
       "fabric.io",
       "tweetdeck.com",
@@ -10713,7 +10714,6 @@
     ],
     "resources": [
       "ads-twitter.com",
-      "crashlytics.com",
       "fabric.io",
       "tweetdeck.com",
       "twimg.com",

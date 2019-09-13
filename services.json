@@ -10997,6 +10997,7 @@
             "adservice.google.com",
             "adwords.google.com",
             "cc-dt.com",
+            "crashlytics.com",
             "destinationurl.com",
             "developers.google.com",
             "doubleclick.net",
@@ -11026,7 +11027,6 @@
         "Twitter": {
           "https://twitter.com/": [
             "ads-twitter.com",
-            "crashlytics.com",
             "tweetdeck.com",
             "twimg.com",
             "twitter.com",
