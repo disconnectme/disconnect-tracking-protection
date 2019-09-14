@@ -9856,6 +9856,16 @@
       "spongecell.com"
     ]
   },
+  "SpongePowered": {
+    "properties": [
+      "spongemc.org",
+      "spongepowered.org",
+      "spongeproject.net"
+    ],
+    "resources": [
+      "analytics.spongeproject.net"
+    ]
+  },
   "SponsorAds": {
     "properties": [
       "sponsorads.de"

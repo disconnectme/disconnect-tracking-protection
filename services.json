@@ -9581,6 +9581,13 @@
         }
       },
       {
+        "SpongePowered": {
+          "https://www.spongepowered.org": [
+            "analytics.spongeproject.net"
+          ]
+        }
+      },
+      {
         "Sputnik.ru": {
           "http://sputnik.ru": [
             "sputnik.ru"
