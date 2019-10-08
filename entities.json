@@ -9484,11 +9484,21 @@
   },
   "Salesforce.com": {
     "properties": [
-      "salesforce.com"
+      "salesforce.com",
+      "trailblazer.me"
     ],
     "resources": [
+      "documentforce.com",
+      "force.com",
+      "forcesslreports.com",
+      "forceusercontent.com",
+      "lightning.com",
+      "salesforce-communities.com",
+      "salesforce-hub.com",
       "salesforce.com",
-      "salesforceliveagent.com"
+      "salesforceliveagent.com",
+      "trailblazer.me",
+      "visualforce.com"
     ]
   },
   "Salesintelligence": {
