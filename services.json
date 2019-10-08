@@ -3334,20 +3334,6 @@
         }
       },
       {
-        "GSI Commerce": {
-          "http://www.gsicommerce.com/": [
-            "gsicommerce.com",
-            "gsimedia.net",
-            "pepperjam.com",
-            "pjatr.com",
-            "pjtra.com",
-            "pntra.com",
-            "pntrac.com",
-            "pntrs.com"
-          ]
-        }
-      },
-      {
         "GumGum": {
           "http://gumgum.com/": [
             "gumgum.com"
@@ -5406,6 +5392,19 @@
             "quismatch.com",
             "xaded.com",
             "xmladed.com"
+          ]
+        }
+      },
+      {
+        "Radial": {
+          "https://www.radial.com": [
+            "gsicommerce.com",
+            "gsimedia.net",
+            "pjatr.com",
+            "pjtra.com",
+            "pntra.com",
+            "pntrac.com",
+            "pntrs.com"
           ]
         }
       },
