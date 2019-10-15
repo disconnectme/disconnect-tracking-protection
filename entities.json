@@ -9489,6 +9489,7 @@
   },
   "Salesforce.com": {
     "properties": [
+      "force.com",
       "salesforce.com",
       "trailblazer.me"
     ],
