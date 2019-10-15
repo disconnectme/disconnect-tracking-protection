@@ -1560,6 +1560,7 @@
       "abebooks.it",
       "acx.com",
       "alexa.com",
+      "amazon.ae",
       "amazon.ca",
       "amazon.cn",
       "amazon.co.jp",
@@ -1576,6 +1577,7 @@
       "amazon.in",
       "amazon.it",
       "amazon.nl",
+      "amazon.sa",
       "amazonaws.com",
       "amazoninspire.com",
       "assoc-amazon.com",
@@ -1604,6 +1606,8 @@
       "pillpack.com",
       "shopbop.com",
       "souq.com",
+      "twitch.com",
+      "twitch.tv",
       "wholefoodsmarket.com",
       "withoutabox.com",
       "woot.com",
@@ -1625,7 +1629,8 @@
       "amazon.it",
       "amazonaws.com",
       "assoc-amazon.com",
-      "cloudfront.net"
+      "cloudfront.net",
+      "ssl-images-amazon.com"
     ]
   },
   "Ambient Digital": {
