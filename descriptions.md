@@ -2529,7 +2529,7 @@ Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 [Go back to top](#tracker-descriptions)
 
 ## HotelChamp
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Fingerprinting` for the following reasons:
 ### Technical Review
 Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
