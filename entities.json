@@ -5821,6 +5821,14 @@
       "hotwords.es"
     ]
   },
+  "HP_Partners": {
+    "properties": [
+      "hpshop.hu"
+    ],
+    "resources": [
+      "ext.hp.com"
+    ]
+  },
   "HP": {
     "properties": [
       "hp.com",
