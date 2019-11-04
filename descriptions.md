@@ -2616,7 +2616,7 @@ window.hotlobj.config = {
 [Go back to top](#tracker-descriptions)
 
 ## iMedia
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Fingerprinting` for the following reasons:
 ### Technical Review
 ```
       Plugin.prototype.get = function(options) {
