@@ -9550,6 +9550,13 @@
         }
       },
       {
+        "Sourcepoint": {
+          "https://www.sourcepoint.com/": [
+            "summerhamster.com"
+          ]
+        }
+      },
+      {
         "Sputnik.ru": {
           "http://sputnik.ru": [
             "sputnik.ru"
