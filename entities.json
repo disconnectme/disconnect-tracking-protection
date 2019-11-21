@@ -5869,6 +5869,15 @@
       "hurra.com"
     ]
   },
+  "IAB": {
+    "properties": [
+      "digitru.st",
+      "iabtechlab.com"
+    ],
+    "resources": [
+      "digitru.st"
+    ]
+  },
   "IAC": {
     "properties": [
       "iac.com",
