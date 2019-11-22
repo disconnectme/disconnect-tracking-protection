@@ -1847,10 +1847,10 @@
   "AT Internet": {
     "properties": [
       "atinternet.com",
-      "hit-parade.com",
       "xiti.com"
     ],
     "resources": [
+      "at-o.net",
       "atinternet.com",
       "hit-parade.com",
       "xiti.com"
