@@ -3487,6 +3487,13 @@
         }
       },
       {
+        "ID5": {
+          "http://id5.io/": [
+            "id5-sync.com"
+          ]
+        }
+      },
+      {
         "IDG": {
           "http://www.idg.com/": [
             "idg.com",
