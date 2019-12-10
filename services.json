@@ -6165,6 +6165,13 @@
         }
       },
       {
+        "Superfish": {
+          "http://www.superfish.com/": [
+            "superfish.com"
+          ]
+        }
+      },
+      {
         "SupersonicAds": {
           "http://www.supersonicads.com/": [
             "supersonicads.com"
@@ -8071,13 +8078,6 @@
         "Spring Metrics": {
           "http://www.springmetrics.com/": [
             "springmetrics.com"
-          ]
-        }
-      },
-      {
-        "Superfish": {
-          "http://www.superfish.com/": [
-            "superfish.com"
           ]
         }
       },
