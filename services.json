@@ -2672,8 +2672,7 @@
       {
         "eBay": {
           "http://www.ebay.com/": [
-            "ebay.com",
-            "gopjn.com"
+            "ebay.com"
           ]
         }
       },

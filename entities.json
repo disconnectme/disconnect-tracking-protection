@@ -4110,12 +4110,10 @@
       "ebay.in",
       "ebay.it",
       "ebay.nl",
-      "ebay.pl",
-      "gopjn.com"
+      "ebay.pl"
     ],
     "resources": [
-      "ebay.com",
-      "gopjn.com"
+      "ebay.com"
     ]
   },
   "Echo": {
