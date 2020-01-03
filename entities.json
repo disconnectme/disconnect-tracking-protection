@@ -2545,14 +2545,10 @@
   },
   "BrightTag": {
     "properties": [
-      "brighttag.com",
-      "btstatic.com",
-      "thebrighttag.com"
+      "brighttag.com"
     ],
     "resources": [
-      "brighttag.com",
-      "btstatic.com",
-      "thebrighttag.com"
+      "brighttag.com"
     ]
   },
   "Brilig": {

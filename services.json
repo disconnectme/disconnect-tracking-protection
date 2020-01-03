@@ -1762,15 +1762,6 @@
         }
       },
       {
-        "BrightTag": {
-          "http://www.brighttag.com/": [
-            "brighttag.com",
-            "btstatic.com",
-            "thebrighttag.com"
-          ]
-        }
-      },
-      {
         "Brilig": {
           "http://www.brilig.com/": [
             "brilig.com"
