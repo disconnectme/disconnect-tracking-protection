@@ -94,6 +94,7 @@
 - [Storeland](#Storeland)
 - [TechSolutions](#TechSolutions)
 - [Upland](#Upland)
+- [USocial](#USocial)
 - [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
 - [ViralLoops](#ViralLoops)
@@ -4920,6 +4921,33 @@ getCanvasFp: function () {
         });
     }, 75);
    ```
+[Go back to top](#tracker-descriptions)
+
+## USocial
+This service has been classified as `Social` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://usocial.pro/usocial/fingerprint2.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    var Fingerprint2 = function(options) {
+    var defaultOptions = {
+      swfContainerId : "fingerprintjs2",
+      swfPath : "flash/compiled/FontList.swf",
+      detectScreenOrientation : true,
+      sortPluginsFor : [/palemoon/i],
+      userDefinedFonts : []
+    };
+    this.options = this.extend(options, defaultOptions);
+    /** @type {function(this:(IArrayLike<T>|string), (function(this:S, T, number, !Array<T>): ?|null), S=): undefined} */
+    this.nativeForEach = Array.prototype.forEach;
+    /** @type {function(this:(IArrayLike<T>|string), (function(this:S, T, number, !Array<T>): R|null), S=): !Array<R>} */
+    this.nativeMap = Array.prototype.map;
+  };
+```
+2. Sends computed fingerprint back to server as `usocialuser` parameter
+```
+Request URL: https://usocial.pro/logs/store-view?&c=REMOVED&pid=REMOVED&usocialUser=REMOVED&pType=share&url=REMOVED&barDisplayStatus=
+```
 [Go back to top](#tracker-descriptions)
 
 ## Vendemore
