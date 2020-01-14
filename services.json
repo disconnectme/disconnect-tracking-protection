@@ -9522,13 +9522,6 @@
         }
       },
       {
-        "SendPulse": {
-          "https://sendpulse.com/": [
-            "sendpulse.com"
-          ]
-        }
-      },
-      {
         "SessionCam": {
           "https://sessioncam.com/": [
             "sessioncam.com"
