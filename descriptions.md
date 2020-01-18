@@ -27,7 +27,6 @@
 - [CallSource](#CallSource)
 - [CartsGuru](#CartsGuru)
 - [CashBeet](#CashBeet)
-- [Cbox](#Cbox)
 - [ClearLink](#ClearLink)
 - [Clickayab](#Clickayab)
 - [ClickFrog](#ClickFrog)
@@ -1626,61 +1625,6 @@ Raw log:
         "workers_created": []
     }
 }
-```
-[Go back to top](#tracker-descriptions)
-
-## Cbox
-This service has been classified as `Content` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `http://static.cbox.ws/jsc/jsc_1540817417.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var c = navigator;
-            return [c.userAgent, c.language || c.userLanguage || c.browserLanguage || c.systemLanguage, c.languages && c.languages.join(","), screen.colorDepth, screen.width, screen.height, screen.availHeight, screen.availWidth, (new Date).getTimezoneOffset(), a, b, c.cpuClass, c.platform, c.doNotTrack, c.maxTouchPoints || c.msMaxTouchPoints, e()].join("|")
-        },
-        e = function() {
-            try {
-                var a = document.createElement("canvas");
-                a.width = 400;
-                a.height = 200;
-                a.style.display = "inline";
-                var b = a.getContext("2d");
-                b.textBaseline = "alphabetic";
-                b.fillStyle = "#f60";
-                b.fillRect(125, 1, 62, 20);
-                b.fillStyle = "#069";
-                b.font = "23pt Arial";
-                b.fillText("DWM fjordbank vext zz4, \ud83d\ude03", 2, 15);
-                b.fillStyle = "rgba(102, 204, 0, 0.7)";
-                b.font = "23pt Arial";
-                b.fillText("DWM fjordbank vext zz4, \ud83d\ude03", 4, 45);
-                b.globalCompositeOperation = "multiply";
-                b.fillStyle = "rgb(255,0,255)";
-                b.beginPath();
-                b.arc(50, 50, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle =
-                    "rgb(0,255,255)";
-                b.beginPath();
-                b.arc(100, 50, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle = "rgb(255,255,0)";
-                b.beginPath();
-                b.arc(75, 100, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle = "rgb(255,0,255)";
-                b.arc(75, 75, 75, 0, 2 * Math.PI, !0);
-                b.arc(75, 75, 25, 0, 2 * Math.PI, !0);
-                b.fill("evenodd");
-                return a.toDataURL()
-            } catch (g) {
-                return ""
-            }
-        };
-
 ```
 [Go back to top](#tracker-descriptions)
 
