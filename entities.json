@@ -6777,6 +6777,16 @@
       "liverail.com"
     ]
   },
+  "LiveRamp": {
+    "properties": [
+      "liveramp.com",
+      "rlcdn.com"
+    ],
+    "resources": [
+      "liveramp.com",
+      "rlcdn.com"
+    ]
+  },
   "LKQD": {
     "properties": [
       "lkqd.com",
@@ -9115,14 +9125,10 @@
   },
   "Rapleaf": {
     "properties": [
-      "liveramp.com",
       "rapleaf.com",
-      "rlcdn.com"
     ],
     "resources": [
-      "liveramp.com",
       "rapleaf.com",
-      "rlcdn.com"
     ]
   },
   "ReachLocal": {
