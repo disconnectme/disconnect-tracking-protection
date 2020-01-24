@@ -6836,6 +6836,13 @@
         }
       },
       {
+        "Wayfair": {
+          "https://www.wayfair.com/": [
+            "wayfair.com"
+          ]
+        }
+      },
+      {
         "WebAds": {
           "http://www.webads.co.uk/": [
             "webads.co.uk"
