@@ -5070,13 +5070,6 @@
         }
       },
       {
-        "PerimeterX": {
-          "https://www.perimeterx.com": [
-            "perimeterx.net"
-          ]
-        }
-      },
-      {
         "Pheedo": {
           "http://site.pheedo.com/": [
             "pheedo.com"
@@ -10369,13 +10362,6 @@
         "Paypal": {
           "https://www.paypal.com": [
             "simility.com"
-          ]
-        }
-      },
-      {
-        "PerimeterX": {
-          "https://www.perimeterx.com": [
-            "perimeterx.net"
           ]
         }
       },
