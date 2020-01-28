@@ -96,7 +96,6 @@
 - [USocial](#USocial)
 - [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
-- [ViralLoops](#ViralLoops)
 - [Webmecanik](#Webmecanik)
 - [Webmine](#Webmine)
 - [WideOrbit](#WideOrbit)
@@ -4960,17 +4959,6 @@ Script: `https://assets.verticalhealth.net/fingerprint2.min.js`
 Request URL: https://id.verticalhealth.net/pixel.gif?fprint=REMOVED&partnerid=iodine&context=%7B%22depression%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22diagnosis%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22new%20york%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22morphine%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tramadol%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22lortab%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22vicodin%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22one%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgery%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tissue%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22muscle%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgeon%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22panic%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22doctor%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22pain%22%3A%7B%22score%22%3A3%2C%22count%22%3A3%7D%2C%22add%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22addictive%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22abuse%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22adhd%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22medications%22%3A%7B%22score%22%3A6%2C%22count%22%3A4%7D%7D
 ```
 
-[Go back to top](#tracker-descriptions)
-
-## ViralLoops
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-
-```
-swfContainerId:"fingerprintjs2"
-```
 [Go back to top](#tracker-descriptions)
 
 ## Webmecanik
