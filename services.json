@@ -9393,13 +9393,6 @@
         }
       },
       {
-        "Poool": {
-          "http://poool.fr/": [
-            "poool.fr"
-          ]
-        }
-      },
-      {
         "Pronunciator": {
           "http://www.pronunciator.com/": [
             "pronunciator.com",
@@ -10397,13 +10390,6 @@
         "Pixlee": {
           "https://www.pixlee.com/": [
             "pixlee.com"
-          ]
-        }
-      },
-      {
-        "Poool": {
-          "http://poool.fr/": [
-            "poool.fr"
           ]
         }
       },
