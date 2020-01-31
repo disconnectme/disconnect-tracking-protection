@@ -2019,7 +2019,7 @@ function _0x45bcc2() {
 ## DoubleVerify
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Policy Review
-1. Double Verify privacy policy states they collect the following data:: 
+1. DoubleVerify’s privacy policy (`https://www.doubleverify.com/privacy/`) states they collect the following data:
 
 * "Mobile application, mobile device, and connected device data such as device identifiers, advertising IDs, application name, bundle IDs, application ID, store ID and other similar data."
 
@@ -2033,11 +2033,11 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
 
 * "To deliver DoubleVerify Services, we use pixels and other similar technologies that can place a small piece of HTML code on a webpage to collect information about advertising impression opportunities and displayed ads or website traffic."
 
-2. Double Verify privacy policy states they may use the collected data as follows:
+2. DoubleVerify’s privacy policy states they may use the collected data as follows:
 
 * "We use the data we collect to provide DoubleVerify Services for any lawful purpose…"
 
-3. Double Verify privacy policy states they may disclose the collected data as follows:
+3. DoubleVerify’s privacy policy states they may disclose the collected data as follows:
 
 * "DoubleVerify shares information collected about online advertising impressions: (1) as is necessary to execute the DoubleVerify Services . . . (5) to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)."
 
