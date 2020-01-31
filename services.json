@@ -10286,14 +10286,6 @@
         }
       },
       {
-        "MediaMath": {
-          "http://www.mediamath.com/": [
-            "mathtag.com",
-            "mediamath.com"
-          ]
-        }
-      },
-      {
         "Mercadopago": {
           "https://www.mercadopago.com/": [
             "mercadopago.com"
