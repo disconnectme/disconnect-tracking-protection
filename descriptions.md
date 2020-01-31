@@ -1,4 +1,7 @@
 # Tracker Descriptions
+
+The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
+
 - [Adabra](#Adabra)
 - [Adbot](#Adbot)
 - [AdGainerSolutions](#AdGainerSolutions)
@@ -2016,51 +2019,27 @@ function _0x45bcc2() {
 ## DoubleVerify
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Policy Review
-1. Doubleverify states they attempt to identify particular devices - `https://www.doubleverify.com/privacy/`
+1. Double Verify privacy policy states they collect the following data:: 
 
-> and other data including browser configuration parameters such as browser language and session storage and local storage settings, and characteristics of your device such as the CPU class and time zone setting.
+* "Mobile application, mobile device, and connected device data such as device identifiers, advertising IDs, application name, bundle IDs, application ID, store ID and other similar data."
 
-> Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device. 
-### Technical Review
-1. Script uses canvas/font fingerprinting to fingerprint users
+* "Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device." 
 
-```
-var canvasDrawBG = c.g.createElement("canvas");
-if (canvasDrawBG.getContext && canvasDrawBG.getContext("2d")) {
-  var ctx = canvasDrawBG.getContext("2d");
-  /** @type {string} */
-  ctx.textBaseline = "top";
-  /** @type {string} */
-  ctx.font = "14px Arial";
-  /** @type {string} */
-  ctx.textBaseline = "alphabetic";
-  /** @type {string} */
-  ctx.fillStyle = "#f60";
-  ctx.fillRect(0, 0, 62, 20);
-  /** @type {string} */
-  ctx.fillStyle = "#069";
-  ctx.fillText("!image!", 2, 15);
-  /** @type {string} */
-  ctx.fillStyle = "rgba(102, 204, 0, 0.7)";
-  ctx.fillText("!image!", 4, 17);
-  return canvasDrawBG.toDataURL();
-}
-```
+* "Clickstream data including URLs and other data regarding the websites on which a particular browser has viewed advertising impressions we are analyzing." 
 
-2. Script probes device properties to attempt to fingerprint users
+* "Clickstream data including mobile and connected device application identifier and other data regarding the mobile and connected device apps on which a particular user has viewed advertising impressions."
 
-```
-sortable.push(["lang", this.navigator.language || navigator.browserLanguage]);
-sortable.push(["tz", d.i.getTimezoneOffset()]);
-sortable.push(["hss", this.Yt() ? "1" : "0"]);
-sortable.push(["hls", this.Xt() ? "1" : "0"]);
-sortable.push(["odb", typeof this.o.openDatabase]);
-sortable.push(["cpu", this.navigator.cpuClass || ""]);
-sortable.push(["pf", this.navigator.platform || ""]);
-sortable.push(["dnt", this.navigator.doNotTrack || ""]);
-sortable.push(["canv", this.Ps()]);
-```
-[Go back to top](#tracker-descriptions)
+* "Browser and computer environmental information necessary to determine the viewability of an advertisement, which includes information such as ad size, ad location in the browser viewport, size of the browser viewport, size of the display, application in focus, browser tab in focus, and other data."
+
+* "To deliver DoubleVerify Services, we use pixels and other similar technologies that can place a small piece of HTML code on a webpage to collect information about advertising impression opportunities and displayed ads or website traffic."
+
+2. Double Verify privacy policy states they may use the collected data as follows:
+
+* "We use the data we collect to provide DoubleVerify Services for any lawful purpose…"
+
+3. Double Verify privacy policy states they may disclose the collected data as follows:
+
+* "DoubleVerify shares information collected about online advertising impressions: (1) as is necessary to execute the DoubleVerify Services . . . (5) to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)."
 
 ## ECSAnalytics
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
