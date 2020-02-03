@@ -77,7 +77,6 @@ The technical and policy review information below was recorded on the date obser
 - [Opolen](#Opolen)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
-- [PinPoll](#PinPoll)
 - [Poool](#Poool)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
@@ -3849,64 +3848,6 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
-[Go back to top](#tracker-descriptions)
-
-## PinPoll
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://pinpoll.com/global.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var Fingerprint2 = function e(t) {
-    if (!(this instanceof e)) return new e(t);
-    this.options = this.extend(t, {
-        swfContainerId: "fingerprintjs2",
-        swfPath: "flash/compiled/FontList.swf",
-        detectScreenOrientation: !0,
-        sortPluginsFor: [/palemoon/i],
-        userDefinedFonts: [],
-        excludeDoNotTrack: !0
-    }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-};
-```
-2. Sends computed fingerprint back to pinpoll.com:
-```
-                    d.style.display = "none", d.src = "https://static.pinpoll.com/static/start.html";
-                    var u = !1,
-                        p = function() {
-                            !u && a && l && (function() {
-                                0 === s.offsetHeight && (r = !0), s.remove(), d.remove();
-                                var a = {
-                                    plugins: n(),
-                                    timezone: (new Date).getTimezoneOffset(),
-                                    adblock: r ? 1 : 0,
-                                    dnt: window.navigator.doNotTrack,
-                                    cookiesEnabled: o() ? 1 : 0,
-                                    thirdPartyCookiesEnabled: c ? 1 : 0,
-                                    referrer: document.referrer,
-                                    title: document.title,
-                                    location: {
-                                        hash: document.location.hash,
-                                        hostname: document.location.hostname,
-                                        pathname: document.location.pathname,
-                                        protocol: document.location.protocol,
-                                        search: document.location.search
-                                    },
-                                    screen: {
-                                        width: window.screen.width,
-                                        height: window.screen.height,
-                                        colorDepth: window.screen.colorDepth,
-                                        orientation: window.screen.orientation ? window.screen.orientation.type : null
-                                    },
-                                    metaTags: i(),
-                                    fingerprint: t.fingerprint
-                                };
-                                e.open("post", "https://pa.pinpoll.com/v1/"), e.withCredentials = !0, e.setRequestHeader("Content-Type", "application/json"), e.send(JSON.stringify(a))
-                            }(), u = !0)
-                        };
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## Poool

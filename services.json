@@ -5092,13 +5092,6 @@
         }
       },
       {
-        "PinPoll": {
-          "https://pinpoll.com/": [
-            "pinpoll.com"
-          ]
-        }
-      },
-      {
         "Pixel.sg": {
           "http://www.pixel.sg/": [
             "pixel.sg"
@@ -10376,13 +10369,6 @@
         "PerimeterX": {
           "https://www.perimeterx.com": [
             "perimeterx.net"
-          ]
-        }
-      },
-      {
-        "PinPoll": {
-          "https://pinpoll.com/": [
-            "pinpoll.com"
           ]
         }
       },
