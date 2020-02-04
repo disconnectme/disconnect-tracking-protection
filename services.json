@@ -8746,13 +8746,6 @@
         }
       },
       {
-        "DoubleVerify": {
-          "http://www.doubleverify.com/": [
-            "doubleverify.com"
-          ]
-        }
-      },
-      {
         "dwstat.com": {
           "http://www.dwstat.cn/": [
             "dwstat.cn"
@@ -10108,13 +10101,6 @@
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
-          ]
-        }
-      },
-      {
-        "DoubleVerify": {
-          "http://www.doubleverify.com/": [
-            "doubleverify.com"
           ]
         }
       },
