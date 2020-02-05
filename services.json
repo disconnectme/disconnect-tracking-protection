@@ -3133,7 +3133,7 @@
       {
         "Friends2Follow": {
           "https://friends2follow.com/": [
-            "friends2follow.com"
+            "tracking.friends2follow.com"
           ]
         }
       },
@@ -10165,7 +10165,7 @@
       {
         "Friends2Follow": {
           "https://friends2follow.com/": [
-            "friends2follow.com"
+            "antifraudjs.friends2follow.com"
           ]
         }
       },
