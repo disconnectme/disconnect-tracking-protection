@@ -1172,6 +1172,13 @@
         }
       },
       {
+        "AlterGeo": {
+          "http://altergeo.ru/": [
+            "altergeo.ru"
+          ]
+        }
+      },
+      {
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon-adsystem.com",
@@ -3319,6 +3326,13 @@
         }
       },
       {
+        "Graphnium": {
+          "https://www.graphinium.com/": [
+            "crm4d.com"
+          ]
+        }
+      },
+      {
         "Grocery Shopping Network": {
           "http://www.groceryshopping.net/": [
             "groceryshopping.net"
@@ -3703,6 +3717,14 @@
         }
       },
       {
+        "IponWeb": {
+          "https://www.iponweb.com/": [
+            "iponweb.com",
+            "iponweb.net"
+          ]
+        }
+      },
+      {
         "iPROM": {
           "http://www.iprom.si/": [
             "centraliprom.com",
@@ -4031,6 +4053,14 @@
           "http://www.liveinternet.ru": [
             "liveinternet.ru",
             "yadro.ru"
+          ]
+        }
+      },
+      {
+        "LiveRamp": {
+          "https://liveramp.com/": [
+            "liveramp.com",
+            "tvpixel.com"
           ]
         }
       },
@@ -4845,6 +4875,13 @@
         }
       },
       {
+        "Onclusive": {
+          "https://onclusive.com/": [
+            "airpr.com"
+          ]
+        }
+      },
+      {
         "OneAd": {
           "https://www.onead.com.tw/": [
             "guoshipartners.com",
@@ -5044,6 +5081,13 @@
           "http://www.paypopup.com/": [
             "lzjl.com",
             "paypopup.com"
+          ]
+        }
+      },
+      {
+        "PebblePost": {
+          "https://www.pebblepost.com/": [
+            "pbbl.co"
           ]
         }
       },
@@ -5449,7 +5493,6 @@
       {
         "Rapleaf": {
           "http://www.rapleaf.com/": [
-            "liveramp.com",
             "rapleaf.com",
             "rlcdn.com"
           ]
@@ -5526,6 +5569,13 @@
         "Reporo": {
           "http://www.reporo.com/": [
             "buzzcity.com"
+          ]
+        }
+      },
+      {
+        "ResolutionMedia": {
+          "https://nonstoppartner.net/": [
+            "nonstoppartner.net"
           ]
         }
       },
@@ -6245,6 +6295,13 @@
         }
       },
       {
+        "Taleria": {
+          "https://outstream.telaria.com/": [
+            "freeskreen.com"
+          ]
+        }
+      },
+      {
         "Tapad": {
           "http://www.tapad.com/": [
             "tapad.com"
@@ -6478,6 +6535,13 @@
         "Trafmag": {
           "http://trafmag.com/": [
             "trafmag.com"
+          ]
+        }
+      },
+      {
+        "Traverse": {
+          "http://www.traversedata.com/": [
+            "traversedlp.com"
           ]
         }
       },
