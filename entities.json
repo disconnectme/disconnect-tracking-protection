@@ -5911,7 +5911,8 @@
   },
   "IBM": {
     "properties": [
-      "ibm.com"
+      "ibm.com",
+      "multicloud-ibm.com"
     ],
     "resources": [
       "cmcore.com",
