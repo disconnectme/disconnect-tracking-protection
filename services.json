@@ -8916,6 +8916,13 @@
         }
       },
       {
+        "Friends2Follow": {
+          "https://friends2follow.com/": [
+            "antifraudjs.friends2follow.com"
+          ]
+        }
+      },
+      {
         "Fullstory": {
           "https://www.fullstory.com/": [
             "fullstory.com"

@@ -2262,7 +2262,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Friends2Follow
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics`, `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
 Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friends2follow/dist/friends2follow_socialstack.min.js?v=201902040`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
