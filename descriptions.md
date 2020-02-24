@@ -84,6 +84,7 @@ The technical and policy review information below was recorded on the date obser
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
 - [Provers](#Provers)
 - [Psonstrentie](#Psonstrentie)
+- [Riskified](#Riskified)
 - [Rollick](#Rollick)
 - [SAP](#SAP)
 - [Semantiqo](#Semantiqo)
@@ -4153,6 +4154,36 @@ Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0l
 ```
 
 [Go back to top](#tracker-descriptions)
+
+## Riskified
+This service has been classified as `Fingerprinting` for the following reasons:
+### Technical Review
+Script: beacon.riskified.com
+Documentation: https://apiref.riskified.com/curl/#beacon
+
+1. Script generates fingerprint by querying various device properties, 
+```
+    return typeof getYyRxId == typeof Function && null != getYyRxId() && getYyRxId(), typeof getYyRxId3 == typeof Function && null != getYyRxId3() && (_0x211b7f = getYyRxId3()), _0x193a3b = {
+        'lat': parseInt(_0x2108c8[_0x0baf('0xae')]),
+        'timezone': _0x2345ca,
+        'timestamp': _0x211b7f,
+        'cart_id': RISKX['getCartId'](),
+        'shop_id': document[_0x0baf('0x1')]['host'],
+        'referrer': _0x8c1dc2,
+        'href': _0x3c5654,
+        'riskified_cookie': _0x6bdc53,
+        'color_depth': screen[_0x0baf('0xaf')],
+        'page_id': RI22['generatePageId'](),
+        'shop': this[_0x0baf('0xb0')] || null,
+        'hardware_concurrency': navigator[_0x0baf('0xb1')] || '',
+        'has_touch': _0x518e82
+```
+2. The script calls multiple other domains and is highly obfuscated:
+```
+https://img.riskified.com/img/
+https://c.riskified.com
+https://beacon.riskified.com/
+```
 
 ## Rollick
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
