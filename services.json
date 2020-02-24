@@ -10578,6 +10578,13 @@
         }
       },
       {
+        "riskified": {
+          "https://www.riskified.com/": [
+            "riskified.com"
+          ]
+        }
+      },
+      {
         "Smi": {
           "http://24smi.net": [
             "24smi.net"
