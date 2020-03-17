@@ -40,7 +40,6 @@ The technical and policy review information below was recorded on the date obser
 - [CryptoLoot](#CryptoLoot)
 - [ECSAnalytics](#ECSAnalytics)
 - [EroAdvertising](#EroAdvertising)
-- [EyeNewton](#EyeNewton)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
 - [Fanplayr](#Fanplayr)
 - [Foresee](#Foresee)
@@ -70,11 +69,9 @@ The technical and policy review information below was recorded on the date obser
 - [NeroHut](#NeroHut)
 - [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
-- [OpenX](#OpenX)
 - [Opolen](#Opolen)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
-- [PinPoll](#PinPoll)
 - [Poool](#Poool)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
@@ -2077,40 +2074,6 @@ eaCtrl.connectors = {
 
 [Go back to top](#tracker-descriptions)
 
-## EyeNewton
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://eyenewton.ru/scripts/callback.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-                var c = setTimeout(function() {
-                    return console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".'), i.oncomplete = function() {}, i = null, n("audioTimeout")
-                }, t.timeout);
-
-
-```
-2. Sends computed fingerprint back to server
-```
-ajax.get(settings_url, e, function(t) {
-                if (eyenewtonLoader.next(), !t) return clearInterval(init_interval), !1;
-                try {
-                    var e = JSON.parse(t)
-                } catch (e) {
-                    return remoteErrorLog(e, "getSettings", typeof t + " " + t.length + " " + t), !1
-                }
-                if (0 == e.length) return clearInterval(init_interval), !1;
-                if ("undefined" != typeof newton_callback_id_internal && null != e.callback_id && newton_callback_id_internal != e.callback_id) return clearInterval(init_interval), !1;
-                if ((default_settings = merge_options(default_settings, e)).callback) {
-                    default_settings.appearance_disabled = parseInt(default_settings.appearance_disabled), disableAppearanceOnMainPageLot(), default_settings.appearance_init = parseInt(default_settings.appearance_init), default_settings.appearance_exit = parseInt(default_settings.appearance_exit), default_settings.appearance_time = parseInt(default_settings.appearance_time), default_settings.current_time = parseInt(default_settings.current_time), default_settings.show_once_day = parseInt(default_settings.show_once_day), default_settings.hide_after_hours = parseInt(default_settings.hide_after_hours), default_settings.show_on_mobile = parseInt(default_settings.show_on_mobile), default_settings.dialog_enabled = parseInt(default_settings.dialog_enabled), default_settings.disable_delayed_calls = parseInt(default_settings.disable_delayed_calls), default_settings.have_departments = parseInt(default_settings.have_departments), default_settings.silent_mode = 1 == default_settings.silent_mode, default_settings.is_multiwidget = parseInt(default_settings.is_multiwidget), default_settings.multiwidget_application = parseInt(default_settings.multiwidget_application), default_settings.multiwidget_consultant = parseInt(default_settings.multiwidget_consultant), default_settings.enable_mobile_direct_call = parseInt(default_settings.enable_mobile_direct_call), default_settings.enable_log = parseInt(default_settings.enable_log), default_settings.chat_enabled = parseInt(default_settings.chat_enabled), default_settings.chat_active = parseInt(default_settings.chat_active), default_settings.manager_photo_enabled = parseInt(default_settings.manager_photo_enabled), default_settings.banner_enabled = parseInt(default_settings.banner_enabled), default_settings.banner_bottom = parseInt(default_settings.banner_bottom), default_settings.mini_version_enabled = parseInt(default_settings.mini_version_enabled);
-                    var n = getParam("show_phone_button");
-                    void 0 !== n && (default_settings.show_phone_button = n), null == (init_time = getInitTime()) && setInitTime(init_time = default_settings.current_time)
-                }
-                settingsLoaded = !0
-            })
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## eyeReturn Marketing
 This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
 ### Policy Review
@@ -3343,66 +3306,6 @@ function tmx_run_page_fingerprinting(saveNotifs) {
 ```
 [Go back to top](#tracker-descriptions)
 
-## OpenX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `http://u.openx.net/tq/pi?k=gateway&rid=ab18c828-8715-4b6b-973c-aef4be5b121b&rt=1549406488`
-1. Script generates fingerprint by querying various device properties including audio and canvas:
-```
-            var Y = D.OfflineAudioContext || D.webkitOfflineAudioContext;
-            var Z = "u_audio_context";
-            if (!Y) {
-                return T(Z, "n/a")
-            }
-            try {
-                var X = new Y(1, 44100, 44100);
-                var V = X.createDynamicsCompressor();
-                var U = X.createOscillator();
-                U.type = "triangle";
-                U.frequency.value = 10000;
-                X.oncomplete = function(ab) {
-                    for (var ad = ab.renderedBuffer.getChannelData(0), aa = 0, ac = 4500; ac < 5000; ac++) {
-                        U += Math.abs(ad[ac])
-                    }
-                    T(Z, j("" + aa));
-                    V.disconnect()
-                };
-                U.connect(V);
-                V.connect(X.destination);
-                U.start(0);
-                X.startRendering()
-            } catch (W) {
-                T(Z, "error")
-            }
-
-        var H;
-        var I;
-        var K = "1";
-        try {
-            I = E.createElement("div");
-            I.style.position = "absolute";
-            I.style.width = I.style.height = I.style.border = I.style.padding = I.style.margin = 0;
-            I.style.overflow = "hidden";
-            E.body.appendChild(I);
-            H = E.createElement("canvas");
-            H.width = H.height = 10;
-            I.appendChild(H);
-            H.getContext("2d").strokeText("true", 0, 0)
-        } catch (J) {
-            K = "0"
-        } finally {
-            H && I && I.removeChild(H)
-        }
-        return K
-
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: http://delivery-us-west-1.openx.net/w/1.0/ri?ph=REMOVED&ts=REMOVED
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## Opolen
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -3625,64 +3528,6 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
-[Go back to top](#tracker-descriptions)
-
-## PinPoll
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://pinpoll.com/global.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var Fingerprint2 = function e(t) {
-    if (!(this instanceof e)) return new e(t);
-    this.options = this.extend(t, {
-        swfContainerId: "fingerprintjs2",
-        swfPath: "flash/compiled/FontList.swf",
-        detectScreenOrientation: !0,
-        sortPluginsFor: [/palemoon/i],
-        userDefinedFonts: [],
-        excludeDoNotTrack: !0
-    }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-};
-```
-2. Sends computed fingerprint back to pinpoll.com:
-```
-                    d.style.display = "none", d.src = "https://static.pinpoll.com/static/start.html";
-                    var u = !1,
-                        p = function() {
-                            !u && a && l && (function() {
-                                0 === s.offsetHeight && (r = !0), s.remove(), d.remove();
-                                var a = {
-                                    plugins: n(),
-                                    timezone: (new Date).getTimezoneOffset(),
-                                    adblock: r ? 1 : 0,
-                                    dnt: window.navigator.doNotTrack,
-                                    cookiesEnabled: o() ? 1 : 0,
-                                    thirdPartyCookiesEnabled: c ? 1 : 0,
-                                    referrer: document.referrer,
-                                    title: document.title,
-                                    location: {
-                                        hash: document.location.hash,
-                                        hostname: document.location.hostname,
-                                        pathname: document.location.pathname,
-                                        protocol: document.location.protocol,
-                                        search: document.location.search
-                                    },
-                                    screen: {
-                                        width: window.screen.width,
-                                        height: window.screen.height,
-                                        colorDepth: window.screen.colorDepth,
-                                        orientation: window.screen.orientation ? window.screen.orientation.type : null
-                                    },
-                                    metaTags: i(),
-                                    fingerprint: t.fingerprint
-                                };
-                                e.open("post", "https://pa.pinpoll.com/v1/"), e.withCredentials = !0, e.setRequestHeader("Content-Type", "application/json"), e.send(JSON.stringify(a))
-                            }(), u = !0)
-                        };
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## Poool
