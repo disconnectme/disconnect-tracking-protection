@@ -86,7 +86,6 @@ The technical and policy review information below was recorded on the date obser
 - [Smi](#Smi)
 - [Socital](#Socital)
 - [SpareChange](#SpareChange)
-- [StackTrack](#StackTrack)
 - [Storeland](#Storeland)
 - [TechSolutions](#TechSolutions)
 - [Upland](#Upland)
@@ -4181,45 +4180,6 @@ function Miner(spareChangeApiKey, p1, p2) {
     this.connectionOpen = false;
     this.token = null;
 }
-```
-
-[Go back to top](#tracker-descriptions)
-
-## StackTrack
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://cdn.stat-track.com/statics/moosend-tracking.min.js?ts=5179362`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            var r = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
-            this.options = this.extend(t, r), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-
-```
-2. Sends computed fingerprint back to server
-```
-e.prototype.ping = function(e) {
-            if (this._isInitialized()) {
-                var t = {
-                        BrowserComponents: e,
-                        ContactId: this.storage.getUserId(),
-                        actionType: n.PING,
-                        sessionId: this.storage.getSessionId(),
-                        siteId: this.siteId
-                    },
-                    r = this.storage.getEmail(),
-                    i = this.storage.getCampaignId();
-                r && (t.ContactEmailAddress = r), i && (t.CampaignId = i), this.agent.sendPing(t)
-            }
-        }
 ```
 
 [Go back to top](#tracker-descriptions)
