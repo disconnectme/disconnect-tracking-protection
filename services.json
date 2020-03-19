@@ -9651,13 +9651,6 @@
         }
       },
       {
-        "StackTrack": {
-          "http://stat-track.com": [
-            "stat-track.com"
-          ]
-        }
-      },
-      {
         "stat4u": {
           "http://stat.4u.pl/": [
             "4u.pl"
@@ -10545,13 +10538,6 @@
         "Socital": {
           "https://www.socital.com": [
             "socital.com"
-          ]
-        }
-      },
-      {
-        "StackTrack": {
-          "http://stat-track.com": [
-            "stat-track.com"
           ]
         }
       },
