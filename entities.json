@@ -1498,6 +1498,7 @@
       "abmr.net",
       "akamai.com",
       "edgesuite.net",
+      "go-mpulse.net",
       "imiclk.com"
     ]
   },
@@ -10056,14 +10057,6 @@
     "resources": [
       "snoobi.com",
       "snoobi.fi"
-    ]
-  },
-  "Soasta": {
-    "properties": [
-      "go-mpulse.net"
-    ],
-    "resources": [
-      "go-mpulse.net"
     ]
   },
   "SocialChorus": {
