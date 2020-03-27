@@ -1,4 +1,7 @@
 # Tracker Descriptions
+
+The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
+
 - [Adabra](#Adabra)
 - [Adbot](#Adbot)
 - [AdGainerSolutions](#AdGainerSolutions)
@@ -35,10 +38,8 @@
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
-- [DoubleVerify](#DoubleVerify)
 - [ECSAnalytics](#ECSAnalytics)
 - [EroAdvertising](#EroAdvertising)
-- [EyeNewton](#EyeNewton)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
 - [Fanplayr](#Fanplayr)
 - [Foresee](#Foresee)
@@ -49,7 +50,6 @@
 - [Gridcash](#Gridcash)
 - [HilltopAds](#HilltopAds)
 - [HotelChamp](#HotelChamp)
-- [HotMart](#HotMart)
 - [iMedia](#iMedia)
 - [IslayTech](#IslayTech)
 - [ismatlab.com](#ismatlab.com)
@@ -59,7 +59,6 @@
 - [LeadsHub](#LeadsHub)
 - [lptracker](#lptracker)
 - [MaxMind](#MaxMind)
-- [MediaMath](#MediaMath)
 - [Mercadopago](#Mercadopago)
 - [MinerAlt](#MinerAlt)
 - [Minescripts](#Minescripts)
@@ -70,11 +69,9 @@
 - [NeroHut](#NeroHut)
 - [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
-- [OpenX](#OpenX)
 - [Opolen](#Opolen)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
-- [PinPoll](#PinPoll)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
@@ -92,7 +89,6 @@
 - [Storeland](#Storeland)
 - [TechSolutions](#TechSolutions)
 - [Upland](#Upland)
-- [USocial](#USocial)
 - [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
 - [Webmecanik](#Webmecanik)
@@ -2012,55 +2008,6 @@ function _0x45bcc2() {
 ```
 [Go back to top](#tracker-descriptions)
 
-## DoubleVerify
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Policy Review
-1. Doubleverify states they attempt to identify particular devices - `https://www.doubleverify.com/privacy/`
-
-> and other data including browser configuration parameters such as browser language and session storage and local storage settings, and characteristics of your device such as the CPU class and time zone setting.
-
-> Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device. 
-### Technical Review
-1. Script uses canvas/font fingerprinting to fingerprint users
-
-```
-var canvasDrawBG = c.g.createElement("canvas");
-if (canvasDrawBG.getContext && canvasDrawBG.getContext("2d")) {
-  var ctx = canvasDrawBG.getContext("2d");
-  /** @type {string} */
-  ctx.textBaseline = "top";
-  /** @type {string} */
-  ctx.font = "14px Arial";
-  /** @type {string} */
-  ctx.textBaseline = "alphabetic";
-  /** @type {string} */
-  ctx.fillStyle = "#f60";
-  ctx.fillRect(0, 0, 62, 20);
-  /** @type {string} */
-  ctx.fillStyle = "#069";
-  ctx.fillText("!image!", 2, 15);
-  /** @type {string} */
-  ctx.fillStyle = "rgba(102, 204, 0, 0.7)";
-  ctx.fillText("!image!", 4, 17);
-  return canvasDrawBG.toDataURL();
-}
-```
-
-2. Script probes device properties to attempt to fingerprint users
-
-```
-sortable.push(["lang", this.navigator.language || navigator.browserLanguage]);
-sortable.push(["tz", d.i.getTimezoneOffset()]);
-sortable.push(["hss", this.Yt() ? "1" : "0"]);
-sortable.push(["hls", this.Xt() ? "1" : "0"]);
-sortable.push(["odb", typeof this.o.openDatabase]);
-sortable.push(["cpu", this.navigator.cpuClass || ""]);
-sortable.push(["pf", this.navigator.platform || ""]);
-sortable.push(["dnt", this.navigator.doNotTrack || ""]);
-sortable.push(["canv", this.Ps()]);
-```
-[Go back to top](#tracker-descriptions)
-
 ## ECSAnalytics
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -2122,40 +2069,6 @@ eaCtrl.connectors = {
 };
 
 
-```
-
-[Go back to top](#tracker-descriptions)
-
-## EyeNewton
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://eyenewton.ru/scripts/callback.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-                var c = setTimeout(function() {
-                    return console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".'), i.oncomplete = function() {}, i = null, n("audioTimeout")
-                }, t.timeout);
-
-
-```
-2. Sends computed fingerprint back to server
-```
-ajax.get(settings_url, e, function(t) {
-                if (eyenewtonLoader.next(), !t) return clearInterval(init_interval), !1;
-                try {
-                    var e = JSON.parse(t)
-                } catch (e) {
-                    return remoteErrorLog(e, "getSettings", typeof t + " " + t.length + " " + t), !1
-                }
-                if (0 == e.length) return clearInterval(init_interval), !1;
-                if ("undefined" != typeof newton_callback_id_internal && null != e.callback_id && newton_callback_id_internal != e.callback_id) return clearInterval(init_interval), !1;
-                if ((default_settings = merge_options(default_settings, e)).callback) {
-                    default_settings.appearance_disabled = parseInt(default_settings.appearance_disabled), disableAppearanceOnMainPageLot(), default_settings.appearance_init = parseInt(default_settings.appearance_init), default_settings.appearance_exit = parseInt(default_settings.appearance_exit), default_settings.appearance_time = parseInt(default_settings.appearance_time), default_settings.current_time = parseInt(default_settings.current_time), default_settings.show_once_day = parseInt(default_settings.show_once_day), default_settings.hide_after_hours = parseInt(default_settings.hide_after_hours), default_settings.show_on_mobile = parseInt(default_settings.show_on_mobile), default_settings.dialog_enabled = parseInt(default_settings.dialog_enabled), default_settings.disable_delayed_calls = parseInt(default_settings.disable_delayed_calls), default_settings.have_departments = parseInt(default_settings.have_departments), default_settings.silent_mode = 1 == default_settings.silent_mode, default_settings.is_multiwidget = parseInt(default_settings.is_multiwidget), default_settings.multiwidget_application = parseInt(default_settings.multiwidget_application), default_settings.multiwidget_consultant = parseInt(default_settings.multiwidget_consultant), default_settings.enable_mobile_direct_call = parseInt(default_settings.enable_mobile_direct_call), default_settings.enable_log = parseInt(default_settings.enable_log), default_settings.chat_enabled = parseInt(default_settings.chat_enabled), default_settings.chat_active = parseInt(default_settings.chat_active), default_settings.manager_photo_enabled = parseInt(default_settings.manager_photo_enabled), default_settings.banner_enabled = parseInt(default_settings.banner_enabled), default_settings.banner_bottom = parseInt(default_settings.banner_bottom), default_settings.mini_version_enabled = parseInt(default_settings.mini_version_enabled);
-                    var n = getParam("show_phone_button");
-                    void 0 !== n && (default_settings.show_phone_button = n), null == (init_time = getInitTime()) && setInitTime(init_time = default_settings.current_time)
-                }
-                settingsLoaded = !0
-            })
 ```
 
 [Go back to top](#tracker-descriptions)
@@ -2282,7 +2195,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Friends2Follow
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics`, `Advertising` and `Fingerprinting` for the following reasons:
 ### Technical Review
 Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friends2follow/dist/friends2follow_socialstack.min.js?v=201902040`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2514,45 +2427,6 @@ Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
                 setTimeout(bind(this, this.pollSpecialPages), 1500)
             }
         };
-
-```
-
-[Go back to top](#tracker-descriptions)
-
-## HotMart
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://api-identification.hotmart.com/id.min.js?account=a7d0d5a7-b5f0-49a5-9627-ebe36b4c8e8f`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-webglKey: function(a) {
-                    if (this.options.excludeWebGL) return "undefined" === typeof NODEBUG && this.log("Skipping WebGL fingerprinting per excludeWebGL configuration option"), a;
-                    if (!this.isWebGlSupported()) return "undefined" === typeof NODEBUG && this.log("Skipping WebGL fingerprinting because it is not supported in this browser"), a;
-                    a.push(this.getWebglFp());
-                    return a
-                }, adBlockKey: function(a) {
-                    this.options.excludeAdBlock || a.push(this.getAdBlock());
-                    return a
-                }, hasLiedLanguagesKey: function(a) {
-                    this.options.excludeHasLiedLanguages || a.push(this.getHasLiedLanguages());
-                    return a
-                }, hasLiedResolutionKey: function(a) {
-                    this.options.excludeHasLiedResolution || a.push(this.getHasLiedResolution());
-                    return a
-                }
-```
-2. Sends computed fingerprint back to server
-```
-window.hotlobj.config = {
-    CONSOLE_DEBUG: 0,
-    VISUAL_DEBUG: 0,
-    HOTID: 'hotid',
-    COOKIE_AGE_MINUTES: 25920000,
-    DOMAIN: '.hotmart.com',
-    IDENTIFICATION_PIXEL_URL: 'https://api-identification.hotmart.com/id.gif',
-    TRACKING_REST_URL: 'https://tracking-api.hotmart.com/rest/track'
-};
-
 
 ```
 
@@ -2947,162 +2821,6 @@ Script: `https://device.maxmind.com/js/device.js`
             o.open("POST", i, !0), "function" == typeof o.setRequestHeader && o.setRequestHeader("Content-Type", "text/plain;charset=UTF-8"), o.send(r)
         } catch (a) {}
     };
-
-```
-
-[Go back to top](#tracker-descriptions)
-
-## MediaMath
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Policy Review
-1. Mediamath purchased Tactads, a provider of "cookieless and cross-device targeting technologies" - `https://www.mediamath.com/news/press-release-mediamath-acquires-tactads-to-enable-cookieless-cross-device-targeting-and-measurement/`
-
-> MediaMath, the creator of the TerminalOne Marketing Operating System™ for digital marketers, today announced its acquisition of Tactads, provider of cookieless and cross-device targeting technologies. Integrated into TerminalOne, these technologies will provide advertisers the ability to communicate with consumers and unify marketing efforts across smartphone, tablet, laptop, desktop, and other devices...
-
-> Tactads, a France-based company, has developed proprietary software that uses sophisticated algorithms to identify and associate devices using statistical techniques...
-
-2. MediaMath privacy policy states they use cookieless tracking and specifically states they profile installed fonts and "similar information" - https://www.mediamath.com/privacy-policy/#Section-2
-
-> The MediaMath ID can be a cookie ID (a unique ID assigned randomly by MediaMath to an unrecognized browser), a mobile advertising ID (a unique ID assigned by the mobile operating system, e.g. Apple ID for Advertising or Android Advertising ID), an OTT TV Device Identifier for Advertising (a unique ID assigned by an OTT TV provider, e.g., Roku ID for Advertising), or a statistical ID (created by MediaMath). We use information about your computer or device to generate the statistical ID, including your operating system, user-agent string, Internet Protocol (“IP”) address, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device over time, including in environments where MediaMath cookies are not supported.
-### Technical Review
-1. Script uses canvas/font fingerprinting to fingerprint users
-
-```
-var render = function(type) {
-  /**
-    * @param {string} id
-    * @return {?}
-    */
-  function init(id) {
-    /** @type {boolean} */
-    var result = false;
-    /** @type {number} */
-    var i = 0;
-    for (; i < baseFonts.length; i++) {
-      if (target == "dom") {
-        /** @type {string} */
-        s.style.fontFamily = id + "," + baseFonts[i];
-        o.appendChild(s);
-        /** @type {boolean} */
-        var val = s.offsetWidth != defaultWidth[baseFonts[i]] || s.offsetHeight != defaultHeight[baseFonts[i]];
-        o.removeChild(s);
-      } else {
-        if (target == "canvas") {
-          /** @type {string} */
-          ctx.font = part + " " + id + "," + baseFonts[i];
-          /** @type {boolean} */
-          val = ctx.measureText(testString).width != defaultWidth[baseFonts[i]];
-        }
-      }
-      /** @type {(boolean|undefined)} */
-      result = result || val;
-    }
-    return result;
-  }
-  /** @type {!Array} */
-  var baseFonts = ["monospace", "sans-serif", "serif"];
-  /** @type {string} */
-  var testString = "mmmmmmmmmmlli";
-  /** @type {string} */
-  var part = "72px";
-  if (type != "dom") {
-    /** @type {string} */
-    var target = "canvas";
-    /** @type {!Element} */
-    var result = document.createElement("canvas");
-    /** @type {string} */
-    result.width = "100";
-    /** @type {string} */
-    result.height = "100";
-    globalContainer$jscomp$0.appendChild(result);
-  }
-  if (!result || typeof result.getContext != "function") {
-    /** @type {string} */
-    target = "dom";
-    var o = globalContainer$jscomp$0;
-    /** @type {!Element} */
-    var s = document.createElement("span");
-    /** @type {string} */
-    s.style.fontSize = part;
-    /** @type {string} */
-    s.innerHTML = testString;
-    var defaultWidth = {};
-    var defaultHeight = {};
-    /** @type {number} */
-    var i = 0;
-    for (; i < baseFonts.length; i++) {
-      s.style.fontFamily = baseFonts[i];
-      o.appendChild(s);
-      defaultWidth[baseFonts[i]] = s.offsetWidth;
-      defaultHeight[baseFonts[i]] = s.offsetHeight;
-      o.removeChild(s);
-    }
-  } else {
-    var ctx = result.getContext("2d");
-    defaultWidth = {};
-    /** @type {number} */
-    i = 0;
-    for (; i < baseFonts.length; i++) {
-      /** @type {string} */
-      ctx.font = part + " " + baseFonts[i];
-      defaultWidth[baseFonts[i]] = ctx.measureText(testString).width;
-    }
-  }
-  /** @type {function(string): ?} */
-  this.detect = init;
-  /** @type {(string|undefined)} */
-  this.method = target;
-};
-```
-
-2. Script probes device properties to attempt to fingerprint users
-
-```
-/** @type {string} */
-resultsFromProbes$jscomp$0["bcap"] = [$mime_type, prKey, getWindowData$jscomp$0("navigator", "cookieEnabled")].join("|");
-}();
-!function() {
-/** @type {string} */
-resultsFromProbes$jscomp$0["lges"] = [getWindowData$jscomp$0("navigator", "browserLanguage"), getWindowData$jscomp$0("navigator", "language"), getWindowData$jscomp$0("navigator", "userLanguage")].join("|");
-}();
-!function() {
-/** @type {string} */
-resultsFromProbes$jscomp$0["ob"] = [getWindowData$jscomp$0("navigator", "appCodeName"), getWindowData$jscomp$0("navigator", "appName"), getWindowData$jscomp$0("navigator", "platform"), getWindowData$jscomp$0("navigator", "cpuClass")].join("|");
-}();
-
-var get_date_offset = function(date) {
-  /** @type {number} */
-  var t = -date.getTimezoneOffset();
-  return t !== null ? t : 0;
-};
-
-!function() {
-  /** @type {string} */
-  resultsFromProbes$jscomp$0["sc"] = [getWindowData$jscomp$0("screen", "width"), getWindowData$jscomp$0("screen", "height"), getWindowData$jscomp$0("screen", "availWidth"), getWindowData$jscomp$0("screen", "availHeight"), getWindowData$jscomp$0("screen", "pixelDepth"), getWindowData$jscomp$0("screen", "deviceXDPI"), getWindowData$jscomp$0("screen", "deviceYDPI")].join("|");
-}();
-
-PluginDetect$jscomp$0.java = {
-mimeType : "application/x-java-applet",
-classID : "clsid:8AD9C840-044E-11D1-B3E9-00805F499D93",
-DTKclassID : "clsid:CAFEEFAC-DEC7-0000-0000-ABCDEFFEDCBA",
-DTKmimeType : "application/npruntime-scriptable-plugin;DeploymentToolkit",
-
-PluginDetect$jscomp$0.quicktime = {
-mimeType : ["video/quicktime", "application/x-quicktimeplayer", "image/x-macpaint", "image/x-quicktime"],
-progID : "QuickTimeCheckObject.QuickTimeCheck.1",
-progID0 : "QuickTime.QuickTime",
-classID : "clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B",
-minIEver : 7,
-
-PluginDetect$jscomp$0.devalvr = {
-mimeType : "application/x-devalvrx",
-progID : "DevalVRXCtrl.DevalVRXCtrl.1",
-classID : "clsid:5D2CF9D0-113A-476B-986F-288B54571614",
-
-PluginDetect$jscomp$0.flash = {
-mimeType : ["application/x-shockwave-flash", "application/futuresplash"],
-progID : "ShockwaveFlash.ShockwaveFlash",
-classID : "clsid:D27CDB6E-AE6D-11CF-96B8-444553540000",
 
 ```
 
@@ -3587,66 +3305,6 @@ function tmx_run_page_fingerprinting(saveNotifs) {
 ```
 [Go back to top](#tracker-descriptions)
 
-## OpenX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `http://u.openx.net/tq/pi?k=gateway&rid=ab18c828-8715-4b6b-973c-aef4be5b121b&rt=1549406488`
-1. Script generates fingerprint by querying various device properties including audio and canvas:
-```
-            var Y = D.OfflineAudioContext || D.webkitOfflineAudioContext;
-            var Z = "u_audio_context";
-            if (!Y) {
-                return T(Z, "n/a")
-            }
-            try {
-                var X = new Y(1, 44100, 44100);
-                var V = X.createDynamicsCompressor();
-                var U = X.createOscillator();
-                U.type = "triangle";
-                U.frequency.value = 10000;
-                X.oncomplete = function(ab) {
-                    for (var ad = ab.renderedBuffer.getChannelData(0), aa = 0, ac = 4500; ac < 5000; ac++) {
-                        U += Math.abs(ad[ac])
-                    }
-                    T(Z, j("" + aa));
-                    V.disconnect()
-                };
-                U.connect(V);
-                V.connect(X.destination);
-                U.start(0);
-                X.startRendering()
-            } catch (W) {
-                T(Z, "error")
-            }
-
-        var H;
-        var I;
-        var K = "1";
-        try {
-            I = E.createElement("div");
-            I.style.position = "absolute";
-            I.style.width = I.style.height = I.style.border = I.style.padding = I.style.margin = 0;
-            I.style.overflow = "hidden";
-            E.body.appendChild(I);
-            H = E.createElement("canvas");
-            H.width = H.height = 10;
-            I.appendChild(H);
-            H.getContext("2d").strokeText("true", 0, 0)
-        } catch (J) {
-            K = "0"
-        } finally {
-            H && I && I.removeChild(H)
-        }
-        return K
-
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: http://delivery-us-west-1.openx.net/w/1.0/ri?ph=REMOVED&ts=REMOVED
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## Opolen
 This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
 ### Technical Review
@@ -3870,60 +3528,6 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
         }
 ```
 [Go back to top](#tracker-descriptions)
-
-## PinPoll
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://pinpoll.com/global.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var Fingerprint2 = function e(t) {
-    if (!(this instanceof e)) return new e(t);
-    this.options = this.extend(t, {
-        swfContainerId: "fingerprintjs2",
-        swfPath: "flash/compiled/FontList.swf",
-        detectScreenOrientation: !0,
-        sortPluginsFor: [/palemoon/i],
-        userDefinedFonts: [],
-        excludeDoNotTrack: !0
-    }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-};
-```
-2. Sends computed fingerprint back to pinpoll.com:
-```
-                    d.style.display = "none", d.src = "https://static.pinpoll.com/static/start.html";
-                    var u = !1,
-                        p = function() {
-                            !u && a && l && (function() {
-                                0 === s.offsetHeight && (r = !0), s.remove(), d.remove();
-                                var a = {
-                                    plugins: n(),
-                                    timezone: (new Date).getTimezoneOffset(),
-                                    adblock: r ? 1 : 0,
-                                    dnt: window.navigator.doNotTrack,
-                                    cookiesEnabled: o() ? 1 : 0,
-                                    thirdPartyCookiesEnabled: c ? 1 : 0,
-                                    referrer: document.referrer,
-                                    title: document.title,
-                                    location: {
-                                        hash: document.location.hash,
-                                        hostname: document.location.hostname,
-                                        pathname: document.location.pathname,
-                                        protocol: document.location.protocol,
-                                        search: document.location.search
-                                    },
-                                    screen: {
-                                        width: window.screen.width,
-                                        height: window.screen.height,
-                                        colorDepth: window.screen.colorDepth,
-                                        orientation: window.screen.orientation ? window.screen.orientation.type : null
-                                    },
-                                    metaTags: i(),
-                                    fingerprint: t.fingerprint
-                                };
-                                e.open("post", "https://pa.pinpoll.com/v1/"), e.withCredentials = !0, e.setRequestHeader("Content-Type", "application/json"), e.send(JSON.stringify(a))
-                            }(), u = !0)
-                        };
 
 ```
 
@@ -4807,33 +4411,6 @@ getCanvasFp: function () {
         });
     }, 75);
    ```
-[Go back to top](#tracker-descriptions)
-
-## USocial
-This service has been classified as `Social` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://usocial.pro/usocial/fingerprint2.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var Fingerprint2 = function(options) {
-    var defaultOptions = {
-      swfContainerId : "fingerprintjs2",
-      swfPath : "flash/compiled/FontList.swf",
-      detectScreenOrientation : true,
-      sortPluginsFor : [/palemoon/i],
-      userDefinedFonts : []
-    };
-    this.options = this.extend(options, defaultOptions);
-    /** @type {function(this:(IArrayLike<T>|string), (function(this:S, T, number, !Array<T>): ?|null), S=): undefined} */
-    this.nativeForEach = Array.prototype.forEach;
-    /** @type {function(this:(IArrayLike<T>|string), (function(this:S, T, number, !Array<T>): R|null), S=): !Array<R>} */
-    this.nativeMap = Array.prototype.map;
-  };
-```
-2. Sends computed fingerprint back to server as `usocialuser` parameter
-```
-Request URL: https://usocial.pro/logs/store-view?&c=REMOVED&pid=REMOVED&usocialUser=REMOVED&pType=share&url=REMOVED&barDisplayStatus=
-```
 [Go back to top](#tracker-descriptions)
 
 ## Vendemore

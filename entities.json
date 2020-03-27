@@ -1498,6 +1498,7 @@
       "abmr.net",
       "akamai.com",
       "edgesuite.net",
+      "go-mpulse.net",
       "imiclk.com"
     ]
   },
@@ -1532,6 +1533,14 @@
     ],
     "resources": [
       "aloodo.com"
+    ]
+  },
+  "AlterGeo": {
+    "properties": [
+      "altergeo.ru"
+    ],
+    "resources": [
+      "altergeo.ru"
     ]
   },
   "Amadesa": {
@@ -4554,6 +4563,7 @@
       "fbcdn.net",
       "friendfeed.com",
       "instagram.com",
+      "internalfb.com",
       "messenger.com",
       "oculus.com",
       "workplace.com"
@@ -5603,6 +5613,14 @@
       "graphenedigitalanalytics.in"
     ]
   },
+  "Graphnium": {
+    "properties": [
+      "graphinium.com"
+    ],
+    "resources": [
+      "crm4d.com"
+    ]
+  },
   "Gravity": {
     "properties": [
       "gravity.com",
@@ -5895,7 +5913,8 @@
   },
   "IBM": {
     "properties": [
-      "ibm.com"
+      "ibm.com",
+      "multicloud-ibm.com"
     ],
     "resources": [
       "cmcore.com",
@@ -6234,6 +6253,15 @@
     ],
     "resources": [
       "iperceptions.com"
+    ]
+  },
+  "IponWeb": {
+    "properties": [
+      "iponweb.com"
+    ],
+    "resources": [
+      "iponweb.com",
+      "iponweb.net"
     ]
   },
   "iPROM": {
@@ -6775,6 +6803,15 @@
     ],
     "resources": [
       "liverail.com"
+    ]
+  },
+  "LiveRamp": {
+    "properties": [
+      "liveramp.com"
+    ],
+    "resources": [
+      "liveramp.com",
+      "tvpixel.com"
     ]
   },
   "LKQD": {
@@ -7427,49 +7464,113 @@
   },
   "Microsoft": {
     "properties": [
+      "acompli.net",
+      "aka.ms",
+      "azure.com",
+      "azure.net",
+      "azurerms.com",
       "bing.com",
+      "cloudappsecurity.com",
       "gamesforwindows.com",
       "getgamesmart.com",
+      "gfx.ms",
       "healthvault.com",
+      "hockeyapp.net",
       "ieaddons.com",
       "iegallery.com",
       "live.com",
       "microsoft.com",
       "microsoftalumni.com",
       "microsoftalumni.org",
+      "microsoftazuread-sso.com",
+      "microsoftedgeinsiders.com",
+      "microsoftonline-p.com",
+      "microsoftonline-p.net",
+      "microsoftonline.com",
       "microsoftstore.com",
+      "microsoftstream.com",
+      "msappproxy.net",
+      "msft.net",
+      "msftidentity.com",
+      "msidentity.com",
       "msn.com",
+      "o365weve.com",
+      "oaspapps.com",
       "office.com",
+      "office365.com",
       "officelive.com",
+      "onedrive.com",
+      "onenote.com",
       "outlook.com",
+      "outlookmobile.com",
+      "phonefactor.net",
       "s-msn.com",
+      "sfx.ms",
       "sharepoint.com",
       "skype.com",
+      "skypeforbusiness.com",
+      "staffhub.ms",
+      "sway-extensions.com",
+      "sway.com",
+      "trafficmanager.net",
+      "virtualearth.net",
+      "visualstudio.com",
+      "windows.net",
+      "windowsazure.com",
       "windowsphone.com",
       "worldwidetelescope.org",
-      "xbox.com"
+      "wunderlist.com",
+      "xbox.com",
+      "yammer.com"
     ],
     "resources": [
+      "aadrm.com",
       "adbureau.net",
       "adecn.com",
       "aquantive.com",
+      "aspnetcdn.com",
+      "assets-yammer.com",
+      "azure.com",
+      "azureedge.net",
       "bing.com",
+      "cloudapp.net",
       "gamesforwindows.com",
       "getgamesmart.com",
+      "gfx.ms",
       "healthvault.com",
       "live.com",
       "microsoft.com",
+      "microsoftazuread-sso.com",
+      "microsoftonline-p.com",
+      "microsoftonline-p.net",
+      "microsoftonline.com",
       "microsoftstore.com",
       "msads.net",
+      "msauthimages.net",
+      "msecnd.net",
+      "msedge.net",
       "msndirect.com",
+      "msocdn.com",
       "netconversions.com",
+      "oaspapps.com",
       "office.com",
+      "office.net",
       "officelive.com",
+      "onenote.net",
+      "onestore.ms",
+      "onmicrosoft.com",
       "outlook.com",
       "roiservice.com",
       "s-msn.com",
+      "sfbassets.com",
       "sharepoint.com",
-      "skype.com"
+      "skype.com",
+      "skypeassets.com",
+      "sway-cdn.com",
+      "sway-extensions.com",
+      "windows.net",
+      "windowsazure.com",
+      "yammerusercontent.com"
     ]
   },
   "Millennial Media": {
@@ -8188,6 +8289,14 @@
       "onaudience.com"
     ]
   },
+  "Onclusive": {
+    "properties": [
+      "onclusive.com"
+    ],
+    "resources": [
+      "airpr.com"
+    ]
+  },
   "OneAd": {
     "properties": [
       "onead.com.tw"
@@ -8522,6 +8631,14 @@
     "resources": [
       "lzjl.com",
       "paypopup.com"
+    ]
+  },
+  "PebblePost": {
+    "properties": [
+      "pebblepost.com"
+    ],
+    "resources": [
+      "pbbl.co"
     ]
   },
   "Peer39": {
@@ -9107,12 +9224,10 @@
   },
   "Rapleaf": {
     "properties": [
-      "liveramp.com",
       "rapleaf.com",
       "rlcdn.com"
     ],
     "resources": [
-      "liveramp.com",
       "rapleaf.com",
       "rlcdn.com"
     ]
@@ -9221,6 +9336,14 @@
     "resources": [
       "researchnow.com",
       "valuedopinions.co.uk"
+    ]
+  },
+  "ResolutionMedia": {
+    "properties": [
+      "nonstoppartner.net"
+    ],
+    "resources": [
+      "nonstoppartner.net"
     ]
   },
   "Resolution Media": {
@@ -9928,14 +10051,6 @@
       "snoobi.fi"
     ]
   },
-  "Soasta": {
-    "properties": [
-      "go-mpulse.net"
-    ],
-    "resources": [
-      "go-mpulse.net"
-    ]
-  },
   "SocialChorus": {
     "properties": [
       "socialchorus.com"
@@ -10439,6 +10554,14 @@
       "tailsweep.com"
     ]
   },
+  "Taleria": {
+    "properties": [
+      "telaria.com"
+    ],
+    "resources": [
+      "freeskreen.com"
+    ]
+  },
   "Tapad": {
     "properties": [
       "tapad.com"
@@ -10835,6 +10958,14 @@
       "trafmag.com"
     ]
   },
+  "Traverse": {
+    "properties": [
+      "traversedata.com"
+    ],
+    "resources": [
+      "traversedlp.com"
+    ]
+  },
   "Travora Media": {
     "properties": [
       "travoramedia.com"
@@ -11160,14 +11291,6 @@
     ],
     "resources": [
       "uservoice.com"
-    ]
-  },
-  "USocial": {
-    "properties": [
-      "usocial.pro"
-    ],
-    "resources": [
-      "usocial.pro"
     ]
   },
   "V12 Data": {
