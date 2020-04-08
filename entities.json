@@ -701,6 +701,14 @@
       "admedia.com"
     ]
   },
+  "Admedo": {
+    "properties": [
+      "admedo.com"
+    ],
+    "resources": [
+      "admedo.com"
+    ]
+  },
   "Admeta": {
     "properties": [
       "admeta.com",
@@ -1794,7 +1802,8 @@
       "appier.com"
     ],
     "resources": [
-      "appier.com"
+      "appier.com",
+      "appier.net"
     ]
   },
   "Applifier": {
@@ -2967,6 +2976,14 @@
       "choicestream.com"
     ]
   },
+  "Choozle": {
+    "properties": [
+      "choozle.com"
+    ],
+    "resources": [
+      "choozle.com"
+    ]
+  },
   "ClearLink": {
     "properties": [
       "clearlink.com"
@@ -3116,6 +3133,14 @@
       "clicktale.com",
       "clicktale.net",
       "pantherssl.com"
+    ]
+  },
+  "ClickTripz": {
+    "properties": [
+      "clicktripz.com"
+    ],
+    "resources": [
+      "clicktripz.com"
     ]
   },
   "Clickwinks": {
@@ -5100,6 +5125,15 @@
       "globe7.com"
     ]
   },
+  "GMO": {
+    "properties": [
+      "gmo-ap.jp"
+    ],
+    "resources": [
+      "gmossp-sp.jp",
+      "reemo-ad.jp"
+    ]
+  },
   "Go Daddy": {
     "properties": [
       "godaddy.com",
@@ -6261,6 +6295,7 @@
       "iponweb.com"
     ],
     "resources": [
+      "fg8dgt.com",
       "iponweb.com",
       "iponweb.net"
     ]
@@ -7847,6 +7882,14 @@
     "resources": [
       "affbuzzads.com",
       "movielush.com"
+    ]
+  },
+  "MTS": {
+    "properties": [
+      "mts.ru"
+    ],
+    "resources": [
+      "mts.ru"
     ]
   },
   "Multiple Stream Media": {
@@ -9979,6 +10022,14 @@
       "skupenet.com"
     ]
   },
+  "Slunecnice": {
+    "properties": [
+      "slunecnice.cz"
+    ],
+    "resources": [
+      "slunecnice.cz"
+    ]
+  },
   "Smaato": {
     "properties": [
       "smaato.com"
@@ -10458,6 +10509,14 @@
     "resources": [
       "summitmedia.co.uk",
       "www.summit.co.uk"
+    ]
+  },
+  "Sunmedia": {
+    "properties": [
+      "sunmedia.tv"
+    ],
+    "resources": [
+      "sunmedia.tv"
     ]
   },
   "Superfish": {

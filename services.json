@@ -536,6 +536,13 @@
         }
       },
       {
+        "Admedo": {
+          "https://www.admedo.com/": [
+            "admedo.com"
+          ]
+        }
+      },
+      {
         "Admeta": {
           "http://www.admeta.com/": [
             "admeta.com",
@@ -1265,7 +1272,8 @@
       {
         "Appier": {
           "http://appier.com/": [
-            "appier.com"
+            "appier.com",
+            "appier.net"
           ]
         }
       },
@@ -1998,6 +2006,13 @@
         }
       },
       {
+        "Choozle": {
+          "https://choozle.com/": [
+            "choozle.com"
+          ]
+        }
+      },
+      {
         "ClearLink": {
           "https://www.clearlink.com/": [
             "clearlink.com"
@@ -2099,6 +2114,13 @@
           "http://www.clicksor.com/": [
             "clicksor.com",
             "clicksor.net"
+          ]
+        }
+      },
+      {
+        "ClickTripz": {
+          "http://www.clicktripz.com/": [
+            "clicktripz.com"
           ]
         }
       },
@@ -3297,6 +3319,14 @@
         }
       },
       {
+        "GMO": {
+          "https://gmo-ap.jp/": [
+            "gmossp-sp.jp",
+            "reemo-ad.jp"
+          ]
+        }
+      },
+      {
         "GoDataFeed": {
           "http://godatafeed.com/": [
             "godatafeed.com"
@@ -3719,6 +3749,7 @@
       {
         "IponWeb": {
           "https://www.iponweb.com/": [
+            "fg8dgt.com",
             "iponweb.com",
             "iponweb.net"
           ]
@@ -4624,6 +4655,13 @@
           "https://www.movielush.com/": [
             "affbuzzads.com",
             "movielush.com"
+          ]
+        }
+      },
+      {
+        "MTS": {
+          "https://moskva.mts.ru/": [
+            "mts.ru"
           ]
         }
       },
@@ -5926,6 +5964,13 @@
         }
       },
       {
+        "Slunecnice": {
+          "https://www.slunecnice.cz/": [
+            "slunecnice.cz"
+          ]
+        }
+      },
+      {
         "Smaato": {
           "http://www.smaato.com/": [
             "smaato.com"
@@ -6216,6 +6261,13 @@
         "Summit": {
           "http://www.summit.co.uk/": [
             "summitmedia.co.uk"
+          ]
+        }
+      },
+      {
+        "Sunmedia": {
+          "https://www.sunmedia.tv/en/": [
+            "sunmedia.tv"
           ]
         }
       },
