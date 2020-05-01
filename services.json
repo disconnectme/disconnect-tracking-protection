@@ -336,6 +336,16 @@
         }
       },
       {
+        "AdGear": {
+          "https://adgear.com/en/": [
+            "adgear.com",
+            "adgrx.com",
+            "bloom-hq.com",
+            "runadtag.com"
+          ]
+        }
+      },
+      {
         "AdGent Digital": {
           "http://www.adgentdigital.com/": [
             "adgentdigital.com",
@@ -663,6 +673,13 @@
         "AdOnion": {
           "http://www.adonion.com/": [
             "adonion.com"
+          ]
+        }
+      },
+      {
+        "ADOP": {
+          "http://adop.cc/": [
+            "adop.cc"
           ]
         }
       },
@@ -1121,6 +1138,13 @@
         }
       },
       {
+        "aidata": {
+          "http://www.aidata.me/": [
+            "aidata.io"
+          ]
+        }
+      },
+      {
         "Aim4Media": {
           "http://aim4media.com/": [
             "aim4media.com"
@@ -1421,6 +1445,16 @@
         }
       },
       {
+        "AvidMedia": {
+          "https://www.avidglobalmedia.eu": [
+            "adspdbl.com",
+            "avidglobalmedia.com",
+            "avidglobalmedia.eu",
+            "metadsp.co.uk"
+          ]
+        }
+      },
+      {
         "Avocet": {
           "https://avocet.io/": [
             "avocet.io"
@@ -1670,15 +1704,6 @@
         }
       },
       {
-        "BLOOM Digital Platforms": {
-          "http://bloom-hq.com/": [
-            "adgear.com",
-            "adgrx.com",
-            "bloom-hq.com"
-          ]
-        }
-      },
-      {
         "BlueKai": {
           "http://www.bluekai.com/": [
             "bkrtx.com",
@@ -1757,6 +1782,13 @@
         "BreakTime": {
           "https://www.breaktime.com.tw/": [
             "breaktime.com.tw"
+          ]
+        }
+      },
+      {
+        "Bridgewell": {
+          "https://www.bridgewell.com/": [
+            "scupio.com"
           ]
         }
       },
@@ -2830,6 +2862,13 @@
         }
       },
       {
+        "Eskimi": {
+          "http://eskimi.com": [
+            "eskimi.com"
+          ]
+        }
+      },
+      {
         "Etarget": {
           "http://etargetnet.com/": [
             "etarget.eu",
@@ -3730,6 +3769,13 @@
         "Interpolls": {
           "http://www.interpolls.com/": [
             "interpolls.com"
+          ]
+        }
+      },
+      {
+        "IntimateMerger": {
+          "https://corp.intimatemerger.com/": [
+            "im-apps.net"
           ]
         }
       },
@@ -5736,6 +5782,13 @@
         }
       },
       {
+        "RTBHouse": {
+          "https://www.rtbhouse.com": [
+            "creativecdn.com"
+          ]
+        }
+      },
+      {
         "rtk": {
           "http://rtk.io/": [
             "rtk.io"
@@ -5981,6 +6034,7 @@
       {
         "SmartAdServer": {
           "http://smartadserver.com/": [
+            "sascdn.com",
             "smartadserver.com"
           ]
         }
@@ -6318,6 +6372,14 @@
         }
       },
       {
+        "Symplify": {
+          "https://www.symplify.com/": [
+            "cdn-sitegainer.com",
+            "sitegainer.com"
+          ]
+        }
+      },
+      {
         "Syncapse": {
           "http://www.syncapse.com/": [
             "clickable.net",
@@ -6399,6 +6461,13 @@
         }
       },
       {
+        "Tchibo": {
+          "http://tchibo.de": [
+            "tchibo.de"
+          ]
+        }
+      },
+      {
         "Teadma": {
           "http://www.teadma.com/": [
             "teadma.com"
@@ -6460,6 +6529,13 @@
           "http://www.thesearchagency.com/": [
             "thesearchagency.com",
             "thesearchagency.net"
+          ]
+        }
+      },
+      {
+        "TheTimesGroup": {
+          "http://www.timesofindia.com/": [
+            "clmbtech.com"
           ]
         }
       },
@@ -8520,7 +8596,7 @@
         }
       },
       {
-        "AIData": {
+        "aidata": {
           "http://www.aidata.me/": [
             "advombat.ru",
             "aidata.me"
@@ -9335,6 +9411,13 @@
         "Mouseflow": {
           "http://mouseflow.com/": [
             "mouseflow.com"
+          ]
+        }
+      },
+      {
+        "mParticle": {
+          "https://www.mparticle.com/": [
+            "mparticle.com"
           ]
         }
       },

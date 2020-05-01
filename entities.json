@@ -454,6 +454,18 @@
       "adgainersolutions.com"
     ]
   },
+  "AdGear": {
+    "properties": [
+      "adgear.com",
+      "bloom-hq.com"
+    ],
+    "resources": [
+      "adgear.com",
+      "adgrx.com",
+      "bloom-hq.com",
+      "runadtag.com"
+    ]
+  },
   "AdGent Digital": {
     "properties": [
       "adgentdigital.com"
@@ -856,6 +868,14 @@
     ],
     "resources": [
       "adonion.com"
+    ]
+  },
+  "ADOP": {
+    "properties": [
+      "adop.cc"
+    ],
+    "resources": [
+      "adop.cc"
     ]
   },
   "Adorika": {
@@ -1418,13 +1438,14 @@
       "afterdownload.com"
     ]
   },
-  "AIData": {
+  "aidata": {
     "properties": [
       "advombat.ru",
       "aidata.me"
     ],
     "resources": [
       "advombat.ru",
+      "aidata.io",
       "aidata.me"
     ]
   },
@@ -2003,6 +2024,17 @@
       "avmws.com"
     ]
   },
+  "AvidMedia": {
+    "properties": [
+      "avidglobalmedia.eu"
+    ],
+    "resources": [
+      "adspdbl.com",
+      "avidglobalmedia.com",
+      "avidglobalmedia.eu",
+      "metadsp.co.uk"
+    ]
+  },
   "Avocet": {
     "properties": [
       "avocet.io"
@@ -2366,17 +2398,6 @@
       "blogrollr.com"
     ]
   },
-  "BLOOM Digital Platforms": {
-    "properties": [
-      "adgear.com",
-      "bloom-hq.com"
-    ],
-    "resources": [
-      "adgear.com",
-      "adgrx.com",
-      "bloom-hq.com"
-    ]
-  },
   "BloomReach": {
     "properties": [
       "bloomreach.com",
@@ -2523,6 +2544,14 @@
     ],
     "resources": [
       "breaktime.com.tw"
+    ]
+  },
+  "Bridgewell": {
+    "properties": [
+      "bridgewell.com"
+    ],
+    "resources": [
+      "scupio.com"
     ]
   },
   "Brightcove": {
@@ -4335,6 +4364,14 @@
     ],
     "resources": [
       "ero-advertising.com"
+    ]
+  },
+  "Eskimi": {
+    "properties": [
+      "eskimi.com"
+    ],
+    "resources": [
+      "eskimi.com"
     ]
   },
   "Etarget": {
@@ -6259,6 +6296,14 @@
       "interpolls.com"
     ]
   },
+  "IntimateMerger": {
+    "properties": [
+      "intimatemerger.com"
+    ],
+    "resources": [
+      "im-apps.net"
+    ]
+  },
   "Inuvo": {
     "properties": [
       "inuvo.com"
@@ -7884,6 +7929,14 @@
     "resources": [
       "affbuzzads.com",
       "movielush.com"
+    ]
+  },
+  "mParticle": {
+    "properties": [
+      "mparticle.com"
+    ],
+    "resources": [
+      "mparticle.com"
     ]
   },
   "MTS": {
@@ -9594,6 +9647,14 @@
       "staticstuff.net"
     ]
   },
+  "RTBHouse": {
+    "properties": [
+      "rtbhouse.com"
+    ],
+    "resources": [
+      "creativecdn.com"
+    ]
+  },
   "rtk": {
     "properties": [
       "rtk.io"
@@ -10046,6 +10107,7 @@
       "smartadserver.com"
     ],
     "resources": [
+      "sascdn.com",
       "smartadserver.com"
     ]
   },
@@ -10582,6 +10644,15 @@
       "factortg.com"
     ]
   },
+  "Symplify": {
+    "properties": [
+      "symplify.com"
+    ],
+    "resources": [
+      "cdn-sitegainer.com",
+      "sitegainer.com"
+    ]
+  },
   "Synacor": {
     "properties": [
       "synacor.com"
@@ -10682,6 +10753,14 @@
     "resources": [
       "quicknoodles.com",
       "tattomedia.com"
+    ]
+  },
+  "Tchibo": {
+    "properties": [
+      "tchibo.de"
+    ],
+    "resources": [
+      "tchibo.de"
     ]
   },
   "Teadma": {
@@ -10795,6 +10874,15 @@
     "resources": [
       "thesearchagency.com",
       "thesearchagency.net"
+    ]
+  },
+  "TheTimesGroup": {
+    "properties": [
+      "indiatimes.com",
+      "timesofindia.com"
+    ],
+    "resources": [
+      "clmbtech.com"
     ]
   },
   "The Trade Desk": {
