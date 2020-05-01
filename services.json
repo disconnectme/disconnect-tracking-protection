@@ -295,7 +295,8 @@
           "http://www.adform.com/": [
             "adform.com",
             "adform.net",
-            "adformdsp.net"
+            "adformdsp.net",
+            "seadform.net"
           ]
         }
       },
@@ -916,6 +917,13 @@
         }
       },
       {
+        "AdTelligent": {
+          "https://adtelligent.com/": [
+            "vertamedia.com"
+          ]
+        }
+      },
+      {
         "Adthink": {
           "https://adthink.com/": [
             "adthink.com",
@@ -1337,6 +1345,13 @@
           "http://www.arkwrightshomebrew.com/": [
             "arkwrightshomebrew.com",
             "ctasnet.com"
+          ]
+        }
+      },
+      {
+        "Atedra": {
+          "https://www.atedra.com/": [
+            "atedra.com"
           ]
         }
       },
@@ -2479,6 +2494,13 @@
         }
       },
       {
+        "DatMean": {
+          "https://datmean.com": [
+            "aroa.io"
+          ]
+        }
+      },
+      {
         "Datonics": {
           "http://datonics.com/": [
             "datonics.com",
@@ -3227,6 +3249,13 @@
           "https://www.futureads.com/": [
             "futureads.com",
             "resultlinks.com"
+          ]
+        }
+      },
+      {
+        "FuturePlc": {
+          "https://www.futureplc.com/": [
+            "servebom.com"
           ]
         }
       },
@@ -7040,6 +7069,13 @@
           "http://www.web.com/": [
             "feedperfect.com",
             "web.com"
+          ]
+        }
+      },
+      {
+        "WebediaGroup": {
+          "https://www.webedia-group.com/": [
+            "goutee.top"
           ]
         }
       },

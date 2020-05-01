@@ -409,7 +409,8 @@
     "resources": [
       "adform.com",
       "adform.net",
-      "adformdsp.net"
+      "adformdsp.net",
+      "seadform.net"
     ]
   },
   "AdFox": {
@@ -1165,6 +1166,14 @@
       "adtelligence.de"
     ]
   },
+  "AdTelligent": {
+    "properties": [
+      "adtelligent.com"
+    ],
+    "resources": [
+      "vertamedia.com"
+    ]
+  },
   "Adthink": {
     "properties": [
       "adthink.com"
@@ -1871,6 +1880,14 @@
       "arkwrightshomebrew.com",
       "ctasnet.com",
       "whiskyandwines.com"
+    ]
+  },
+  "Atedra": {
+    "properties": [
+      "atedra.com"
+    ],
+    "resources": [
+      "atedra.com"
     ]
   },
   "AT Internet": {
@@ -3790,6 +3807,14 @@
       "w55c.net"
     ]
   },
+  "DatMean": {
+    "properties": [
+      "datmean.com"
+    ],
+    "resources": [
+      "aroa.io"
+    ]
+  },
   "Datonics": {
     "properties": [
       "datonics.com"
@@ -4944,6 +4969,14 @@
     "resources": [
       "futureads.com",
       "resultlinks.com"
+    ]
+  },
+  "FuturePlc": {
+    "properties": [
+      "futureplc.com"
+    ],
+    "resources": [
+      "servebom.com"
     ]
   },
   "Fyber": {
@@ -11843,6 +11876,14 @@
       "web.com"
     ]
   },
+  "WebediaGroup": {
+    "properties": [
+      "webedia-group.com"
+    ],
+    "resources": [
+      "goutee.top"
+    ]
+  },
   "WebGozar.com": {
     "properties": [
       "webgozar.com",
@@ -12206,6 +12247,7 @@
       "api-maps.yandex.ru",
       "moikrug.ru",
       "web-visor.com",
+      "webvisor.org",
       "yandex.by",
       "yandex.com",
       "yandex.com.tr",
