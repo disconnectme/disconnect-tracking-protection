@@ -972,16 +972,6 @@
       "adriver.ru"
     ]
   },
-  "adrolays": {
-    "properties": [
-      "contactimpact.de"
-    ],
-    "resources": [
-      "adrolays.com",
-      "adrolays.de",
-      "contactimpact.de"
-    ]
-  },
   "AdRoll": {
     "properties": [
       "adroll.com"
@@ -3417,6 +3407,17 @@
     ],
     "resources": [
       "contactatonce.com"
+    ]
+  },
+  "ContactImpact": {
+    "properties": [
+      "contactimpact.de"
+    ],
+    "resources": [
+      "adrolays.com",
+      "adrolays.de",
+      "contactimpact.de",
+      "df-srv.de"
     ]
   },
   "CONTAXE": {

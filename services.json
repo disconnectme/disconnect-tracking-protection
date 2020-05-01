@@ -763,14 +763,6 @@
         }
       },
       {
-        "adrolays": {
-          "http://adrolays.com/": [
-            "adrolays.com",
-            "adrolays.de"
-          ]
-        }
-      },
-      {
         "AdRoll": {
           "http://www.adroll.com/": [
             "adroll.com"
@@ -2247,6 +2239,15 @@
         "Consumable": {
           "http://consumable.com/": [
             "consumable.com"
+          ]
+        }
+      },
+      {
+        "ContactImpact": {
+          "https://www.contactimpact.de/": [
+            "adrolays.com",
+            "adrolays.de",
+            "df-srv.de"
           ]
         }
       },
