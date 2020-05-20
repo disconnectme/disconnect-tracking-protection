@@ -71,7 +71,6 @@ The technical and policy review information below was recorded on the date obser
 - [Opolen](#Opolen)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
-- [Poool](#Poool)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
@@ -3438,62 +3437,6 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
             }
         }
 ```
-[Go back to top](#tracker-descriptions)
-
-## Poool
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://assets.poool.fr/poool-identity.min.js`
-1. Script generates fingerprint by querying various device properties:
-```
-{
-                    key: "getScreenResolution",
-                    value: function() {
-                        return window.screen.width && window.screen.height ? window.screen.height > window.screen.width ? [window.screen.height, window.screen.width] : [window.screen.width, window.screen.height] : [0, 0]
-                    }
-                }, {
-                    key: "getCanvasSignature",
-                    value: function() {
-                        var t = $.getContext("2d"),
-                            e = "http://www.poool.fr";
-                        return t.clearRect(0, 0, $.width, $.height), t.textBaseline = "top", t.font = "14px 'Arial'", t.textBaseline = "alphabetic", t.fillStyle = "#f60", t.fillRect(125, 1, 62, 20), t.fillStyle = "#069", t.fillText(e, 2, 15), t.fillStyle = "rgba(102, 204, 0, 0.7)", t.fillText(e, 4, 17), $.toDataURL()
-                    }
-                }
-
-
-```
-2. Sends computed fingerprint back to server
-```
-{
-                    key: "headers",
-                    value: function(t) {
-                        var e = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
-                            n = {
-                                "Content-Type": "application/json"
-                            };
-                        if (!1 !== e.app && (n["Bundle-Identifier"] = G.a.get("app_id")), !1 !== e.fingerprint && (n.FTag = V.get()), !1 !== e.identity && (n.PTag = I.a.get("_poool") || G.a.get("$user_id") || ""), !1 !== e.additional && !0 === G.a.get("cookies_enabled")) {
-                            var r = window.xprops,
-                                o = r.windowWidth,
-                                i = r.windowHeight;
-                            n.Additional = "" + "screen=".concat(o, "x").concat(i, ";") + "locale=".concat(ot.a.getLocale(), ";") + "mobile=".concat(ot.a.isMobile())
-                        }
-                        if (!1 !== e.signature) try {
-                            var a = G.a.get("app_id"),
-                                s = z.a.jws.JWS.sign(null, {
-                                    alg: "HS256",
-                                    cty: "JWT"
-                                }, t, window.btoa(a));
-                            s && (n.Signature = window.btoa(s), n.Token = "v2")
-                        } catch (t) {
-                            N.a.error("Cannot sign request")
-                        }
-                        return n
-                    }
-                }
-
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## PPCProtect
