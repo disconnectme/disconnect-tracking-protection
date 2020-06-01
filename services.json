@@ -8619,13 +8619,6 @@
         }
       },
       {
-        "Akamai": {
-          "http://www.akamai.com/": [
-            "go-mpulse.net"
-          ]
-        }
-      },
-      {
         "Amadesa": {
           "http://www.amadesa.com/": [
             "amadesa.com"
