@@ -82,7 +82,6 @@ The technical and policy review information below was recorded on the date obser
 - [SendPulse](#SendPulse)
 - [SiftScience](#SiftScience)
 - [Smi](#Smi)
-- [Socital](#Socital)
 - [SpareChange](#SpareChange)
 - [Storeland](#Storeland)
 - [TechSolutions](#TechSolutions)
@@ -3942,49 +3941,6 @@ Script: `https://jsn.24smi.net/smi.js`
 }
 
 
-
-```
-
-[Go back to top](#tracker-descriptions)
-
-## Socital
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://plugin.socital.com/static/v1/socital.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-            var o = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
-
-```
-2. Sends computed fingerprint back to server
-```
-                            var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : null,
-                                o = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : null,
-                                t = {
-                                    browserID: a.browser.browserID,
-                                    fingerprint: o,
-                                    fingerprintData: e,
-                                    superCookieID: a._getSuperCookieID(),
-                                    uri: window.location.href,
-                                    userID: a.userID,
-                                    envData: a.browser.envData,
-                                    uuid: (0, s.default)()
-                                };
-                            a.browser.visit = {
-                                uuid: t.uuid
-                            }, fetch(k + "/api/v1/events/browserVisit", {
-                                method: "PUT",
-                                body: JSON.stringify(t),
-                                headers: {
-                                    "Content-Type": "application/json"
-                                }
-                            })
 
 ```
 
