@@ -1,1 +1,5 @@
-The open source list of trackers that powers our browser extensions, Firefox’s private browsing mode, and other popular privacy tools can be found here along with a change log and notes.
+The Tracker Protection lists are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+
+Please contact support@disconnect.me if you’d like to license the list for commercial use. 
+
+Copyright (c) 2020 Disconnect, Inc.
