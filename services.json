@@ -759,14 +759,6 @@
         }
       },
       {
-        "AdReady": {
-          "http://www.adready.com/": [
-            "adready.com",
-            "adreadytractions.com"
-          ]
-        }
-      },
-      {
         "AdRevolution": {
           "http://adrevolution.com/": [
             "adrevolution.com"
@@ -2612,6 +2604,14 @@
         "DigitalAdConsortium": {
           "https://www.dac.co.jp/": [
             "impact-ad.jp"
+          ]
+        }
+      },
+      {
+        "DigitalRemedy": {
+          "https://www.digitalremedy.com/": [
+            "adready.com",
+            "adreadytractions.com"
           ]
         }
       },

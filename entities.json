@@ -967,16 +967,6 @@
       "adreactor.com"
     ]
   },
-  "AdReady": {
-    "properties": [
-      "digitalremedy.com"
-    ],
-    "resources": [
-      "adready.com",
-      "adreadytractions.com",
-      "digitalremedy"
-    ]
-  },
   "AdRevolution": {
     "properties": [
       "adrevolution.com"
@@ -3973,6 +3963,16 @@
     ],
     "resources": [
       "impact-ad.jp"
+    ]
+  },
+  "DigitalRemedy": {
+    "properties": [
+      "digitalremedy.com"
+    ],
+    "resources": [
+      "adready.com",
+      "adreadytractions.com",
+      "digitalremedy.com"
     ]
   },
   "Digital River": {
