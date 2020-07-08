@@ -6683,6 +6683,14 @@
         }
       },
       {
+        "TrafficJunky": {
+          "https://www.trafficjunky.com/": [
+            "trafficjunky.com",
+            "trafficjunky.net"
+          ]
+        }
+      },
+      {
         "TrafficRevenue": {
           "http://www.trafficrevenue.net/": [
             "trafficrevenue.net"

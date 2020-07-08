@@ -11129,6 +11129,15 @@
       "traffichouse.com"
     ]
   },
+  "TrafficJunky": {
+    "properties": [
+      "trafficjunky.com"
+    ],
+    "resources": [
+      "trafficjunky.com",
+      "trafficjunky.net"
+    ]
+  },
   "TrafficRevenue": {
     "properties": [
       "trafficrevenue.net"
