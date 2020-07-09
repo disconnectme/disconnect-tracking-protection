@@ -2755,7 +2755,9 @@
       {
         "eBay": {
           "http://www.ebay.com/": [
-            "ebay.com"
+            "ebay.com",
+            "ebayimg.com",
+            "ebaystatic.com"
           ]
         }
       },

@@ -4201,7 +4201,9 @@
       "ebay.pl"
     ],
     "resources": [
-      "ebay.com"
+      "ebay.com",
+      "ebayimg.com",
+      "ebaystatic.com"
     ]
   },
   "Echo": {
