@@ -1045,7 +1045,6 @@
       {
         "AdYield": {
           "http://www.adyield.com/": [
-            "adxyield.com",
             "adyield.com"
           ]
         }
@@ -10021,6 +10020,7 @@
       {
         "White Ops": {
           "https://www.whiteops.com/": [
+            "adxyield.com",
             "adzmath.com",
             "whiteops.com"
           ]
