@@ -69,6 +69,7 @@ The technical and policy review information below was recorded on the date obser
 - [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
 - [Opolen](#Opolen)
+- [Origo](#Origo)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
 - [PPCProtect](#PPCProtect)
@@ -3289,6 +3290,34 @@ loadPolenContainer: function() {
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
+## Origo
+This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+### Technical Review
+Script: `https://outal.origo.hu/js/1594339552427-46169/outa.min.js`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+        var e = function(t) {
+            if (!(this instanceof e))
+                return new e(t);
+            this.options = this.extend(t, {
+                swfContainerId: "fingerprintjs2",
+                swfPath: "flash/compiled/FontList.swf",
+                detectScreenOrientation: !0,
+                sortPluginsFor: [/palemoon/i],
+                userDefinedFonts: [],
+                excludeDoNotTrack: !0,
+                excludePixelRatio: !0
+            }),
+            this.nativeForEach = Array.prototype.forEach,
+            this.nativeMap = Array.prototype.map
+        };
+```
+2. Sends computed fingerprint back to server
+```
+Request URL: https://outal.origo.hu/li/1594339555855-70775?data=XXXXXXXXX
+```
 [Go back to top](#tracker-descriptions)
 
 ## Paypal

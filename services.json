@@ -5129,6 +5129,13 @@
         }
       },
       {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
+          ]
+        }
+      },
+      {
         "Outbrain": {
           "http://www.outbrain.com/": [
             "outbrain.com",
@@ -10544,6 +10551,13 @@
         "Opolen": {
           "https://opolen.com.br": [
             "opolen.com.br"
+          ]
+        }
+      },
+      {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
           ]
         }
       },
