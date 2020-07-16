@@ -10101,7 +10101,7 @@
         }
       }
     ],
-    "Fingerprinting": [
+    "FingerprintingInvasive": [
       {
         "Adabra": {
           "https://www.adabra.com/": [
@@ -11112,6 +11112,15 @@
         "Webmining": {
           "https://webmining.co/": [
             "webmining.co"
+          ]
+        }
+      }
+    ],
+    "FingerprintingGeneral": [
+      {
+        "DoubleVerify": {
+          "http://www.doubleverify.com/": [
+            "doubleverify.com"
           ]
         }
       }

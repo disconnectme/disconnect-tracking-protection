@@ -37,6 +37,7 @@ The technical and policy review information below was recorded on the date obser
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [CryptoLoot](#CryptoLoot)
+- [DoubleVerify](#DoubleVerify)
 - [ECSAnalytics](#ECSAnalytics)
 - [EroAdvertising](#EroAdvertising)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
@@ -95,7 +96,7 @@ The technical and policy review information below was recorded on the date obser
 - [ZafulAffiliate](#ZafulAffiliate)
 - [Zefir](#Zefir)
 ## Adabra
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://track.adabra.com/sbn_fingerprint.v1.16.47.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -118,7 +119,7 @@ Request URL: https://track.adabra.com/log?tit=www.gioiapura.it%2FOfferte%20su%20
 [Go back to top](#tracker-descriptions)
 
 ## Adbot
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -142,7 +143,7 @@ Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
 [Go back to top](#tracker-descriptions)
 
 ## AdGainerSolutions
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -186,7 +187,7 @@ Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
 [Go back to top](#tracker-descriptions)
 
 ## AdMaven
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -208,7 +209,7 @@ Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
 [Go back to top](#tracker-descriptions)
 
 ## Admicro
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 1. admicro fingerprints by using several fingerprinting techniques like canvas/font and webrtc
 ```
@@ -230,7 +231,7 @@ c.prototype.getCanvas = function () {
 [Go back to top](#tracker-descriptions)
 
 ## Adnium
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300&h=250`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -287,7 +288,7 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 [Go back to top](#tracker-descriptions)
 
 ## AdScore
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
         k = function() {
@@ -351,7 +352,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## AdYouLike
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.pulpix.com/static/pulpix.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -402,7 +403,7 @@ Script: `https://cdn.pulpix.com/static/pulpix.js`
 [Go back to top](#tracker-descriptions)
 
 ## AivaLabs
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://aivalabs.com/cta/?identity=QtBHuIKbz7dQys5LY2dm0u4SiTppOAeMefE/JyIcTGlKg1zbgwTL.&shop=g-floor.myshopify.com`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -500,7 +501,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## Albacross
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://serve.albacross.com/track.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -557,7 +558,7 @@ NosivaCore.markers = {}, NosivaCore.params = ["first_name", "last_name", "email"
 [Go back to top](#tracker-descriptions)
 
 ## AppCast
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://click.appcast.io/pixels/generic1-6607.js?ent=196`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -615,7 +616,7 @@ try {
 [Go back to top](#tracker-descriptions)
 
 ## AuditedMedia
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. https://auditedmedia.com/ 
 ### Technical Review
@@ -780,7 +781,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Augur
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Augur claims that they track users via devices, not through cookies. - `https://www.mediapost.com/publications/article/166916/bluecava-touts-device-fingerprinting.html`
 
@@ -792,8 +793,11 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 
 > To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
 
+
+[Go back to top](#tracker-descriptions)
+
 ## Azet
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://rsz.sk/delivery/sd3.php`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -807,7 +811,7 @@ function getFp() {
 [Go back to top](#tracker-descriptions)
 
 ## BetssonPalantir
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -914,7 +918,7 @@ Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000
 [Go back to top](#tracker-descriptions)
 
 ## BigClick
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -946,7 +950,7 @@ Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
 [Go back to top](#tracker-descriptions)
 
 ## BitMedia
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ad.bitmedia.io/js/adbybm.js/5b58f88917356f00108024d8`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -985,7 +989,7 @@ Script: `https://ad.bitmedia.io/js/adbybm.js/5b58f88917356f00108024d8`
 [Go back to top](#tracker-descriptions)
 
 ## BlueCava
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. BlueCava says that the newest version of its device-fingerprinting technology doesn't require installing cookies on users' computers. Instead, the company recognizes the unique characteristics of users' computers and then compiles information about those people's Web-surfing activity. - `https://www.mediapost.com/publications/article/166916/bluecava-touts-device-fingerprinting.html`
 
@@ -1078,7 +1082,7 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
 [Go back to top](#tracker-descriptions)
 
 ## BoostBox
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
       keys = this.userAgentKey(keys);
@@ -1132,7 +1136,7 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 [Go back to top](#tracker-descriptions)
 
 ## Brandcrumb
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.brandcrumb.com/bc.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1180,7 +1184,7 @@ e.prototype.getFingerprint = function() {
 [Go back to top](#tracker-descriptions)
 
 ## BreakTime
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://a.breaktime.com.tw/js/au.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1224,7 +1228,7 @@ Script: `https://a.breaktime.com.tw/js/au.js`
 [Go back to top](#tracker-descriptions)
 
 ## BrightEdge
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.b0e8.com/conv_v3.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1263,7 +1267,7 @@ var audioTimeoutId$jscomp$0 = setTimeout(function() {
 [Go back to top](#tracker-descriptions)
 
 ## C3 Metrics
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. C3 Metrics claims that can universally track users with their fingerprinting technology - `https://c3metrics.com/privacy/`
 
@@ -1313,7 +1317,7 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 [Go back to top](#tracker-descriptions)
 
 ## CallSource
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ai.leadtrackingdata.com/ai.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1422,7 +1426,7 @@ we = [{
 [Go back to top](#tracker-descriptions)
 
 ## CartsGuru
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://tracker-client.carts.guru/dist/shopify-client.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1533,7 +1537,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## ClearLink
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://mapi.clearlink.com/js/cl-track.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1604,7 +1608,7 @@ function c(e, t, n, r, i) {
 [Go back to top](#tracker-descriptions)
 
 ## Clickayab
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://supplier.clickyab.com/api/multi.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1615,7 +1619,7 @@ swfContainerId:"fingerprintjs2"
 [Go back to top](#tracker-descriptions)
 
 ## ClickFrog
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://franecki.net/js/lib.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1651,7 +1655,7 @@ Script: `http://franecki.net/js/lib.js`
 [Go back to top](#tracker-descriptions)
 
 ## ClickGuard
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1715,7 +1719,7 @@ Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 [Go back to top](#tracker-descriptions)
 
 ## Clixtell
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://app.clixtell.com/scripts/latest.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1918,8 +1922,27 @@ function _0x45bcc2() {
 ```
 [Go back to top](#tracker-descriptions)
 
+## DoubleVerify
+This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+DoubleVerify's Privacy Policy States: 
+
+`https://doubleverify.com/privacy-policy/`
+
+> Categories of data and personal information collected by the DoubleVerify Services:  
+>> Digital environment attributes – The type of connected device the advertisement is being delivered to: mobile, desktop, connected TV or other device, the browser type and version used to render the page where the ad appears and the operating system are collected to determine what version of our code would properly run in that environment and to properly measure if the advertisement had the chance to become viewable on the screen according to industry standards which vary between environments.  
+>> Viewability attributes – The location of the ad on the page, the size of the ad, the size of the screen, the size of the viewport, the tab focus status, the browser focus status, the time duration the ad was in the viewable part of the webpage and the scroll position of the webpage are collected to determine and report to our customers if the advertisement had the chance to become viewable on the screen.  
+>> Exposure and engagement attributes – Data that shows if the ad was clicked, resized, skipped, muted, paused, rotated, hovered or changed volume is collected to help our customers measure the performance of the advertisement, the advertising campaign or the media property. The data is not tied back to any personally identifiable information.  
+
+> Categories of data and personal information collected by the DoubleVerify Services solely for fraud prevention and geo compliance purposes:  
+>> Device identifiers and attributes – IP address, user agent, advertising ID, and user ID, in order to analyze whether the device is participating in a fraudulent scheme.  
+>> IP addresses are collected to extract geolocation information.
+
+
+[Go back to top](#tracker-descriptions)
+
 ## ECSAnalytics
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://common.ecsanalytics.com/js/vendor/fp.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1941,7 +1964,7 @@ Request URL: https://mittmedia.ecsanalytics.com/analytics/p.gif?r=ex&cid=REMOVED
 [Go back to top](#tracker-descriptions)
 
 ## EroAdvertising
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://go.ero-advertising.com/loadeactrl.go?pid=71279&siteid=111148&spaceid=3830036`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1984,13 +2007,16 @@ eaCtrl.connectors = {
 [Go back to top](#tracker-descriptions)
 
 ## eyeReturn Marketing
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Eyereturn claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://eyereturnmarketing.com/privacy/`
 
 > Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes
+
+[Go back to top](#tracker-descriptions)
+
 ## Fanplayr
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releases/1.56.0/platform.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2020,7 +2046,7 @@ Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releas
 [Go back to top](#tracker-descriptions)
 
 ## Foresee
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Answers Cloud Services uses the Foresee SDK (subsidiary of Answers Cloud Services) to provide a variety of services including fingerprinting. Their developer documentation includes definitions of their cookie passed parameters, including fingerprint:
 > Fingerprint (fp) - Anonymous identifier for site visitor, used for cookieless tracking in 19.4.0+.
@@ -2105,7 +2131,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Friends2Follow
-This service has been classified as `Analytics`, `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friends2follow/dist/friends2follow_socialstack.min.js?v=201902040`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2140,7 +2166,7 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
 [Go back to top](#tracker-descriptions)
 
 ## FuelX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.fuelx.com/js/fp2.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2172,7 +2198,7 @@ Request URL: https://fsr3.fuel451.com/ids?browserId=REMOVED&fxidhash=REMOVED&bid
 [Go back to top](#tracker-descriptions)
 
 ## Gleam
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://js.gleam.io/assets/w-a08f4344eff99f85d18b1274a8789282a47d9e81d80d2fec172019c7e5fab781.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2209,7 +2235,7 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
 [Go back to top](#tracker-descriptions)
 
 ## GrapheneMedia
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.graphenedigitalanalytics.in/ccanalytics/fingerprint2.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2258,7 +2284,7 @@ This service has been classified as `Cryptomining` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## HilltopAds
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2295,7 +2321,7 @@ Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 [Go back to top](#tracker-descriptions)
 
 ## HotelChamp
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2343,7 +2369,7 @@ Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 [Go back to top](#tracker-descriptions)
 
 ## iMedia
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
       Plugin.prototype.get = function(options) {
@@ -2415,7 +2441,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## IslayTech
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://connect.islay.tech/analyzer/collector.min.js?x=1549440528024`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2459,7 +2485,7 @@ Script: `https://connect.islay.tech/analyzer/collector.min.js?x=1549440528024`
 [Go back to top](#tracker-descriptions)
 
 ## ismatlab.com
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ismatlab.com/cp/public/js/cp.js?id_adm=07948ed229ec4410a2f25c62a87188e8&sys=10012424.UA&smpl=on`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2535,7 +2561,7 @@ function h(i) {
 [Go back to top](#tracker-descriptions)
 
 ## Itch
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.itch.io/widget.min.js?1549413662`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2576,7 +2602,7 @@ This service has been classified as `Cryptomining` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Konduto
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://i.k-analytix.com/k.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2628,7 +2654,7 @@ Script: `https://i.k-analytix.com/k.js`
 [Go back to top](#tracker-descriptions)
 
 ## LeadsHub
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://cdn.ztsrv.com/js/0.5.0/ztag.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2650,7 +2676,7 @@ Request URL: http://us-west-2-v2-t.ztsrv.com/1/i/REMOVED;za/p.gif
 [Go back to top](#tracker-descriptions)
 
 ## lptracker
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2215e8-dirty`
 1. Script embeds on open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2662,7 +2688,7 @@ Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2
 [Go back to top](#tracker-descriptions)
 
 ## MaxMind
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://device.maxmind.com/js/device.js`
 1. Script generates fingerprint by querying various device properties:
@@ -2737,7 +2763,7 @@ Script: `https://device.maxmind.com/js/device.js`
 [Go back to top](#tracker-descriptions)
 
 ## Mercadopago
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://content.mercadopago.com/fp/check.js;CIS3SID=2A8E1955E35B694A5EF6292EA1DB8B21?org_id=jk96mpy0&session_id=95524399a59f3fedefeea41a7fde6a07&nonce=d521cdd0c52860ee`
 1. Script generates fingerprint by querying various device properties:
@@ -2932,7 +2958,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## Mobials
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2988,7 +3014,7 @@ Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 [Go back to top](#tracker-descriptions)
 
 ## Mystighty
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://mystighty.info/c/D.9m6Qb/2n5-lwSoWOQW9hM/jLcv3-M/z/g/xGN/Sp0UyXNUzFcnzmO/DOUE1M`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3058,7 +3084,7 @@ function logPageView(customData) {
 [Go back to top](#tracker-descriptions)
 
 ## Negishim
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.negishim.com/accessibility/accessibility_pro_group255.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3146,7 +3172,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## OneAd
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ad-specs.guoshipartners.com/static/js/isip.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3204,7 +3230,7 @@ a.Fingerprint2 = function(a) {
 [Go back to top](#tracker-descriptions)
 
 ## OnlineMetrix
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
 function tmx_run_page_fingerprinting(saveNotifs) {
@@ -3216,7 +3242,7 @@ function tmx_run_page_fingerprinting(saveNotifs) {
 [Go back to top](#tracker-descriptions)
 
 ## Opolen
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.opolen.com.br/polen-lojaintegrada-pollinator.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3293,7 +3319,7 @@ loadPolenContainer: function() {
 [Go back to top](#tracker-descriptions)
 
 ## Origo
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://outal.origo.hu/js/1594339552427-46169/outa.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3321,7 +3347,7 @@ Request URL: https://outal.origo.hu/li/1594339555855-70775?data=XXXXXXXXX
 [Go back to top](#tracker-descriptions)
 
 ## Paypal
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.simility.com/b.js`
 1. Script generates fingerprint by querying various device properties:
@@ -3367,7 +3393,7 @@ Script: `https://cdn.simility.com/b.js`
 [Go back to top](#tracker-descriptions)
 
 ## PerimeterX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 
 
@@ -3468,7 +3494,7 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 [Go back to top](#tracker-descriptions)
 
 ## PPCProtect
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3506,7 +3532,7 @@ Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 [Go back to top](#tracker-descriptions)
 
 ## PrismApp
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://prismapp-files.s3.amazonaws.com/widget/prism.js?v2`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3551,7 +3577,7 @@ BRUNCH_ENV: "production",
 [Go back to top](#tracker-descriptions)
 
 ## PrometheusIntelligenceTechnology
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3585,7 +3611,7 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 [Go back to top](#tracker-descriptions)
 
 ## Provers
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3623,7 +3649,7 @@ Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
 [Go back to top](#tracker-descriptions)
 
 ## Psonstrentie
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0ly_O/DcABy/OJTnAxxz`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3657,7 +3683,7 @@ Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0l
 [Go back to top](#tracker-descriptions)
 
 ## Rollick
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://widget.rollick.io/00294`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3683,7 +3709,7 @@ Script: `https://widget.rollick.io/00294`
 [Go back to top](#tracker-descriptions)
 
 ## SAP
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD36293095`
 1. Script gathers several device characteristics to generate a fingerprint:
@@ -3801,7 +3827,7 @@ function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* opti
 [Go back to top](#tracker-descriptions)
 
 ## Semantiqo
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://sonar.semantiqo.com/c82up/checking.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3841,7 +3867,7 @@ Script: `https://sonar.semantiqo.com/c82up/checking.js`
 [Go back to top](#tracker-descriptions)
 
 ## SendPulse
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3866,7 +3892,7 @@ Request URL: https://login.sendpulse.com/members/forms/stat?true=jQuery112409706
 [Go back to top](#tracker-descriptions)
 
 ## SiftScience
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.siftscience.com/s.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3927,7 +3953,7 @@ Script: `https://cdn.siftscience.com/s.js`
 [Go back to top](#tracker-descriptions)
 
 ## Smi
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://jsn.24smi.net/smi.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4024,7 +4050,7 @@ function Miner(spareChangeApiKey, p1, p2) {
 [Go back to top](#tracker-descriptions)
 
 ## Storeland
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://sl-h-statistics-ch-1.storeland.ru/static/fp.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4061,7 +4087,7 @@ try {
 [Go back to top](#tracker-descriptions)
 
 ## TechSolutions
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.techsolutions.com.tw/analytics.js?id=adb5aa4fedda0f66&d=https://adbert.techsolutions.com.tw/&0.5748148854325372`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4139,7 +4165,7 @@ var ProcessorGeneral = async function ProcessorGeneral(action, event, args) {
 [Go back to top](#tracker-descriptions)
 
 ## Upland
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://t.sf14g.com/sf14g.js`
 1. Generates fingerprint based on plugins, fonts, canvas, etc:
@@ -4266,7 +4292,7 @@ getCanvasFp: function () {
 [Go back to top](#tracker-descriptions)
 
 ## Vendemore
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d2hya7iqhf5w3h.cloudfront.net/scripts/analytics.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4308,7 +4334,7 @@ new Fingerprint2(options)['get'](function(_0x75b9x48) {
 [Go back to top](#tracker-descriptions)
 
 ## VerticalHealth
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://assets.verticalhealth.net/fingerprint2.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4334,7 +4360,7 @@ Request URL: https://id.verticalhealth.net/pixel.gif?fprint=REMOVED&partnerid=io
 [Go back to top](#tracker-descriptions)
 
 ## Webmecanik
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://mr.automation.webmecanik.com/mtc.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4530,7 +4556,7 @@ var CryptonightWASMWrapper = function() {
 [Go back to top](#tracker-descriptions)
 
 ## WideOrbit
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4574,7 +4600,7 @@ Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
 [Go back to top](#tracker-descriptions)
 
 ## ZafulAffiliate
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://js.affasi.com/affasi_js.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4620,7 +4646,7 @@ Script: `https://js.affasi.com/affasi_js.min.js`
 [Go back to top](#tracker-descriptions)
 
 ## Zefir
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ze-fir.com/js/t.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
