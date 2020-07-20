@@ -4177,6 +4177,7 @@
     },
     "eBay": {
       "properties": [
+        "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
         "ebay.be",
