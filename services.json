@@ -2441,6 +2441,13 @@
         }
       },
       {
+        "Curalate": {
+          "https://www.curalate.com/": [
+            "curalate.com"
+          ]
+        }
+      },
+      {
         "cXense": {
           "http://www.cxense.com/": [
             "cxense.com",
