@@ -5250,6 +5250,13 @@
         }
       },
       {
+        "Permutive": {
+          "https://permutive.com/": [
+            "permutive.com"
+          ]
+        }
+      },
+      {
         "Pheedo": {
           "http://site.pheedo.com/": [
             "pheedo.com"
