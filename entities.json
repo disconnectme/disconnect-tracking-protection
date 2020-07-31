@@ -4185,6 +4185,8 @@
     },
     "eBay": {
       "properties": [
+        "2dehands.be",
+        "2ememain.be",
         "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
@@ -4209,7 +4211,8 @@
         "ebay.in",
         "ebay.it",
         "ebay.nl",
-        "ebay.pl"
+        "ebay.pl",
+        "marktplaats.nl"
       ],
       "resources": [
         "ebay.com",
