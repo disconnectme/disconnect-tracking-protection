@@ -4185,6 +4185,10 @@
     },
     "eBay": {
       "properties": [
+        "2dehands.be",
+        "2ememain.be",
+        "automobile.fr",
+        "automobile.it",
         "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
@@ -4210,13 +4214,11 @@
         "ebay.it",
         "ebay.nl",
         "ebay.pl",
-        "mobile.de",
-        "motor-talk.de",
-        "automobile.it",
-        "automobile.fr",
-        "marktplaats.nl",
         "ebaymotorspro.co.uk",
-        "gumtree.com"
+        "gumtree.com",
+        "marktplaats.nl",
+        "mobile.de",
+        "motor-talk.de"
       ],
       "resources": [
         "ebay.com",
