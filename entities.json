@@ -4215,14 +4215,19 @@
         "ebay.nl",
         "ebay.pl",
         "ebaymotorspro.co.uk",
+        "gumtree.co.za",
         "gumtree.com",
         "gumtree.com.au",
+        "gumtree.ie",
+        "gumtree.pl",
+        "gumtree.sg",
         "kijiji.ca",
         "kijijiautos.ca",
         "marktplaats.nl",
         "mobile.de",
         "motor-talk.de",
-        "motortalk.net"
+        "motortalk.net",
+        "vivanuncios.com.mx"
       ],
       "resources": [
         "ebay.com",
