@@ -4185,6 +4185,12 @@
     },
     "eBay": {
       "properties": [
+        "2dehands.be",
+        "2ememain.be",
+        "automobile.fr",
+        "automobile.it",
+        "bilbasen.dk",
+        "bilinfo.dk",
         "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
@@ -4209,7 +4215,23 @@
         "ebay.in",
         "ebay.it",
         "ebay.nl",
-        "ebay.pl"
+        "ebay.pl",
+        "ebay.pl",
+        "ebaymotorspro.co.uk",
+        "gumtree.co.za",
+        "gumtree.com",
+        "gumtree.com.au",
+        "gumtree.ie",
+        "gumtree.pl",
+        "gumtree.sg",
+        "kijiji.ca",
+        "kijiji.it",
+        "kijijiautos.ca",
+        "marktplaats.nl",
+        "mobile.de",
+        "motor-talk.de",
+        "motortalk.net",
+        "vivanuncios.com.mx"
       ],
       "resources": [
         "ebay.com",
