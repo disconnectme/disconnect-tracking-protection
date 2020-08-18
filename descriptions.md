@@ -102,6 +102,7 @@ The technical and policy review information below was recorded on the date obser
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
+- [Protected-Media](#Protected-Media)
 - [Provers](#Provers)
 - [Psonstrentie](#Psonstrentie)
 - [Rollick](#Rollick)
@@ -4455,6 +4456,163 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 
 ```
 
+[Go back to top](#tracker-descriptions)
+
+## Protected Media
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "203",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"PR flacks quiz gym: TV DJ box when? ?˜ \",15,60]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "203",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"No??—\",40,80]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "207",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"http://abcd.com\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "207",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"http://abcd.com\",4,17]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"123DFHJrtuoe :-( 8YumnxoWerAS\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "209",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"123DFHJrtuoe :-( 8YumnxoWerAS\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "202",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"😀🎅👂🔫\",0,20]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "344",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "344",
+  "symbol": "window.navigator.doNotTrack",
+  "arguments": null,
+  "value": "unspecified"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "153",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "198",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "198",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "sine"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "341",
+  "symbol": "RTCPeerConnection.setLocalDescription",
+  "arguments": "[\"{\\\"type\\\":\\\"offer\\\",\\\"sdp\\\":\\\"v=0\\\\r\\\\no=mozilla...THIS_IS_SDPARTA-78.0.1 XXXXX 0 IN IP4 0.0.0.0\\\\r\\\\ns=-\\\\r\\\\nt=0 0\\\\r\\\\na=fingerprint:sha-256 XXXXX\\\\r\\\\na=group:BUNDLE 0\\\\r\\\\na=ice-options:trickle\\\\r\\\\na=msid-semantic:WMS *\\\\r\\\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\\\r\\\\nc=IN IP4 0.0.0.0\\\\r\\\\na=sendrecv\\\\r\\\\na=ice-pwd:XXXXX\\\\r\\\\na=ice-ufrag:XXXXX\\\\r\\\\na=mid:0\\\\r\\\\na=setup:actpass\\\\r\\\\na=sctp-port:5000\\\\r\\\\na=max-message-size:1073741823\\\\r\\\\n\\\"}\"]",
+  "value": ""
+}
+```
 [Go back to top](#tracker-descriptions)
 
 ## Provers

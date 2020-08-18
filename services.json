@@ -10662,6 +10662,13 @@
         }
       },
       {
+        "Protected Media": {
+          "http://www.protected.media/": [
+            "ad-score.com"
+          ]
+        }
+      },
+      {
         "Provers": {
           "http://provers.pro": [
             "provers.pro"
