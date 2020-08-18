@@ -10267,6 +10267,15 @@
         }
       },
       {
+        "Bouncex": {
+          "https://www.bouncex.com/": [
+            "bounceexchange.com",
+            "bouncex.com",
+            "bouncex.net"
+          ]
+        }
+      },
+      {
         "Brandcrumb": {
           "http://www.brandcrumb.com": [
             "brandcrumb.com"
@@ -10870,15 +10879,6 @@
             "bkrtx.com",
             "bluekai.com",
             "tracksimple.com"
-          ]
-        }
-      },
-      {
-        "Bouncex": {
-          "https://www.bouncex.com/": [
-            "bounceexchange.com",
-            "bouncex.com",
-            "bouncex.net"
           ]
         }
       },

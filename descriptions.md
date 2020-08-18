@@ -1309,7 +1309,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
 [Go back to top](#tracker-descriptions)
 
 ## Bouncex
-This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 Bouncex's privacy policy States:
 
@@ -1331,7 +1331,49 @@ BounceX's website states:
 
 >To truly “identify” a visitor, you need a first-party link to a device that can survive across browsers and sessions. That link will allow you to remember each visit the device makes to your site, thereby building an accurate view of the visitor’s affinities. To do this, bounceX’s identification product capitalizes on the massive network of websites that we serve. (2)
 
-
+### Technical Review
+Script: `https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.doNotTrack",
+  "arguments": null,
+  "value": "unspecified"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "RTCPeerConnection.setLocalDescription",
+  "arguments": "[\"{\\\"type\\\":\\\"offer\\\",\\\"sdp\\\":\\\"v=0\\\\r\\\\no=mozilla...THIS_IS_SDPARTA-78.0.1 XXXXX 0 IN IP4 0.0.0.0\\\\r\\\\ns=-\\\\r\\\\nt=0 0\\\\r\\\\na=fingerprint:sha-256 XXXXX\\\\r\\\\na=group:BUNDLE 0\\\\r\\\\na=ice-options:trickle\\\\r\\\\na=msid-semantic:WMS *\\\\r\\\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\\\r\\\\nc=IN IP4 0.0.0.0\\\\r\\\\na=sendrecv\\\\r\\\\na=ice-pwd:XXXXX\\\\r\\\\na=ice-ufrag:XXXXX\\\\r\\\\na=mid:0\\\\r\\\\na=setup:actpass\\\\r\\\\na=sctp-port:5000\\\\r\\\\na=max-message-size:1073741823\\\\r\\\\n\\\"}\"]",
+  "value": ""
+}
+```
 [Go back to top](#tracker-descriptions)
 
 ## Brandcrumb
