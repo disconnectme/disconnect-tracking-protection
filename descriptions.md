@@ -67,6 +67,7 @@ The technical and policy review information below was recorded on the date obser
 - [HilltopAds](#HilltopAds)
 - [HotelChamp](#HotelChamp)
 - [HotMart](#HotMart)
+- [ie8eamus](#ie8eamus)
 - [iMedia](#iMedia)
 - [Infolinks](#Infolinks)
 - [IslayTech](#IslayTech)
@@ -2843,6 +2844,193 @@ Hotmart's Privacy Policy States:
 `https://www.hotmart.com/en/cookie-policy` (2)
 >Other data collection tools, similar to Cookies, are also employed by the HOTMART Platform, analytic and tracking cookies that aim to collect USER data and understand their behavior to enable the Platform to work. (2)
 
+[Go back to top](#tracker-descriptions)
+
+## ie8eamus
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `http://ie8eamus.com/sfp.js`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
 [Go back to top](#tracker-descriptions)
 
 ## iMedia

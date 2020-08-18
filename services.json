@@ -3633,6 +3633,13 @@
         }
       },
       {
+        "ie8eamus": {
+          "https://ie8eamus.com/": [
+            "ie8eamus.com"
+          ]
+        }
+      },
+      {
         "iEntry": {
           "http://www.ientry.com/": [
             "600z.com",
@@ -10458,6 +10465,13 @@
         "HotelChamp": {
           "https://www.hotelchamp.com": [
             "hotelchamp.com"
+          ]
+        }
+      },
+      {
+        "ie8eamus": {
+          "https://ie8eamus.com/": [
+            "ie8eamus.com"
           ]
         }
       },
