@@ -6149,6 +6149,13 @@
         }
       },
       {
+        "SocialNative": {
+          "https://www.socialnative.com/": [
+            "photorank.me"
+          ]
+        }
+      },
+      {
         "SocialTwist": {
           "http://tellafriend.socialtwist.com/": [
             "socialtwist.com"
