@@ -7422,6 +7422,13 @@
         }
       },
       {
+        "Yotpo": {
+          "https://www.yotpo.com/": [
+            "yotpo.com"
+          ]
+        }
+      },
+      {
         "youknowbest": {
           "http://www.youknowbest.com/": [
             "youknowbest.com"
