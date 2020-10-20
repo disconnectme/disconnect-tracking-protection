@@ -615,59 +615,13 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## Albacross
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://serve.albacross.com/track.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(e) {
-            var t = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i]
-            };
-            this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Albacross’ privacy policy states:
 
+`https://albacross.com/privacy-policy/`
 
-```
-2. Sends computed fingerprint back to server:
-```
-NosivaCore.getCollectorUrl = function(env) {
-            switch (env) {
-                case "production":
-                    return "https://collect.albacross.com";
-                case "staging":
-                    return "http://collect.albakaos.com";
-                case "local":
-                    return "http://localhost:8080"
-            }
-        }
-
-NosivaCore.markers = {}, NosivaCore.params = ["first_name", "last_name", "email", "company_name", "company_number", "campaign_id", "ad_id", "adform_tag_id", "adform_advertiser_id", "adform_campaign_id", "adform_tracking_setup_id", "adform_creative_id", "adform_cookie_id", "adform_unique_impression_id", "adform_media_id", "adform_line_item_id", "adform_media_network_id", "adform_banner_domain", "adform_rtb_inventory_source_id", "adform_rtb_domain", "adform_rtb_deal_or_package_id", "adform_request_id", "adform_advertising_id", "adform_external_publisher_id"], NosivaCore.shortFormat = !1, NosivaCore.domReady = function(fn) {
-            "loading" != document.readyState ? fn() : document.addEventListener ? document.addEventListener("DOMContentLoaded", fn) : document.attachEvent("onreadystatechange", function() {
-                "loading" != document.readyState && fn()
-            })
-        }, NosivaCore.sendEvents = function(events, callback, retries) {
-            if (document.body) {
-                "undefined" == typeof retries && (retries = 0), "undefined" != typeof callback && null !== callback && callback();
-                var url = "";
-                url = NosivaCore.shortFormat ? NosivaCore.getCollectorUrl(Nosiva.environment) + "/e.gif?" + NosivaCore.stringifyEvents(events, !0) : NosivaCore.getCollectorUrl(Nosiva.environment) + "/d.gif?d=" + NosivaCore.stringifyEvents(events, !1);
-                var img = new Image;
-                img.height = 0, img.width = 0, img.style.height = "0", img.style.width = "0", img.style.border = "0", img.style.margin = "0", img.style.padding = "0", img.style.position = "fixed", img.style.bottom = "0", img.style.left = "0", img.src = url, document.body.appendChild(img), img.onload = function() {
-                    null !== img.parentNode && document.body.removeChild(img)
-                }, 2 > retries && (img.onerror = function() {
-                    setTimeout(function() {
-                        document.body.removeChild(img), NosivaCore.sendEvents(events, null, retries + 1)
-                    }, 1e3)
-                })
-            }
-        }
-
-
-
-```
+>The data processed is the IP-address from which you visited our customer´s website, and technical information that enables us to tell different visitors apart that are originating from the same IP-address (cookies). In some cases, the IP-address and the company it is matched with may constitute personal data – for instance when it comes to sole traders – as it would allow for the identification of the visitor.
 
 [Go back to top](#tracker-descriptions)
 
