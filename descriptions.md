@@ -4110,31 +4110,14 @@ loadPolenContainer: function() {
 [Go back to top](#tracker-descriptions)
 
 ## Origo
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://outal.origo.hu/js/1594339552427-46169/outa.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(t) {
-            if (!(this instanceof e))
-                return new e(t);
-            this.options = this.extend(t, {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: [],
-                excludeDoNotTrack: !0,
-                excludePixelRatio: !0
-            }),
-            this.nativeForEach = Array.prototype.forEach,
-            this.nativeMap = Array.prototype.map
-        };
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: https://outal.origo.hu/li/1594339555855-70775?data=XXXXXXXXX
-```
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Origo’s privacy policy states:  
+ 
+`https://www.origo.hu/common/20180525-adatvedelmi-es-adatkezelesi-tajekoztato.html`
+ 
+>32. Data to be technically recorded during the operation of the systems: the data of the User's login computer, which are generated during the use of the Service and which are recorded by the System of Data Controllers as an automatic result of the technical processes. The data that is automatically recorded is automatically logged at the time of entry or exit without any separate statement or action by the User." 
+
 [Go back to top](#tracker-descriptions)
 
 ## Paypal
