@@ -9615,13 +9615,6 @@
         }
       },
       {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
-          ]
-        }
-      },
-      {
         "Optimizely": {
           "https://www.optimizely.com/": [
             "optimizely.com"
@@ -9683,6 +9676,13 @@
         "PixAnalytics": {
           "https://pixanalytics.com/": [
             "pixanalytics.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "opolen.com.br"
           ]
         }
       },
@@ -10606,13 +10606,6 @@
         }
       },
       {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
-          ]
-        }
-      },
-      {
         "PaymentsMB": {
           "https://paymentsmb.com": [
             "paymentsmb.com"
@@ -11120,6 +11113,13 @@
         "PinPoll": {
           "https://pinpoll.com/": [
             "pinpoll.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "polen.com.br"
           ]
         }
       },
