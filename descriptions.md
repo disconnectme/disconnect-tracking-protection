@@ -74,6 +74,7 @@ The technical and policy review information below was recorded on the date obser
 - [ismatlab.com](#ismatlab.com)
 - [Itch](#Itch)
 - [JSE](#JSE)
+- [justuno](#justuno)
 - [KISSmetrics](#KISSmetrics)
 - [Konduto](#Konduto)
 - [Krux](#Krux)
@@ -3231,6 +3232,19 @@ This service has been classified as `Cryptomining` for the following reasons:
         });
       } else {
 ```
+
+[Go back to top](#tracker-descriptions)
+
+## justuno
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Justuno’s privacy policy states: 
+ 
+`https://www.justuno.com/legal/privacy-policy/`
+ 
+>"Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. A hashed version of your email address, which can not be un-hashed for the use of sending any emails, may be sent to our partners to help recognize you across different channels and platforms, including but not limited to, computers, mobile devices, including TV addressability, over time for advertising, analytics, attribution, and reporting purposes. The information requested and collected from you may vary."
+> 
+>"Non-Identifiable Data: When you interact with Justuno through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you, unless it is combined with Personal Information. Justuno may store such information itself or such information may be included in databases owned and maintained by Justuno affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers"
 
 [Go back to top](#tracker-descriptions)
 

@@ -10518,13 +10518,6 @@
         }
       },
       {
-        "justuno": {
-          "https://www.justuno.com/": [
-            "justuno.com"
-          ]
-        }
-      },
-      {
         "Konduto": {
           "http://konduto.com": [
             "k-analytix.com",
@@ -11045,6 +11038,13 @@
         "Infolinks": {
           "http://www.infolinks.com/": [
             "infolinks.com"
+          ]
+        }
+      },
+      {
+        "justuno": {
+          "https://www.justuno.com/": [
+            "justuno.com"
           ]
         }
       },
