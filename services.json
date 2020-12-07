@@ -10417,13 +10417,6 @@
         }
       },
       {
-        "Fanplayr": {
-          "https://fanplayr.com/": [
-            "fanplayr.com"
-          ]
-        }
-      },
-      {
         "Foresee": {
           "https://www.foresee.com": [
             "answerscloud.com",
@@ -10972,6 +10965,13 @@
             "fb.com",
             "fbsbx.com",
             "friendfeed.com"
+          ]
+        }
+      },
+      {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
           ]
         }
       },

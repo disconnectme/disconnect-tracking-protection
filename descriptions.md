@@ -2347,33 +2347,17 @@ Facebook's Website States:
 [Go back to top](#tracker-descriptions)
 
 ## Fanplayr
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releases/1.56.0/platform.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Fanplayr’s privacy policy states: 
+ 
+`https://fanplayr.com/files/en/Fanplayr-Privacy-Policy-May-2018.pdf`
+ 
+>Passively Collected Information 
+>•Automatically Collected Information. When You use the Services, some information is also automatically collected, such as Your Internet Protocol (IP) address, Your operating system, the browser type, the address of a referring Web site and Your activity on the Services. 
+>•"Cookies" and Clear Gif Information. We may automatically collect certain information using "cookies" or clear gifs. Cookies are small data files that are stored on a User's hard drive at the request of a Web Site to enable such Web site to recognize Users who have previously visited them and retain certain information such as user preferences and history. If we combine cookies with or link them to any personally identifiable information, we would treat this information as Personal Data. Clear gifs are small, invisible graphic images that may be used by the Services or in emails relating to the Services to collect certain information and monitor user activity on the Services and may be combined with Your IP address or other information that we have gathered with respect to a User's use of the Services 
+>•We use analytics tools to track how You get to Web Sites and to understand how You use the WebSites after You arrive."
 
-```
-                cpuClassKey: function(a) {
-                    return this.options.excludeCpuClass || a.push(this.getNavigatorCpuClass()), a
-                },
-                platformKey: function(a) {
-                    return this.options.excludePlatform || a.push(this.getNavigatorPlatform()), a
-                },
-                doNotTrackKey: function(a) {
-                    return this.options.excludeDoNotTrack || a.push(this.getDoNotTrack()), a
-                },
-                canvasKey: function(a) {
-                    return !this.options.excludeCanvas && this.isCanvasSupported() && a.push(this.getCanvasFp()), a
-                },
-                webglKey: function(a) {
-                    return !this.options.excludeWebGL && this.isCanvasSupported() && a.push(this.getWebglFp()), a
-                },
-                pluginsKey: function(a) {
-                    return this.isIE() ? a.push(this.getIEPluginsString()) : a.push(this.getRegularPluginsString()), a
-                },
-
-```
-2. Script then sends fingerprint to Fanplayer server
 [Go back to top](#tracker-descriptions)
 
 ## Fiksu
