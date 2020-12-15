@@ -599,6 +599,13 @@
         }
       },
       {
+        "adNET": {
+          "https://www.adnet.de/": [
+            "adnet.de"
+          ]
+        }
+      },
+      {
         "Adnetik": {
           "http://adnetik.com/": [
             "adnetik.com",
@@ -6590,6 +6597,13 @@
           "http://www.thenumagroup.com/": [
             "hittail.com",
             "thenumagroup.com"
+          ]
+        }
+      },
+      {
+        "TheReachGroup": {
+          "https://trg.de/": [
+            "medialead.de"
           ]
         }
       },
