@@ -6078,7 +6078,8 @@
     "IBM": {
       "properties": [
         "ibm.com",
-        "multicloud-ibm.com"
+        "multicloud-ibm.com",
+        "weather.com"
       ],
       "resources": [
         "cmcore.com",
