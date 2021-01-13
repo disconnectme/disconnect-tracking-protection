@@ -211,14 +211,6 @@
         "adaptly.com"
       ]
     },
-    "Adap.tv": {
-      "properties": [
-        "adap.tv"
-      ],
-      "resources": [
-        "adap.tv"
-      ]
-    },
     "Adara Media": {
       "properties": [
         "adaramedia.com",
@@ -1136,18 +1128,6 @@
         "adswizz.com"
       ]
     },
-    "ADTECH": {
-      "properties": [
-        "adtech.com",
-        "adtech.de",
-        "adtechus.com"
-      ],
-      "resources": [
-        "adtech.com",
-        "adtech.de",
-        "adtechus.com"
-      ]
-    },
     "Adtegrity.com": {
       "properties": [
         "adtegrity.com",
@@ -1736,69 +1716,6 @@
       ],
       "resources": [
         "dsply.com"
-      ]
-    },
-    "AOL": {
-      "properties": [
-        "5min.com",
-        "adsonar.com",
-        "advertising.com",
-        "aim.com",
-        "aol.com",
-        "aolcdn.com",
-        "aoltechguru.com",
-        "atwola.com",
-        "autoblog.com",
-        "cambio.com",
-        "dailyfinance.com",
-        "editions.com",
-        "engadget.com",
-        "games.com",
-        "homesessive.com",
-        "huffingtonpost.com",
-        "leadback.com",
-        "makers.com",
-        "mandatory.com",
-        "mapquest.com",
-        "moviefone.com",
-        "noisecreep.com",
-        "patch.com",
-        "pawnation.com",
-        "shortcuts.com",
-        "shoutcast.com",
-        "spinner.com",
-        "stylelist.com",
-        "stylemepretty.com",
-        "surphace.com",
-        "tacoda.net",
-        "techcrunch.com",
-        "theboombox.com",
-        "theboot.com",
-        "userplane.com",
-        "winamp.com"
-      ],
-      "resources": [
-        "5min.com",
-        "adsonar.com",
-        "adtechjp.com",
-        "advertising.com",
-        "aim.com",
-        "aol.com",
-        "aolcdn.com",
-        "aolcloud.net",
-        "atwola.com",
-        "editions.com",
-        "leadback.com",
-        "mapquest.com",
-        "patch.com",
-        "shortcuts.com",
-        "shoutcast.com",
-        "spinner.com",
-        "surphace.com",
-        "tacoda.net",
-        "userplane.com",
-        "vidible.tv",
-        "winamp.com"
       ]
     },
     "AppCast": {
@@ -11775,6 +11692,116 @@
         "veremedia.com"
       ]
     },
+    "VerizonMedia": {
+      "properties": [
+        "5min.com",
+        "adap.tv",
+        "adsonar.com",
+        "adtech.com",
+        "adtech.de",
+        "adtechus.com",
+        "advertising.com",
+        "aim.com",
+        "aol.com",
+        "aolcdn.com",
+        "aoltechguru.com",
+        "atwola.com",
+        "autoblog.com",
+        "cambio.com",
+        "dailyfinance.com",
+        "editions.com",
+        "engadget.com",
+        "flickr.com",
+        "flurry.com",
+        "games.com",
+        "homesessive.com",
+        "huffingtonpost.com",
+        "leadback.com",
+        "makers.com",
+        "mandatory.com",
+        "mapquest.com",
+        "moviefone.com",
+        "noisecreep.com",
+        "patch.com",
+        "pawnation.com",
+        "shortcuts.com",
+        "shoutcast.com",
+        "spinner.com",
+        "stylelist.com",
+        "stylemepretty.com",
+        "surphace.com",
+        "tacoda.net",
+        "techcrunch.com",
+        "theboombox.com",
+        "theboot.com",
+        "tumblr.com",
+        "userplane.com",
+        "verizon.com",
+        "winamp.com",
+        "yahoo.co.jp",
+        "yahoo.com",
+        "yahoostudios.com",
+        "yuilibrary.com"
+      ],
+      "resources": [
+        "5min.com",
+        "adap.tv",
+        "adinterax.com",
+        "adrevolver.com",
+        "adsonar.com",
+        "adtech.com",
+        "adtech.de",
+        "adtechjp.com",
+        "adtechus.com",
+        "advertising.com",
+        "aim.com",
+        "aol.com",
+        "aolcdn.com",
+        "aolcloud.net",
+        "atwola.com",
+        "bluelithium.com",
+        "dapper.net",
+        "editions.com",
+        "flickr.com",
+        "flurry.com",
+        "interclick.com",
+        "leadback.com",
+        "luminate.com",
+        "mapquest.com",
+        "mybloglog.com",
+        "overture.com",
+        "patch.com",
+        "pixazza.com",
+        "rightmedia.com",
+        "rmxads.com",
+        "rocketmail.com",
+        "secure-adserver.com",
+        "shortcuts.com",
+        "shoutcast.com",
+        "spinner.com",
+        "staticflickr.com",
+        "surphace.com",
+        "tacoda.net",
+        "tumblr.com",
+        "userplane.com",
+        "verizon.com",
+        "vidible.tv",
+        "winamp.com",
+        "yahoo.co.jp",
+        "yahoo.com",
+        "yahooapis.com",
+        "yahooapis.jp",
+        "yahoofs.com",
+        "yieldmanager.com",
+        "yieldmanager.net",
+        "yimg.com",
+        "yimg.jp",
+        "yldmgrimg.net",
+        "ymail.com",
+        "yuilibrary.com",
+        "zenfs.com"
+      ]
+    },
     "Vertical Acuity": {
       "properties": [
         "verticalacuity.com"
@@ -12358,49 +12385,6 @@
       ],
       "resources": [
         "yabuka.com"
-      ]
-    },
-    "Yahoo!": {
-      "properties": [
-        "flickr.com",
-        "flurry.com",
-        "tumblr.com",
-        "yahoo.co.jp",
-        "yahoo.com",
-        "yahoostudios.com",
-        "yuilibrary.com"
-      ],
-      "resources": [
-        "adinterax.com",
-        "adrevolver.com",
-        "bluelithium.com",
-        "dapper.net",
-        "flickr.com",
-        "flurry.com",
-        "interclick.com",
-        "luminate.com",
-        "mybloglog.com",
-        "overture.com",
-        "pixazza.com",
-        "rightmedia.com",
-        "rmxads.com",
-        "rocketmail.com",
-        "secure-adserver.com",
-        "staticflickr.com",
-        "tumblr.com",
-        "yahoo.co.jp",
-        "yahoo.com",
-        "yahooapis.com",
-        "yahooapis.jp",
-        "yahoofs.com",
-        "yieldmanager.com",
-        "yieldmanager.net",
-        "yimg.com",
-        "yimg.jp",
-        "yldmgrimg.net",
-        "ymail.com",
-        "yuilibrary.com",
-        "zenfs.com"
       ]
     },
     "Yandex": {
