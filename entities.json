@@ -1850,20 +1850,6 @@
         "applovin.com"
       ]
     },
-    "AppNexus": {
-      "properties": [
-        "adlantic.nl",
-        "adnxs.com",
-        "adrdgt.com",
-        "appnexus.com"
-      ],
-      "resources": [
-        "adlantic.nl",
-        "adnxs.com",
-        "adrdgt.com",
-        "appnexus.com"
-      ]
-    },
     "AppsFlyer": {
       "properties": [
         "appsflyer.com"
@@ -1936,10 +1922,28 @@
     },
     "AT&T": {
       "properties": [
+        "adlantic.nl",
+        "adnxs.com",
+        "adrdgt.com",
+        "appnexus.com",
         "att.com",
+        "att.net",
+        "cnn.com",
+        "dccomics.com",
+        "hbo.com",
+        "hbogo.com",
+        "hbomax.com",
+        "hbonow.com",
+        "tbs.com",
+        "tnt.com",
+        "warnermediagroup.com",
         "yp.com"
       ],
       "resources": [
+        "adlantic.nl",
+        "adnxs.com",
+        "adrdgt.com",
+        "appnexus.com",
         "att.com",
         "yp.com"
       ]
