@@ -9428,6 +9428,13 @@
         }
       },
       {
+        "Microsoft": {
+          "http://www.microsoft.com/": [
+            "clarity.ms"
+          ]
+        }
+      },
+      {
         "Mixpanel": {
           "https://mixpanel.com/": [
             "mixpanel.com",
