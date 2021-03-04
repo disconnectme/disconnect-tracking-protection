@@ -24,6 +24,7 @@ The technical and policy review information below was recorded on the date obser
 - [Azet](#Azet)
 - [BetssonPalantir](#BetssonPalantir)
 - [BigClick](#BigClick)
+- [Bisnode](#Bisnode)
 - [BitMedia](#BitMedia)
 - [BlueCava](#BlueCava)
 - [BlueKai](#BlueKai)
@@ -122,7 +123,6 @@ The technical and policy review information below was recorded on the date obser
 - [TechSolutions](#TechSolutions)
 - [The-Trade-Desk](#The-Trade-Desk)
 - [Upland](#Upland)
-- [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
 - [Webmecanik](#Webmecanik)
 - [Webmine](#Webmine)
@@ -1047,6 +1047,23 @@ Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
             "" !== fingerprint_hash && (u = u + "&fingerprint_hash=" + encodeURIComponent(fingerprint_hash) + "&fingerprint_json=" + encodeURIComponent(fingerprint_json)), _.open("POST", url + "/view", !0), _.setRequestHeader("Content-type", "application/x-www-form-urlencoded"), _.send(u)
 
 ```
+
+[Go back to top](#tracker-descriptions)
+
+## Bisnode
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Bisnode’s privacy policy states: 
+ 
+`https://www.bisnode.com/privacy/personal_data/data-we-collect/`
+ 
+What data do we collect about you? 
+ 
+>•Consumer interest and buying behavior. Statistical variables 
+
+>•Electronic localization data. GPS location, mobile phone 
+
+>•Electronic identification data. IP-address and cookies from your visits to our sites
 
 [Go back to top](#tracker-descriptions)
 
@@ -5320,48 +5337,6 @@ getCanvasFp: function () {
         });
     }, 75);
    ```
-[Go back to top](#tracker-descriptions)
-
-## Vendemore
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://d2hya7iqhf5w3h.cloudfront.net/scripts/analytics.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-('Fingerprint2', this, function() {
-    'use strict';
-    var _0x75b9x15 = function(options) {
-        if (!(this instanceof _0x75b9x15)) {
-            return new _0x75b9x15(options)
-        };
-        var _0x75b9x17 = {
-            swfContainerId: 'fingerprintjs2',
-            swfPath: 'flash/compiled/FontList.swf',
-            detectScreenOrientation: true,
-            sortPluginsFor: [/palemoon/i],
-            userDefinedFonts: []
-        };
-        this['options'] = this['extend'](options, _0x75b9x17);
-        this['nativeForEach'] = Array['prototype']['forEach'];
-        this['nativeMap'] = Array['prototype']['map']
-    };
-```
-2. Sends computed fingerprint back to server
-```
-new Fingerprint2(options)['get'](function(_0x75b9x48) {
-    var _0x75b9x8a = 'https://analytics.vendemore.com/visits';
-    _0x75b9x8a += '?vlmref=' + customerCookieValue;
-    _0x75b9x8a += '&vaid=' + ourCookieValue;
-    _0x75b9x8a += '&fingerprint=' + _0x75b9x48;
-    _0x75b9x8a += '&url=' + requestUrl;
-    _0x75b9x8a += '&title=' + title;
-    _0x75b9x8a += '&path=' + path;
-    _0x75b9x8a += '&domain=' + domain;
-    _0x75b9x8a += '&referrer=' + referrer;
-    httpGetAsync(_0x75b9x8a, interactionControllerResponse)
-})
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## VerticalHealth

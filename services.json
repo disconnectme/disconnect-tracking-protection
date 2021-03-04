@@ -1,5 +1,5 @@
 {
-  "license": "Copyright 2010-2020 Disconnect, Inc. / Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (the “License”). A summary of the License is available here: https://creativecommons.org/licenses/by-nc-sa/4.0/. The text version of the License is here: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt. Please see the License for the specific language governing permissions and limitations under the License. Unless agreed to in writing or required by law, software distributed under the License on an \"as is\" basis without warranties or conditions of any kind, either express or implied. This license does not apply to any Disconnect logos or marks contained in this repo.",
+  "license": "Copyright 2010-2021 Disconnect, Inc. / Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (the “License”). A summary of the License is available here: https://creativecommons.org/licenses/by-nc-sa/4.0/. The text version of the License is here: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt. Please see the License for the specific language governing permissions and limitations under the License. Unless agreed to in writing or required by law, software distributed under the License on an \"as is\" basis without warranties or conditions of any kind, either express or implied. This license does not apply to any Disconnect logos or marks contained in this repo.",
   "categories": {
     "Advertising": [
       {
@@ -1627,6 +1627,13 @@
         "BinLayer": {
           "http://binlayer.com/": [
             "binlayer.com"
+          ]
+        }
+      },
+      {
+        "Bisnode": {
+          "https://www.bisnode.com/": [
+            "vendemore.com"
           ]
         }
       },
@@ -6959,13 +6966,6 @@
         }
       },
       {
-        "Vendemore": {
-          "https://vendemore.com/": [
-            "vendemore.com"
-          ]
-        }
-      },
-      {
         "Vendio": {
           "http://www.vendio.com/": [
             "singlefeed.com",
@@ -10754,13 +10754,6 @@
         }
       },
       {
-        "Vendemore": {
-          "https://vendemore.com/": [
-            "vendemore.com"
-          ]
-        }
-      },
-      {
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
@@ -10861,6 +10854,13 @@
             "digitalwindow.com",
             "dwin1.com",
             "perfiliate.com"
+          ]
+        }
+      },
+      {
+        "Bisnode": {
+          "https://www.bisnode.com/": [
+            "vendemore.com"
           ]
         }
       },
