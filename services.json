@@ -2169,6 +2169,13 @@
         }
       },
       {
+        "CloudMedia": {
+          "https://www.cloudmedia.fr/": [
+            "cloud-media.fr"
+          ]
+        }
+      },
+      {
         "Clove Network": {
           "http://www.clovenetwork.com/": [
             "clovenetwork.com"
@@ -2471,6 +2478,13 @@
           "http://www.datalogix.com/": [
             "nexac.com",
             "nextaction.net"
+          ]
+        }
+      },
+      {
+        "DataMind.ru": {
+          "https://datamind.ru/": [
+            "datamind.ru"
           ]
         }
       },
@@ -3404,6 +3418,13 @@
         }
       },
       {
+        "Gnezdo": {
+          "https://gnezdo.online/": [
+            "gnezdo.ru"
+          ]
+        }
+      },
+      {
         "GoDataFeed": {
           "http://godatafeed.com/": [
             "godatafeed.com"
@@ -3904,6 +3925,13 @@
         "JasperLabs": {
           "http://www.jasperlabs.com/": [
             "jasperlabs.com"
+          ]
+        }
+      },
+      {
+        "JellyFish": {
+          "https://www.jellyfish.com/": [
+            "tradelab.fr"
           ]
         }
       },
@@ -5167,6 +5195,13 @@
         }
       },
       {
+        "OwnPage": {
+          "https://www.ownpage.fr/": [
+            "ownpage.fr"
+          ]
+        }
+      },
+      {
         "OxaMedia": {
           "http://www.oxamedia.com/": [
             "adconnexa.com",
@@ -6104,6 +6139,13 @@
         }
       },
       {
+        "SMI2": {
+          "https://smi2.ru/": [
+            "smi2.ru"
+          ]
+        }
+      },
+      {
         "Smiley Media": {
           "http://www.smileymedia.com/": [
             "smileymedia.com"
@@ -6810,6 +6852,13 @@
         }
       },
       {
+        "TTarget": {
+          "https://ttarget.ru/": [
+            "ttarget.ru"
+          ]
+        }
+      },
+      {
         "TubeMogul": {
           "http://www.tubemogul.com/": [
             "tmogul.com",
@@ -6900,6 +6949,13 @@
         "up-value": {
           "http://www.up-value.de/": [
             "up-value.de"
+          ]
+        }
+      },
+      {
+        "UTarget": {
+          "https://utarget.pro/": [
+            "utarget.ru"
           ]
         }
       },
