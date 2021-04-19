@@ -264,6 +264,14 @@
         "adbroker.de"
       ]
     },
+    "AdCash": {
+      "properties": [
+        "adcash.com"
+      ],
+      "resources": [
+        "ufpcdn.com"
+      ]
+    },
     "Adchemy": {
       "properties": [
         "adchemy.com"
@@ -1100,6 +1108,14 @@
         "clickintext.net"
       ]
     },
+    "Adstune": {
+      "properties": [
+        "adstune.com"
+      ],
+      "resources": [
+        "adstune.com"
+      ]
+    },
     "Adsty": {
       "properties": [
         "adsty.com",
@@ -1169,6 +1185,14 @@
       ],
       "resources": [
         "adtiger.de"
+      ]
+    },
+    "Adtima": {
+      "properties": [
+        "adrima.vn"
+      ],
+      "resources": [
+        "zadn.vn"
       ]
     },
     "AdTruth": {
@@ -1302,6 +1326,14 @@
       ],
       "resources": [
         "adxpansion.com"
+      ]
+    },
+    "AdxSpace": {
+      "properties": [
+        "adx.space"
+      ],
+      "resources": [
+        "00px.net"
       ]
     },
     "Adxvalue": {
@@ -1707,6 +1739,14 @@
         "anormal-media.de",
         "anormal-tracker.de",
         "primawebtools.de"
+      ]
+    },
+    "Ansira": {
+      "properties": [
+        "ansira.com"
+      ],
+      "resources": [
+        "ansira.com"
       ]
     },
     "Answers.com": {
@@ -3163,6 +3203,14 @@
       ],
       "resources": [
         "clixtell.com"
+      ]
+    },
+    "Cloudflare": {
+      "properties": [
+        "cloudflare.com"
+      ],
+      "resources": [
+        "hcaptcha.com"
       ]
     },
     "CloudMedia": {
@@ -4970,6 +5018,14 @@
         "fullstory.com"
       ]
     },
+    "FundraiseUp": {
+      "properties": [
+        "fundraiseup.com"
+      ],
+      "resources": [
+        "fundraiseup.com"
+      ]
+    },
     "Future Ads": {
       "properties": [
         "futureads.com",
@@ -6440,6 +6496,14 @@
         "iprospect.com"
       ]
     },
+    "iShumei": {
+      "properties": [
+        "ishumei.com"
+      ],
+      "resources": [
+        "fengkongcloud.com"
+      ]
+    },
     "ISI Technologies": {
       "properties": [
         "adversalservers.com",
@@ -6695,6 +6759,14 @@
         "keewurd.com",
         "kitd.com",
         "peerset.com"
+      ]
+    },
+    "Kitewheel": {
+      "properties": [
+        "kitewheel.com"
+      ],
+      "resources": [
+        "kitewheel.com"
       ]
     },
     "Kokteyl": {
@@ -8770,6 +8842,14 @@
         "parsely.com"
       ]
     },
+    "PartyPoker": {
+      "properties": [
+        "partypoker.com"
+      ],
+      "resources": [
+        "iivt.com"
+      ]
+    },
     "PayHit": {
       "properties": [
         "payhit.com"
@@ -9451,6 +9531,14 @@
         "rambler.ru"
       ]
     },
+    "RazorPay": {
+      "properties": [
+        "razorpay.com"
+      ],
+      "resources": [
+        "thirdwatch.ai"
+      ]
+    },
     "ReachLocal": {
       "properties": [
         "reachlocal.com",
@@ -9483,6 +9571,14 @@
       ],
       "resources": [
         "reduxmedia.com"
+      ]
+    },
+    "Refersion": {
+      "properties": [
+        "refersion.com"
+      ],
+      "resources": [
+        "refersion.com"
       ]
     },
     "Rekko": {
@@ -10106,6 +10202,14 @@
         "shinystat.com"
       ]
     },
+    "Shixiseng": {
+      "properties": [
+        "shixiseng.com"
+      ],
+      "resources": [
+        "xiaoyuanzhao.com"
+      ]
+    },
     "Shopzilla": {
       "properties": [
         "shopzilla.com"
@@ -10228,6 +10332,14 @@
       "resources": [
         "sascdn.com",
         "smartadserver.com"
+      ]
+    },
+    "SmarterClick": {
+      "properties": [
+        "smarterclick.com"
+      ],
+      "resources": [
+        "smct.io"
       ]
     },
     "Smartlook": {
@@ -10664,6 +10776,14 @@
       ],
       "resources": [
         "strikead.com"
+      ]
+    },
+    "Stripchat": {
+      "properties": [
+        "stripchat.com"
+      ],
+      "resources": [
+        "stripst.com"
       ]
     },
     "Stripe": {
@@ -11327,6 +11447,14 @@
         "tremorvideo.com"
       ]
     },
+    "Trendemon": {
+      "properties": [
+        "trendemon.com"
+      ],
+      "resources": [
+        "trendemon.com"
+      ]
+    },
     "Triggit": {
       "properties": [
         "triggit.com"
@@ -11578,6 +11706,14 @@
         "51network.com",
         "uniqlick.com",
         "wanmo.com"
+      ]
+    },
+    "Unknown2mdnsys": {
+      "properties": [
+        "2mdnsys.com"
+      ],
+      "resources": [
+        "2mdnsys.com"
       ]
     },
     "Unruly": {
@@ -12013,6 +12149,14 @@
         "visitstreamer.com"
       ]
     },
+    "VistaprintSchweizGmbH": {
+      "properties": [
+        "vistaprint.ch"
+      ],
+      "resources": [
+        "vpsvc.com"
+      ]
+    },
     "vistrac": {
       "properties": [
         "vistrac.com"
@@ -12069,6 +12213,14 @@
         "vkontakte.ru"
       ]
     },
+    "Vocento": {
+      "properties": [
+        "vocento.com"
+      ],
+      "resources": [
+        "vocento.com"
+      ]
+    },
     "Voice2Page": {
       "properties": [
         "voice2page.com"
@@ -12085,6 +12237,14 @@
       "resources": [
         "vserv.com",
         "vserv.mobi"
+      ]
+    },
+    "Vtex": {
+      "properties": [
+        "vtex.com.br"
+      ],
+      "resources": [
+        "vtex.com.br"
       ]
     },
     "Vuble": {
@@ -12105,12 +12265,28 @@
         "wahoha.com"
       ]
     },
+    "Warumbistdusoarm": {
+      "properties": [
+        "warumbistdusoarm.space"
+      ],
+      "resources": [
+        "warumbistdusoarm.space"
+      ]
+    },
     "Wayfair": {
       "properties": [
         "wayfair.com"
       ],
       "resources": [
         "wayfair.com"
+      ]
+    },
+    "WeatherWidget": {
+      "properties": [
+        "weatherwidget.io"
+      ],
+      "resources": [
+        "weatherwidget.io"
       ]
     },
     "WebAds": {
@@ -12311,6 +12487,14 @@
       ],
       "resources": [
         "dep-x.com"
+      ]
+    },
+    "Widgetic": {
+      "properties": [
+        "widgetic.com"
+      ],
+      "resources": [
+        "widgetic.com"
       ]
     },
     "Wingify": {
@@ -12736,6 +12920,14 @@
       "resources": [
         "insightgrit.com",
         "zetaemailsolutions.com"
+      ]
+    },
+    "Zip": {
+      "properties": [
+        "zip.co"
+      ],
+      "resources": [
+        "zipmoney.com.au"
       ]
     },
     "Zopim": {
