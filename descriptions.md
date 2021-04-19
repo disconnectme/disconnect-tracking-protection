@@ -49,7 +49,6 @@ The technical and policy review information below was recorded on the date obser
 - [ClickGuard](#ClickGuard)
 - [Clixtell](#Clixtell)
 - [Cloudflare](#Cloudflare)
-- [Cloudflare](#Cloudflare)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [ConversantMedia](#ConversantMedia)
@@ -2095,17 +2094,6 @@ function n(t) {
             }, x.open("POST", l + "//tracker.clixtell.com/track", !0), x.setRequestHeader("Content-Type", "application/json;charset=UTF-8"), x.send(JSON.stringify(s))
         }
 
-```
-[Go back to top](#tracker-descriptions)
-
-## Cloudflare
-This service has been classified as `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://assets.hcaptcha.com/c/7f492a3/hsw.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. This API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 

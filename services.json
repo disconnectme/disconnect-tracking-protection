@@ -10610,13 +10610,6 @@
         }
       },
       {
-        "Cloudflare": {
-          "https://cloudflare.com": [
-            "hcaptcha.com"
-          ]
-        }
-      },
-      {
         "Consumable": {
           "http://consumable.com/": [
             "consumable.com"
