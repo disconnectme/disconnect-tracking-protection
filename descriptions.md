@@ -706,60 +706,16 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions)
 
 ## AppCast
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://click.appcast.io/pixels/generic1-6607.js?ent=196`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    Fingerprint.prototype = {
-        get: function() {
-            var keys = [];
-            keys.push(navigator.userAgent);
-            keys.push(navigator.language);
-            keys.push(screen.colorDepth);
-            keys.push((new Date).getTimezoneOffset());
-            keys.push(!!window.sessionStorage);
-            keys.push(this.hasLocalStorage());
-            keys.push(!!window.indexedDB);
-            keys.push(typeof document.body.addBehavior);
-            keys.push(typeof window.openDatabase);
-            keys.push(navigator.cpuClass);
-            keys.push(navigator.platform);
-            keys.push(navigator.doNotTrack);
-
-```
-2. Sends computed fingerprint back to server
-```
-try {
-            var img = document.createElement("img"),
-                action = "generic-te8/a31";;;;;;;;;;;
-            try {
-                ''
-            } catch (ex) {}
-            saveReqNumToSessionStorage(reqNum);
-            var url = "https://click.appcast.io/" +
-                action + ".png?r=" + encodeURIComponent(document.referrer) + (reqNum ? "&jid=" + reqNum : "") + "&tn=" + now + "&rn=" + random + "&fp=" + fp + window.acEmployerId;
-            if (jobSeekerId) url += "&jsid=" + jobSeekerId;
-            if (pSrc) url += "&psrc=" + pSrc;
-            if (misc) url += "&misc=" + misc;
-            if (aid) url += "&aid=" + aid;
-            if (fa) url += "&fa=" + fa;
-            if (exchangeId) url += "&exch=" + exchangeId;
-            if (ccid) url += "&ccid=" + ccid;
-            if (pid) url += "&pid=" + pid;
-            if (cid) url += "&cid=" + cid;
-            if (jt) url += "&jt=" + jt;
-            img.src = url;
-            img.style.display = "none";
-            document.body.appendChild(img);
-            if (/te8\/a31/i.test(action)) window.acAction =
-                0;
-            else if (/ue8\/a7/i.test(action)) window.acAction = 1;
-            else if (/9k\/a17/i.test(action)) window.acAction = 2
-        } catch (e$3) {}
-
-
-```
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Appcast’s privacy policy states:  
+`https://www.appcast.io/privacy-policy/`  
+ 
+>To provide the Service, we collect certain information from job applicants using automated means, such as cookies and web beacons, when they click on an Appcast-sponsored job ad at third party websites… 
+> 
+>The information we collect in this manner includes IP address, browser type, device type, operating system, referring URLs, dates and times of site visits, and predictive demographic information… 
+> 
+>We may also enable third parties to use cookies, web beacons, and ID syncing to collect information when you click on an Appcast-powered job ad at third party websites." 
 
 [Go back to top](#tracker-descriptions)
 

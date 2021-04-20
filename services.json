@@ -10443,13 +10443,6 @@
         }
       },
       {
-        "AppCast": {
-          "https://appcast.io/": [
-            "appcast.io"
-          ]
-        }
-      },
-      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
@@ -11222,6 +11215,13 @@
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
+          ]
+        }
+      },
+      {
+        "AppCast": {
+          "https://appcast.io/": [
+            "appcast.io"
           ]
         }
       },
