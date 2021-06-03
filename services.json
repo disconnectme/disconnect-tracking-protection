@@ -3302,13 +3302,6 @@
         }
       },
       {
-        "FundraiseUp": {
-          "https://fundraiseup.com/": [
-            "fundraiseup.com"
-          ]
-        }
-      },
-      {
         "Future Ads": {
           "https://www.futureads.com/": [
             "futureads.com",
@@ -9306,6 +9299,13 @@
         }
       },
       {
+        "FundraiseUp": {
+          "https://fundraiseup.com/": [
+            "fndrsp.net"
+          ]
+        }
+      },
+      {
         "GetSiteControl": {
           "https://getsitecontrol.com/": [
             "getsitecontrol.com"
@@ -10658,13 +10658,6 @@
           "https://fuelx.com/": [
             "fuel451.com",
             "fuelx.com"
-          ]
-        }
-      },
-      {
-        "FundraiseUp": {
-          "https://fundraiseup.com/": [
-            "fundraiseup.com"
           ]
         }
       },

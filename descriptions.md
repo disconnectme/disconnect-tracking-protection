@@ -67,7 +67,6 @@ The technical and policy review information below was recorded on the date obser
 - [Foresee](#Foresee)
 - [Friends2Follow](#Friends2Follow)
 - [FuelX](#FuelX)
-- [FundraiseUp](#FundraiseUp)
 - [Gleam](#Gleam)
 - [Google](#Google)
 - [GrapheneMedia](#GrapheneMedia)
@@ -2632,17 +2631,6 @@ Script: `https://cdn.fuelx.com/js/fp2.min.js`
 Request URL: https://fsr3.fuel451.com/ids?browserId=REMOVED&fxidhash=REMOVED&bid=QwxV275UK6v5YQgGE2henQ%3D%3D&fxndid=&fxuuid=&lts=Tue%20Mar%2026%202019%2021%3A08%3A06%20GMT-0700%20(Pacific%20Daylight%20Time)&ga=&oid=&cb=fuelxP.setFXCookies&fxt=true
 ```
 
-[Go back to top](#tracker-descriptions)
-
-## FundraiseUp
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cdn.fundraiseup.com/widgets/13.2ca31602b978.fp2.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
 [Go back to top](#tracker-descriptions)
 
 ## Gleam
