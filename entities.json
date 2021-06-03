@@ -12156,7 +12156,8 @@
     },
     "VistaprintSchweizGmbH": {
       "properties": [
-        "vistaprint.ch"
+        "vistaprint.ch",
+        "vistaprint.com"
       ],
       "resources": [
         "vpsvc.com"
