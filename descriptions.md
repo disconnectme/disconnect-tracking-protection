@@ -150,7 +150,6 @@ The technical and policy review information below was recorded on the date obser
 - [Webmine](#Webmine)
 - [WideOrbit](#WideOrbit)
 - [Widgetic](#Widgetic)
-- [VerizonMedia](#VerizonMedia)
 - [Yieldmo](#Yieldmo)
 - [ZafulAffiliate](#ZafulAffiliate)
 - [Zefir](#Zefir)
@@ -5836,17 +5835,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"\\\\|#O\",0,208]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\">6\",162,112]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"\\\\fd\",152,145]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
-## VerizonMedia
-This service has been classified as `Social`, `Content`, `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://s.yimg.com/rq/iv/inside.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. This API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "15px 'Arial'", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "#ffa", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#00a", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"yj\",2,15]", "operation": "call"}, {"value": "rgba(100, 100, 100, 0.7)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"yj\",4,17]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": "[\"image/png\"]", "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 
