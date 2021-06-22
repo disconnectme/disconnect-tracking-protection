@@ -5531,14 +5531,21 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions)
 
 ## Vtex
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://io.vtex.com.br/rc/rc.js?v=1.4.1580.2269`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Vtex's privacy policy states: 
+
+`https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy` 
+
+>VTEX may also collect additional information through your dealings with and use of the Services and non-VTEX websites, which does not disclose your specific identity or does not directly relate to an individual. Additional information may include, but is not limited to: 
+>-Internet Protocol address ("IP address") and information derived from your IP address such as your geographic location; 
+-Geographic location showing where You are using the Services; 
+-Information about your devices such as information contained in HTTP Headers (defined below) or other internet transfer protocol signals, browser or device type and version; operating system, user-agent strings and information about or from the presence or use of "apps" on your mobile devices, screen resolution, and your preferred language; 
+-Unique IDs such as a cookie placed on your computer, mobile or device IDs; 
+-Behavioral data and information about your usage of the Services, including webpages clicked, websites and content areas visited, date and time of activities; 
+ 
+>We might also may put together additional information with Personal Information, such as gathering geographical location from your IP address and combining all of this with behavioral data about your usage of the Services with your name. 
+
 [Go back to top](#tracker-descriptions)
 
 ## Warumbistdusoarm
