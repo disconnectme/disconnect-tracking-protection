@@ -14,7 +14,6 @@ The technical and policy review information below was recorded on the date obser
 - [Adobe](#Adobe)
 - [AdScore](#AdScore)
 - [Adstune](#Adstune)
-- [Adtima](#Adtima)
 - [AdxSpace](#AdxSpace)
 - [AdYouLike](#AdYouLike)
 - [AivaLabs](#AivaLabs)
@@ -507,17 +506,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"&M\",90,155]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\":F\\\\\\\\$\",53,78]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"-<E\",179,179]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
-## Adtima
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://adtima-static.zadn.vn/resource/js/libs/fingerprint2.min.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.7)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 
