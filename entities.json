@@ -2637,6 +2637,30 @@
         "bufferapp.com"
       ]
     },
+    "BuiltIn": {
+      "properties": [
+        "builtin.com",
+        "builtinaustin.com",
+        "builtinboston.com",
+        "builtinchicago.org",
+        "builtincolorado.com",
+        "builtinla.com",
+        "builtinnyc.com",
+        "builtinseattle.com",
+        "builtinsf.com"
+      ],
+      "resources": [
+        "builtin.com",
+        "builtinaustin.com",
+        "builtinboston.com",
+        "builtinchicago.org",
+        "builtincolorado.com",
+        "builtinla.com",
+        "builtinnyc.com",
+        "builtinseattle.com",
+        "builtinsf.com"
+      ]
+    },
     "Bunchball": {
       "properties": [
         "bunchball.com"
