@@ -662,6 +662,14 @@
         "admagnet.net"
       ]
     },
+    "Adman": {
+      "properties": [
+        "adman.gr"
+      ],
+      "resources": [
+        "adman.gr"
+      ]
+    },
     "Admarketplace": {
       "properties": [
         "admarketplace.com"
@@ -1050,6 +1058,14 @@
       "resources": [
         "adside.com",
         "doclix.com"
+      ]
+    },
+    "AdsKeeper": {
+      "properties": [
+        "adskeeper.com"
+      ],
+      "resources": [
+        "adskeeper.co.uk"
       ]
     },
     "AdSpeed": {
@@ -1904,6 +1920,7 @@
         "adrdgt.com",
         "appnexus.com",
         "att.com",
+        "xandr.com",
         "yp.com"
       ]
     },
@@ -2258,6 +2275,14 @@
       "resources": [
         "bidtellect.com",
         "bttrack.com"
+      ]
+    },
+    "BidTheatre": {
+      "properties": [
+        "bidtheatre.com"
+      ],
+      "resources": [
+        "bidtheatre.com"
       ]
     },
     "BidVertiser": {
@@ -11388,6 +11413,14 @@
         "trafficjunky.net"
       ]
     },
+    "TrafficMedia": {
+      "properties": [
+        "traffic-media.co.uk"
+      ],
+      "resources": [
+        "traffic-media.co.uk"
+      ]
+    },
     "TrafficRevenue": {
       "properties": [
         "trafficrevenue.net"
@@ -12493,6 +12526,14 @@
       ],
       "resources": [
         "dep-x.com"
+      ]
+    },
+    "Widespace": {
+      "properties": [
+        "widespace.com"
+      ],
+      "resources": [
+        "widespace.com"
       ]
     },
     "Widgetic": {
