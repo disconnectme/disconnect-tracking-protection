@@ -1,6 +1,14 @@
 {
   "license": "Copyright 2010-2021 Disconnect, Inc. / Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (the “License”). A summary of the License is available here: https://creativecommons.org/licenses/by-nc-sa/4.0/. The text version of the License is here: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt. Please see the License for the specific language governing permissions and limitations under the License. Unless agreed to in writing or required by law, software distributed under the License on an \"as is\" basis without warranties or conditions of any kind, either express or implied. This license does not apply to any Disconnect logos or marks contained in this repo.",
   "entities": {
+    "1plusx": {
+      "properties": [
+        "1plusx.com"
+      ],
+      "resources": [
+        "opecloud.com"
+      ]
+    },
     "2leep.com": {
       "properties": [
         "2leep.com"
@@ -1065,7 +1073,8 @@
         "adskeeper.com"
       ],
       "resources": [
-        "adskeeper.co.uk"
+        "adskeeper.co.uk",
+        "adskeeper.com"
       ]
     },
     "AdSpeed": {
@@ -1096,6 +1105,14 @@
         "adspirit.com",
         "adspirit.de",
         "adspirit.net"
+      ]
+    },
+    "Adsquare": {
+      "properties": [
+        "adsquare.com"
+      ],
+      "resources": [
+        "adsquare.com"
       ]
     },
     "Adsrevenue.net": {
@@ -6667,6 +6684,14 @@
         "jumptap.com"
       ]
     },
+    "JustPremium": {
+      "properties": [
+        "justpremium.com"
+      ],
+      "resources": [
+        "justpremium.com"
+      ]
+    },
     "justuno": {
       "properties": [
         "justuno.com"
@@ -8178,6 +8203,14 @@
       ],
       "resources": [
         "nanigans.com"
+      ]
+    },
+    "NanoInteractive": {
+      "properties": [
+        "nanointeractive.com"
+      ],
+      "resources": [
+        "audiencemanager.de"
       ]
     },
     "Narrative": {
@@ -10046,6 +10079,14 @@
       ],
       "resources": [
         "scandinavianadnetworks.com"
+      ]
+    },
+    "SceneStealer": {
+      "properties": [
+        "scenestealer.co.uk"
+      ],
+      "resources": [
+        "reflow.tv"
       ]
     },
     "ScribeFire": {
@@ -12151,6 +12192,15 @@
       "resources": [
         "vindicogroup.com",
         "vindicosuite.com"
+      ]
+    },
+    "Visarity": {
+      "properties": [
+        "primo.design",
+        "visarity.com"
+      ],
+      "resources": [
+        "visarity.com"
       ]
     },
     "VisibleBrands": {
