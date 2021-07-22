@@ -846,13 +846,6 @@
       {
         "AdsKeeper": {
           "https://www.adskeeper.com/": [
-            "adskeeper.co.uk"
-          ]
-        }
-      },
-      {
-        "AdsKeeper": {
-          "https://www.adskeeper.com/": [
             "adskeeper.co.uk",
             "adskeeper.com"
           ]
