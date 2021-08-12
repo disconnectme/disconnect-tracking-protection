@@ -10415,6 +10415,13 @@
             "y-track.com"
           ]
         }
+      },
+      {
+        "ZoomInfo": {
+          "https://www.zoominfo.com/": [
+            "zoominfo.com"
+          ]
+        }
       }
     ],
     "FingerprintingInvasive": [
