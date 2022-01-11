@@ -85,7 +85,6 @@ The technical and policy review information below was recorded on the date obser
 - [KISSmetrics](#KISSmetrics)
 - [Kitewheel](#Kitewheel)
 - [Konduto](#Konduto)
-- [Krux](#Krux)
 - [LeadsHub](#LeadsHub)
 - [LiveRamp](#LiveRamp)
 - [Lotame](#Lotame)
@@ -119,6 +118,7 @@ The technical and policy review information below was recorded on the date obser
 - [Refersion](#Refersion)
 - [Rollick](#Rollick)
 - [RoqAd](#RoqAd)
+- [Salesforce](#Salesforce)
 - [SAP](#SAP)
 - [Semantiqo](#Semantiqo)
 - [SendPulse](#SendPulse)
@@ -410,7 +410,7 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 [Go back to top](#tracker-descriptions)
 
 ## Adobe
-This service has been classified as `Content`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Content`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Adobe's privacy policy States:
 
@@ -1301,7 +1301,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
 [Go back to top](#tracker-descriptions)
 
 ## Bouncex
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 Bouncex's privacy policy States:
 
@@ -2655,7 +2655,7 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
 [Go back to top](#tracker-descriptions)
 
 ## Google
-This service has been classified as `Social`, `Content`, `Analytics`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Social`, `Content`, `Analytics`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Google's Privacy Policy States: 
 
@@ -3378,32 +3378,6 @@ Script: `https://i.k-analytix.com/k.js`
 
 [Go back to top](#tracker-descriptions)
 
-## Krux
-This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
-### Policy Review
-Salesforce's privacy policy States:
-
-`https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/`
-
->How we Collect and Use De-identified and/or Pseudonymized Personal Data via our Platform - When a user visits the website or mobile application of one of our Customers (the “Customer Site” or “Customer App,” collectively, the “Customer Site(s) and App(s)”), the Customer collects and transfers to Audience Studio and/or enables Audience Studio to collect pseudonymized personal data related to that user’s visits to the website or mobile app (our Customer’s “Session Data”). This Session Data may include information about how the user came to the Customer Site and App, which search engines they use, the search terms used to find the Customer Site, their experience on the Customer Site and App, information about how they interact with the Customer Site and App, demographic information that the Customer has collected from that user and other visitors, data from third-party data providers, and information regarding how users interact with advertisements on the Customer Site and App. Additionally, browsers automatically send certain standard information to every website a user visits, such as an IP address, browser type and language settings, access times, and referring website addresses. This information is collected during visits to each Customer Site and App, including the Audience Studio Site…Where our systems can reasonably infer that a particular computer and/or mobile device belong to the same user or household, we may store such information for use on the Platform. The data stored on our Platform may be combined with third-party data (for example, geolocation data provided by a vendor) in order to better target advertisements, to enable Customers to better understand users across multiple computers and devices, and for ad delivery and reporting purposes.  
-  
->HTML5 Cookies -Audience Studio uses HTML5 cookies in connection with the Platform, including on the Audience Studio Site and Customer Sites. An HTML5 cookie is also known as HTML5 Web storage and is an alternative to the commonly used HTTP browser cookie.  
-  
->Statistical Identifiers - Audience Studio is experimenting with the use of statistical identifiers in connection with the Platform, including on the Audience Studio Site and some Customer Sites where requested by Customers. Statistical identifiers are created using pseudonymized personal data about computers and mobiles devices such as the operating system, user-agent string, IP address, Internet browser, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. Statistical identifiers enable users to be uniquely identified via the Platform, enabling the Platform to store ad targeting, analytics, and other data.  
-  
->Pixel Tags - We also use pixel tags in connection with the Platform, including on the Audience Studio Site and Customer Sites. Pixel tags (also known as web beacons) are small strings of html or JavaScript code that provide a method for delivering a graphic image on a Web page or other document. Pixel tags may be used to obtain information about the computer or device being used to view a particular Web page such as the IP address of the computer or device to which the pixel tag is sent, the time it was sent, the computer or device’s operating system and browser type, and similar information.
-
-Salesforce's website states: 
-
-'https://konsole.zendesk.com/hc/en-us/articles/215234358-Cross-Device-User-Matching'
-
->User data stored in Audience Studio is keyed off a global Krux User ID. The Krux User ID is a third-party cookie and as such is specific to a browser (and correspondingly device too). On the other hand, first-party data that is ingested by the platform is keyed off a first-party user ID that is provided to Audience Studio by our clients. The first-party user ID typically comes from a user registration system and is the same across different browsers and devices for a given user. The client specific first-party user ID is mapped to the browser specific Krux User ID as part of the user matching and data loading process. As a result, it is possible to map and reconcile the browser specific Krux User IDs to an “Uber-ID’ using the client’s first-party, device-and-browser-agnostic user ID. This Uber-ID can then be used to build a profile of a user that spans browsers and devices.  
-  
->Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
-
-
-[Go back to top](#tracker-descriptions)
-
 ## LeadsHub
 This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -3583,7 +3557,7 @@ Script: `https://device.maxmind.com/js/device.js`
 [Go back to top](#tracker-descriptions)
 
 ## MediaMath
-This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 MediaMath's Privacy Policy States:
 
@@ -4712,8 +4686,34 @@ Roq.ad's Website states:
 
 [Go back to top](#tracker-descriptions)
 
+## Salesforce
+This service has been classified as `Email`, `Content`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Salesforce's privacy policy States:
+
+`https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/`
+
+>How we Collect and Use De-identified and/or Pseudonymized Personal Data via our Platform - When a user visits the website or mobile application of one of our Customers (the “Customer Site” or “Customer App,” collectively, the “Customer Site(s) and App(s)”), the Customer collects and transfers to Audience Studio and/or enables Audience Studio to collect pseudonymized personal data related to that user’s visits to the website or mobile app (our Customer’s “Session Data”). This Session Data may include information about how the user came to the Customer Site and App, which search engines they use, the search terms used to find the Customer Site, their experience on the Customer Site and App, information about how they interact with the Customer Site and App, demographic information that the Customer has collected from that user and other visitors, data from third-party data providers, and information regarding how users interact with advertisements on the Customer Site and App. Additionally, browsers automatically send certain standard information to every website a user visits, such as an IP address, browser type and language settings, access times, and referring website addresses. This information is collected during visits to each Customer Site and App, including the Audience Studio Site…Where our systems can reasonably infer that a particular computer and/or mobile device belong to the same user or household, we may store such information for use on the Platform. The data stored on our Platform may be combined with third-party data (for example, geolocation data provided by a vendor) in order to better target advertisements, to enable Customers to better understand users across multiple computers and devices, and for ad delivery and reporting purposes.  
+  
+>HTML5 Cookies -Audience Studio uses HTML5 cookies in connection with the Platform, including on the Audience Studio Site and Customer Sites. An HTML5 cookie is also known as HTML5 Web storage and is an alternative to the commonly used HTTP browser cookie.  
+  
+>Statistical Identifiers - Audience Studio is experimenting with the use of statistical identifiers in connection with the Platform, including on the Audience Studio Site and some Customer Sites where requested by Customers. Statistical identifiers are created using pseudonymized personal data about computers and mobiles devices such as the operating system, user-agent string, IP address, Internet browser, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. Statistical identifiers enable users to be uniquely identified via the Platform, enabling the Platform to store ad targeting, analytics, and other data.  
+  
+>Pixel Tags - We also use pixel tags in connection with the Platform, including on the Audience Studio Site and Customer Sites. Pixel tags (also known as web beacons) are small strings of html or JavaScript code that provide a method for delivering a graphic image on a Web page or other document. Pixel tags may be used to obtain information about the computer or device being used to view a particular Web page such as the IP address of the computer or device to which the pixel tag is sent, the time it was sent, the computer or device’s operating system and browser type, and similar information.
+
+Salesforce's website states: 
+
+'https://konsole.zendesk.com/hc/en-us/articles/215234358-Cross-Device-User-Matching'
+
+>User data stored in Audience Studio is keyed off a global Krux User ID. The Krux User ID is a third-party cookie and as such is specific to a browser (and correspondingly device too). On the other hand, first-party data that is ingested by the platform is keyed off a first-party user ID that is provided to Audience Studio by our clients. The first-party user ID typically comes from a user registration system and is the same across different browsers and devices for a given user. The client specific first-party user ID is mapped to the browser specific Krux User ID as part of the user matching and data loading process. As a result, it is possible to map and reconcile the browser specific Krux User IDs to an “Uber-ID’ using the client’s first-party, device-and-browser-agnostic user ID. This Uber-ID can then be used to build a profile of a user that spans browsers and devices.  
+  
+>Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
+
+
+[Go back to top](#tracker-descriptions)
+
 ## SAP
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD36293095`
 1. Script gathers several device characteristics to generate a fingerprint:
