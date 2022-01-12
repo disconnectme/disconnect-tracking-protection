@@ -4871,7 +4871,7 @@ Script: `https://sonar.semantiqo.com/c82up/checking.js`
 [Go back to top](#tracker-descriptions)
 
 ## SendPulse
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Email`, `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):

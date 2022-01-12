@@ -31,6 +31,112 @@
         }
       },
       {
+        "Acoustic": {
+          "https://www.acoustic.com/": [
+            "mkt10008.com",
+            "mkt10039.com",
+            "mkt10049.com",
+            "mkt10067.com",
+            "mkt10114.com",
+            "mkt10153.com",
+            "mkt10663.com",
+            "mkt10781.com",
+            "mkt1248.com",
+            "mkt1365.com",
+            "mkt1937.com",
+            "mkt1946.com",
+            "mkt2178.com",
+            "mkt2478.com",
+            "mkt2685.com",
+            "mkt2724.com",
+            "mkt32.net",
+            "mkt3469.com",
+            "mkt3536.com",
+            "mkt3797.com",
+            "mkt3798.com",
+            "mkt3838.com",
+            "mkt4091.com",
+            "mkt41.net",
+            "mkt4158.com",
+            "mkt4261.com",
+            "mkt4424.com",
+            "mkt4463.com",
+            "mkt4477.com",
+            "mkt4644.com",
+            "mkt5089.com",
+            "mkt51.net",
+            "mkt5216.com",
+            "mkt5224.com",
+            "mkt5297.com",
+            "mkt5379.com",
+            "mkt5419.com",
+            "mkt5514.com",
+            "mkt5566.com",
+            "mkt5654.com",
+            "mkt5657.com",
+            "mkt5906.com",
+            "mkt6031.com",
+            "mkt61.net",
+            "mkt6260.com",
+            "mkt6264.com",
+            "mkt6288.com",
+            "mkt6316.com",
+            "mkt6478.com",
+            "mkt6688.com",
+            "mkt6735.com",
+            "mkt6793.com",
+            "mkt685.com",
+            "mkt6882.com",
+            "mkt6903.com",
+            "mkt6917.com",
+            "mkt6967.com",
+            "mkt71.net",
+            "mkt7234.com",
+            "mkt7580.com",
+            "mkt7596.com",
+            "mkt7752.com",
+            "mkt7783.com",
+            "mkt7832.com",
+            "mkt7842.com",
+            "mkt7883.com",
+            "mkt7946.com",
+            "mkt7971.com",
+            "mkt7972.com",
+            "mkt7974.com",
+            "mkt8007.com",
+            "mkt8008.com",
+            "mkt8043.com",
+            "mkt8062.com",
+            "mkt8063.com",
+            "mkt8064.com",
+            "mkt8096.com",
+            "mkt81.net",
+            "mkt8133.com",
+            "mkt8163.com",
+            "mkt8267.com",
+            "mkt829.com",
+            "mkt8345.com",
+            "mkt8369.com",
+            "mkt8586.com",
+            "mkt8628.com",
+            "mkt8756.com",
+            "mkt8763.com",
+            "mkt8988.com",
+            "mkt9026.com",
+            "mkt9054.com",
+            "mkt912.com",
+            "mkt9203.com",
+            "mkt922.com",
+            "mkt941.com",
+            "mkt9430.com",
+            "mkt9775.com",
+            "mkt9862.com",
+            "mkt9923.com",
+            "mkt9942.com"
+          ]
+        }
+      },
+      {
         "ActivatieMarketing": {
           "https://www.activatiemarketing.nl/": [
             "basiscommunicatie.nl"
@@ -52,13 +158,7 @@
       {
         "ActiveDemand": {
           "https://www.activedemand.com/": [
-            "acsmedia.us"
-          ]
-        }
-      },
-      {
-        "ActiveDemand": {
-          "https://www.activedemand.com/": [
+            "acsmedia.us",
             "activedemand.com"
           ]
         }
@@ -204,6 +304,13 @@
         "Bouncex": {
           "https://www.bouncex.com/": [
             "bounceexchange.com"
+          ]
+        }
+      },
+      {
+        "BrightTag": {
+          "http://www.brighttag.com/": [
+            "thebrighttag.com"
           ]
         }
       },
@@ -412,7 +519,9 @@
         "MailTracker": {
           "https://mailtracker.pl/": [
             "mailcamp.net.pl",
-            "mailtracker.pl"
+            "mailtracker.pl",
+            "senderit.pl",
+            "xylionmail.pl"
           ]
         }
       },
@@ -420,6 +529,13 @@
         "MediaMath": {
           "http://www.mediamath.com/": [
             "mathtag.com"
+          ]
+        }
+      },
+      {
+        "MoEngage": {
+          "https://www.moengage.com/": [
+            "moengage.com"
           ]
         }
       },
@@ -438,6 +554,20 @@
         }
       },
       {
+        "Nylas": {
+          "https://www.nylas.com/": [
+            "nyl.as"
+          ]
+        }
+      },
+      {
+        "OpenEDUCat": {
+          "https://openeducat.org/": [
+            "openeducat.org"
+          ]
+        }
+      },
+      {
         "Paved": {
           "https://www.paved.com/": [
             "pvd.to"
@@ -445,9 +575,51 @@
         }
       },
       {
+        "Postmark": {
+          "https://postmarkapp.com/": [
+            "pstmrk.it"
+          ]
+        }
+      },
+      {
+        "PropellerEmail": {
+          "https://propelleremail.co.uk": [
+            "propelleremail.co.uk"
+          ]
+        }
+      },
+      {
         "Pushnami": {
           "https://pushnami.com/": [
             "pushnami.com"
+          ]
+        }
+      },
+      {
+        "RavMesserLtd": {
+          "https://www.responder.co.il/": [
+            "responder.co.il"
+          ]
+        }
+      },
+      {
+        "Redlink": {
+          "https://www.redlink.pl/": [
+            "send24.pl"
+          ]
+        }
+      },
+      {
+        "RetailRocket": {
+          "https://retailrocket.net/": [
+            "retailrocket.net"
+          ]
+        }
+      },
+      {
+        "Sailplay": {
+          "https://sailplay.ru/": [
+            "sailplay.ru"
           ]
         }
       },
@@ -482,9 +654,59 @@
         }
       },
       {
+        "SendCloud": {
+          "https://www.sendcloud.net/home": [
+            "sendcloud.net"
+          ]
+        }
+      },
+      {
+        "SendFox": {
+          "https://sendfox.com/": [
+            "sendfox.com"
+          ]
+        }
+      },
+      {
+        "Sendiio": {
+          "https://sendiio.vip/": [
+            "sendiio.app"
+          ]
+        }
+      },
+      {
+        "SendPulse": {
+          "https://sendpulse.com/": [
+            "sendpul.se"
+          ]
+        }
+      },
+      {
         "SiteScout": {
           "http://www.sitescout.com/": [
             "sitescout.com"
+          ]
+        }
+      },
+      {
+        "SmartMachine": {
+          "https://www.sendmachine.com/": [
+            "smlists.com"
+          ]
+        }
+      },
+      {
+        "SmartSendy": {
+          "http://smartsendy.com/": [
+            "smartsendy.com"
+          ]
+        }
+      },
+      {
+        "SMTP2Go": {
+          "https://www.smtp2go.com/": [
+            "smtp2go.com",
+            "smtp2go.net"
           ]
         }
       },
@@ -496,9 +718,23 @@
         }
       },
       {
+        "StrikeStack": {
+          "https://strikestack.com/": [
+            "strikestack.com"
+          ]
+        }
+      },
+      {
         "SymphonyTalent": {
           "https://www.symphonytalent.com/": [
             "hodes.com"
+          ]
+        }
+      },
+      {
+        "Tealium": {
+          "https://tealium.com": [
+            "tealiumiq.com"
           ]
         }
       },
@@ -520,6 +756,13 @@
         "Validity": {
           "https://www.validity.com": [
             "returnpath.net"
+          ]
+        }
+      },
+      {
+        "WebGlobe": {
+          "https://webglobe.com/": [
+            "stable.cz"
           ]
         }
       },
@@ -597,6 +840,16 @@
         "Accordant Media": {
           "http://www.accordantmedia.com/": [
             "accordantmedia.com"
+          ]
+        }
+      },
+      {
+        "Acoustic": {
+          "https://www.acoustic.com/": [
+            "mkt51.net",
+            "pages05.net",
+            "silverpop.com",
+            "vtrenz.net"
           ]
         }
       },
@@ -6698,16 +6951,6 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ]
-        }
-      },
-      {
-        "Silverpop": {
-          "http://www.silverpop.com/": [
-            "mkt51.net",
-            "pages05.net",
-            "silverpop.com",
-            "vtrenz.net"
           ]
         }
       },
