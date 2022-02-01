@@ -11728,13 +11728,6 @@
         }
       },
       {
-        "Refersion": {
-          "https://www.refersion.com/": [
-            "refersion.com"
-          ]
-        }
-      },
-      {
         "Rollick": {
           "https://gorollick.com": [
             "rollick.io"
@@ -12240,6 +12233,13 @@
         "Polen": {
           "https://polen.com.br/": [
             "polen.com.br"
+          ]
+        }
+      },
+      {
+        "Refersion": {
+          "https://www.refersion.com/": [
+            "refersion.com"
           ]
         }
       },
