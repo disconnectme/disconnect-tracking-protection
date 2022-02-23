@@ -19,7 +19,6 @@ The technical and policy review information below was recorded on the date obser
 - [AivaLabs](#AivaLabs)
 - [a.js](#a.js)
 - [Albacross](#Albacross)
-- [Ansira](#Ansira)
 - [AppCast](#AppCast)
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
@@ -674,17 +673,6 @@ Albacross’ privacy policy states:
 
 >The data processed is the IP-address from which you visited our customer´s website, and technical information that enables us to tell different visitors apart that are originating from the same IP-address (cookies). In some cases, the IP-address and the company it is matched with may constitute personal data – for instance when it comes to sole traders – as it would allow for the identification of the visitor.
 
-[Go back to top](#tracker-descriptions)
-
-## Ansira
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://identity.ansira.com/stat/purinacore.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "16px 'Arial'", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"DeviceAtlas\",2,15]", "operation": "call"}, {"value": "rgba(102, 200, 0, 0.7)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"DeviceAtlas\",4,17]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
 [Go back to top](#tracker-descriptions)
 
 ## AppCast

@@ -11253,13 +11253,6 @@
         }
       },
       {
-        "Ansira": {
-          "https://ansira.com/": [
-            "ansira.com"
-          ]
-        }
-      },
-      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
@@ -11976,6 +11969,13 @@
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
+          ]
+        }
+      },
+      {
+        "Ansira": {
+          "https://ansira.com/": [
+            "ansira.com"
           ]
         }
       },
