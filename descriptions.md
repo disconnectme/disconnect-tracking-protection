@@ -408,7 +408,7 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 [Go back to top](#tracker-descriptions)
 
 ## Adobe
-This service has been classified as `Email`, `Content`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Adobe's privacy policy States:
 
@@ -1288,7 +1288,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
 [Go back to top](#tracker-descriptions)
 
 ## Bouncex
-This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Advertising`, `EmailStrict` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 Bouncex's privacy policy States:
 
@@ -4663,7 +4663,7 @@ Roq.ad's Website states:
 [Go back to top](#tracker-descriptions)
 
 ## Salesforce
-This service has been classified as `Email`, `Content`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Salesforce's privacy policy States:
 
