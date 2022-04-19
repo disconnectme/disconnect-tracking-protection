@@ -12035,6 +12035,14 @@
         "tradetracker.net"
       ]
     },
+    "TradieWebGuys": {
+      "properties": [
+        "tradiewebguys.com.au"
+      ],
+      "resources": [
+        "tradiewebguys.com.au"
+      ]
+    },
     "TrafficHaus": {
       "properties": [
         "traffichaus.com",
@@ -12446,6 +12454,14 @@
         "webiqonline.com"
       ]
     },
+    "User": {
+      "properties": [
+        "user.com"
+      ],
+      "resources": [
+        "user.com"
+      ]
+    },
     "User Local": {
       "properties": [
         "nakanohito.jp"
@@ -12813,6 +12829,14 @@
         "vimeocdn.com"
       ]
     },
+    "Vinc": {
+      "properties": [
+        "vinc.fr"
+      ],
+      "resources": [
+        "vinc.fr"
+      ]
+    },
     "VINDICO": {
       "properties": [
         "vindicogroup.com",
@@ -12821,6 +12845,14 @@
       "resources": [
         "vindicogroup.com",
         "vindicosuite.com"
+      ]
+    },
+    "ViralHosts": {
+      "properties": [
+        "viralhosts.com"
+      ],
+      "resources": [
+        "viralhosts.com"
       ]
     },
     "Visarity": {
@@ -12866,6 +12898,14 @@
       ],
       "resources": [
         "visitstreamer.com"
+      ]
+    },
+    "Visme": {
+      "properties": [
+        "visme.co"
+      ],
+      "resources": [
+        "visme.co"
       ]
     },
     "VistaprintSchweizGmbH": {
@@ -13261,6 +13301,22 @@
         "woopra.com"
       ]
     },
+    "WoowUp": {
+      "properties": [
+        "woowup.com"
+      ],
+      "resources": [
+        "woowup.com"
+      ]
+    },
+    "WordFly": {
+      "properties": [
+        "wordfly.com"
+      ],
+      "resources": [
+        "wordfly.com"
+      ]
+    },
     "WordStream": {
       "properties": [
         "wordstream.com"
@@ -13345,12 +13401,28 @@
         "xplosion.de"
       ]
     },
+    "XpressMail": {
+      "properties": [
+        "xpressmail.hu"
+      ],
+      "resources": [
+        "xpressmail.hu"
+      ]
+    },
     "Xrost DS": {
       "properties": [
         "adplan-ds.com"
       ],
       "resources": [
         "adplan-ds.com"
+      ]
+    },
+    "XtremePush": {
+      "properties": [
+        "xtremepush.com"
+      ],
+      "resources": [
+        "xtremepush.com"
       ]
     },
     "Yabuka": {
@@ -13617,6 +13689,14 @@
       ],
       "resources": [
         "zemanta.com"
+      ]
+    },
+    "Zendable": {
+      "properties": [
+        "zendable.com"
+      ],
+      "resources": [
+        "zendable.com"
       ]
     },
     "Zendesk": {

@@ -690,9 +690,66 @@
         }
       },
       {
+        "Vinc": {
+          "https://www.vinc.fr/": [
+            "vinc.fr"
+          ]
+        }
+      },
+      {
+        "ViralHosts": {
+          "https://viralhosts.com": [
+            "viralhosts.com"
+          ]
+        }
+      },
+      {
+        "Visme": {
+          "https://www.visme.co/": [
+            "trac.visme.co"
+          ]
+        }
+      },
+      {
         "WebGlobe": {
           "https://webglobe.com/": [
             "stable.cz"
+          ]
+        }
+      },
+      {
+        "WoowUp": {
+          "https://www.woowup.com/": [
+            "campaign-tracking.woowup.com"
+          ]
+        }
+      },
+      {
+        "WordFly": {
+          "https://wordfly.com/": [
+            "e.wordfly.com"
+          ]
+        }
+      },
+      {
+        "XpressMail": {
+          "http://xpressmail.hu": [
+            "xpressmail.hu"
+          ]
+        }
+      },
+      {
+        "XtremePush": {
+          "https://xtremepush.com/": [
+            "xtremepush.com"
+          ]
+        }
+      },
+      {
+        "Yotpo": {
+          "https://www.yotpo.com/": [
+            "em.yotpo.com",
+            "p.yotpo.com"
           ]
         }
       }
@@ -989,9 +1046,58 @@
         }
       },
       {
+        "TradieWebGuys": {
+          "https://www.tradiewebguys.com.au/": [
+            "tradiewebguys.com.au"
+          ]
+        }
+      },
+      {
         "Twilio": {
           "https://twilio.com": [
             "sendgrid.net"
+          ]
+        }
+      },
+      {
+        "User": {
+          "https://user.com/en/": [
+            "user.com"
+          ]
+        }
+      },
+      {
+        "Visme": {
+          "https://www.visme.co/": [
+            "visme.co"
+          ]
+        }
+      },
+      {
+        "WoowUp": {
+          "https://www.woowup.com/": [
+            "woowup.com"
+          ]
+        }
+      },
+      {
+        "WordFly": {
+          "https://wordfly.com/": [
+            "wordfly.com"
+          ]
+        }
+      },
+      {
+        "Yotpo": {
+          "https://www.yotpo.com/": [
+            "yotpo.com"
+          ]
+        }
+      },
+      {
+        "Zendable": {
+          "https://zendable.com/": [
+            "zendable.com"
           ]
         }
       },
