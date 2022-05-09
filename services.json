@@ -763,6 +763,13 @@
         }
       },
       {
+        "Accelo": {
+          "https://www.accelo.com/": [
+            "accelo.com"
+          ]
+        }
+      },
+      {
         "Acoustic": {
           "https://www.acoustic.com/": [
             "mkt10008.com",
@@ -884,9 +891,37 @@
         }
       },
       {
+        "AgileCRM": {
+          "https://www.agilecrm.com/": [
+            "agilecrm.com"
+          ]
+        }
+      },
+      {
         "AisleAhead": {
           "https://aisleahead.com": [
             "aisleahead.com"
+          ]
+        }
+      },
+      {
+        "AtomPark": {
+          "https://www.atompark.com/": [
+            "atompark.com"
+          ]
+        }
+      },
+      {
+        "Autoklose": {
+          "https://autoklose.com/": [
+            "autoklose.com"
+          ]
+        }
+      },
+      {
+        "Bitrix24": {
+          "https://www.bitrix24.com/": [
+            "bitrix24.com"
           ]
         }
       },
@@ -905,6 +940,13 @@
         }
       },
       {
+        "BoomerangGmail.com": {
+          "https://www.boomeranggmail.com/home/": [
+            "boomeranggmail.com"
+          ]
+        }
+      },
+      {
         "Bouncex": {
           "https://www.bouncex.com/": [
             "bounceexchange.com"
@@ -912,9 +954,23 @@
         }
       },
       {
+        "CampaignMonitor": {
+          "https://www.campaignmonitor.com/": [
+            "campaignmonitor.com"
+          ]
+        }
+      },
+      {
         "CarrotQuest": {
           "https://www.carrotquest.io/": [
             "carrotquest.io"
+          ]
+        }
+      },
+      {
+        "CirrusInsight": {
+          "https://www.cirrusinsight.com/": [
+            "cirrusinsight.com"
           ]
         }
       },
@@ -940,6 +996,34 @@
         }
       },
       {
+        "DidTheyReadIt": {
+          "http://didtheyreadit.com/": [
+            "didtheyreadit.com"
+          ]
+        }
+      },
+      {
+        "DuttonDown": {
+          "https://buttondown.email/": [
+            "buttondown.email"
+          ]
+        }
+      },
+      {
+        "EmailTrackerWebsite": {
+          "https://emailtracker.website": [
+            "emailtracker.website"
+          ]
+        }
+      },
+      {
+        "EngageBay": {
+          "https://www.engagebay.com/": [
+            "engagebay.com"
+          ]
+        }
+      },
+      {
         "ezymarketer": {
           "https://ezymarketer.net": [
             "ezymarketer.net"
@@ -954,9 +1038,37 @@
         }
       },
       {
+        "FollowUP": {
+          "https://followup.cc/": [
+            "followup.cc"
+          ]
+        }
+      },
+      {
+        "GetNotify": {
+          "https://getnotify.com/": [
+            "getnotify.com"
+          ]
+        }
+      },
+      {
         "GlobalIntelliSystems": {
           "https://gliq.com/index.html": [
             "gliq.com"
+          ]
+        }
+      },
+      {
+        "Gmelius": {
+          "https://gmelius.com/": [
+            "gmelius.com"
+          ]
+        }
+      },
+      {
+        "Hunter": {
+          "https://hunter.io/": [
+            "hunter.io"
           ]
         }
       },
@@ -971,6 +1083,13 @@
         "LassoCRM": {
           "https://lassocrm.com/": [
             "lassocrm.com"
+          ]
+        }
+      },
+      {
+        "LeadBoxer": {
+          "https://www.leadboxer.com/": [
+            "leadboxer.com"
           ]
         }
       },
@@ -991,7 +1110,50 @@
       {
         "MailChimp": {
           "http://mailchimp.com/": [
-            "list-manage.com"
+            "list-manage.com",
+            "tinyletter.com"
+          ]
+        }
+      },
+      {
+        "MailerJet": {
+          "https://mailerjet.com/": [
+            "mailerjet.com"
+          ]
+        }
+      },
+      {
+        "MailerLite": {
+          "https://www.mailerlite.com/": [
+            "mailerlite.com"
+          ]
+        }
+      },
+      {
+        "MailSpice": {
+          "https://mailspice.com/": [
+            "mailspice.com"
+          ]
+        }
+      },
+      {
+        "MailTag": {
+          "https://mailtag.io": [
+            "mailtag.io"
+          ]
+        }
+      },
+      {
+        "MailTrack": {
+          "https://mailtrack.io/en/": [
+            "mailtrack.io"
+          ]
+        }
+      },
+      {
+        "MixMax": {
+          "https://www.mixmax.com/": [
+            "mixmax.com"
           ]
         }
       },
@@ -999,6 +1161,27 @@
         "MoEngage": {
           "https://www.moengage.com/": [
             "moengage.com"
+          ]
+        }
+      },
+      {
+        "Outreach": {
+          "https://www.outreach.io/": [
+            "outreach.io"
+          ]
+        }
+      },
+      {
+        "PersistIQ": {
+          "https://www.persistiq.com/": [
+            "persistiq.com"
+          ]
+        }
+      },
+      {
+        "Polymail": {
+          "https://polymail.io/": [
+            "polymail.io"
           ]
         }
       },
@@ -1024,9 +1207,31 @@
         }
       },
       {
+        "Reply": {
+          "https://reply.io/": [
+            "reply.io"
+          ]
+        }
+      },
+      {
         "RetailRocket": {
           "https://retailrocket.net/": [
             "retailrocket.net"
+          ]
+        }
+      },
+      {
+        "RevenueGrid": {
+          "https://revenuegrid.com/": [
+            "revenuegrid.com",
+            "smartcloudconnect.io"
+          ]
+        }
+      },
+      {
+        "RightInbox": {
+          "https://www.rightinbox.com/": [
+            "rightinbox.com"
           ]
         }
       },
@@ -1042,6 +1247,34 @@
           "https://www.salesforce.com/": [
             "exacttarget.com",
             "pardot.com"
+          ]
+        }
+      },
+      {
+        "SalesHandy": {
+          "https://www.saleshandy.com/": [
+            "saleshandy.com"
+          ]
+        }
+      },
+      {
+        "Salesloft": {
+          "https://salesloft.com/": [
+            "salesloft.com"
+          ]
+        }
+      },
+      {
+        "Streak": {
+          "https://www.streak.com/": [
+            "streak.com"
+          ]
+        }
+      },
+      {
+        "Substack": {
+          "https://substack.com/": [
+            "substack.com"
           ]
         }
       },
@@ -1074,6 +1307,13 @@
         }
       },
       {
+        "Vocus": {
+          "https://vocus.io/": [
+            "vocus.io"
+          ]
+        }
+      },
+      {
         "WoowUp": {
           "https://www.woowup.com/": [
             "woowup.com"
@@ -1084,6 +1324,13 @@
         "WordFly": {
           "https://wordfly.com/": [
             "wordfly.com"
+          ]
+        }
+      },
+      {
+        "Yesware": {
+          "https://www.yesware.com/": [
+            "yesware.com"
           ]
         }
       },
