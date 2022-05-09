@@ -3530,14 +3530,6 @@
         }
       },
       {
-        "ClickDistrict": {
-          "http://www.clickdistrict.com/": [
-            "clickdistrict.com",
-            "creative-serving.com"
-          ]
-        }
-      },
-      {
         "ClickFrog": {
           "https://clickfrog.ru/": [
             "bashirian.biz",
@@ -4188,6 +4180,13 @@
           "https://www.dynamicyield.com/": [
             "px-eu.dynamicyield.com",
             "px.dynamicyield.com"
+          ]
+        }
+      },
+      {
+        "Dynata": {
+          "https://www.dynata.com/": [
+            "dynata.com"
           ]
         }
       },
@@ -6727,6 +6726,13 @@
         }
       },
       {
+        "Permodo": {
+          "https://www.permodo.com/": [
+            "permodo.com"
+          ]
+        }
+      },
+      {
         "Permutive": {
           "https://permutive.com/": [
             "permutive.com"
@@ -6773,6 +6779,14 @@
         "Pixlee": {
           "https://www.pixlee.com/": [
             "pixlee.com"
+          ]
+        }
+      },
+      {
+        "Platform161": {
+          "https://platform161.com/": [
+            "clickdistrict.com",
+            "creative-serving.com"
           ]
         }
       },

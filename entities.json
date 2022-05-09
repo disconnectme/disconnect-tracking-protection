@@ -3475,16 +3475,6 @@
         "clickdimensions.com"
       ]
     },
-    "ClickDistrict": {
-      "properties": [
-        "clickdistrict.com",
-        "creative-serving.com"
-      ],
-      "resources": [
-        "clickdistrict.com",
-        "creative-serving.com"
-      ]
-    },
     "ClickFrog": {
       "properties": [
         "clickfrog.ru"
@@ -4634,6 +4624,14 @@
       ],
       "resources": [
         "dynamicyield.com"
+      ]
+    },
+    "Dynata": {
+      "properties": [
+        "dynata.com"
+      ],
+      "resources": [
+        "dynata.com"
       ]
     },
     "Earnify": {
@@ -9656,6 +9654,14 @@
         "perimeterx.com"
       ]
     },
+    "Permodo": {
+      "properties": [
+        "permodo.com"
+      ],
+      "resources": [
+        "permodo.com"
+      ]
+    },
     "Permutive": {
       "properties": [
         "permutive.com"
@@ -9786,6 +9792,17 @@
       ],
       "resources": [
         "pixlee.com"
+      ]
+    },
+    "Platform161": {
+      "properties": [
+        "clickdistrict.com",
+        "creative-serving.com",
+        "platform161.com"
+      ],
+      "resources": [
+        "clickdistrict.com",
+        "creative-serving.com"
       ]
     },
     "PLATFORM ONE": {
