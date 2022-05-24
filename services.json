@@ -137,18 +137,6 @@
         }
       },
       {
-        "ActiveCampaign": {
-          "https://www.activecampaign.com": [
-            "acemlna.com",
-            "acemlnb.com",
-            "acemlnc.com",
-            "acemlnd.com",
-            "activehosted.com",
-            "emlnk1.com"
-          ]
-        }
-      },
-      {
         "Acumbamail": {
           "https://acumbamail.com/en/": [
             "acblnk.com",
@@ -676,13 +664,6 @@
         }
       },
       {
-        "Twilio": {
-          "https://twilio.com": [
-            "ct.sendgrid.net"
-          ]
-        }
-      },
-      {
         "Validity": {
           "https://www.validity.com": [
             "returnpath.net"
@@ -872,6 +853,18 @@
             "mkt9862.com",
             "mkt9923.com",
             "mkt9942.com"
+          ]
+        }
+      },
+      {
+        "ActiveCampaign": {
+          "https://www.activecampaign.com": [
+            "acemlna.com",
+            "acemlnb.com",
+            "acemlnc.com",
+            "acemlnd.com",
+            "activehosted.com",
+            "emlnk1.com"
           ]
         }
       },
