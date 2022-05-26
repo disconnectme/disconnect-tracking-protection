@@ -5732,16 +5732,6 @@
         "gismads.jp"
       ]
     },
-    "GitHub": {
-      "properties": [
-        "gaug.es",
-        "github.com"
-      ],
-      "resources": [
-        "gaug.es",
-        "github.com"
-      ]
-    },
     "Glam Media": {
       "properties": [
         "glam.com",
@@ -7574,15 +7564,6 @@
         "linkconnector.com"
       ]
     },
-    "LinkedIn": {
-      "properties": [
-        "linkedin.com"
-      ],
-      "resources": [
-        "licdn.com",
-        "linkedin.com"
-      ]
-    },
     "Linkz": {
       "properties": [
         "linkz.net"
@@ -8386,12 +8367,15 @@
         "clarity.ms",
         "cloudappsecurity.com",
         "gamesforwindows.com",
+        "gaug.es",
         "getgamesmart.com",
         "gfx.ms",
+        "github.com",
         "healthvault.com",
         "hockeyapp.net",
         "ieaddons.com",
         "iegallery.com",
+        "linkedin.com",
         "live.com",
         "microsoft.com",
         "microsoftalumni.com",
@@ -8454,9 +8438,13 @@
         "clarity.ms",
         "cloudapp.net",
         "gamesforwindows.com",
+        "gaug.es",
         "getgamesmart.com",
         "gfx.ms",
+        "github.com",
         "healthvault.com",
+        "licdn.com",
+        "linkedin.com",
         "live.com",
         "microsoft.com",
         "microsoftazuread-sso.com",
