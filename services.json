@@ -10570,6 +10570,13 @@
         }
       },
       {
+        "Cuebiq": {
+          "https://www.cuebiq.com/": [
+            "cuebiq.com"
+          ]
+        }
+      },
+      {
         "Cya2": {
           "http://cya2.net/": [
             "cya2.net"
@@ -10869,6 +10876,13 @@
         }
       },
       {
+        "Infillion": {
+          "https://infillion.com/": [
+            "gimbal.com"
+          ]
+        }
+      },
+      {
         "INFOnline": {
           "https://www.infonline.de/": [
             "infonline.de",
@@ -10882,6 +10896,13 @@
           "http://infostars.ru/": [
             "hotlog.ru",
             "infostars.ru"
+          ]
+        }
+      },
+      {
+        "Inrix": {
+          "https://inrix.com": [
+            "inrix.com"
           ]
         }
       },
