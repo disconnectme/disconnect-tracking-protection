@@ -12506,13 +12506,6 @@
         }
       },
       {
-        "YSance": {
-          "https://www.ysance.com/data-services/fr/home/": [
-            "y-track.com"
-          ]
-        }
-      },
-      {
         "ZafulAffiliate": {
           "https://affiliate.zaful.com/": [
             "affasi.com",
@@ -12927,6 +12920,13 @@
         "Yieldmo": {
           "https://yieldmo.com": [
             "yieldmo.com"
+          ]
+        }
+      },
+      {
+        "YSance": {
+          "https://www.ysance.com/data-services/fr/home/": [
+            "y-track.com"
           ]
         }
       }
