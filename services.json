@@ -8562,42 +8562,6 @@
         }
       },
       {
-        "VerizonMedia": {
-          "https://www.verizonmedia.com/": [
-            "adinterax.com",
-            "adrevolver.com",
-            "ads.yahoo.com",
-            "adserver.yahoo.com",
-            "adsonar.com",
-            "adtech.com",
-            "adtech.de",
-            "adtechjp.com",
-            "adtechus.com",
-            "advertising.com",
-            "advertising.yahoo.com",
-            "aolcloud.net",
-            "atwola.com",
-            "bluelithium.com",
-            "dapper.net",
-            "flurry.com",
-            "interclick.com",
-            "leadback.com",
-            "marketingsolutions.yahoo.com",
-            "overture.com",
-            "rightmedia.com",
-            "rmxads.com",
-            "secure-adserver.com",
-            "tacoda.net",
-            "thewheelof.com",
-            "vidible.tv",
-            "ybp.yahoo.com",
-            "yieldmanager.com",
-            "yieldmanager.net",
-            "yldmgrimg.net"
-          ]
-        }
-      },
-      {
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
@@ -8894,6 +8858,42 @@
         "Yabuka": {
           "http://www.yabuka.com/": [
             "yabuka.com"
+          ]
+        }
+      },
+      {
+        "Yahoo!": {
+          "http://www.yahoo.com/": [
+            "adinterax.com",
+            "adrevolver.com",
+            "ads.yahoo.com",
+            "adserver.yahoo.com",
+            "adsonar.com",
+            "adtech.com",
+            "adtech.de",
+            "adtechjp.com",
+            "adtechus.com",
+            "advertising.com",
+            "advertising.yahoo.com",
+            "aolcloud.net",
+            "atwola.com",
+            "bluelithium.com",
+            "dapper.net",
+            "flurry.com",
+            "interclick.com",
+            "leadback.com",
+            "marketingsolutions.yahoo.com",
+            "overture.com",
+            "rightmedia.com",
+            "rmxads.com",
+            "secure-adserver.com",
+            "tacoda.net",
+            "thewheelof.com",
+            "vidible.tv",
+            "ybp.yahoo.com",
+            "yieldmanager.com",
+            "yieldmanager.net",
+            "yldmgrimg.net"
           ]
         }
       },
@@ -10070,56 +10070,9 @@
         }
       },
       {
-        "VerizonMedia": {
-          "https://www.verizonmedia.com/": [
-            "5min.com",
-            "adap.tv",
-            "aim.com",
-            "aol.com",
-            "aolanswers.com",
-            "aolcdn.com",
-            "aoltechguru.com",
-            "autoblog.com",
-            "cambio.com",
-            "dailyfinance.com",
-            "editions.com",
-            "engadget.com",
-            "flickr.com",
-            "games.com",
-            "homesessive.com",
-            "huffingtonpost.com",
-            "joystiq.com",
-            "kitchendaily.com",
-            "luminate.com",
-            "makers.com",
-            "mandatory.com",
-            "mapquest.com",
-            "moviefone.com",
-            "noisecreep.com",
-            "patch.com",
-            "pawnation.com",
-            "pixazza.com",
-            "shortcuts.com",
-            "shoutcast.com",
-            "spinner.com",
-            "staticflickr.com",
-            "stylelist.com",
-            "stylemepretty.com",
-            "surphace.com",
-            "techcrunch.com",
-            "theboombox.com",
-            "theboot.com",
-            "tuaw.com",
-            "tumblr.com",
-            "userplane.com",
-            "winamp.com",
-            "yahoo.com",
-            "yahooapis.com",
-            "yahoofs.com",
-            "yimg.com",
-            "ypolicyblog.com",
-            "yuilibrary.com",
-            "zenfs.com"
+        "Verizon": {
+          "https://www.verizon.com/": [
+            "luminate.com"
           ]
         }
       },
@@ -10190,6 +10143,59 @@
             "websitealive7.com",
             "websitealive8.com",
             "websitealive9.com"
+          ]
+        }
+      },
+      {
+        "Yahoo!": {
+          "http://www.yahoo.com/": [
+            "5min.com",
+            "adap.tv",
+            "aim.com",
+            "aol.com",
+            "aolanswers.com",
+            "aolcdn.com",
+            "aoltechguru.com",
+            "autoblog.com",
+            "cambio.com",
+            "dailyfinance.com",
+            "editions.com",
+            "engadget.com",
+            "flickr.com",
+            "games.com",
+            "homesessive.com",
+            "huffingtonpost.com",
+            "joystiq.com",
+            "kitchendaily.com",
+            "makers.com",
+            "mandatory.com",
+            "mapquest.com",
+            "moviefone.com",
+            "noisecreep.com",
+            "patch.com",
+            "pawnation.com",
+            "pixazza.com",
+            "shortcuts.com",
+            "shoutcast.com",
+            "spinner.com",
+            "staticflickr.com",
+            "stylelist.com",
+            "stylemepretty.com",
+            "surphace.com",
+            "techcrunch.com",
+            "theboombox.com",
+            "theboot.com",
+            "tuaw.com",
+            "tumblr.com",
+            "userplane.com",
+            "winamp.com",
+            "yahoo.com",
+            "yahooapis.com",
+            "yahoofs.com",
+            "yimg.com",
+            "ypolicyblog.com",
+            "yuilibrary.com",
+            "zenfs.com"
           ]
         }
       },
@@ -11610,13 +11616,6 @@
         }
       },
       {
-        "VerizonMedia": {
-          "https://www.verizonmedia.com/": [
-            "analytics.yahoo.com"
-          ]
-        }
-      },
-      {
         "Vertster": {
           "http://www.vertster.com/": [
             "vertster.com"
@@ -11749,6 +11748,13 @@
         "Wysistat": {
           "http://www.wysistat.com/": [
             "wysistat.com"
+          ]
+        }
+      },
+      {
+        "Yahoo!": {
+          "http://www.yahoo.com/": [
+            "analytics.yahoo.com"
           ]
         }
       },
@@ -13034,8 +13040,17 @@
         }
       },
       {
-        "VerizonMedia": {
-          "https://www.verizonmedia.com/": [
+        "VKontakte": {
+          "http://vk.com/": [
+            "userapi.com",
+            "vk.com",
+            "vkontakte.ru"
+          ]
+        }
+      },
+      {
+        "Yahoo!": {
+          "http://www.yahoo.com/": [
             "address.yahoo.com",
             "alerts.yahoo.com",
             "avatars.yahoo.com",
@@ -13052,15 +13067,6 @@
             "rocketmail.com",
             "webmessenger.yahoo.com",
             "ymail.com"
-          ]
-        }
-      },
-      {
-        "VKontakte": {
-          "http://vk.com/": [
-            "userapi.com",
-            "vk.com",
-            "vkontakte.ru"
           ]
         }
       }
