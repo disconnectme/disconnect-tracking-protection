@@ -12031,13 +12031,6 @@
         }
       },
       {
-        "Consumable": {
-          "http://consumable.com/": [
-            "consumable.com"
-          ]
-        }
-      },
-      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
@@ -12634,6 +12627,13 @@
         "Choozle": {
           "https://choozle.com/": [
             "choozle.com"
+          ]
+        }
+      },
+      {
+        "Consumable": {
+          "http://consumable.com/": [
+            "consumable.com"
           ]
         }
       },
