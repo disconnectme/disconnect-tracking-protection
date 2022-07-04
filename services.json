@@ -735,7 +735,7 @@
         }
       }
     ],
-    "EmailStrict": [
+    "EmailAggressive": [
       {
         "121Marketing": {
           "https://www.1-2-1marketing.com/": [
