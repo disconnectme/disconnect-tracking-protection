@@ -10596,6 +10596,13 @@
         }
       },
       {
+        "Datadome": {
+          "https://datadome.co/": [
+            "datadome.co"
+          ]
+        }
+      },
+      {
         "Dataium": {
           "http://www.dataium.com/": [
             "collserve.com",
@@ -12034,6 +12041,13 @@
         "Cloudflare": {
           "https://cloudflare.com": [
             "hcaptcha.com"
+          ]
+        }
+      },
+      {
+        "Datadome": {
+          "https://datadome.co/": [
+            "datadome.co"
           ]
         }
       },
