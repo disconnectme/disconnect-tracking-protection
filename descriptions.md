@@ -76,6 +76,7 @@ The technical and policy review information below was recorded on the date obser
 - [iMedia](#iMedia)
 - [Impact](#Impact)
 - [Infolinks](#Infolinks)
+- [Integral-Ad-Science](#Integral-Ad-Science)
 - [iShumei](#iShumei)
 - [IslayTech](#IslayTech)
 - [ismatlab.com](#ismatlab.com)
@@ -3195,6 +3196,36 @@ Infolink's privacy policy States:
   
 >Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the Infolinks Properties, and other information about the individual’s system and connection and how the individual interacts with the Infolinks Properties and other websites.
 
+[Go back to top](#tracker-descriptions)
+
+## Integral Ad Science
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://static.adsafeprotected.com/sca.17.5.12.js` 
+Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/142
+1. Script makes use of the several APIs for the purpose of fingerprinting:
+```
+        , function() {
+            try {
+                return "function" == typeof CanvasRenderingContext2D && a239.a341.a66(CanvasRenderingContext2D)
+            } catch (a) {}
+            return !1
+        }
+, function() {
+            if ("function" == typeof mozRTCPeerConnection)
+                try {
+                    var a = new mozRTCPeerConnection;
+                    if ("object" == typeof a.localDescription && "object" == typeof a.remoteDescription && "string" == typeof a.signalingState && "string" == typeof a.iceGatheringState && "object" == typeof a.idpLoginUrl && "object" == typeof a.peerIdentity && "object" == typeof a.onicecandidate)
+                        try {
+                            mozRTCPeerConnection();
+                            return !1
+                        } catch (a) {
+                            return !0
+                        }
+                } catch (a) {}
+            return !1
+        }
+```
 [Go back to top](#tracker-descriptions)
 
 ## iShumei
