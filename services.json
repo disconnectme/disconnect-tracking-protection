@@ -5091,6 +5091,13 @@
         }
       },
       {
+        "Impact": {
+          "https://impact.com/": [
+            "fqtag.com"
+          ]
+        }
+      },
+      {
         "Improve Digital": {
           "www.improvedigital.com/": [
             "360yield.com",
@@ -12129,6 +12136,13 @@
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
+          ]
+        }
+      },
+      {
+        "Impact": {
+          "https://impact.com/": [
+            "fqtag.com"
           ]
         }
       },

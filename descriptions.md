@@ -74,6 +74,7 @@ The technical and policy review information below was recorded on the date obser
 - [HotMart](#HotMart)
 - [ie8eamus](#ie8eamus)
 - [iMedia](#iMedia)
+- [Impact](#Impact)
 - [Infolinks](#Infolinks)
 - [iShumei](#iShumei)
 - [IslayTech](#IslayTech)
@@ -3075,6 +3076,111 @@ This service has been classified as `FingerprintingInvasive` for the following r
         this._log(canvas);
         return canvas;
       };
+```
+[Go back to top](#tracker-descriptions)
+
+## Impact
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.fqtag.com/1.27.339-ccfb11a/pixel.js` 
+Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/138
+1. Script makes use of the canvas API for the purpose of fingerprinting:
+```
+function(a, b, c) {
+    "use strict";
+    var d = c(9);
+    a.exports = function(a, b) {
+        function c(a) {
+            return a %= 2147483647,
+            a <= 0 && (a += 2147483646),
+            function() {
+                return a = 16807 * a % 2147483647
+            }
+        }
+        function e(a, b, c) {
+            return a = (a - 1) / 2147483646,
+            c ? a * b : Math.floor(a * b)
+        }
+        function f(a, b, c) {
+            var d = b.createRadialGradient(e(a(), c.width), e(a(), c.height), e(a(), c.width), e(a(), c.width), e(a(), c.height), e(a(), c.width));
+            d.addColorStop(0, k[e(a(), k.length)]),
+            d.addColorStop(1, k[e(a(), k.length)]),
+            b.fillStyle = d
+        }
+        var g = {
+            p1: {
+                p2e: '["Unsupported"]'
+            }
+        };
+        if (!window.CanvasRenderingContext2D)
+            return a(g);
+        var h, i = document.createElement("canvas"), j = [], k = ["red", "green", "blue", "yellow", "white", "purple", "brown", "black"], l = [function(a, b, c) {
+            b.beginPath(),
+            b.arc(e(a(), c.width), e(a(), c.height), e(a(), Math.min(c.width, c.height)), e(a(), 2 * Math.PI, !0), e(a(), 2 * Math.PI, !0)),
+            b.stroke()
+        }
+        , function(a, b, c) {
+            var d = (e(a(), 900) + 100).toString();
+            b.font = c.height / 1.5 + "px LorZarozzorArbgwaoth",
+            b.strokeText(d, e(a(), c.width), e(a(), c.height), e(a(), c.width))
+        }
+        , function(a, b, c) {
+            b.beginPath(),
+            b.moveTo(e(a(), c.width), e(a(), c.height)),
+            b.bezierCurveTo(e(a(), c.width), e(a(), c.height), e(a(), c.width), e(a(), c.height), e(a(), c.width), e(a(), c.height)),
+            b.stroke()
+        }
+        , function(a, b, c) {
+            b.beginPath(),
+            b.moveTo(e(a(), c.width), e(a(), c.height)),
+            b.quadraticCurveTo(e(a(), c.width), e(a(), c.height), e(a(), c.width), e(a(), c.height)),
+            b.stroke()
+        }
+        ], m = {
+            width: 200,
+            height: 200
+        }, n = b.e.p9u ? b.e.p9u : 5, o = b.e.p9v ? b.e.p9v : 0;
+        if (!function(a, b, d) {
+            var g = c(a);
+            i.width = d.width,
+            i.height = d.height,
+            i.style.display = "none",
+            h = i.getContext("2d");
+            for (var j = b - 1; j >= 0; j--)
+                try {
+                    f(g, h, d),
+                    h.shadowBlur = e(g(), 50),
+                    h.shadowColor = k[e(g(), k.length)];
+                    (0,
+                    l[e(g(), l.length)])(g, h, d),
+                    h.fill()
+                } catch (err) {
+                    return !1
+                }
+            return !0
+        }(o, n, m))
+            return a(g);
+        var p = function(a, b) {
+            for (var c = a.getImageData(0, 0, b.width, b.height).data, d = 0, e = [3, 7, 31], f = 0, g = 0, h = c.length; g < h; g += 4) {
+                var i = d % 3
+                  , j = (d + 1) % 3
+                  , k = (d + 2) % 3;
+                f += e[i] * c[g] + e[j] * c[g + 1] + e[k] * c[g + 2],
+                d++
+            }
+            return f
+        }(h, m);
+        j.push({
+            seed: o,
+            iterations: n,
+            result: p
+        }),
+        a({
+            p1: {
+                p2e: d.la.stringify(j)
+            }
+        })
+    }
 ```
 [Go back to top](#tracker-descriptions)
 
