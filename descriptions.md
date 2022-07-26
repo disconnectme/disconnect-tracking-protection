@@ -116,6 +116,7 @@ The technical and policy review information below was recorded on the date obser
 - [Protected-Media](#Protected-Media)
 - [Provers](#Provers)
 - [Psonstrentie](#Psonstrentie)
+- [Radware](#Radware)
 - [RazorPay](#RazorPay)
 - [Rollick](#Rollick)
 - [RoqAd](#RoqAd)
@@ -4777,6 +4778,45 @@ Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0l
     })
 ```
 
+[Go back to top](#tracker-descriptions)
+
+## Radware
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.perfdrive.com/aperture/aperture.js` 
+Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/191
+1. Script makes use of the several APIs for the purpose of fingerprinting:
+```
+                            try {
+                                var b = (new Date).getTime()
+                                  , c = document.createElement("canvas");
+                                if ("undefined" !== typeof c && "object" === typeof c) {
+                                    c.width = 200;
+                                    c.height = 30;
+                                    c.style.display = "inline";
+                                    var k = c.getContext("2d");
+                                    "string" === typeof k.textBaseline && (k.textBaseline = "alphabetic");
+                                    "undefined" !== typeof k.fillStyle && (k.fillStyle = "#f60");
+                                    "function" === typeof k.fillRect && k.fillRect(125, 1, 62, 20);
+                                    "undefined" !== typeof k.fillStyle && (k.fillStyle = "#069");
+                                    "function" === typeof k.fillText && "undefined" !== typeof k.fillStyle && (k.fillText("lets check out thuis stuff to work , \ud83d\ude03", 2, 15),
+                                    k.fillStyle = "rgba(102, 204, 0, 0.7)",
+                                    k.fillText("lets check out thuis stuff to work, \ud83d\ude03 ", 4, 17));
+                                    var m = c.toDataURL()
+                                      , l = (new Date).getTime();
+                                    na = l - b;
+                                    b = (new Date).getTime();
+                                    var t = va(m);
+                                    l = (new Date).getTime();
+                                    oa = l - b;
+                                    return t
+                                }
+                                return "Canvas not supported"
+                            } catch (r) {
+                                return "Crashed in fingerprinting code "
+                            }
+
+```
 [Go back to top](#tracker-descriptions)
 
 ## RazorPay

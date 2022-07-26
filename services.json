@@ -11353,6 +11353,13 @@
         }
       },
       {
+        "Radware": {
+          "https://www.radware.com/": [
+            "perfdrive.com"
+          ]
+        }
+      },
+      {
         "RazorPay": {
           "https://razorpay.com": [
             "thirdwatch.ai"
@@ -12357,6 +12364,13 @@
         "Psonstrentie": {
           "http://psonstrentie.info": [
             "psonstrentie.info"
+          ]
+        }
+      },
+      {
+        "Radware": {
+          "https://www.radware.com/": [
+            "perfdrive.com"
           ]
         }
       },
