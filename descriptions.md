@@ -4883,7 +4883,7 @@ Roq.ad's Website states:
 [Go back to top](#tracker-descriptions)
 
 ## Salesforce
-This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Analytics`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Salesforce's privacy policy States:
 

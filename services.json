@@ -9707,13 +9707,6 @@
         }
       },
       {
-        "HubSpot": {
-          "http://www.hubspot.com/": [
-            "hubspot.com"
-          ]
-        }
-      },
-      {
         "IBM": {
           "http://www.ibm.com/": [
             "xtify.com"
@@ -9748,13 +9741,6 @@
             "clickability.com",
             "limelight.com",
             "llnwd.net"
-          ]
-        }
-      },
-      {
-        "LivePerson": {
-          "http://www.liveperson.net/": [
-            "liveperson.net"
           ]
         }
       },
@@ -9885,13 +9871,6 @@
           "http://www.rim.com/": [
             "rim.com",
             "scoreloop.com"
-          ]
-        }
-      },
-      {
-        "Salesforce": {
-          "https://www.salesforce.com/": [
-            "salesforceliveagent.com"
           ]
         }
       },
@@ -10215,13 +10194,6 @@
             "yandex.ru",
             "yandex.st",
             "yandex.ua"
-          ]
-        }
-      },
-      {
-        "Zendesk": {
-          "http://www.zendesk.com/": [
-            "zendesk.com"
           ]
         }
       },
@@ -10859,7 +10831,8 @@
       {
         "HubSpot": {
           "http://www.hubspot.com/": [
-            "hs-analytics.net"
+            "hs-analytics.net",
+            "hubspot.com"
           ]
         }
       },
@@ -10994,6 +10967,7 @@
         "LivePerson": {
           "http://www.liveperson.net/": [
             "liveperson.com",
+            "liveperson.net",
             "nuconomy.com"
           ]
         }
@@ -11430,6 +11404,13 @@
         }
       },
       {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "salesforceliveagent.com"
+          ]
+        }
+      },
+      {
         "Salesintelligence": {
           "https://salesintelligence.pl/": [
             "plugin.management"
@@ -11789,6 +11770,13 @@
         "YSance": {
           "https://www.ysance.com/data-services/fr/home/": [
             "y-track.com"
+          ]
+        }
+      },
+      {
+        "Zendesk": {
+          "http://www.zendesk.com/": [
+            "zendesk.com"
           ]
         }
       },
