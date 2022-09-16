@@ -11338,10 +11338,12 @@
     },
     "Snap": {
       "properties": [
-        "snap.com"
+        "snap.com",
+        "snapchat.com"
       ],
       "resources": [
-        "snap.com"
+        "snap.com",
+        "snapchat.com"
       ]
     },
     "SnapEngage": {
@@ -12186,6 +12188,14 @@
       ],
       "resources": [
         "thummit.com"
+      ]
+    },
+    "TikTok": {
+      "properties": [
+        "tiktok.com"
+      ],
+      "resources": [
+        "tiktok.com"
       ]
     },
     "Tinder": {

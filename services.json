@@ -7639,7 +7639,8 @@
       {
         "Snap": {
           "http://www.snap.com/": [
-            "snap.com"
+            "snap.com",
+            "snapchat.com"
           ]
         }
       },
@@ -8148,6 +8149,13 @@
             "echosearch.com",
             "esm1.net",
             "thinkrealtime.com"
+          ]
+        }
+      },
+      {
+        "TikTok": {
+          "https://www.tiktok.com/": [
+            "tiktok.com"
           ]
         }
       },
@@ -13068,10 +13076,24 @@
         }
       },
       {
+        "Snap": {
+          "http://www.snap.com/": [
+            "snapchat.com"
+          ]
+        }
+      },
+      {
         "StumbleUpon": {
           "http://www.stumbleupon.com/": [
             "stumble-upon.com",
             "stumbleupon.com"
+          ]
+        }
+      },
+      {
+        "TikTok": {
+          "https://www.tiktok.com/": [
+            "tiktok.com"
           ]
         }
       },
