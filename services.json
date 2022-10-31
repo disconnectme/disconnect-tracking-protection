@@ -443,8 +443,7 @@
       {
         "MailChimp": {
           "http://mailchimp.com/": [
-            "agentofficemail.com",
-            "mandrillapp.com"
+            "agentofficemail.com"
           ]
         }
       },
@@ -884,6 +883,13 @@
         }
       },
       {
+        "Affinity.co": {
+          "https://www.affinity.co/": [
+            "affinity.co"
+          ]
+        }
+      },
+      {
         "AgileCRM": {
           "https://www.agilecrm.com/": [
             "agilecrm.com"
@@ -894,6 +900,13 @@
         "AisleAhead": {
           "https://aisleahead.com": [
             "aisleahead.com"
+          ]
+        }
+      },
+      {
+        "Amazon.com": {
+          "http://www.amazon.com/": [
+            "awstrack.me"
           ]
         }
       },
@@ -935,7 +948,8 @@
       {
         "BoomerangGmail.com": {
           "https://www.boomeranggmail.com/home/": [
-            "boomeranggmail.com"
+            "boomeranggmail.com",
+            "mailstat.us"
           ]
         }
       },
@@ -949,7 +963,70 @@
       {
         "CampaignMonitor": {
           "https://www.campaignmonitor.com/": [
-            "campaignmonitor.com"
+            "campaignmonitor.com",
+            "cmail1.com",
+            "cmail10.com",
+            "cmail11.com",
+            "cmail12.com",
+            "cmail13.com",
+            "cmail14.com",
+            "cmail15.com",
+            "cmail16.com",
+            "cmail17.com",
+            "cmail18.com",
+            "cmail19.com",
+            "cmail2.com",
+            "cmail20.com",
+            "cmail21.com",
+            "cmail22.com",
+            "cmail23.com",
+            "cmail24.com",
+            "cmail25.com",
+            "cmail26.com",
+            "cmail27.com",
+            "cmail28.com",
+            "cmail29.com",
+            "cmail3.com",
+            "cmail30.com",
+            "cmail4.com",
+            "cmail5.com",
+            "cmail6.com",
+            "cmail7.com",
+            "cmail8.com",
+            "cmail9.com",
+            "confirmsubscription.com",
+            "createsend1.com",
+            "createsend10.com",
+            "createsend11.com",
+            "createsend12.com",
+            "createsend13.com",
+            "createsend14.com",
+            "createsend15.com",
+            "createsend16.com",
+            "createsend17.com",
+            "createsend18.com",
+            "createsend19.com",
+            "createsend2.com",
+            "createsend20.com",
+            "createsend21.com",
+            "createsend22.com",
+            "createsend23.com",
+            "createsend24.com",
+            "createsend25.com",
+            "createsend26.com",
+            "createsend27.com",
+            "createsend28.com",
+            "createsend29.com",
+            "createsend3.com",
+            "createsend30.com",
+            "createsend4.com",
+            "createsend5.com",
+            "createsend6.com",
+            "createsend7.com",
+            "createsend8.com",
+            "createsend9.com",
+            "csd.io",
+            "forwardtomyfriend.com"
           ]
         }
       },
@@ -968,6 +1045,13 @@
         }
       },
       {
+        "Close": {
+          "https://close.com": [
+            "close.io"
+          ]
+        }
+      },
+      {
         "ConnectIf": {
           "https://connectif.ai/": [
             "connectif.cloud"
@@ -977,13 +1061,29 @@
       {
         "ConstantContact": {
           "http://constantcontact.com/": [
+            "constantcontact.com",
             "rs6.net"
+          ]
+        }
+      },
+      {
+        "ContentMonkey": {
+          "https://www.contactmonkey.com/": [
+            "contactmonkey.com"
+          ]
+        }
+      },
+      {
+        "Copper": {
+          "https://www.copper.com/": [
+            "copper.com"
           ]
         }
       },
       {
         "CustomerIO": {
           "https://customer.io/": [
+            "customer.io",
             "customeriomail.com"
           ]
         }
@@ -1038,8 +1138,16 @@
         }
       },
       {
+        "Front": {
+          "https://front.com/": [
+            "frontapp.com"
+          ]
+        }
+      },
+      {
         "GetNotify": {
           "https://getnotify.com/": [
+            "email81.com",
             "getnotify.com"
           ]
         }
@@ -1059,9 +1167,31 @@
         }
       },
       {
+        "HubSpot": {
+          "http://www.hubspot.com/": [
+            "hsms06.com",
+            "hubspotemail.net"
+          ]
+        }
+      },
+      {
         "Hunter": {
           "https://hunter.io/": [
             "hunter.io"
+          ]
+        }
+      },
+      {
+        "Intercom": {
+          "https://www.intercom.com/": [
+            "intercom.io"
+          ]
+        }
+      },
+      {
+        "Keap": {
+          "https://keap.com/": [
+            "infusionsoft.com"
           ]
         }
       },
@@ -1094,6 +1224,20 @@
         }
       },
       {
+        "Litmus": {
+          "https://www.litmus.com/": [
+            "emltrk.com"
+          ]
+        }
+      },
+      {
+        "MailButler": {
+          "https://www.mailbutler.io/": [
+            "mailbutler.io"
+          ]
+        }
+      },
+      {
         "MailCamp": {
           "https://www.mailcamp.nl/": [
             "mailcamp.nl"
@@ -1103,7 +1247,10 @@
       {
         "MailChimp": {
           "http://mailchimp.com/": [
+            "answerbook.com",
             "list-manage.com",
+            "list-manage1.com",
+            "mandrillapp.com",
             "tinyletter.com"
           ]
         }
@@ -1139,7 +1286,8 @@
       {
         "MailTrack": {
           "https://mailtrack.io/en/": [
-            "mailtrack.io"
+            "mailtrack.io",
+            "mltrk.io"
           ]
         }
       },
@@ -1151,6 +1299,13 @@
         }
       },
       {
+        "Mixpanel": {
+          "https://mixpanel.com/": [
+            "mixpanel.com"
+          ]
+        }
+      },
+      {
         "MoEngage": {
           "https://www.moengage.com/": [
             "moengage.com"
@@ -1158,8 +1313,16 @@
         }
       },
       {
+        "NetHunt": {
+          "https://nethunt.com/": [
+            "nhlnka.com"
+          ]
+        }
+      },
+      {
         "Outreach": {
           "https://www.outreach.io/": [
+            "outrch.com",
             "outreach.io"
           ]
         }
@@ -1239,7 +1402,9 @@
         "Salesforce": {
           "https://www.salesforce.com/": [
             "exacttarget.com",
-            "pardot.com"
+            "exct.net",
+            "pardot.com",
+            "salesforceiq.com"
           ]
         }
       },
@@ -1253,7 +1418,8 @@
       {
         "Salesloft": {
           "https://salesloft.com/": [
-            "salesloft.com"
+            "salesloft.com",
+            "salesloftlinks.com"
           ]
         }
       },
@@ -1268,6 +1434,13 @@
         "Substack": {
           "https://substack.com/": [
             "substack.com"
+          ]
+        }
+      },
+      {
+        "Superhuman": {
+          "https://superhuman.com/": [
+            "superhuman.com"
           ]
         }
       },
@@ -1338,6 +1511,13 @@
         "Zendable": {
           "https://zendable.com/": [
             "zendable.com"
+          ]
+        }
+      },
+      {
+        "ZiffDavis": {
+          "https://www.ziffdavis.com/": [
+            "icptrack.com"
           ]
         }
       },

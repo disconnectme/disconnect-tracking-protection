@@ -1692,6 +1692,14 @@
         "affinity.com"
       ]
     },
+    "Affinity.co": {
+      "properties": [
+        "affinity.co"
+      ],
+      "resources": [
+        "affinity.co"
+      ]
+    },
     "AfoResponse": {
       "properties": [
         "aforesponse.com"
@@ -1946,6 +1954,7 @@
         "amazon.it",
         "amazonaws.com",
         "assoc-amazon.com",
+        "awstrack.me",
         "cloudfront.net",
         "ssl-images-amazon.com"
       ]
@@ -2802,10 +2811,12 @@
     },
     "BoomerangGmail.com": {
       "properties": [
-        "boomeranggmail.com"
+        "boomeranggmail.com",
+        "mailstat.us"
       ],
       "resources": [
-        "boomeranggmail.com"
+        "boomeranggmail.com",
+        "mailstat.us"
       ]
     },
     "BoostBox": {
@@ -3154,7 +3165,70 @@
         "campaignmonitor.com"
       ],
       "resources": [
-        "campaignmonitor.com"
+        "campaignmonitor.com",
+        "cmail1.com",
+        "cmail10.com",
+        "cmail11.com",
+        "cmail12.com",
+        "cmail13.com",
+        "cmail14.com",
+        "cmail15.com",
+        "cmail16.com",
+        "cmail17.com",
+        "cmail18.com",
+        "cmail19.com",
+        "cmail2.com",
+        "cmail20.com",
+        "cmail21.com",
+        "cmail22.com",
+        "cmail23.com",
+        "cmail24.com",
+        "cmail25.com",
+        "cmail26.com",
+        "cmail27.com",
+        "cmail28.com",
+        "cmail29.com",
+        "cmail3.com",
+        "cmail30.com",
+        "cmail4.com",
+        "cmail5.com",
+        "cmail6.com",
+        "cmail7.com",
+        "cmail8.com",
+        "cmail9.com",
+        "confirmsubscription.com",
+        "createsend1.com",
+        "createsend10.com",
+        "createsend11.com",
+        "createsend12.com",
+        "createsend13.com",
+        "createsend14.com",
+        "createsend15.com",
+        "createsend16.com",
+        "createsend17.com",
+        "createsend18.com",
+        "createsend19.com",
+        "createsend2.com",
+        "createsend20.com",
+        "createsend21.com",
+        "createsend22.com",
+        "createsend23.com",
+        "createsend24.com",
+        "createsend25.com",
+        "createsend26.com",
+        "createsend27.com",
+        "createsend28.com",
+        "createsend29.com",
+        "createsend3.com",
+        "createsend30.com",
+        "createsend4.com",
+        "createsend5.com",
+        "createsend6.com",
+        "createsend7.com",
+        "createsend8.com",
+        "createsend9.com",
+        "csd.io",
+        "forwardtomyfriend.com"
       ]
     },
     "CAPITALDATA": {
@@ -3590,6 +3664,14 @@
         "clixtell.com"
       ]
     },
+    "Close": {
+      "properties": [
+        "close.com"
+      ],
+      "resources": [
+        "close.io"
+      ]
+    },
     "Cloudflare": {
       "properties": [
         "cloudflare.com"
@@ -3831,6 +3913,7 @@
         "constantcontact.com"
       ],
       "resources": [
+        "constantcontact.com",
         "rs6.net"
       ]
     },
@@ -3875,6 +3958,14 @@
       ],
       "resources": [
         "contentabc.com"
+      ]
+    },
+    "ContentMonkey": {
+      "properties": [
+        "contactmonkey.com"
+      ],
+      "resources": [
+        "contactmonkey.com"
       ]
     },
     "CONTEXTin": {
@@ -3988,6 +4079,14 @@
       ],
       "resources": [
         "conviva.com"
+      ]
+    },
+    "Copper": {
+      "properties": [
+        "copper.com"
+      ],
+      "resources": [
+        "copper.com"
       ]
     },
     "CoreMotives": {
@@ -4141,6 +4240,7 @@
         "customer.io"
       ],
       "resources": [
+        "customer.io",
         "customeriomail.com"
       ]
     },
@@ -5517,6 +5617,14 @@
         "frogsex.com"
       ]
     },
+    "Front": {
+      "properties": [
+        "front.com"
+      ],
+      "resources": [
+        "frontapp.com"
+      ]
+    },
     "FuelX": {
       "properties": [
         "fuelx.com"
@@ -5693,6 +5801,7 @@
         "getnotify.com"
       ],
       "resources": [
+        "email81.com",
         "getnotify.com"
       ]
     },
@@ -6584,7 +6693,9 @@
       ],
       "resources": [
         "hs-analytics.net",
-        "hubspot.com"
+        "hsms06.com",
+        "hubspot.com",
+        "hubspotemail.net"
       ]
     },
     "Hunter": {
@@ -6950,6 +7061,14 @@
         "intentmedia.net"
       ]
     },
+    "Intercom": {
+      "properties": [
+        "intercom.com"
+      ],
+      "resources": [
+        "intercom.io"
+      ]
+    },
     "Intergi": {
       "properties": [
         "intergi.com"
@@ -7267,6 +7386,14 @@
       ],
       "resources": [
         "kargo.com"
+      ]
+    },
+    "Keap": {
+      "properties": [
+        "keap.com"
+      ],
+      "resources": [
+        "infusionsoft.com"
       ]
     },
     "Kenshoo": {
@@ -7597,6 +7724,14 @@
         "listrakbi.com"
       ]
     },
+    "Litmus": {
+      "properties": [
+        "litmus.com"
+      ],
+      "resources": [
+        "emltrk.com"
+      ]
+    },
     "LiveIntent": {
       "properties": [
         "liveintent.com"
@@ -7889,6 +8024,14 @@
         "mailblue.eu"
       ]
     },
+    "MailButler": {
+      "properties": [
+        "mailbutler.io"
+      ],
+      "resources": [
+        "mailbutler.io"
+      ]
+    },
     "MailCamp": {
       "properties": [
         "mailcamp.nl"
@@ -7906,8 +8049,10 @@
       ],
       "resources": [
         "agentofficemail.com",
+        "answerbook.com",
         "campaign-archive1.com",
         "list-manage.com",
+        "list-manage1.com",
         "mailchi.mp",
         "mailchimp.com",
         "mandrillapp.com",
@@ -7961,7 +8106,8 @@
         "mailtrack.io"
       ],
       "resources": [
-        "mailtrack.io"
+        "mailtrack.io",
+        "mltrk.io"
       ]
     },
     "MailTracker": {
@@ -8987,6 +9133,14 @@
         "netelixir.com"
       ]
     },
+    "NetHunt": {
+      "properties": [
+        "nethunt.com"
+      ],
+      "resources": [
+        "nhlnka.com"
+      ]
+    },
     "Netmining": {
       "properties": [
         "netmining.com",
@@ -9488,6 +9642,7 @@
         "outreach.io"
       ],
       "resources": [
+        "outrch.com",
         "outreach.io"
       ]
     },
@@ -10831,6 +10986,7 @@
       "resources": [
         "documentforce.com",
         "exacttarget.com",
+        "exct.net",
         "force.com",
         "forcesslreports.com",
         "forceusercontent.com",
@@ -10842,6 +10998,7 @@
         "salesforce-communities.com",
         "salesforce-hub.com",
         "salesforce.com",
+        "salesforceiq.com",
         "salesforceliveagent.com",
         "trailblazer.me",
         "visualforce.com"
@@ -10868,7 +11025,8 @@
         "salesloft.com"
       ],
       "resources": [
-        "salesloft.com"
+        "salesloft.com",
+        "salesloftlinks.com"
       ]
     },
     "Samurai Factory": {
@@ -11834,6 +11992,14 @@
       ],
       "resources": [
         "superfish.com"
+      ]
+    },
+    "Superhuman": {
+      "properties": [
+        "superhuman.com"
+      ],
+      "resources": [
+        "superhuman.com"
       ]
     },
     "SupersonicAds": {
@@ -14078,6 +14244,14 @@
       "resources": [
         "insightgrit.com",
         "zetaemailsolutions.com"
+      ]
+    },
+    "ZiffDavis": {
+      "properties": [
+        "ziffdavis.com"
+      ],
+      "resources": [
+        "icptrack.com"
       ]
     },
     "Zip": {
