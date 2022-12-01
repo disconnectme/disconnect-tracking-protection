@@ -9948,6 +9948,13 @@
         }
       },
       {
+        "Mail.Ru": {
+          "http://mail.ru/": [
+            "my.mail.ru"
+          ]
+        }
+      },
+      {
         "Markit": {
           "http://www.markit.com/": [
             "markit.com",
