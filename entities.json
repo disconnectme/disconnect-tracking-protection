@@ -8556,6 +8556,7 @@
         "msftidentity.com",
         "msidentity.com",
         "msn.com",
+        "nuance.com",
         "o365weve.com",
         "oaspapps.com",
         "office.com",
@@ -8604,6 +8605,7 @@
         "gfx.ms",
         "github.com",
         "healthvault.com",
+        "inq.com",
         "licdn.com",
         "linkedin.com",
         "live.com",
@@ -8620,6 +8622,7 @@
         "msndirect.com",
         "msocdn.com",
         "netconversions.com",
+        "nuance.com",
         "oaspapps.com",
         "office.com",
         "office.net",
@@ -8636,6 +8639,7 @@
         "skypeassets.com",
         "sway-cdn.com",
         "sway-extensions.com",
+        "touchcommerce.com",
         "windows.net",
         "windowsazure.com",
         "yammerusercontent.com"
@@ -12463,16 +12467,6 @@
       ],
       "resources": [
         "topsy.com"
-      ]
-    },
-    "TouchCommerce": {
-      "properties": [
-        "nuance.com"
-      ],
-      "resources": [
-        "inq.com",
-        "nuance.com",
-        "touchcommerce.com"
       ]
     },
     "TowerData": {
