@@ -3144,6 +3144,15 @@
         "cadreon.com"
       ]
     },
+    "CafeMedia": {
+      "properties": [
+        "adthrive.com",
+        "cafemedia.com"
+      ],
+      "resources": [
+        "adthrive.com"
+      ]
+    },
     "CallSource": {
       "properties": [
         "callsource.com"
