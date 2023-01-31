@@ -5301,15 +5301,9 @@
       },
       {
         "IndexExchange": {
-          "https://www.indexexchange.com": [
-            "indexexchange.com"
-          ]
-        }
-      },
-      {
-        "IndexExchange": {
           "https://www.indexexchange.com/": [
             "casalemedia.com",
+            "indexexchange.com",
             "indexww.com",
             "medianet.com"
           ]
