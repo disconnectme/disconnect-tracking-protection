@@ -4683,6 +4683,15 @@
         "drawbridge.com"
       ]
     },
+    "Drift": {
+      "properties": [
+        "drift.com"
+      ],
+      "resources": [
+        "drift.com",
+        "driftt.com"
+      ]
+    },
     "DS-IQ": {
       "properties": [
         "ds-iq.com"
@@ -5746,6 +5755,14 @@
         "genesismediaus.com"
       ]
     },
+    "Genesys": {
+      "properties": [
+        "genesys.com"
+      ],
+      "resources": [
+        "boldchat.com"
+      ]
+    },
     "GENIEE": {
       "properties": [
         "geniee.co.jp"
@@ -6582,6 +6599,14 @@
         "sptag3.com"
       ]
     },
+    "HelpScout": {
+      "properties": [
+        "helpscout.com"
+      ],
+      "resources": [
+        "helpscout.net"
+      ]
+    },
     "Heyzap": {
       "properties": [
         "heyzap.com"
@@ -6703,7 +6728,8 @@
         "hs-analytics.net",
         "hsms06.com",
         "hubspot.com",
-        "hubspotemail.net"
+        "hubspotemail.net",
+        "usemessages.com"
       ]
     },
     "Hunter": {
@@ -7320,6 +7346,14 @@
       "resources": [
         "adcolony.com",
         "jirbo.com"
+      ]
+    },
+    "JivoChat": {
+      "properties": [
+        "jivochat.com"
+      ],
+      "resources": [
+        "jivosite.com"
       ]
     },
     "Jivox": {

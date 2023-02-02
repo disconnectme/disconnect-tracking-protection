@@ -10819,6 +10819,14 @@
         }
       },
       {
+        "Drift": {
+          "https://www.drift.com/": [
+            "drift.com",
+            "driftt.com"
+          ]
+        }
+      },
+      {
         "dwstat.com": {
           "http://www.dwstat.cn/": [
             "dwstat.cn"
@@ -10940,6 +10948,13 @@
         }
       },
       {
+        "Genesys": {
+          "https://www.genesys.com/": [
+            "boldchat.com"
+          ]
+        }
+      },
+      {
         "GetSiteControl": {
           "https://getsitecontrol.com/": [
             "getsitecontrol.com"
@@ -11001,6 +11016,13 @@
         }
       },
       {
+        "HelpScout": {
+          "https://www.helpscout.com/": [
+            "helpscout.net"
+          ]
+        }
+      },
+      {
         "Histats": {
           "http://www.histats.com/": [
             "histats.com"
@@ -11032,7 +11054,8 @@
         "HubSpot": {
           "http://www.hubspot.com/": [
             "hs-analytics.net",
-            "hubspot.com"
+            "hubspot.com",
+            "usemessages.com"
           ]
         }
       },
@@ -11126,6 +11149,13 @@
             "itisatracker.com"
           ],
           "dnt": "eff"
+        }
+      },
+      {
+        "JivoChat": {
+          "https://www.jivochat.com/": [
+            "jivosite.com"
+          ]
         }
       },
       {
