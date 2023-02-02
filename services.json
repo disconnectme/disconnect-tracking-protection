@@ -10545,6 +10545,13 @@
         }
       },
       {
+        "Baidu": {
+          "https://baidu.com": [
+            "hm.baidu.com"
+          ]
+        }
+      },
+      {
         "Belstat": {
           "http://www.belstat.com/": [
             "belstat.be",

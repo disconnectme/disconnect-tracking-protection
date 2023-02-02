@@ -2407,6 +2407,14 @@
         "backbeatmedia.com"
       ]
     },
+    "Baidu": {
+      "properties": [
+        "baidu.com"
+      ],
+      "resources": [
+        "baidu.com"
+      ]
+    },
     "Bandzoogle": {
       "properties": [
         "bandzoogle.com"
