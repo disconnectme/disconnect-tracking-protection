@@ -11692,6 +11692,13 @@
         }
       },
       {
+        "SimpleAnalytics": {
+          "https://www.simpleanalytics.com/": [
+            "simpleanalyticscdn.com"
+          ]
+        }
+      },
+      {
         "Smartlook": {
           "https://www.smartlook.com/": [
             "smartlook.com"
