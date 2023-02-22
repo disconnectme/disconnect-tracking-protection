@@ -6094,13 +6094,6 @@
         }
       },
       {
-        "mediaFORGE": {
-          "http://www.mediaforge.com/": [
-            "mediaforge.com"
-          ]
-        }
-      },
-      {
         "Medialets": {
           "http://www.medialets.com/": [
             "medialets.com"
@@ -6573,14 +6566,6 @@
         "Nextag": {
           "http://www.nextag.com/": [
             "nextag.com"
-          ]
-        }
-      },
-      {
-        "NextPerformance": {
-          "http://www.nextperformance.com/": [
-            "nextperformance.com",
-            "nxtck.com"
           ]
         }
       },
@@ -7312,7 +7297,10 @@
         "Rakuten": {
           "https://rakutenadvertising.com/": [
             "linkshare.com",
-            "linksynergy.com"
+            "linksynergy.com",
+            "mediaforge.com",
+            "nextperformance.com",
+            "nxtck.com"
           ]
         }
       },
