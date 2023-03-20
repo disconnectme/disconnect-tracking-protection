@@ -52,6 +52,7 @@ The technical and policy review information below was recorded on the date obser
 - [ConversantMedia](#ConversantMedia)
 - [CryptoLoot](#CryptoLoot)
 - [Datadome](#Datadome)
+- [dmpxs](#dmpxs)
 - [DoubleVerify](#DoubleVerify)
 - [Drawbridge](#Drawbridge)
 - [ECSAnalytics](#ECSAnalytics)
@@ -106,9 +107,12 @@ The technical and policy review information below was recorded on the date obser
 - [OpenX](#OpenX)
 - [Origo](#Origo)
 - [PartyPoker](#PartyPoker)
+- [PaymentsMB](#PaymentsMB)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
 - [PinPoll](#PinPoll)
+- [PixAnalytics](#PixAnalytics)
+- [Pixlee](#Pixlee)
 - [Polen](#Polen)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
@@ -122,10 +126,13 @@ The technical and policy review information below was recorded on the date obser
 - [RoqAd](#RoqAd)
 - [Salesforce](#Salesforce)
 - [SAP](#SAP)
+- [Selectable-Media](#Selectable-Media)
 - [Semantiqo](#Semantiqo)
 - [SendPulse](#SendPulse)
+- [ShaftTraffic](#ShaftTraffic)
 - [Shixiseng](#Shixiseng)
 - [SiftScience](#SiftScience)
+- [Signifyd](#Signifyd)
 - [SmarterClick](#SmarterClick)
 - [SmartyAds](#SmartyAds)
 - [Smi](#Smi)
@@ -134,9 +141,11 @@ The technical and policy review information below was recorded on the date obser
 - [SteelHouse](#SteelHouse)
 - [Storeland](#Storeland)
 - [Stripchat](#Stripchat)
+- [Stripe](#Stripe)
 - [Tapad](#Tapad)
 - [TechSolutions](#TechSolutions)
 - [The-Trade-Desk](#The-Trade-Desk)
+- [tongdun.cn](#tongdun.cn)
 - [Trendemon](#Trendemon)
 - [Unknown2mdnsys](#Unknown2mdnsys)
 - [Upland](#Upland)
@@ -2207,9 +2216,9 @@ function _0x45bcc2() {
 ## Datadome
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
-Script: `https://js.datadome.co/tags.js` 
+Script: `https://js.datadome.co/tags.js`  
 Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/190
-1. Script makes use of the several APIs for the purpose of fingerprinting:
+1. Script makes use of several APIs for the purpose of fingerprinting:
 ```
 }, this.dd_c = function () {
       var _0x53fbb1 = _0x3bfce6;
@@ -2243,6 +2252,142 @@ Submission source: https://github.com/disconnectme/disconnect-tracking-protectio
     }, this.dd_l = function () {
       _0x558825.hc = navigator.hardwareConcurrency;
 
+```
+[Go back to top](#tracker-descriptions)
+
+## dmpxs
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://bob.dmpxs.com/static/bob_010.js?phnxsid=289&bob_cb=1530154556322672`    
+1. Script makes use of several APIs for the purpose of fingerprinting:
+```
+var c = "bob.dmpxs.com";
+            var f = new Array();
+            var d = (function() {
+                var ac = function() {
+                        try {
+                            return !!window.sessionStorage
+                        } catch (g) {
+                            return !0
+                        }
+                    },
+                    l = function() {
+                        try {
+                            return !!window.localStorage
+                        } catch (g) {
+                            return !0
+                        }
+                    },
+                    J = function() {
+                        var h = document.createElement("canvas");
+                        if (h.getContext && h.getContext("2d")) {
+                            var g = h.getContext("2d");
+                            g.textBaseline = "top";
+                            g.font = "14px 'Arial'";
+                            g.textBaseline = "alphabetic";
+                            g.fillStyle = "#f60";
+                            g.fillRect(0, 0, 62, 20);
+                            g.fillStyle = "#069";
+                            g.fillText("!image!", 2, 15);
+                            g.fillStyle = "rgba(102, 204, 0, 0.7)";
+                            g.fillText("!image!", 4, 17);
+                            return h.toDataURL()
+                        }
+                        return null
+                    },
+                    v = function() {
+                        var h = "";
+                        var g = navigator.plugins.length;
+                        for (var j = 0; j < g; j++) {
+                            h += navigator.plugins[j].name
+                        }
+                        return h
+                    };
+                try {
+                    var V = [];
+                    V.push(["lang", navigator.language || navigator.browserLanguage]);
+                    V.push(["tz", (new Date).getTimezoneOffset()]);
+                    V.push(["hss", ac() ? "1" : "0"]);
+                    V.push(["hls", l() ? "1" : "0"]);
+                    V.push(["odb", typeof window.openDatabase || ""]);
+                    V.push(["cpu", navigator.cpuClass || ""]);
+                    V.push(["pf", navigator.platform || ""]);
+                    V.push(["dnt", navigator.doNotTrack || ""]);
+                    V.push(["canv", J()]);
+                    V.push(["plgs", v()]);
+                    V.push(["ua", navigator.userAgent || ""]);
+                    var Y = V.join("=!!!=");
+                    if (null == Y || "" == Y) {
+                        r = ""
+                    } else {
+                        for (var H = function(i) {
+                                for (var g = "", j, h = 7; 0 <= h; h--) {
+                                    j = i >>> 4 * h & 15, g += j.toString(16)
+                                }
+                                return g
+                            }, ad = [1518500249, 1859775393, 2400959708, 3395469782], Y = Y + String.fromCharCode(128), M = Math.ceil((Y.length / 4 + 2) / 16), L = Array(M), Z = 0; Z < M; Z++) {
+                            L[Z] = Array(16);
+                            for (var I = 0; 16 > I; I++) {
+                                L[Z][I] = Y.charCodeAt(64 * Z + 4 * I) << 24 | Y.charCodeAt(64 * Z + 4 * I + 1) << 16 | Y.charCodeAt(64 * Z + 4 * I + 2) << 8 | Y.charCodeAt(64 * Z + 4 * I + 3)
+                            }
+                        }
+                        L[M - 1][14] = 8 * (Y.length - 1) / Math.pow(2, 32);
+                        L[M - 1][14] = Math.floor(L[M - 1][14]);
+                        L[M - 1][15] = 8 * (Y.length - 1) & 4294967295;
+                        for (var C = 1732584193, B = 4023233417, A = 2562383102, x = 271733878, w = 3285377520, X = Array(80), E, W, O, N, q, Z = 0; Z < M; Z++) {
+                            for (var aa = 0; 16 > aa; aa++) {
+                                X[aa] = L[Z][aa]
+                            }
+                            for (aa = 16; 80 > aa; aa++) {
+                                X[aa] = (X[aa - 3] ^ X[aa - 8] ^ X[aa - 14] ^ X[aa - 16]) << 1 | (X[aa - 3] ^ X[aa - 8] ^ X[aa - 14] ^ X[aa - 16]) >>> 31
+                            }
+                            E = C;
+                            W = B;
+                            O = A;
+                            N = x;
+                            q = w;
+                            for (aa = 0; 80 > aa; aa++) {
+                                var G = Math.floor(aa / 20),
+                                    o = E << 5 | E >>> 27,
+                                    D;
+                                e: {
+                                    switch (G) {
+                                        case 0:
+                                            D = W & O ^ ~W & N;
+                                            break e;
+                                        case 1:
+                                            D = W ^ O ^ N;
+                                            break e;
+                                        case 2:
+                                            D = W & O ^ W & N ^ O & N;
+                                            break e;
+                                        case 3:
+                                            D = W ^ O ^ N;
+                                            break e
+                                    }
+                                    D = void 0
+                                }
+                                var K = o + D + q + ad[G] + X[aa] & 4294967295;
+                                q = N;
+                                N = O;
+                                O = W << 30 | W >>> 2;
+                                W = E;
+                                E = K
+                            }
+                            C = C + E & 4294967295;
+                            B = B + W & 4294967295;
+                            A = A + O & 4294967295;
+                            x = x + N & 4294967295;
+                            w = w + q & 4294967295
+                        }
+                        r = H(C) + H(B) + H(A) + H(x) + H(w)
+                    }
+                } catch (ae) {
+                    r = null
+                }
+                r = null != r ? r : "";
+                return r
+            })();
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -3127,7 +3272,7 @@ This service has been classified as `FingerprintingInvasive` for the following r
 ## Impact
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
-Script: `https://cdn.fqtag.com/1.27.339-ccfb11a/pixel.js` 
+Script: `https://cdn.fqtag.com/1.27.339-ccfb11a/pixel.js`  
 Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/138
 1. Script makes use of the canvas API for the purpose of fingerprinting:
 ```
@@ -3245,9 +3390,9 @@ Infolink's privacy policy States:
 ## Integral Ad Science
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
-Script: `https://static.adsafeprotected.com/sca.17.5.12.js` 
+Script: `https://static.adsafeprotected.com/sca.17.5.12.js`  
 Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/142
-1. Script makes use of the several APIs for the purpose of fingerprinting:
+1. Script makes use of several APIs for the purpose of fingerprinting:
 ```
         , function() {
             try {
@@ -4262,6 +4407,72 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 [Go back to top](#tracker-descriptions)
 
+## PaymentsMB
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://check.paymentsmb.com/fp/check.js;CIS3SID=F79ACAC02BAAF0A3623D105AC1542107?org_id=jy5x5q16&session_id=ae98a314baa01d9ddace60a9fad0bff7&nonce=0a0573197ca532f6`    
+1. Script makes use of several APIs for the purpose of fingerprinting:
+```
+  this.getFPParams = function() {
+    if (!td_Zm) {
+      if ((new Date).getTime() - td_BK > 2000 || td_ry) {
+        var equivalentURL = unescape();
+        if (equivalentURL.length > 0) {
+          /** @type {boolean} */
+          td_Zm = true;
+          pc.close();
+          /** @type {null} */
+          pc = null;
+          return equivalentURL;
+        }
+      }
+    }
+    return null;
+  };
+
+```
+```
+function td_1h() {
+  /** @type {!Element} */
+  var canvas = document.createElement(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(0, 6));
+  if (!canvas) {
+    return null;
+  }
+  if (!canvas.getContext) {
+    return null;
+  }
+  var ctx = canvas.getContext(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(6, 2));
+  if (!ctx) {
+    return null;
+  }
+  if (!ctx.font || !ctx.fillText) {
+    return null;
+  }
+  /** @type {number} */
+  canvas.width = 300;
+  /** @type {number} */
+  canvas.height = 100;
+  ctx = canvas.getContext(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(6, 2));
+  var tempPathText = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(8, 32);
+  ctx.font = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(40, 9);
+  ctx.fillText(tempPathText, 0, 50);
+  ctx.font = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(49, 10);
+  var linGrad = ctx.createLinearGradient(0, 0, canvas.width, 0);
+  linGrad.addColorStop("0", td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(59, 7));
+  linGrad.addColorStop(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(66, 3), Number(348826).toString(31));
+  linGrad.addColorStop(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(69, 3), td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(72, 3));
+  ctx.fillStyle = linGrad;
+  ctx.fillText(tempPathText, 0, 90);
+  var THREAD_STARTED = canvas.toDataURL(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(75, 9));
+  if (!THREAD_STARTED) {
+    return null;
+  }
+  return td_3L(THREAD_STARTED);
+}
+
+```
+[Go back to top](#tracker-descriptions)
+
 ## Paypal
 This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -4418,6 +4629,90 @@ Pinpoll's privacy policy states:
 
 >Data generated by the software of Pinpoll can be the following data of users and voters: Device-specific information; Location-based information; Website-based information.
 
+[Go back to top](#tracker-descriptions)
+
+## PixAnalytics
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://s.pixanalytics.com/js/pi.min.js?v=1`    
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+getCanvasFp: function() {
+            var result = [];
+            var canvas = document.createElement("canvas");
+            canvas.width = 2e3;
+            canvas.height = 200;
+            canvas.style.display = "inline";
+            var ctx = canvas.getContext("2d");
+            ctx.rect(0, 0, 10, 10);
+            ctx.rect(2, 2, 6, 6);
+            result.push("canvas winding:" + (ctx.isPointInPath(5, 5, "evenodd") === false ? "yes" : "no"));
+            ctx.textBaseline = "alphabetic";
+            ctx.fillStyle = "#f60";
+            ctx.fillRect(125, 1, 62, 20);
+            ctx.fillStyle = "#069";
+            if (this.options.dontUseFakeFontInCanvas) {
+                ctx.font = "11pt Arial"
+            } else {
+                ctx.font = "11pt no-real-font-123"
+            }
+            ctx.fillText("Cwm fjordbank glyphs vext quiz, ð", 2, 15);
+            ctx.fillStyle = "rgba(102, 204, 0, 0.2)";
+            ctx.font = "18pt Arial";
+            ctx.fillText("Cwm fjordbank glyphs vext quiz, ð", 4, 45);
+            ctx.globalCompositeOperation = "multiply";
+            ctx.fillStyle = "rgb(255,0,255)";
+            ctx.beginPath();
+            ctx.arc(50, 50, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = "rgb(0,255,255)";
+            ctx.beginPath();
+            ctx.arc(100, 50, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = "rgb(255,255,0)";
+            ctx.beginPath();
+            ctx.arc(75, 100, 50, 0, Math.PI * 2, true);
+            ctx.closePath();
+            ctx.fill();
+            ctx.fillStyle = "rgb(255,0,255)";
+            ctx.arc(75, 75, 75, 0, Math.PI * 2, true);
+            ctx.arc(75, 75, 25, 0, Math.PI * 2, true);
+            ctx.fill("evenodd");
+            if (canvas.toDataURL) {
+                result.push("canvas fp:" + canvas.toDataURL())
+            }
+            return result.join("~")
+        }
+
+```
+[Go back to top](#tracker-descriptions)
+
+## Pixlee
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://assets.pixlee.com/assets/pixlee_widget_1_0_0.js`    
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+    function p() {
+        var e = {
+            name: "pixlee:fingerprint",
+            data: "none",
+            destination: "all",
+            source: "parent",
+            type: "relay"
+        };
+        if ("undefined" != typeof Fingerprint2) try {
+            (new Fingerprint2).get(function(t) {
+                window[x].fingerprint = t, e.data = t, h(e)
+            })
+        } catch (t) {
+            h(e)
+        } else h(e)
+    }
+
+```
 [Go back to top](#tracker-descriptions)
 
 ## Polen
@@ -4783,9 +5078,9 @@ Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0l
 ## Radware
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
-Script: `https://cdn.perfdrive.com/aperture/aperture.js` 
+Script: `https://cdn.perfdrive.com/aperture/aperture.js`  
 Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/191
-1. Script makes use of the several APIs for the purpose of fingerprinting:
+1. Script makes use of several APIs for the purpose of fingerprinting:
 ```
                             try {
                                 var b = (new Date).getTime()
@@ -5026,6 +5321,23 @@ function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* opti
 ``` 
 [Go back to top](#tracker-descriptions)
 
+## Selectable Media
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.selectablemedia.com/tg/p/xshWdqAj/js/sm_uber.js`    
+1. Script makes use of APIs for the purpose of fingerprinting:
+```
+getCanvasFingerprint: function() {
+                var a = document.createElement("canvas"),
+                    b = a.getContext("2d"),
+                    c = "http://valve.github.io";
+                return b.textBaseline = "top", b.font = "14px 'Arial'", b.textBaseline = "alphabetic", b.fillStyle = "#f60", b.fillRect(125, 1, 62, 20), b.fillStyle = "#069", b.fillText(c, 2, 15), b.fillStyle = "rgba(102, 204, 0, 0.7)", b.fillText(c, 4, 17), a.toDataURL()
+            }
+
+
+```
+[Go back to top](#tracker-descriptions)
+
 ## Semantiqo
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -5088,6 +5400,45 @@ Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 2. Sends computed fingerprint back to server
 ```
 Request URL: https://login.sendpulse.com/members/forms/stat?true=jQuery112409706314635002642_1553640639385&event=show&formId=95496&fp=REMOVED&_=1553640639386
+```
+[Go back to top](#tracker-descriptions)
+
+## ShaftTraffic
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://a.libertystmedia.com/static?r=14817216&id=15&pid=4&sid=5&tid=26&w=160&h=600`  
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+  getCanvasFp: function() {
+            var e = [],
+                t = document.createElement("canvas");
+            t.width = 2e3, t.height = 200, t.style.display = "inline";
+            var i = t.getContext("2d");
+            return i.rect(0, 0, 10, 10), i.rect(2, 2, 6, 6), e.push("canvas winding:" + (i.isPointInPath(5, 5, "evenodd") === !1 ? "yes" : "no")), i.textBaseline = "alphabetic", i.fillStyle = "#f60", i.fillRect(125, 1, 62, 20), i.fillStyle = "#069", i.font = this.options.dontUseFakeFontInCanvas ? "11pt Arial" : "11pt no-real-font-123", i.fillText("Cwm fjordbank glyphs vext quiz, ð", 2, 15), i.fillStyle = "rgba(102, 204, 0, 0.7)", i.font = "18pt Arial", i.fillText("Cwm fjordbank glyphs vext quiz, ð", 4, 45), i.globalCompositeOperation = "multiply", i.fillStyle = "rgb(255,0,255)", i.beginPath(), i.arc(50, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(0,255,255)", i.beginPath(), i.arc(100, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,255,0)", i.beginPath(), i.arc(75, 100, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,0,255)", i.arc(75, 75, 75, 0, 2 * Math.PI, !0), i.arc(75, 75, 25, 0, 2 * Math.PI, !0), i.fill("evenodd"), e.push("canvas fp:" + t.toDataURL()), e.join("~")
+        },
+        getWebglFp: function() {
+            var e, t = function(t) {
+                    return e.clearColor(0, 0, 0, 1), e.enable(e.DEPTH_TEST), e.depthFunc(e.LEQUAL), e.clear(e.COLOR_BUFFER_BIT | e.DEPTH_BUFFER_BIT), "[" + t[0] + ", " + t[1] + "]"
+                },
+                i = function(e) {
+                    var t, i = e.getExtension("EXT_texture_filter_anisotropic") || e.getExtension("WEBKIT_EXT_texture_filter_anisotropic") || e.getExtension("MOZ_EXT_texture_filter_anisotropic");
+                    return i ? (t = e.getParameter(i.MAX_TEXTURE_MAX_ANISOTROPY_EXT), 0 === t && (t = 2), t) : null
+                };
+            if (e = this.getWebglCanvas(), !e) return null;
+            var a = [],
+                r = "attribute vec2 attrVertex;varying vec2 varyinTexCoordinate;uniform vec2 uniformOffset;void main(){varyinTexCoordinate=attrVertex+uniformOffset;gl_Position=vec4(attrVertex,0,1);}",
+                n = "precision mediump float;varying vec2 varyinTexCoordinate;void main() {gl_FragColor=vec4(varyinTexCoordinate,0,1);}",
+                o = e.createBuffer();
+            e.bindBuffer(e.ARRAY_BUFFER, o);
+            var s = new Float32Array([-.2, -.9, 0, .4, -.26, 0, 0, .732134444, 0]);
+            e.bufferData(e.ARRAY_BUFFER, s, e.STATIC_DRAW), o.itemSize = 3, o.numItems = 3;
+            var l = e.createProgram(),
+                h = e.createShader(e.VERTEX_SHADER);
+            e.shaderSource(h, r), e.compileShader(h);
+            var u = e.createShader(e.FRAGMENT_SHADER);
+            return e.shaderSource(u, n), e.compileShader(u), e.attachShader(l, h), e.attachShader(l, u), e.linkProgram(l), e.useProgram(l), l.vertexPosAttrib = e.getAttribLocation(l, "attrVertex"), l.offsetUniform = e.getUniformLocation(l, "uniformOffset"), e.enableVertexAttribArray(l.vertexPosArray), e.vertexAttribPointer(l.vertexPosAttrib, o.itemSize, e.FLOAT, !1, 0, 0), e.uniform2f(l.offsetUniform, 1, 1), e.drawArrays(e.TRIANGLE_STRIP, 0, o.numItems), null != e.canvas && a.push(e.canvas.toDataURL()), a.push("extensions:" + e.getSupportedExtensions().join(";")), a.push("webgl aliased line width range:" + t(e.getParameter(e.ALIASED_LINE_WIDTH_RANGE))), a.push("webgl aliased point size range:" + t(e.getParameter(e.ALIASED_POINT_SIZE_RANGE))), a.push("webgl alpha bits:" + e.getParameter(e.ALPHA_BITS)), a.push("webgl antialiasing:" + (e.getContextAttributes().antialias ? "yes" : "no")), a.push("webgl blue bits:" + e.getParameter(e.BLUE_BITS)), a.push("webgl depth bits:" + e.getParameter(e.DEPTH_BITS)), a.push("webgl green bits:" + e.getParameter(e.GREEN_BITS)), a.push("webgl max anisotropy:" + i(e)), a.push("webgl max combined texture image units:" + e.getParameter(e.MAX_COMBINED_TEXTURE_IMAGE_UNITS)), a.push("webgl max cube map texture size:" + e.getParameter(e.MAX_CUBE_MAP_TEXTURE_SIZE)), a.push("webgl max fragment uniform vectors:" + e.getParameter(e.MAX_FRAGMENT_UNIFORM_VECTORS)), a.push("webgl max render buffer size:" + e.getParameter(e.MAX_RENDERBUFFER_SIZE)), a.push("webgl max texture image units:" + e.getParameter(e.MAX_TEXTURE_IMAGE_UNITS)), a.push("webgl max texture size:" + e.getParameter(e.MAX_TEXTURE_SIZE)), a.push("webgl max varying vectors:" + e.getParameter(e.MAX_VARYING_VECTORS)), a.push("webgl max vertex attribs:" + e.getParameter(e.MAX_VERTEX_ATTRIBS)), a.push("webgl max vertex texture image units:" + e.getParameter(e.MAX_VERTEX_TEXTURE_IMAGE_UNITS)), a.push("webgl max vertex uniform vectors:" + e.getParameter(e.MAX_VERTEX_UNIFORM_VECTORS)), a.push("webgl max viewport dims:" + t(e.getParameter(e.MAX_VIEWPORT_DIMS))), a.push("webgl red bits:" + e.getParameter(e.RED_BITS)), a.push("webgl renderer:" + e.getParameter(e.RENDERER)), a.push("webgl shading language version:" + e.getParameter(e.SHADING_LANGUAGE_VERSION)), a.push("webgl stencil bits:" + e.getParameter(e.STENCIL_BITS)), a.push("webgl vendor:" + e.getParameter(e.VENDOR)), a.push("webgl version:" + e.getParameter(e.VERSION)), e.getShaderPrecisionFormat ? (a.push("webgl vertex shader high float precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_FLOAT).precision), a.push("webgl vertex shader high float precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_FLOAT).rangeMin), a.push("webgl vertex shader high float precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_FLOAT).rangeMax), a.push("webgl vertex shader medium float precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_FLOAT).precision), a.push("webgl vertex shader medium float precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_FLOAT).rangeMin), a.push("webgl vertex shader medium float precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_FLOAT).rangeMax), a.push("webgl vertex shader low float precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_FLOAT).precision), a.push("webgl vertex shader low float precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_FLOAT).rangeMin), a.push("webgl vertex shader low float precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_FLOAT).rangeMax), a.push("webgl fragment shader high float precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_FLOAT).precision), a.push("webgl fragment shader high float precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_FLOAT).rangeMin), a.push("webgl fragment shader high float precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_FLOAT).rangeMax), a.push("webgl fragment shader medium float precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_FLOAT).precision), a.push("webgl fragment shader medium float precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_FLOAT).rangeMin), a.push("webgl fragment shader medium float precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_FLOAT).rangeMax), a.push("webgl fragment shader low float precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_FLOAT).precision), a.push("webgl fragment shader low float precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_FLOAT).rangeMin), a.push("webgl fragment shader low float precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_FLOAT).rangeMax), a.push("webgl vertex shader high int precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_INT).precision), a.push("webgl vertex shader high int precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_INT).rangeMin), a.push("webgl vertex shader high int precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.HIGH_INT).rangeMax), a.push("webgl vertex shader medium int precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_INT).precision), a.push("webgl vertex shader medium int precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_INT).rangeMin), a.push("webgl vertex shader medium int precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.MEDIUM_INT).rangeMax), a.push("webgl vertex shader low int precision:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_INT).precision), a.push("webgl vertex shader low int precision rangeMin:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_INT).rangeMin), a.push("webgl vertex shader low int precision rangeMax:" + e.getShaderPrecisionFormat(e.VERTEX_SHADER, e.LOW_INT).rangeMax), a.push("webgl fragment shader high int precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_INT).precision), a.push("webgl fragment shader high int precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_INT).rangeMin), a.push("webgl fragment shader high int precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.HIGH_INT).rangeMax), a.push("webgl fragment shader medium int precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_INT).precision), a.push("webgl fragment shader medium int precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_INT).rangeMin), a.push("webgl fragment shader medium int precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.MEDIUM_INT).rangeMax), a.push("webgl fragment shader low int precision:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_INT).precision), a.push("webgl fragment shader low int precision rangeMin:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_INT).rangeMin), a.push("webgl fragment shader low int precision rangeMax:" + e.getShaderPrecisionFormat(e.FRAGMENT_SHADER, e.LOW_INT).rangeMax), a.join("~")) : a.join("~")
+        },
+
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -5160,6 +5511,100 @@ Script: `https://cdn.siftscience.com/s.js`
                     si: b.flash_SocketIP_,
                     fu: b.flash_uuid_
                 };
+```
+[Go back to top](#tracker-descriptions)
+
+## Signifyd
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://imgs.signifyd.com/fp/check.js;CIS3SID=C9228C29CD0388E0DDC4DF4F854E31D5?org_id=w2txo5aa&session_id=3q388g2l90eo68ggvk1cl1tl50&nonce=395aedb7ff15485c`    
+1. Script makes use of APIs for the purpose of fingerprinting:
+```
+this.getFPParams = function() {
+        if (!td_lM) {
+            if (((new Date()).getTime() - td_Nk) > 2000 || td_uK) {
+                var td_oE = td_X7();
+                if (td_oE.length > 0) {
+                    td_lM = true;
+                    td_eb.close();
+                    td_eb = null;
+                    return td_oE;
+                }
+            }
+        }
+        return null;
+    };
+    this.setup = function() {
+        if (!Object || !Object.create) {
+            td_lM = true;
+            return;
+        }
+        var td_MV = window.RTCPeerConnection || window.mozRTCPeerConnection || window.webkitRTCPeerConnection;
+        if (!td_MV) {
+            td_lM = true;
+            return;
+        }
+        this.startWaitTime = td_m();
+
+        function td_o7(td_NF) {
+            var td_g2 = td_NF.substr(td_NF.indexOf(td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(69, 10)) + 10).split(" ");
+            if (td_g2 !== null && td_g2.length > 7 && td_g2[4] !== null) {
+                var td_Rh = td_g2[4];
+                var td_yb = td_g2[7];
+                if (td_Rh.match(/^[a-f0-9]{1,4}(:[a-f0-9]{1,4}){7}$/)) {
+                    td_Yj[td_Rh] = true;
+                } else {
+                    if (td_yb === Number(481469).toString(30)) {
+                        td_O5[td_Rh] = true;
+                    } else {
+                        td_DC[td_Rh] = true;
+                    }
+                }
+            }
+        }
+        try {
+            var td_U9 = {
+                optional: [{
+                    RtpDataChannels: true
+                }]
+            };
+            var td_Cn = td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(79, 5) + td_0o + td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(84, 11);
+            var td_i5 = {
+                iceServers: [{
+                    urls: td_Cn + td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(95, 3),
+                    username: td_OF,
+                    credential: td_SP
+                }, {
+                    urls: td_Cn + td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(98, 3),
+                    username: td_OF,
+                    credential: td_SP
+                }]
+            };
+            td_eb = new td_MV(td_i5, td_U9);
+            td_eb.onicecandidate = function(td_JU) {
+                if (td_JU.candidate) {
+                    td_o7(td_JU.candidate.candidate);
+                } else {
+                    td_uK = true;
+                }
+            };
+            td_eb.onicegatheringstatechange = function() {
+                if (td_eb !== null) {
+                    if (td_eb.iceGatheringState === td_3C.tdz_75a894b962c14ac59fa3eebe255043e1.td_f(101, 8)) {
+                        td_uK = true;
+                    }
+                }
+            };
+            td_eb.createDataChannel("");
+            td_eb.createOffer(function(td_kQ) {
+                td_eb.setLocalDescription(td_kQ, function() {}, function() {});
+            }, function() {});
+        } catch (td_rR) {
+            return;
+        }
+    };
+
+
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -5393,6 +5838,23 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 [Go back to top](#tracker-descriptions)
 
+## Stripe
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://m.stripe.network/inner.html#referrer=&title=Study.com%20%7C%20Take%20Online%20Courses.%20Earn%20College%20Credit.%20Research%20Schools%2C%20Degrees%20%26%20Careers&url=https%3A%2F%2Fstudy.com%2F&muid=739a3ba7-7618-41b6-b40c-af1890c68298&sid=d591e8f1-231b-42b4-9c18-c4d93cfd9552&preview=false&` 
+1. Script makes use of APIs for the purpose of fingerprinting:
+```
+{
+  "top_level_url": "https://study.com/",
+  "script_url": "https://m.stripe.network/inner.html#referrer=&title=Study.com%20%7C%20Take%20Online%20Courses.%20Earn%20College%20Credit.%20Research%20Schools%2C%20Degrees%20%26%20Careers&url=https%3A%2F%2Fstudy.com%2F&muid=739a3ba7-7618-41b6-b40c-af1890c68298&sid=d591e8f1-231b-42b4-9c18-c4d93cfd9552&preview=false&",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Tapad
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
@@ -5523,6 +5985,19 @@ TheTradeDesk's website states:
 >Analyze the entire customer journey. See which ads perform well on which devices, including Connected TV, desktop, and mobile.
 
 
+[Go back to top](#tracker-descriptions)
+
+## tongdun.cn
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://static.tongdun.net/v3/fm.js?ver=0.1&t=466485` 
+1. Heavily obfuscated script makes use of APIs for the purpose of fingerprinting. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|symbol|  arguments|
+|--|--|
+|CanvasRenderingContext2D.fillText  |  ["http://fp.fraudmetrix.cn",2,15]|
+|HTMLCanvasElement.getContext  |  ["2d"]|
+|HTMLCanvasElement.toDataURL  |  null|
 [Go back to top](#tracker-descriptions)
 
 ## Trendemon
