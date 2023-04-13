@@ -112,6 +112,14 @@
         "abaxinteractive.com"
       ]
     },
+    "ABTasty": {
+      "properties": [
+        "abtasty.com"
+      ],
+      "resources": [
+        "abtasty.com"
+      ]
+    },
     "Accelia": {
       "properties": [
         "accelia.net",
@@ -2783,6 +2791,14 @@
         "bluecava.com"
       ]
     },
+    "BlueConic": {
+      "properties": [
+        "blueconic.com"
+      ],
+      "resources": [
+        "blueconic.net"
+      ]
+    },
     "BlueKai": {
       "properties": [
         "bluekai.com",
@@ -3985,6 +4001,14 @@
         "contactmonkey.com"
       ]
     },
+    "ContentSquare": {
+      "properties": [
+        "contentsquare.com"
+      ],
+      "resources": [
+        "contentsquare.net"
+      ]
+    },
     "CONTEXTin": {
       "properties": [
         "admailtiser.com",
@@ -4208,6 +4232,14 @@
       ],
       "resources": [
         "crowdscience.com"
+      ]
+    },
+    "Crownpeak": {
+      "properties": [
+        "crownpeak.com"
+      ],
+      "resources": [
+        "betrad.com"
       ]
     },
     "CryptoLoot": {
@@ -6587,6 +6619,14 @@
         "healthpricer.com"
       ]
     },
+    "Heap": {
+      "properties": [
+        "heap.io"
+      ],
+      "resources": [
+        "heapanalytics.com"
+      ]
+    },
     "Hearst": {
       "properties": [
         "hearst.com",
@@ -7180,6 +7220,14 @@
       ],
       "resources": [
         "investingchannel.com"
+      ]
+    },
+    "iotechnologies": {
+      "properties": [
+        "iotechnologies.com"
+      ],
+      "resources": [
+        "onthe.io"
       ]
     },
     "iovation": {
@@ -10388,6 +10436,14 @@
         "qualaroo.com"
       ]
     },
+    "Qualtrics": {
+      "properties": [
+        "qualtrics.com"
+      ],
+      "resources": [
+        "qualtrics.com"
+      ]
+    },
     "Quantcast": {
       "properties": [
         "quantcast.com",
@@ -11626,6 +11682,14 @@
       ],
       "resources": [
         "sojern.com"
+      ]
+    },
+    "SolarWinds": {
+      "properties": [
+        "solarwinds.com"
+      ],
+      "resources": [
+        "pingdom.net"
       ]
     },
     "SomoAudience": {
