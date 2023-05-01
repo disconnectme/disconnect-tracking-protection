@@ -12839,6 +12839,13 @@
         }
       },
       {
+        "Yandex": {
+          "http://www.yandex.com/": [
+            "mc.yandex.ru"
+          ]
+        }
+      },
+      {
         "ZafulAffiliate": {
           "https://affiliate.zaful.com/": [
             "affasi.com",
