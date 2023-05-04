@@ -4798,6 +4798,13 @@
         }
       },
       {
+        "Flux": {
+          "https://flux.jp/en/solutions/": [
+            "flux.jp"
+          ]
+        }
+      },
+      {
         "Flytxt": {
           "http://www.flytxt.com/": [
             "flytxt.com"
@@ -7217,6 +7224,13 @@
         "PulsePoint": {
           "https://www.pulsepoint.com/": [
             "pulsepoint.com"
+          ]
+        }
+      },
+      {
+        "Pushly": {
+          "https://www.pushly.com/": [
+            "p-n.io"
           ]
         }
       },
@@ -10552,7 +10566,8 @@
       {
         "Baidu": {
           "https://baidu.com": [
-            "hm.baidu.com"
+            "baidu.com",
+            "bdstatic.com"
           ]
         }
       },
