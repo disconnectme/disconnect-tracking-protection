@@ -7248,15 +7248,6 @@
         "onthe.io"
       ]
     },
-    "iovation": {
-      "properties": [
-        "iovation.com"
-      ],
-      "resources": [
-        "iesnare.com",
-        "iovation.com"
-      ]
-    },
     "iPerceptions": {
       "properties": [
         "iperceptions.com"
@@ -12723,6 +12714,15 @@
       ],
       "resources": [
         "trafmag.com"
+      ]
+    },
+    "TransUnion": {
+      "properties": [
+        "transunion.com"
+      ],
+      "resources": [
+        "iesnare.com",
+        "iovation.com"
       ]
     },
     "Traverse": {

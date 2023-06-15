@@ -9912,14 +9912,6 @@
         }
       },
       {
-        "iovation": {
-          "http://www.iovation.com/": [
-            "iesnare.com",
-            "iovation.com"
-          ]
-        }
-      },
-      {
         "Kaltura": {
           "http://corp.kaltura.com/": [
             "kaltura.com"
@@ -11897,6 +11889,14 @@
         "TrafficScore": {
           "https://trafficscore.com/": [
             "trafficscore.com"
+          ]
+        }
+      },
+      {
+        "TransUnion": {
+          "https://www.transunion.com/": [
+            "iesnare.com",
+            "iovation.com"
           ]
         }
       },
