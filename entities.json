@@ -406,6 +406,14 @@
         "adabra.com"
       ]
     },
+    "Adagio": {
+      "properties": [
+        "adagio.io"
+      ],
+      "resources": [
+        "4dex.io"
+      ]
+    },
     "Adality": {
       "properties": [
         "adality.de"
@@ -429,6 +437,14 @@
       ],
       "resources": [
         "adaptly.com"
+      ]
+    },
+    "AdaptMX": {
+      "properties": [
+        "adaptmx.com"
+      ],
+      "resources": [
+        "a-mo.net"
       ]
     },
     "Adara Media": {
@@ -1429,6 +1445,14 @@
         "vertamedia.com"
       ]
     },
+    "AdTheorent": {
+      "properties": [
+        "adtheorent.com"
+      ],
+      "resources": [
+        "adentifi.com"
+      ]
+    },
     "Adthink": {
       "properties": [
         "adthink.com"
@@ -2025,6 +2049,14 @@
         "andbeyond.media"
       ]
     },
+    "Aniview": {
+      "properties": [
+        "aniview.com"
+      ],
+      "resources": [
+        "aniview.com"
+      ]
+    },
     "anormal-media.de": {
       "properties": [
         "anormal-media.de",
@@ -2242,6 +2274,14 @@
         "revsci.net",
         "targetingmarketplace.com",
         "wunderloop.net"
+      ]
+    },
+    "Audigent": {
+      "properties": [
+        "audigent.com"
+      ],
+      "resources": [
+        "ad.gt"
       ]
     },
     "AuditedMedia": {
@@ -2501,7 +2541,8 @@
         "beachfront.com"
       ],
       "resources": [
-        "beachfront.com"
+        "beachfront.com",
+        "bfmio.com"
       ]
     },
     "Beanstock Media": {
@@ -8612,6 +8653,14 @@
         "opinionbar.com"
       ]
     },
+    "MGID": {
+      "properties": [
+        "mgid.com"
+      ],
+      "resources": [
+        "mgid.com"
+      ]
+    },
     "MicroAd": {
       "properties": [
         "microad.jp",
@@ -9542,6 +9591,14 @@
       ],
       "resources": [
         "onestat.com"
+      ]
+    },
+    "OneTag": {
+      "properties": [
+        "onetag.com"
+      ],
+      "resources": [
+        "onetag-sys.com"
       ]
     },
     "Oneupweb": {
@@ -10923,6 +10980,14 @@
       ],
       "resources": [
         "ringier.cz"
+      ]
+    },
+    "Rise": {
+      "properties": [
+        "risecodes.com"
+      ],
+      "resources": [
+        "yellowblue.io"
       ]
     },
     "RMBN": {
@@ -13311,6 +13376,14 @@
         "intellitxt.com",
         "picadmedia.com",
         "vibrantmedia.com"
+      ]
+    },
+    "Vidazoo": {
+      "properties": [
+        "vidazoo.com"
+      ],
+      "resources": [
+        "vidazoo.com"
       ]
     },
     "VideoIntelligence": {

@@ -1685,6 +1685,13 @@
         }
       },
       {
+        "Adagio": {
+          "https://adagio.io/": [
+            "4dex.io"
+          ]
+        }
+      },
+      {
         "Adality": {
           "http://adality.de/": [
             "adality.de",
@@ -1703,6 +1710,13 @@
         "Adaptly": {
           "http://adaptly.com/": [
             "adaptly.com"
+          ]
+        }
+      },
+      {
+        "AdaptMX": {
+          "https://adaptmx.com/": [
+            "a-mo.net"
           ]
         }
       },
@@ -2511,6 +2525,13 @@
         }
       },
       {
+        "AdTheorent": {
+          "https://www.adtheorent.com/": [
+            "adentifi.com"
+          ]
+        }
+      },
+      {
         "Adthink": {
           "https://adthink.com/": [
             "adthink.com",
@@ -2852,6 +2873,13 @@
         }
       },
       {
+        "Aniview": {
+          "https://aniview.com": [
+            "aniview.com"
+          ]
+        }
+      },
+      {
         "Ansira": {
           "https://ansira.com/": [
             "ansira.com"
@@ -3004,6 +3032,13 @@
         }
       },
       {
+        "Audigent": {
+          "https://audigent.com/": [
+            "ad.gt"
+          ]
+        }
+      },
+      {
         "Augme": {
           "http://www.augme.com/": [
             "augme.com",
@@ -3142,7 +3177,8 @@
       {
         "BeachFront": {
           "http://beachfront.com/": [
-            "beachfront.com"
+            "beachfront.com",
+            "bfmio.com"
           ]
         }
       },
@@ -6223,6 +6259,13 @@
         }
       },
       {
+        "MGID": {
+          "https://www.mgid.com/": [
+            "mgid.com"
+          ]
+        }
+      },
+      {
         "MicroAd": {
           "http://www.microad.jp/": [
             "microad.jp"
@@ -6683,6 +6726,13 @@
           "http://www.itsoneiota.com/": [
             "itsoneiota.com",
             "oneiota.co.uk"
+          ]
+        }
+      },
+      {
+        "OneTag": {
+          "https://www.onetag.com/": [
+            "onetag-sys.com"
           ]
         }
       },
@@ -7495,6 +7545,13 @@
         "RightAction": {
           "http://rightaction.com/": [
             "rightaction.com"
+          ]
+        }
+      },
+      {
+        "Rise": {
+          "https://risecodes.com/": [
+            "yellowblue.io"
           ]
         }
       },
@@ -8791,6 +8848,13 @@
             "intellitxt.com",
             "picadmedia.com",
             "vibrantmedia.com"
+          ]
+        }
+      },
+      {
+        "Vidazoo": {
+          "https://vidazoo.com": [
+            "vidazoo.com"
           ]
         }
       },
