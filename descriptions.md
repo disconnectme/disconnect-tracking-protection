@@ -51,7 +51,6 @@ The technical and policy review information below was recorded on the date obser
 - [CoinPot](#CoinPot)
 - [ConversantMedia](#ConversantMedia)
 - [CryptoLoot](#CryptoLoot)
-- [Datadome](#Datadome)
 - [dmpxs](#dmpxs)
 - [DoubleVerify](#DoubleVerify)
 - [Drawbridge](#Drawbridge)
@@ -2211,48 +2210,6 @@ function _0x45bcc2() {
     _0xe5c8f6(w);
   }, 2E3);
 }
-```
-[Go back to top](#tracker-descriptions)
-
-## Datadome
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://js.datadome.co/tags.js`  
-Submission source: https://github.com/disconnectme/disconnect-tracking-protection/issues/190
-1. Script makes use of several APIs for the purpose of fingerprinting:
-```
-}, this.dd_c = function () {
-      var _0x53fbb1 = _0x3bfce6;
-      _0x558825.br_h = Math.max(document.documentElement.clientHeight, window[_0x53fbb1(747)] || 0), _0x558825.br_w = Math.max(document.documentElement.clientWidth, window[_0x53fbb1(963)] || 0), _0x558825.br_oh = window.outerHeight, _0x558825.br_ow = window[_0x53fbb1(500)];
-    }, this.dd_e = function () {
-      var _0x3836d4 = _0x3bfce6;
-      _0x558825.rs_h = window.screen.height, _0x558825.rs_w = window[_0x3836d4(634)][_0x3836d4(704)], _0x558825[_0x3836d4(658)] = window[_0x3836d4(634)].colorDepth;
-    }, this.dd_i = function () {
-      _0x558825.ua = window.navigator.userAgent;
-    }, this.dd_Z = function () {
-      var _0x38dbee = _0x3bfce6;
-      try {
-        var _0x54b9d1 = document[_0x38dbee(936)](_0x38dbee(921));
-        _0x558825[_0x38dbee(563)] = !(!_0x54b9d1[_0x38dbee(651)] || !_0x54b9d1.getContext("2d"));
-      } catch (_0x1adcd4) {
-        _0x558825[_0x38dbee(563)] = false;
-      }
-    }, this.dd_f = function () {
-      _0x558825.phe = !(!window.callPhantom && !window._phantom);
-    }, this.dd_g = function () {
-      _0x558825.nm = !!window.__nightmare;
-    }, this[_0x3bfce6(922)] = function () {
-      var _0x308405 = _0x3bfce6;
-      _0x558825[_0x308405(813)] = false, (!Function[_0x308405(572)][_0x308405(708)] || Function.prototype[_0x308405(708)][_0x308405(727)]().replace(/bind/g, "Error") != Error[_0x308405(727)]() && void 0 === window[_0x308405(630)]) && (_0x558825[_0x308405(813)] = true);
-    }, this[_0x3bfce6(521)] = function () {
-      var _0x23cfe3 = _0x3bfce6;
-      _0x558825.lg = navigator.language || navigator[_0x23cfe3(888)] || navigator[_0x23cfe3(806)] || navigator[_0x23cfe3(596)] || "";
-    }, this.dd_k = function () {
-      var _0x665bc2 = _0x3bfce6;
-      _0x558825.pr = window.devicePixelRatio || _0x665bc2(800);
-    }, this.dd_l = function () {
-      _0x558825.hc = navigator.hardwareConcurrency;
-
 ```
 [Go back to top](#tracker-descriptions)
 
