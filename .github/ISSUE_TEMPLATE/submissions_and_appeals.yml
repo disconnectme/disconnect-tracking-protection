@@ -1,0 +1,26 @@
+name: Appeals and Submissions
+description: Use this template for appeals and submissions.
+body:
+  - type: input
+    id: domains_to_review
+    attributes:
+      label: Domain(s) to review. Separate them by comma.
+      placeholder: domain.com
+    validations:
+      required: true
+  - type: input
+    id: rationale
+    attributes:
+      label: Rationale for removing, adding, or recategorizing.
+      placeholder: Reason
+    validations:
+      required: true
+  - type: input
+    id: observed_in_domains
+    attributes:
+      label: Where domain(s) observed. Separate them by comma.
+      placeholder: domain.com
+  - type: textarea
+    id: additional_information
+    attributes:
+      label: Additional notes
