@@ -3366,14 +3366,6 @@
         }
       },
       {
-        "Bizo": {
-          "http://www.bizo.com/": [
-            "bizo.com",
-            "bizographics.com"
-          ]
-        }
-      },
-      {
         "Black Label Ads": {
           "http://www.blacklabelads.com/": [
             "blacklabelads.com"
@@ -4474,14 +4466,6 @@
           "http://www.doublepositive.com/": [
             "bid-tag.com",
             "doublepositive.com"
-          ]
-        }
-      },
-      {
-        "Drawbridge": {
-          "http://drawbrid.ge/": [
-            "adsymptotic.com",
-            "drawbrid.ge"
           ]
         }
       },
@@ -6489,7 +6473,11 @@
           "http://www.microsoft.com/": [
             "adbureau.net",
             "adecn.com",
+            "adsymptotic.com",
             "aquantive.com",
+            "bizo.com",
+            "bizographics.com",
+            "drawbrid.ge",
             "inq.com",
             "msads.net",
             "netconversions.com",
@@ -13539,14 +13527,6 @@
         }
       },
       {
-        "Drawbridge": {
-          "http://drawbrid.ge/": [
-            "adsymptotic.com",
-            "drawbrid.ge"
-          ]
-        }
-      },
-      {
         "Experian": {
           "http://www.experian.com/": [
             "audienceiq.com",
@@ -13687,6 +13667,14 @@
             "designbloxlive.com",
             "mathtag.com",
             "mediamath.com"
+          ]
+        }
+      },
+      {
+        "Microsoft": {
+          "http://www.microsoft.com/": [
+            "adsymptotic.com",
+            "drawbrid.ge"
           ]
         }
       },
