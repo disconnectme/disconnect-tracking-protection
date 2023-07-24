@@ -4518,19 +4518,6 @@
         "tweetmeme.com"
       ]
     },
-    "DataXu": {
-      "properties": [
-        "dataxu.com",
-        "mexad.com",
-        "w55c.net"
-      ],
-      "resources": [
-        "dataxu.com",
-        "dataxu.net",
-        "mexad.com",
-        "w55c.net"
-      ]
-    },
     "DatMean": {
       "properties": [
         "datmean.com"
@@ -11389,6 +11376,20 @@
         "rocketfuel.com",
         "ru4.com",
         "xplusone.com"
+      ]
+    },
+    "Roku": {
+      "properties": [
+        "dataxu.com",
+        "mexad.com",
+        "roku.com",
+        "w55c.net"
+      ],
+      "resources": [
+        "dataxu.com",
+        "dataxu.net",
+        "mexad.com",
+        "w55c.net"
       ]
     },
     "Rollick": {

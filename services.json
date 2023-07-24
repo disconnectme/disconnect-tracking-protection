@@ -4223,16 +4223,6 @@
         }
       },
       {
-        "DataXu": {
-          "http://www.dataxu.com/": [
-            "dataxu.com",
-            "dataxu.net",
-            "mexad.com",
-            "w55c.net"
-          ]
-        }
-      },
-      {
         "DatMean": {
           "https://datmean.com": [
             "aroa.io"
@@ -7905,6 +7895,16 @@
             "rocketfuel.com",
             "ru4.com",
             "xplusone.com"
+          ]
+        }
+      },
+      {
+        "Roku": {
+          "https://www.roku.com/": [
+            "dataxu.com",
+            "dataxu.net",
+            "mexad.com",
+            "w55c.net"
           ]
         }
       },
