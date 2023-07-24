@@ -5364,15 +5364,6 @@
         "excitad.com"
       ]
     },
-    "eXelate": {
-      "properties": [
-        "exelate.com"
-      ],
-      "resources": [
-        "exelate.com",
-        "exelator.com"
-      ]
-    },
     "ExoClick": {
       "properties": [
         "exoclick.com"
@@ -9646,17 +9637,26 @@
     },
     "Nielsen": {
       "properties": [
+        "exelate.com",
         "glanceguide.com",
         "imrworldwide.com",
         "imrworldwide.net",
-        "nielsen.com"
+        "nielsen.com",
+        "vdna-assets.com",
+        "visualdna-stats.com",
+        "visualdna.com"
       ],
       "resources": [
+        "exelate.com",
+        "exelator.com",
         "glanceguide.com",
         "imrworldwide.com",
         "imrworldwide.net",
         "myvisualiq.net",
-        "nielsen.com"
+        "nielsen.com",
+        "vdna-assets.com",
+        "visualdna-stats.com",
+        "visualdna.com"
       ]
     },
     "Ninua": {
@@ -14006,18 +14006,6 @@
       ],
       "resources": [
         "vistrac.com"
-      ]
-    },
-    "VisualDNA": {
-      "properties": [
-        "vdna-assets.com",
-        "visualdna-stats.com",
-        "visualdna.com"
-      ],
-      "resources": [
-        "vdna-assets.com",
-        "visualdna-stats.com",
-        "visualdna.com"
       ]
     },
     "ViziSense": {
