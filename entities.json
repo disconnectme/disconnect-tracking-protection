@@ -12678,10 +12678,13 @@
     },
     "Synacor": {
       "properties": [
-        "synacor.com"
+        "synacor.com",
+        "technorati.com"
       ],
       "resources": [
-        "synacor.com"
+        "synacor.com",
+        "technorati.com",
+        "technoratimedia.com"
       ]
     },
     "Syncapse": {
@@ -12816,15 +12819,6 @@
       ],
       "resources": [
         "tealiumiq.com"
-      ]
-    },
-    "Technorati": {
-      "properties": [
-        "technorati.com"
-      ],
-      "resources": [
-        "technorati.com",
-        "technoratimedia.com"
       ]
     },
     "TechSolutions": {
