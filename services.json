@@ -2512,13 +2512,6 @@
         }
       },
       {
-        "Adswizz": {
-          "http://adswizz.com": [
-            "adswizz.com"
-          ]
-        }
-      },
-      {
         "Adtegrity.com": {
           "http://www.adtegrity.com/": [
             "adtegrity.com",
@@ -8168,6 +8161,13 @@
         "SirData": {
           "https://sirdata.com/en/": [
             "sddan.com"
+          ]
+        }
+      },
+      {
+        "SiriusXM": {
+          "https://www.siriusxm.com/": [
+            "adswizz.com"
           ]
         }
       },

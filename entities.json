@@ -1429,14 +1429,6 @@
         "adsupply.com"
       ]
     },
-    "Adswizz": {
-      "properties": [
-        "adswizz.com"
-      ],
-      "resources": [
-        "adswizz.com"
-      ]
-    },
     "Adtegrity.com": {
       "properties": [
         "adtegrity.com",
@@ -11925,6 +11917,15 @@
       ],
       "resources": [
         "sddan.com"
+      ]
+    },
+    "SiriusXM": {
+      "properties": [
+        "adswizz.com",
+        "siriusxm.com"
+      ],
+      "resources": [
+        "adswizz.com"
       ]
     },
     "Six Apart": {
