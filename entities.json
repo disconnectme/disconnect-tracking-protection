@@ -669,14 +669,6 @@
         "seadform.net"
       ]
     },
-    "AdFox": {
-      "properties": [
-        "adfox.ru"
-      ],
-      "resources": [
-        "adfox.ru"
-      ]
-    },
     "AdFrontiers": {
       "properties": [
         "adfrontiers.com"
@@ -2832,6 +2824,14 @@
         "blacklabelads.com"
       ]
     },
+    "Blockthrough": {
+      "properties": [
+        "blockthrough.com"
+      ],
+      "resources": [
+        "btloader.com"
+      ]
+    },
     "BlogCatalog": {
       "properties": [
         "blogcatalog.com"
@@ -3870,6 +3870,14 @@
       ],
       "resources": [
         "cnzz.com"
+      ]
+    },
+    "Cognitiv": {
+      "properties": [
+        "cognitiv.ai"
+      ],
+      "resources": [
+        "cognitivlabs.com"
       ]
     },
     "Cognitive Match": {
@@ -7373,6 +7381,14 @@
         "leadchampion.com"
       ]
     },
+    "IntentIQ": {
+      "properties": [
+        "intentiq.com"
+      ],
+      "resources": [
+        "intentiq.com"
+      ]
+    },
     "Intent Media": {
       "properties": [
         "intentmedia.com"
@@ -9958,6 +9974,7 @@
         "openx.com",
         "openx.net",
         "openx.org",
+        "openxcdn.net",
         "openxenterprise.com",
         "servedbyopenx.com"
       ]
@@ -12248,6 +12265,7 @@
         "sovrn.com"
       ],
       "resources": [
+        "s-onetag.com",
         "sovrn.com"
       ]
     },
@@ -12956,7 +12974,8 @@
       ],
       "resources": [
         "adsrvr.org",
-        "thetradedesk.com"
+        "thetradedesk.com",
+        "uidapi.com"
       ]
     },
     "ThingLink": {
@@ -12984,6 +13003,14 @@
       ],
       "resources": [
         "thismoment.com"
+      ]
+    },
+    "Throttle": {
+      "properties": [
+        "throttle.io"
+      ],
+      "resources": [
+        "thrtle.com"
       ]
     },
     "Thummit": {
@@ -14674,6 +14701,7 @@
         "yandex.ua"
       ],
       "resources": [
+        "adfox.ru",
         "api-maps.yandex.ru",
         "moikrug.ru",
         "web-visor.com",
@@ -14685,7 +14713,8 @@
         "yandex.md",
         "yandex.ru",
         "yandex.st",
-        "yandex.ua"
+        "yandex.ua",
+        "yastatic.net"
       ]
     },
     "Ybrant Digital": {

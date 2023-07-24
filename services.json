@@ -1893,13 +1893,6 @@
         }
       },
       {
-        "AdFox": {
-          "http://adfox.ru/": [
-            "adfox.ru"
-          ]
-        }
-      },
-      {
         "AdFrontiers": {
           "http://www.adfrontiers.com/": [
             "adfrontiers.com"
@@ -3388,6 +3381,13 @@
         }
       },
       {
+        "Blockthrough": {
+          "https://blockthrough.com/": [
+            "btloader.com"
+          ]
+        }
+      },
+      {
         "BlogCatalog": {
           "http://www.blogcatalog.com/": [
             "blogcatalog.com"
@@ -3906,6 +3906,13 @@
         "Clove Network": {
           "http://www.clovenetwork.com/": [
             "clovenetwork.com"
+          ]
+        }
+      },
+      {
+        "Cognitiv": {
+          "https://cognitiv.ai/": [
+            "cognitivlabs.com"
           ]
         }
       },
@@ -5625,6 +5632,13 @@
         }
       },
       {
+        "IntentIQ": {
+          "https://www.intentiq.com/": [
+            "intentiq.com"
+          ]
+        }
+      },
+      {
         "Intent Media": {
           "http://www.intentmedia.com/": [
             "intentmedia.com",
@@ -7027,6 +7041,7 @@
             "openx.com",
             "openx.net",
             "openx.org",
+            "openxcdn.net",
             "openxenterprise.com",
             "servedbyopenx.com"
           ]
@@ -8354,6 +8369,7 @@
       {
         "Sovrn": {
           "https://www.sovrn.com/": [
+            "s-onetag.com",
             "sovrn.com"
           ]
         }
@@ -8795,7 +8811,8 @@
         "The Trade Desk": {
           "http://thetradedesk.com/": [
             "adsrvr.org",
-            "thetradedesk.com"
+            "thetradedesk.com",
+            "uidapi.com"
           ]
         }
       },
@@ -8805,6 +8822,13 @@
             "echosearch.com",
             "esm1.net",
             "thinkrealtime.com"
+          ]
+        }
+      },
+      {
+        "Throttle": {
+          "https://throttle.io": [
+            "thrtle.com"
           ]
         }
       },
@@ -9599,6 +9623,7 @@
       {
         "Yandex": {
           "http://www.yandex.com/": [
+            "adfox.ru",
             "adfox.yandex.ru",
             "an.yandex.ru",
             "awaps.yandex.ru",
@@ -9612,7 +9637,8 @@
             "yandex.ru/clck/counter",
             "yandex.ru/cycounter",
             "yandex.ru/portal/set/any",
-            "yandex.ru/set/s/rsya-tag-users/data"
+            "yandex.ru/set/s/rsya-tag-users/data",
+            "yastatic.net"
           ]
         }
       },
