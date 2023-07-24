@@ -3523,16 +3523,6 @@
         "res-x.com"
       ]
     },
-    "Chango": {
-      "properties": [
-        "chango.ca",
-        "chango.com"
-      ],
-      "resources": [
-        "chango.ca",
-        "chango.com"
-      ]
-    },
     "ChannelAdvisor": {
       "properties": [
         "channeladvisor.com",
@@ -8386,6 +8376,20 @@
         "magnify360.com"
       ]
     },
+    "Magnite": {
+      "properties": [
+        "magnite.com",
+        "rubiconproject.com",
+        "spotxchange.com"
+      ],
+      "resources": [
+        "adsbyisocket.com",
+        "isocket.com",
+        "rubiconproject.com",
+        "spotxcdn.com",
+        "spotxchange.com"
+      ]
+    },
     "Mail365": {
       "properties": [
         "mail365.ru"
@@ -11477,16 +11481,6 @@
         "rtk.io"
       ]
     },
-    "RubiconProject": {
-      "properties": [
-        "rubiconproject.com"
-      ],
-      "resources": [
-        "adsbyisocket.com",
-        "isocket.com",
-        "rubiconproject.com"
-      ]
-    },
     "RunAds": {
       "properties": [
         "runads.com"
@@ -12371,15 +12365,6 @@
       ],
       "resources": [
         "spotx.tv"
-      ]
-    },
-    "SpotXchange": {
-      "properties": [
-        "spotxchange.com"
-      ],
-      "resources": [
-        "spotxcdn.com",
-        "spotxchange.com"
       ]
     },
     "Spring Metrics": {

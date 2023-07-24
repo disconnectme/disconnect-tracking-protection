@@ -3697,14 +3697,6 @@
         }
       },
       {
-        "Chango": {
-          "http://www.chango.com/": [
-            "chango.ca",
-            "chango.com"
-          ]
-        }
-      },
-      {
         "ChannelAdvisor": {
           "http://www.channeladvisor.com/": [
             "channeladvisor.com",
@@ -6229,6 +6221,16 @@
         }
       },
       {
+        "Magnite": {
+          "https://www.magnite.com/": [
+            "adsbyisocket.com",
+            "isocket.com",
+            "rubiconproject.com",
+            "spotxchange.com"
+          ]
+        }
+      },
+      {
         "MailChimp": {
           "http://mailchimp.com/": [
             "campaign-archive1.com",
@@ -7972,15 +7974,6 @@
         }
       },
       {
-        "RubiconProject": {
-          "http://rubiconproject.com/": [
-            "adsbyisocket.com",
-            "isocket.com",
-            "rubiconproject.com"
-          ]
-        }
-      },
-      {
         "RunAds": {
           "http://www.runads.com/": [
             "runads.com",
@@ -8454,13 +8447,6 @@
         "SpotX": {
           "https://www.spotx.tv": [
             "spotx.tv"
-          ]
-        }
-      },
-      {
-        "SpotXchange": {
-          "http://www.spotxchange.com/": [
-            "spotxchange.com"
           ]
         }
       },
