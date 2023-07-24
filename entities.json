@@ -2816,10 +2816,14 @@
     },
     "Blockthrough": {
       "properties": [
-        "blockthrough.com"
+        "blockthrough.com",
+        "pagefair.com",
+        "pagefair.net"
       ],
       "resources": [
-        "btloader.com"
+        "btloader.com",
+        "pagefair.com",
+        "pagefair.net"
       ]
     },
     "BlogCatalog": {
@@ -10155,16 +10159,6 @@
         "adconnexa.com",
         "adsbwm.com",
         "oxamedia.com"
-      ]
-    },
-    "PageFair": {
-      "properties": [
-        "pagefair.com",
-        "pagefair.net"
-      ],
-      "resources": [
-        "pagefair.com",
-        "pagefair.net"
       ]
     },
     "Paid-To-Promote.net": {

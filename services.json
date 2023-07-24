@@ -3375,7 +3375,9 @@
       {
         "Blockthrough": {
           "https://blockthrough.com/": [
-            "btloader.com"
+            "btloader.com",
+            "pagefair.com",
+            "pagefair.net"
           ]
         }
       },
@@ -7169,14 +7171,6 @@
             "adconnexa.com",
             "adsbwm.com",
             "oxamedia.com"
-          ]
-        }
-      },
-      {
-        "PageFair": {
-          "https://pagefair.com/": [
-            "pagefair.com",
-            "pagefair.net"
           ]
         }
       },
