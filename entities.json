@@ -8633,18 +8633,6 @@
         "mmapiws.com"
       ]
     },
-    "MaxPoint": {
-      "properties": [
-        "maxpointinteractive.com",
-        "maxusglobal.com",
-        "mxptint.net"
-      ],
-      "resources": [
-        "maxpointinteractive.com",
-        "maxusglobal.com",
-        "mxptint.net"
-      ]
-    },
     "McAfee": {
       "properties": [
         "mcafee.com",
@@ -13780,6 +13768,19 @@
       ],
       "resources": [
         "veremedia.com"
+      ]
+    },
+    "Vericast": {
+      "properties": [
+        "maxpointinteractive.com",
+        "maxusglobal.com",
+        "mxptint.net",
+        "vericast.com"
+      ],
+      "resources": [
+        "maxpointinteractive.com",
+        "maxusglobal.com",
+        "mxptint.net"
       ]
     },
     "Verizon": {
