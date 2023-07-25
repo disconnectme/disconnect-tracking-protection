@@ -10536,14 +10536,6 @@
         "popunder.ru"
       ]
     },
-    "Po.st": {
-      "properties": [
-        "po.st"
-      ],
-      "resources": [
-        "po.st"
-      ]
-    },
     "Postmark": {
       "properties": [
         "postmarkapp.com"
@@ -10901,15 +10893,6 @@
         "matchbin.com",
         "radiatemedia.com",
         "solesolution.com"
-      ]
-    },
-    "RadiumOne": {
-      "properties": [
-        "radiumone.com"
-      ],
-      "resources": [
-        "gwallet.com",
-        "radiumone.com"
       ]
     },
     "Radius Marketing": {
@@ -13237,11 +13220,17 @@
         "travoramedia.com"
       ]
     },
-    "Tremor Video": {
+    "Tremor": {
       "properties": [
+        "po.st",
+        "radiumone.com",
+        "tremorinternational.com",
         "tremorvideo.com"
       ],
       "resources": [
+        "gwallet.com",
+        "po.st",
+        "radiumone.com",
         "scanscout.com",
         "tmnetads.com",
         "tremorhub.com",
