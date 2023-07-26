@@ -4,7 +4,7 @@ The technical and policy review information below was recorded on the date obser
 
 - [Adabra](#Adabra)
 - [Adbot](#Adbot)
-- [Adbrain](#Adbrain)
+- [The-Trade-Desk](#The-Trade-Desk)
 - [AdCash](#AdCash)
 - [AdGainerSolutions](#AdGainerSolutions)
 - [Adjust](#Adjust)
@@ -206,7 +206,7 @@ Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
 ```
 [Go back to top](#tracker-descriptions)
 
-## Adbrain
+## The Trade Desk
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 

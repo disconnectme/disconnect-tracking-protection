@@ -485,15 +485,6 @@
         "adbot.tw"
       ]
     },
-    "Adbrain": {
-      "properties": [
-        "adbrain.com"
-      ],
-      "resources": [
-        "adbrain.com",
-        "adbrn.com"
-      ]
-    },
     "adBrite": {
       "properties": [
         "adbrite.com"
@@ -12862,9 +12853,12 @@
     },
     "The Trade Desk": {
       "properties": [
+        "adbrain.com",
         "thetradedesk.com"
       ],
       "resources": [
+        "adbrain.com",
+        "adbrn.com",
         "adsrvr.org",
         "thetradedesk.com",
         "uidapi.com"
