@@ -2688,15 +2688,6 @@
         "fksnk.com"
       ]
     },
-    "BidSwitch": {
-      "properties": [
-        "bidswitch.com"
-      ],
-      "resources": [
-        "bidswitch.net",
-        "mfadsrvr.com"
-      ]
-    },
     "Bidtellect": {
       "properties": [
         "bidtellect.com",
@@ -7450,12 +7441,15 @@
     },
     "IponWeb": {
       "properties": [
+        "bidswitch.com",
         "iponweb.com"
       ],
       "resources": [
+        "bidswitch.net",
         "fg8dgt.com",
         "iponweb.com",
-        "iponweb.net"
+        "iponweb.net",
+        "mfadsrvr.com"
       ]
     },
     "iPROM": {
