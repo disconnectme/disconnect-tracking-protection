@@ -30,7 +30,7 @@ The technical and policy review information below was recorded on the date obser
 - [Bisnode](#Bisnode)
 - [BitMedia](#BitMedia)
 - [BlueCava](#BlueCava)
-- [BlueKai](#BlueKai)
+- [Oracle](#Oracle)
 - [BoostBox](#BoostBox)
 - [Bouncex](#Bouncex)
 - [Brandcrumb](#Brandcrumb)
@@ -1217,7 +1217,7 @@ This service has been classified as `Analytics` and `FingerprintingInvasive` for
 ```
 [Go back to top](#tracker-descriptions)
 
-## BlueKai
+## Oracle
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Oracle's privacy policy states:

@@ -562,20 +562,6 @@
         "addgloo.com"
       ]
     },
-    "AddThis": {
-      "properties": [
-        "addthis.com"
-      ],
-      "resources": [
-        "addthis.com",
-        "addthiscdn.com",
-        "addthisedge.com",
-        "clearspring.com",
-        "connectedads.net",
-        "xgraph.com",
-        "xgraph.net"
-      ]
-    },
     "Addvantage Media": {
       "properties": [
         "addvantagemedia.com"
@@ -2879,17 +2865,6 @@
         "blueconic.net"
       ]
     },
-    "BlueKai": {
-      "properties": [
-        "bluekai.com",
-        "tracksimple.com"
-      ],
-      "resources": [
-        "bkrtx.com",
-        "bluekai.com",
-        "tracksimple.com"
-      ]
-    },
     "Bluemetrix": {
       "properties": [
         "bluemetrix.com",
@@ -4478,17 +4453,6 @@
         "collserve.com",
         "dataium.com",
         "ihs.com"
-      ]
-    },
-    "Datalogix": {
-      "properties": [
-        "datalogix.com",
-        "nexac.com"
-      ],
-      "resources": [
-        "datalogix.com",
-        "nexac.com",
-        "nextaction.net"
       ]
     },
     "DataMind.ru": {
@@ -6626,16 +6590,6 @@
       ],
       "resources": [
         "gostats.com"
-      ]
-    },
-    "Grapeshot": {
-      "properties": [
-        "grapeshot.co.uk",
-        "www.grapeshot.co.uk"
-      ],
-      "resources": [
-        "grapeshot.co.uk",
-        "www.grapeshot.co.uk"
       ]
     },
     "GrapheneMedia": {
@@ -9079,17 +9033,6 @@
         "mixpo.com"
       ]
     },
-    "Moat": {
-      "properties": [
-        "moat.com",
-        "moatads.com"
-      ],
-      "resources": [
-        "moat.com",
-        "moatads.com",
-        "moatpixel.com"
-      ]
-    },
     "MobFox": {
       "properties": [
         "mobfox.com"
@@ -10021,16 +9964,45 @@
     },
     "Oracle": {
       "properties": [
-        "oracle.com"
+        "addthis.com",
+        "bluekai.com",
+        "datalogix.com",
+        "grapeshot.co.uk",
+        "moat.com",
+        "moatads.com",
+        "nexac.com",
+        "oracle.com",
+        "responsys.com",
+        "tracksimple.com",
+        "www.grapeshot.co.uk"
       ],
       "resources": [
+        "addthis.com",
+        "addthiscdn.com",
+        "addthisedge.com",
         "atgsvcs.com",
+        "bkrtx.com",
+        "bluekai.com",
+        "clearspring.com",
+        "connectedads.net",
+        "datalogix.com",
         "eloqua.com",
         "estara.com",
+        "grapeshot.co.uk",
         "instantservice.com",
         "istrack.com",
         "maxymiser.com",
-        "oracle.com"
+        "moat.com",
+        "moatads.com",
+        "moatpixel.com",
+        "nexac.com",
+        "nextaction.net",
+        "oracle.com",
+        "responsys.com",
+        "tracksimple.com",
+        "www.grapeshot.co.uk",
+        "xgraph.com",
+        "xgraph.net"
       ]
     },
     "OrangeSoda": {
@@ -11167,14 +11139,6 @@
         "reson8.com",
         "resonateinsights.com",
         "resonatenetworks.com"
-      ]
-    },
-    "Responsys": {
-      "properties": [
-        "responsys.com"
-      ],
-      "resources": [
-        "responsys.com"
       ]
     },
     "Retail Automata": {
