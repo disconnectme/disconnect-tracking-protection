@@ -2245,9 +2245,13 @@
             "everestjs.net",
             "everesttech.net",
             "hitbox.com",
+            "marketo.com",
+            "marketo.net",
             "omniture.com",
             "omtrdc.net",
-            "touchclarity.com"
+            "tmogul.com",
+            "touchclarity.com",
+            "tubemogul.com"
           ]
         }
       },
@@ -6195,14 +6199,6 @@
         }
       },
       {
-        "Marketo": {
-          "http://www.marketo.com/": [
-            "marketo.com",
-            "marketo.net"
-          ]
-        }
-      },
-      {
         "Martini Media": {
           "http://martinimedianetwork.com/": [
             "martiniadnetwork.com",
@@ -8950,14 +8946,6 @@
         "TTarget": {
           "https://ttarget.ru/": [
             "ttarget.ru"
-          ]
-        }
-      },
-      {
-        "TubeMogul": {
-          "http://www.tubemogul.com/": [
-            "tmogul.com",
-            "tubemogul.com"
           ]
         }
       },

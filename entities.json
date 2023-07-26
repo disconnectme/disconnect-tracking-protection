@@ -1069,6 +1069,9 @@
       "properties": [
         "adobe.com",
         "livefyre.com",
+        "marketo.com",
+        "tmogul.com",
+        "tubemogul.com",
         "typekit.com"
       ],
       "resources": [
@@ -1085,9 +1088,13 @@
         "fyre.co",
         "hitbox.com",
         "livefyre.com",
+        "marketo.com",
+        "marketo.net",
         "omniture.com",
         "omtrdc.net",
+        "tmogul.com",
         "touchclarity.com",
+        "tubemogul.com",
         "typekit.com"
       ]
     },
@@ -8437,15 +8444,6 @@
         "marketgid.com"
       ]
     },
-    "Marketo": {
-      "properties": [
-        "marketo.com"
-      ],
-      "resources": [
-        "marketo.com",
-        "marketo.net"
-      ]
-    },
     "Markit": {
       "properties": [
         "markit.com",
@@ -13273,16 +13271,6 @@
       ],
       "resources": [
         "ttarget.ru"
-      ]
-    },
-    "TubeMogul": {
-      "properties": [
-        "tmogul.com",
-        "tubemogul.com"
-      ],
-      "resources": [
-        "tmogul.com",
-        "tubemogul.com"
       ]
     },
     "TurkTelekom": {
