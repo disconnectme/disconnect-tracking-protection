@@ -6652,12 +6652,10 @@
     },
     "Gruner + Jahr": {
       "properties": [
-        "guj.de",
-        "ligatus.com"
+        "guj.de"
       ],
       "resources": [
-        "guj.de",
-        "ligatus.com"
+        "guj.de"
       ]
     },
     "GTop": {
@@ -10023,12 +10021,15 @@
     "Outbrain": {
       "properties": [
         "outbrain.com",
-        "sphere.com"
+        "sphere.com",
+        "zemanta.com"
       ],
       "resources": [
+        "ligatus.com",
         "outbrain.com",
         "sphere.com",
-        "visualrevenue.com"
+        "visualrevenue.com",
+        "zemanta.com"
       ]
     },
     "Outreach": {
@@ -14831,14 +14832,6 @@
       ],
       "resources": [
         "ze-fir.com"
-      ]
-    },
-    "Zemanta": {
-      "properties": [
-        "zemanta.com"
-      ],
-      "resources": [
-        "zemanta.com"
       ]
     },
     "Zendable": {

@@ -5194,8 +5194,7 @@
       {
         "Gruner + Jahr": {
           "http://www.guj.de/": [
-            "guj.de",
-            "ligatus.com"
+            "guj.de"
           ]
         }
       },
@@ -7068,9 +7067,11 @@
       {
         "Outbrain": {
           "http://www.outbrain.com/": [
+            "ligatus.com",
             "outbrain.com",
             "sphere.com",
-            "visualrevenue.com"
+            "visualrevenue.com",
+            "zemanta.com"
           ]
         }
       },
@@ -9708,13 +9709,6 @@
         "Zefir": {
           "https://ze-fir.com/": [
             "ze-fir.com"
-          ]
-        }
-      },
-      {
-        "Zemanta": {
-          "http://www.zemanta.com/": [
-            "zemanta.com"
           ]
         }
       },
@@ -12848,13 +12842,6 @@
         }
       },
       {
-        "Gruner + Jahr": {
-          "http://www.guj.de/": [
-            "ligatus.com"
-          ]
-        }
-      },
-      {
         "HilltopAds": {
           "https://hilltopads.com/": [
             "hilltopads.net",
@@ -13003,6 +12990,13 @@
         "OnlineMetrix": {
           "http://h.online-metrix.net": [
             "online-metrix.net"
+          ]
+        }
+      },
+      {
+        "Outbrain": {
+          "http://www.outbrain.com/": [
+            "ligatus.com"
           ]
         }
       },
