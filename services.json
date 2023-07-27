@@ -7807,17 +7807,6 @@
         }
       },
       {
-        "Rocket Fuel": {
-          "http://rocketfuel.com/": [
-            "rfihub.com",
-            "rfihub.net",
-            "rocketfuel.com",
-            "ru4.com",
-            "xplusone.com"
-          ]
-        }
-      },
-      {
         "Roku": {
           "https://www.roku.com/": [
             "dataxu.com",
@@ -9720,7 +9709,12 @@
         "ZetaGlobal": {
           "https://zetaglobal.com/": [
             "boomtrain.com",
-            "rezync.com"
+            "rezync.com",
+            "rfihub.com",
+            "rfihub.net",
+            "rocketfuel.com",
+            "ru4.com",
+            "xplusone.com"
           ]
         }
       },

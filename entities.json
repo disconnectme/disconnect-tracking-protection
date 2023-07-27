@@ -11273,20 +11273,6 @@
         "getrockerbox.com"
       ]
     },
-    "Rocket Fuel": {
-      "properties": [
-        "rfihub.com",
-        "rfihub.net",
-        "rocketfuel.com"
-      ],
-      "resources": [
-        "rfihub.com",
-        "rfihub.net",
-        "rocketfuel.com",
-        "ru4.com",
-        "xplusone.com"
-      ]
-    },
     "Roku": {
       "properties": [
         "dataxu.com",
@@ -14859,11 +14845,19 @@
     },
     "ZetaGlobal": {
       "properties": [
+        "rfihub.com",
+        "rfihub.net",
+        "rocketfuel.com",
         "zetaglobal.com"
       ],
       "resources": [
         "boomtrain.com",
-        "rezync.com"
+        "rezync.com",
+        "rfihub.com",
+        "rfihub.net",
+        "rocketfuel.com",
+        "ru4.com",
+        "xplusone.com"
       ]
     },
     "ZiffDavis": {
