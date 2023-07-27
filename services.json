@@ -2867,18 +2867,6 @@
         }
       },
       {
-        "Amobee": {
-          "http://amobee.com/": [
-            "adconion.com",
-            "amgdgt.com",
-            "amobee.com",
-            "euroclick.com",
-            "smartclip.com",
-            "turn.com"
-          ]
-        }
-      },
-      {
         "AndBeyond": {
           "http://andbeyond.media/": [
             "andbeyond.media"
@@ -8888,14 +8876,20 @@
       {
         "Tremor": {
           "https://www.tremorinternational.com/": [
+            "adconion.com",
+            "amgdgt.com",
+            "amobee.com",
+            "euroclick.com",
             "gwallet.com",
             "po.st",
             "radiumone.com",
             "scanscout.com",
+            "smartclip.com",
             "tmnetads.com",
             "tremorhub.com",
             "tremormedia.com",
-            "tremorvideo.com"
+            "tremorvideo.com",
+            "turn.com"
           ]
         }
       },

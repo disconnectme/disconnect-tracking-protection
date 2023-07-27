@@ -2022,20 +2022,6 @@
         "ambientdigital.com.vn"
       ]
     },
-    "Amobee": {
-      "properties": [
-        "amobee.com",
-        "smartclip.com"
-      ],
-      "resources": [
-        "adconion.com",
-        "amgdgt.com",
-        "amobee.com",
-        "euroclick.com",
-        "smartclip.com",
-        "turn.com"
-      ]
-    },
     "Amplitude": {
       "properties": [
         "amplitude.com"
@@ -13173,20 +13159,28 @@
     },
     "Tremor": {
       "properties": [
+        "amobee.com",
         "po.st",
         "radiumone.com",
+        "smartclip.com",
         "tremorinternational.com",
         "tremorvideo.com"
       ],
       "resources": [
+        "adconion.com",
+        "amgdgt.com",
+        "amobee.com",
+        "euroclick.com",
         "gwallet.com",
         "po.st",
         "radiumone.com",
         "scanscout.com",
+        "smartclip.com",
         "tmnetads.com",
         "tremorhub.com",
         "tremormedia.com",
-        "tremorvideo.com"
+        "tremorvideo.com",
+        "turn.com"
       ]
     },
     "Trendemon": {
