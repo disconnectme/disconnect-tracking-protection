@@ -4798,8 +4798,7 @@
         "Federated Media": {
           "http://www.federatedmedia.net/": [
             "federatedmedia.net",
-            "fmpub.net",
-            "lijit.com"
+            "fmpub.net"
           ]
         }
       },
@@ -8252,8 +8251,10 @@
       {
         "Sovrn": {
           "https://www.sovrn.com/": [
+            "lijit.com",
             "s-onetag.com",
-            "sovrn.com"
+            "sovrn.com",
+            "viglink.com"
           ]
         }
       },
@@ -9199,13 +9200,6 @@
         "VideoIntelligence": {
           "https://www.vi.ai/": [
             "vi.ai"
-          ]
-        }
-      },
-      {
-        "VigLink": {
-          "http://www.viglink.com/": [
-            "viglink.com"
           ]
         }
       },

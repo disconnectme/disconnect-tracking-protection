@@ -5485,14 +5485,12 @@
     },
     "Federated Media": {
       "properties": [
-        "hyfn.com",
-        "lijit.com"
+        "hyfn.com"
       ],
       "resources": [
         "federatedmedia.net",
         "fmpub.net",
-        "hyfn.com",
-        "lijit.com"
+        "hyfn.com"
       ]
     },
     "Feedjit": {
@@ -12139,11 +12137,14 @@
     },
     "Sovrn": {
       "properties": [
-        "sovrn.com"
+        "sovrn.com",
+        "viglink.com"
       ],
       "resources": [
+        "lijit.com",
         "s-onetag.com",
-        "sovrn.com"
+        "sovrn.com",
+        "viglink.com"
       ]
     },
     "Space Chimp Media": {
@@ -13804,14 +13805,6 @@
       "resources": [
         "qoof.com",
         "viewbix.com"
-      ]
-    },
-    "VigLink": {
-      "properties": [
-        "viglink.com"
-      ],
-      "resources": [
-        "viglink.com"
       ]
     },
     "Vimeo": {
