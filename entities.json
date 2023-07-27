@@ -4098,14 +4098,6 @@
         "contextuads.com"
       ]
     },
-    "CONTEXTWEB": {
-      "properties": [
-        "contextweb.com"
-      ],
-      "resources": [
-        "contextweb.com"
-      ]
-    },
     "ConvergeDirect": {
       "properties": [
         "convergedirect.com",
@@ -10695,9 +10687,11 @@
     },
     "PulsePoint": {
       "properties": [
+        "contextweb.com",
         "pulsepoint.com"
       ],
       "resources": [
+        "contextweb.com",
         "pulsepoint.com"
       ]
     },
