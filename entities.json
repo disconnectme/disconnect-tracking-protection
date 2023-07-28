@@ -1108,15 +1108,6 @@
         "adocean.pl"
       ]
     },
-    "Adometry": {
-      "properties": [
-        "adometry.com"
-      ],
-      "resources": [
-        "adometry.com",
-        "dmtry.com"
-      ]
-    },
     "Adomik": {
       "properties": [
         "adomik.com"
@@ -6290,12 +6281,14 @@
         "2mdn.net",
         "admeld.com",
         "admob.com",
+        "adometry.com",
         "apture.com",
         "blogger.com",
         "cc-dt.com",
         "crashlytics.com",
         "dartsearch.net",
         "destinationurl.com",
+        "dmtry.com",
         "doubleclick.net",
         "ggpht.com",
         "gmail.com",

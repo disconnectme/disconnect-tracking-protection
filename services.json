@@ -2264,14 +2264,6 @@
         }
       },
       {
-        "Adometry": {
-          "http://www.adometry.com/": [
-            "adometry.com",
-            "dmtry.com"
-          ]
-        }
-      },
-      {
         "Adomik": {
           "http://www.adomik.com/": [
             "adomik.com"
@@ -14028,6 +14020,7 @@
             "2mdn.net",
             "admeld.com",
             "admob.com",
+            "adometry.com",
             "adservice.google.ca",
             "adservice.google.com",
             "adwords.google.com",
@@ -14036,6 +14029,7 @@
             "dartsearch.net",
             "destinationurl.com",
             "developers.google.com",
+            "dmtry.com",
             "doubleclick.net",
             "fcmatch.google.com",
             "fcmatch.youtube.com",
