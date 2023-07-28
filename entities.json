@@ -3874,22 +3874,6 @@
         "commander1.com"
       ]
     },
-    "Commission Junction": {
-      "properties": [
-        "cj.com"
-      ],
-      "resources": [
-        "apmebf.com",
-        "awltovhc.com",
-        "cj.com",
-        "ftjcfx.com",
-        "kcdwa.com",
-        "qksz.com",
-        "qksz.net",
-        "tqlkg.com",
-        "yceml.net"
-      ]
-    },
     "Communicator Corp": {
       "properties": [
         "communicatorcorp.com"
@@ -4106,26 +4090,6 @@
       "resources": [
         "convergedirect.com",
         "convergetrack.com"
-      ]
-    },
-    "ConversantMedia": {
-      "properties": [
-        "conversantmedia.com"
-      ],
-      "resources": [
-        "adserver.com",
-        "conversantmedia.com",
-        "dotomi.com",
-        "dtmpub.com",
-        "emjcd.com",
-        "fastclick.com",
-        "fastclick.net",
-        "greystripe.com",
-        "lduhtrp.net",
-        "mediaplex.com",
-        "valueclick.com",
-        "valueclick.net",
-        "valueclickmedia.com"
       ]
     },
     "ConversionRuler": {
@@ -10656,6 +10620,37 @@
       ],
       "resources": [
         "publicidees.com"
+      ]
+    },
+    "PublicisGroupe": {
+      "properties": [
+        "cj.com",
+        "conversantmedia.com",
+        "publicisgroupe.com"
+      ],
+      "resources": [
+        "adserver.com",
+        "apmebf.com",
+        "awltovhc.com",
+        "cj.com",
+        "conversantmedia.com",
+        "dotomi.com",
+        "dtmpub.com",
+        "emjcd.com",
+        "fastclick.com",
+        "fastclick.net",
+        "ftjcfx.com",
+        "greystripe.com",
+        "kcdwa.com",
+        "lduhtrp.net",
+        "mediaplex.com",
+        "qksz.com",
+        "qksz.net",
+        "tqlkg.com",
+        "valueclick.com",
+        "valueclick.net",
+        "valueclickmedia.com",
+        "yceml.net"
       ]
     },
     "Publishers Clearing House": {

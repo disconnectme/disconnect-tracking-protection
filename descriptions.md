@@ -49,7 +49,7 @@ The technical and policy review information below was recorded on the date obser
 - [Cloudflare](#Cloudflare)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
-- [ConversantMedia](#ConversantMedia)
+- [PublicisGroupe](#PublicisGroupe)
 - [CryptoLoot](#CryptoLoot)
 - [dmpxs](#dmpxs)
 - [DoubleVerify](#DoubleVerify)
@@ -2169,7 +2169,7 @@ Raw log:
 ```
 [Go back to top](#tracker-descriptions)
 
-## ConversantMedia
+## PublicisGroupe
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Conversant's privacy policy States:
