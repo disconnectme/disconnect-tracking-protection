@@ -108,7 +108,7 @@ The technical and policy review information below was recorded on the date obser
 - [PartyPoker](#PartyPoker)
 - [PaymentsMB](#PaymentsMB)
 - [Paypal](#Paypal)
-- [PerimeterX](#PerimeterX)
+- [HumanSecurity](#HumanSecurity)
 - [PinPoll](#PinPoll)
 - [PixAnalytics](#PixAnalytics)
 - [Pixlee](#Pixlee)
@@ -4477,7 +4477,7 @@ Script: `https://cdn.simility.com/b.js`
 
 [Go back to top](#tracker-descriptions)
 
-## PerimeterX
+## HumanSecurity
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 

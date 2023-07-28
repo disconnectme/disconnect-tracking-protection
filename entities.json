@@ -6809,6 +6809,20 @@
         "usemessages.com"
       ]
     },
+    "HumanSecurity": {
+      "properties": [
+        "adzmath.com",
+        "humansecurity.com",
+        "perimeterx.com",
+        "whiteops.com"
+      ],
+      "resources": [
+        "adxyield.com",
+        "adzmath.com",
+        "perimeterx.com",
+        "whiteops.com"
+      ]
+    },
     "Hunter": {
       "properties": [
         "hunter.io"
@@ -10144,14 +10158,6 @@
       ],
       "resources": [
         "performancing.com"
-      ]
-    },
-    "PerimeterX": {
-      "properties": [
-        "perimeterx.com"
-      ],
-      "resources": [
-        "perimeterx.com"
       ]
     },
     "Permodo": {
@@ -14209,17 +14215,6 @@
         "reinvigorate.net",
         "webtrends.com",
         "webtrendslive.com"
-      ]
-    },
-    "White Ops": {
-      "properties": [
-        "adzmath.com",
-        "whiteops.com"
-      ],
-      "resources": [
-        "adxyield.com",
-        "adzmath.com",
-        "whiteops.com"
       ]
     },
     "whos.amung.us": {
