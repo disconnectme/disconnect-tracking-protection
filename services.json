@@ -1657,6 +1657,13 @@
         }
       },
       {
+        "Acxiom": {
+          "http://www.acxiom.com/": [
+            "pippio.com"
+          ]
+        }
+      },
+      {
         "AD2ONE": {
           "http://www.ad2onegroup.com/": [
             "ad2onegroup.com"
@@ -4179,6 +4186,13 @@
         }
       },
       {
+        "DeliverImp": {
+          "https://deliverimp.com": [
+            "deliverimp.com"
+          ]
+        }
+      },
+      {
         "Delivr": {
           "http://delivr.com/": [
             "delivr.com",
@@ -5887,6 +5901,13 @@
         }
       },
       {
+        "Lemma": {
+          "https://lemmatechnologies.com/": [
+            "lemmatechnologies.com"
+          ]
+        }
+      },
+      {
         "Levexis": {
           "http://www.levexis.com/": [
             "levexis.com"
@@ -5951,6 +5972,7 @@
         "LiveRamp": {
           "https://liveramp.com/": [
             "liveramp.com",
+            "privacymanager.io",
             "rlcdn.com",
             "tvpixel.com"
           ]
@@ -9703,6 +9725,13 @@
             "rocketfuel.com",
             "ru4.com",
             "xplusone.com"
+          ]
+        }
+      },
+      {
+        "ZoomInfo": {
+          "https://www.zoominfo.com/": [
+            "clickagy.com"
           ]
         }
       },

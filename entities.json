@@ -4467,6 +4467,14 @@
         "deepintent.com"
       ]
     },
+    "DeliverImp": {
+      "properties": [
+        "deliverimp.com"
+      ],
+      "resources": [
+        "deliverimp.com"
+      ]
+    },
     "Delivr": {
       "properties": [
         "delivr.com"
@@ -7856,6 +7864,14 @@
         "legolas-media.com"
       ]
     },
+    "Lemma": {
+      "properties": [
+        "lemmatechnologies.com"
+      ],
+      "resources": [
+        "lemmatechnologies.com"
+      ]
+    },
     "Levexis": {
       "properties": [
         "levexis.com"
@@ -7987,6 +8003,7 @@
       ],
       "resources": [
         "liveramp.com",
+        "privacymanager.io",
         "rlcdn.com",
         "tvpixel.com"
       ]
@@ -14875,6 +14892,7 @@
         "zoominfo.com"
       ],
       "resources": [
+        "clickagy.com",
         "zoominfo.com"
       ]
     },
