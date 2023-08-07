@@ -398,14 +398,6 @@
         "ad6media.fr"
       ]
     },
-    "Adabra": {
-      "properties": [
-        "adabra.com"
-      ],
-      "resources": [
-        "adabra.com"
-      ]
-    },
     "Adagio": {
       "properties": [
         "adagio.io"
@@ -672,14 +664,6 @@
         "adfusion.com"
       ]
     },
-    "AdGainerSolutions": {
-      "properties": [
-        "adgainersolutions.com"
-      ],
-      "resources": [
-        "adgainersolutions.com"
-      ]
-    },
     "AdGear": {
       "properties": [
         "adgear.com",
@@ -931,9 +915,6 @@
       ],
       "resources": [
         "ad-maven.com",
-        "agreensdistra.info",
-        "boudja.com",
-        "rensovetors.info",
         "wrethicap.info"
       ]
     },
@@ -1368,14 +1349,6 @@
         "clickintext.net"
       ]
     },
-    "Adstune": {
-      "properties": [
-        "adstune.com"
-      ],
-      "resources": [
-        "adstune.com"
-      ]
-    },
     "Adsty": {
       "properties": [
         "adsty.com",
@@ -1637,8 +1610,7 @@
       ],
       "resources": [
         "adyoulike.com",
-        "omnitagjs.com",
-        "pulpix.com"
+        "omnitagjs.com"
       ]
     },
     "ADZ": {
@@ -2291,14 +2263,6 @@
         "hipcricket.com"
       ]
     },
-    "Augur": {
-      "properties": [
-        "augur.io"
-      ],
-      "resources": [
-        "augur.io"
-      ]
-    },
     "AuthorEmail": {
       "properties": [
         "authoremail.com"
@@ -2431,7 +2395,6 @@
       ],
       "resources": [
         "azet.sk",
-        "azetklik.sk",
         "mediaimpact.sk",
         "rsz.sk"
       ]
@@ -2673,15 +2636,6 @@
       ],
       "resources": [
         "bidvertiser.com"
-      ]
-    },
-    "BigClick": {
-      "properties": [
-        "bigclick.me"
-      ],
-      "resources": [
-        "bgclck.me",
-        "xcvgdf.party"
       ]
     },
     "BigDoor": {
@@ -3195,12 +3149,10 @@
     },
     "C3 Metrics": {
       "properties": [
-        "attributionmodel.com",
         "c3metrics.com",
         "c3tag.com"
       ],
       "resources": [
-        "attributionmodel.com",
         "c3metrics.com",
         "c3tag.com"
       ]
@@ -4907,15 +4859,6 @@
         "js-kit.com"
       ]
     },
-    "ECSAnalytics": {
-      "properties": [
-        "ecsanalytics.com",
-        "theecsinc.com"
-      ],
-      "resources": [
-        "ecsanalytics.com"
-      ]
-    },
     "edrone": {
       "properties": [
         "edrone.me"
@@ -5326,15 +5269,6 @@
         "eyeota.net"
       ]
     },
-    "eyeReturn Marketing": {
-      "properties": [
-        "eyereturnmarketing.com"
-      ],
-      "resources": [
-        "eyereturn.com",
-        "eyereturnmarketing.com"
-      ]
-    },
     "Eyeviewdigital": {
       "properties": [
         "eyeviewdigital.com"
@@ -5718,14 +5652,6 @@
       ],
       "resources": [
         "frontapp.com"
-      ]
-    },
-    "FuelX": {
-      "properties": [
-        "fuelx.com"
-      ],
-      "resources": [
-        "fuel451.com"
       ]
     },
     "Fullstory": {
@@ -6706,8 +6632,7 @@
       ],
       "resources": [
         "hilltopads.com",
-        "hilltopads.net",
-        "shoporielder.pro"
+        "hilltopads.net"
       ]
     },
     "Hi-media": {
@@ -6930,14 +6855,6 @@
       "resources": [
         "idg.com",
         "idgtechnetwork.com"
-      ]
-    },
-    "ie8eamus": {
-      "properties": [
-        "ie8eamus.com"
-      ],
-      "resources": [
-        "ie8eamus.com"
       ]
     },
     "iEntry": {
@@ -9231,15 +9148,6 @@
         "ppjol.net"
       ]
     },
-    "Mystighty": {
-      "properties": [
-        "mystighty.info"
-      ],
-      "resources": [
-        "mystighty.info",
-        "sweeterge.info"
-      ]
-    },
     "myThings": {
       "properties": [
         "mythings.com",
@@ -10108,14 +10016,6 @@
         "payhit.com"
       ]
     },
-    "PaymentsMB": {
-      "properties": [
-        "paymentsmb.com"
-      ],
-      "resources": [
-        "paymentsmb.com"
-      ]
-    },
     "Paypal": {
       "properties": [
         "paypal.com",
@@ -10535,14 +10435,6 @@
         "sekindo.com"
       ]
     },
-    "PrismApp": {
-      "properties": [
-        "prismapp.io"
-      ],
-      "resources": [
-        "prismapp.io"
-      ]
-    },
     "Proclivity": {
       "properties": [
         "proclivitysystems.com",
@@ -10612,22 +10504,6 @@
       "resources": [
         "ad-score.com",
         "protected.media"
-      ]
-    },
-    "Provers": {
-      "properties": [
-        "provers.pro"
-      ],
-      "resources": [
-        "provers.pro"
-      ]
-    },
-    "Psonstrentie": {
-      "properties": [
-        "psonstrentie.info"
-      ],
-      "resources": [
-        "psonstrentie.info"
       ]
     },
     "Public-Idées": {
@@ -11491,8 +11367,7 @@
       ],
       "resources": [
         "ondemand.com",
-        "sap.com",
-        "seewhy.com"
+        "sap.com"
       ]
     },
     "Sapient": {
@@ -11603,7 +11478,6 @@
         "selectablemedia.com"
       ],
       "resources": [
-        "nabbr.com",
         "selectablemedia.com"
       ]
     },
@@ -13459,14 +13333,6 @@
         "uimserv.net"
       ]
     },
-    "Unknown2mdnsys": {
-      "properties": [
-        "2mdnsys.com"
-      ],
-      "resources": [
-        "2mdnsys.com"
-      ]
-    },
     "Unruly": {
       "properties": [
         "unruly.co"
@@ -14791,14 +14657,6 @@
       "resources": [
         "zedo.com",
         "zincx.com"
-      ]
-    },
-    "Zefir": {
-      "properties": [
-        "ze-fir.com"
-      ],
-      "resources": [
-        "ze-fir.com"
       ]
     },
     "Zendable": {

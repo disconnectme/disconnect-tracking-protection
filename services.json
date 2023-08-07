@@ -1685,13 +1685,6 @@
         }
       },
       {
-        "Adabra": {
-          "https://www.adabra.com/": [
-            "adabra.com"
-          ]
-        }
-      },
-      {
         "Adagio": {
           "https://adagio.io/": [
             "4dex.io"
@@ -1914,13 +1907,6 @@
         }
       },
       {
-        "AdGainerSolutions": {
-          "http://adgainersolutions.com/adgainer/": [
-            "adgainersolutions.com"
-          ]
-        }
-      },
-      {
         "AdGear": {
           "https://adgear.com/en/": [
             "adgear.com",
@@ -2122,9 +2108,6 @@
         "AdMaven": {
           "https://ad-maven.com/": [
             "ad-maven.com",
-            "agreensdistra.info",
-            "boudja.com",
-            "rensovetors.info",
             "wrethicap.info"
           ]
         }
@@ -2484,13 +2467,6 @@
         }
       },
       {
-        "Adstune": {
-          "https://adstune.com": [
-            "adstune.com"
-          ]
-        }
-      },
-      {
         "Adsty": {
           "http://adsty.com/": [
             "adsty.com",
@@ -2696,8 +2672,7 @@
         "AdYouLike": {
           "https://www.adyoulike.com/": [
             "adyoulike.com",
-            "omnitagjs.com",
-            "pulpix.com"
+            "omnitagjs.com"
           ]
         }
       },
@@ -3054,13 +3029,6 @@
         }
       },
       {
-        "Augur": {
-          "http://www.augur.io/": [
-            "augur.io"
-          ]
-        }
-      },
-      {
         "AUTOCENTRE.UA": {
           "http://www.autocentre.ua/": [
             "am.ua",
@@ -3132,7 +3100,6 @@
       {
         "Azet": {
           "http://mediaimpact.sk/": [
-            "azetklik.sk",
             "rsz.sk"
           ]
         }
@@ -3280,14 +3247,6 @@
         "BidVertiser": {
           "http://www.bidvertiser.com/": [
             "bidvertiser.com"
-          ]
-        }
-      },
-      {
-        "BigClick": {
-          "http://bigclick.me/": [
-            "bgclck.me",
-            "xcvgdf.party"
           ]
         }
       },
@@ -3578,7 +3537,6 @@
       {
         "C3 Metrics": {
           "http://c3metrics.com/": [
-            "attributionmodel.com",
             "c3metrics.com",
             "c3tag.com"
           ]
@@ -4710,14 +4668,6 @@
         }
       },
       {
-        "eyeReturn Marketing": {
-          "http://www.eyereturnmarketing.com/": [
-            "eyereturn.com",
-            "eyereturnmarketing.com"
-          ]
-        }
-      },
-      {
         "Eyeviewdigital": {
           "http://www.eyeviewdigital.com/": [
             "eyeviewdigital.com"
@@ -4924,14 +4874,6 @@
           "http://www.frogsex.com/": [
             "double-check.com",
             "frogsex.com"
-          ]
-        }
-      },
-      {
-        "FuelX": {
-          "https://fuelx.com/": [
-            "fuel451.com",
-            "fuelx.com"
           ]
         }
       },
@@ -5205,8 +5147,7 @@
         "HilltopAds": {
           "https://hilltopads.com/": [
             "hilltopads.com",
-            "hilltopads.net",
-            "shoporielder.pro"
+            "hilltopads.net"
           ]
         }
       },
@@ -5332,13 +5273,6 @@
           "http://www.idg.com/": [
             "idg.com",
             "idgtechnetwork.com"
-          ]
-        }
-      },
-      {
-        "ie8eamus": {
-          "https://ie8eamus.com/": [
-            "ie8eamus.com"
           ]
         }
       },
@@ -7365,13 +7299,6 @@
         }
       },
       {
-        "PrismApp": {
-          "https://www.prismapp.io/": [
-            "prismapp.io"
-          ]
-        }
-      },
-      {
         "Proclivity": {
           "http://www.proclivitymedia.com/": [
             "proclivitymedia.com",
@@ -7413,20 +7340,6 @@
           "http://www.protected.media/": [
             "ad-score.com",
             "protected.media"
-          ]
-        }
-      },
-      {
-        "Provers": {
-          "http://provers.pro": [
-            "provers.pro"
-          ]
-        }
-      },
-      {
-        "Psonstrentie": {
-          "http://psonstrentie.info": [
-            "psonstrentie.info"
           ]
         }
       },
@@ -7903,13 +7816,6 @@
         }
       },
       {
-        "SAP": {
-          "https://www.sap.com": [
-            "seewhy.com"
-          ]
-        }
-      },
-      {
         "Sapient": {
           "http://www.sapient.com/": [
             "bridgetrack.com",
@@ -7967,7 +7873,6 @@
       {
         "Selectable Media": {
           "http://selectablemedia.com/": [
-            "nabbr.com",
             "selectablemedia.com"
           ]
         }
@@ -9016,13 +8921,6 @@
         }
       },
       {
-        "Unknown2mdnsys": {
-          "https://2mdnsys.com": [
-            "2mdnsys.com"
-          ]
-        }
-      },
-      {
         "Unruly": {
           "https://unruly.co/": [
             "unrulymedia.com"
@@ -9683,13 +9581,6 @@
           "http://www.zedo.com/": [
             "zedo.com",
             "zincx.com"
-          ]
-        }
-      },
-      {
-        "Zefir": {
-          "https://ze-fir.com/": [
-            "ze-fir.com"
           ]
         }
       },
@@ -11269,13 +11160,6 @@
         }
       },
       {
-        "ECSAnalytics": {
-          "https://www.theecsinc.com/": [
-            "ecsanalytics.com"
-          ]
-        }
-      },
-      {
         "EFF": {
           "https://www.eff.org/": [
             "do-not-tracker.org",
@@ -11810,14 +11694,6 @@
         "MyPagerank.Net": {
           "http://www.mypagerank.net/": [
             "mypagerank.net"
-          ]
-        }
-      },
-      {
-        "Mystighty": {
-          "http://mystighty.info/": [
-            "mystighty.info",
-            "sweeterge.info"
           ]
         }
       },
@@ -12519,13 +12395,6 @@
     ],
     "FingerprintingInvasive": [
       {
-        "Adabra": {
-          "https://www.adabra.com/": [
-            "adabra.com"
-          ]
-        }
-      },
-      {
         "Adbot": {
           "https://adbot.tw/": [
             "adbot.tw"
@@ -12540,19 +12409,9 @@
         }
       },
       {
-        "AdGainerSolutions": {
-          "http://adgainersolutions.com/adgainer/": [
-            "adgainersolutions.com"
-          ]
-        }
-      },
-      {
         "AdMaven": {
           "https://ad-maven.com/": [
             "ad-maven.com",
-            "agreensdistra.info",
-            "boudja.com",
-            "rensovetors.info",
             "wrethicap.info"
           ]
         }
@@ -12581,23 +12440,9 @@
         }
       },
       {
-        "Adstune": {
-          "https://adstune.com": [
-            "adstune.com"
-          ]
-        }
-      },
-      {
         "AdxSpace": {
           "https://adx.space": [
             "00px.net"
-          ]
-        }
-      },
-      {
-        "AdYouLike": {
-          "https://www.adyoulike.com/": [
-            "pulpix.com"
           ]
         }
       },
@@ -12618,16 +12463,8 @@
         }
       },
       {
-        "Augur": {
-          "http://www.augur.io/": [
-            "augur.io"
-          ]
-        }
-      },
-      {
         "Azet": {
           "http://mediaimpact.sk/": [
-            "azetklik.sk",
             "rsz.sk"
           ]
         }
@@ -12636,14 +12473,6 @@
         "BetssonPalantir": {
           "https://betssonpalantir.com/": [
             "betssonpalantir.com"
-          ]
-        }
-      },
-      {
-        "BigClick": {
-          "http://bigclick.me/": [
-            "bgclck.me",
-            "xcvgdf.party"
           ]
         }
       },
@@ -12701,7 +12530,6 @@
       {
         "C3 Metrics": {
           "http://c3metrics.com/": [
-            "attributionmodel.com",
             "c3metrics.com",
             "c3tag.com"
           ]
@@ -12776,24 +12604,9 @@
         }
       },
       {
-        "ECSAnalytics": {
-          "https://www.theecsinc.com/": [
-            "ecsanalytics.com"
-          ]
-        }
-      },
-      {
         "EroAdvertising": {
           "http://www.ero-advertising.com/": [
             "ero-advertising.com"
-          ]
-        }
-      },
-      {
-        "eyeReturn Marketing": {
-          "http://www.eyereturnmarketing.com/": [
-            "eyereturn.com",
-            "eyereturnmarketing.com"
           ]
         }
       },
@@ -12809,14 +12622,6 @@
         "Friends2Follow": {
           "https://friends2follow.com/": [
             "antifraudjs.friends2follow.com"
-          ]
-        }
-      },
-      {
-        "FuelX": {
-          "https://fuelx.com/": [
-            "fuel451.com",
-            "fuelx.com"
           ]
         }
       },
@@ -12837,8 +12642,7 @@
       {
         "HilltopAds": {
           "https://hilltopads.com/": [
-            "hilltopads.net",
-            "shoporielder.pro"
+            "hilltopads.net"
           ]
         }
       },
@@ -12853,13 +12657,6 @@
         "HumanSecurity": {
           "https://www.humansecurity.com/": [
             "perimeterx.net"
-          ]
-        }
-      },
-      {
-        "ie8eamus": {
-          "https://ie8eamus.com/": [
-            "ie8eamus.com"
           ]
         }
       },
@@ -12964,14 +12761,6 @@
         }
       },
       {
-        "Mystighty": {
-          "http://mystighty.info/": [
-            "mystighty.info",
-            "sweeterge.info"
-          ]
-        }
-      },
-      {
         "Negishim": {
           "http://www.negishim.org": [
             "negishim.org"
@@ -13008,13 +12797,6 @@
         }
       },
       {
-        "PaymentsMB": {
-          "https://paymentsmb.com": [
-            "paymentsmb.com"
-          ]
-        }
-      },
-      {
         "Paypal": {
           "https://www.paypal.com": [
             "simility.com"
@@ -13043,13 +12825,6 @@
         }
       },
       {
-        "PrismApp": {
-          "https://www.prismapp.io/": [
-            "prismapp.io"
-          ]
-        }
-      },
-      {
         "PrometheusIntelligenceTechnology": {
           "https://prometheusintelligencetechnology.com/": [
             "prometheusintelligencetechnology.com"
@@ -13060,20 +12835,6 @@
         "Protected Media": {
           "http://www.protected.media/": [
             "ad-score.com"
-          ]
-        }
-      },
-      {
-        "Provers": {
-          "http://provers.pro": [
-            "provers.pro"
-          ]
-        }
-      },
-      {
-        "Psonstrentie": {
-          "http://psonstrentie.info": [
-            "psonstrentie.info"
           ]
         }
       },
@@ -13099,16 +12860,8 @@
         }
       },
       {
-        "SAP": {
-          "https://www.sap.com": [
-            "seewhy.com"
-          ]
-        }
-      },
-      {
         "Selectable Media": {
           "http://selectablemedia.com/": [
-            "nabbr.com",
             "selectablemedia.com"
           ]
         }
@@ -13220,13 +12973,6 @@
         }
       },
       {
-        "Unknown2mdnsys": {
-          "https://2mdnsys.com": [
-            "2mdnsys.com"
-          ]
-        }
-      },
-      {
         "Upland": {
           "https://uplandsoftware.com/": [
             "leadlander.com",
@@ -13275,13 +13021,6 @@
             "affasi.com",
             "gw-ec.com",
             "zaful.com"
-          ]
-        }
-      },
-      {
-        "Zefir": {
-          "https://ze-fir.com/": [
-            "ze-fir.com"
           ]
         }
       },

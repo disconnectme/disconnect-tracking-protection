@@ -2,31 +2,25 @@
 
 The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
 
-- [Adabra](#Adabra)
 - [Adbot](#Adbot)
 - [The-Trade-Desk](#The-Trade-Desk)
 - [AdCash](#AdCash)
-- [AdGainerSolutions](#AdGainerSolutions)
 - [Adjust](#Adjust)
 - [AdMaven](#AdMaven)
 - [Admicro](#Admicro)
 - [Adnium](#Adnium)
 - [Adobe](#Adobe)
 - [AdScore](#AdScore)
-- [Adstune](#Adstune)
 - [AdxSpace](#AdxSpace)
-- [AdYouLike](#AdYouLike)
 - [AivaLabs](#AivaLabs)
 - [a.js](#a.js)
 - [Albacross](#Albacross)
 - [AppCast](#AppCast)
 - [AuditedMedia](#AuditedMedia)
-- [Augur](#Augur)
 - [AvantLink](#AvantLink)
 - [Awin](#Awin)
 - [Azet](#Azet)
 - [BetssonPalantir](#BetssonPalantir)
-- [BigClick](#BigClick)
 - [Bisnode](#Bisnode)
 - [BitMedia](#BitMedia)
 - [BlueCava](#BlueCava)
@@ -54,18 +48,15 @@ The technical and policy review information below was recorded on the date obser
 - [dmpxs](#dmpxs)
 - [DoubleVerify](#DoubleVerify)
 - [Microsoft](#Microsoft)
-- [ECSAnalytics](#ECSAnalytics)
 - [EroAdvertising](#EroAdvertising)
 - [Experian](#Experian)
 - [EyeNewton](#EyeNewton)
-- [eyeReturn-Marketing](#eyeReturn-Marketing)
 - [Facebook](#Facebook)
 - [Fanplayr](#Fanplayr)
 - [Fiksu](#Fiksu)
 - [Flocktory](#Flocktory)
 - [Foresee](#Foresee)
 - [Friends2Follow](#Friends2Follow)
-- [FuelX](#FuelX)
 - [Gleam](#Gleam)
 - [Google](#Google)
 - [GrapheneMedia](#GrapheneMedia)
@@ -73,7 +64,6 @@ The technical and policy review information below was recorded on the date obser
 - [HilltopAds](#HilltopAds)
 - [HotelChamp](#HotelChamp)
 - [HotMart](#HotMart)
-- [ie8eamus](#ie8eamus)
 - [iMedia](#iMedia)
 - [Impact](#Impact)
 - [Infolinks](#Infolinks)
@@ -98,7 +88,6 @@ The technical and policy review information below was recorded on the date obser
 - [Minescripts](#Minescripts)
 - [MineXMR](#MineXMR)
 - [Mobials](#Mobials)
-- [Mystighty](#Mystighty)
 - [Negishim](#Negishim)
 - [NeroHut](#NeroHut)
 - [OneAd](#OneAd)
@@ -106,7 +95,6 @@ The technical and policy review information below was recorded on the date obser
 - [OpenX](#OpenX)
 - [Origo](#Origo)
 - [PartyPoker](#PartyPoker)
-- [PaymentsMB](#PaymentsMB)
 - [Paypal](#Paypal)
 - [HumanSecurity](#HumanSecurity)
 - [PinPoll](#PinPoll)
@@ -114,17 +102,13 @@ The technical and policy review information below was recorded on the date obser
 - [Pixlee](#Pixlee)
 - [Polen](#Polen)
 - [PPCProtect](#PPCProtect)
-- [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
 - [Protected-Media](#Protected-Media)
-- [Provers](#Provers)
-- [Psonstrentie](#Psonstrentie)
 - [Radware](#Radware)
 - [RazorPay](#RazorPay)
 - [Rollick](#Rollick)
 - [RoqAd](#RoqAd)
 - [Salesforce](#Salesforce)
-- [SAP](#SAP)
 - [Selectable-Media](#Selectable-Media)
 - [Semantiqo](#Semantiqo)
 - [SendPulse](#SendPulse)
@@ -146,7 +130,6 @@ The technical and policy review information below was recorded on the date obser
 - [The-Trade-Desk](#The-Trade-Desk)
 - [tongdun.cn](#tongdun.cn)
 - [Trendemon](#Trendemon)
-- [Unknown2mdnsys](#Unknown2mdnsys)
 - [Upland](#Upland)
 - [VerticalHealth](#VerticalHealth)
 - [Vtex](#Vtex)
@@ -157,31 +140,7 @@ The technical and policy review information below was recorded on the date obser
 - [Yandex](#Yandex)
 - [Yieldmo](#Yieldmo)
 - [ZafulAffiliate](#ZafulAffiliate)
-- [Zefir](#Zefir)
 - [Zip](#Zip)
-## Adabra
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://track.adabra.com/sbn_fingerprint.v1.16.47.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var e = function(t) {
-        if (!(this instanceof e)) return new e(t);
-        this.options = this.extend(t, {
-            swfContainerId: "fingerprintjs2",
-            swfPath: "flash/compiled/FontList.swf",
-            detectScreenOrientation: !0,
-            sortPluginsFor: [/palemoon/i],
-            userDefinedFonts: []
-        }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-    };
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: https://track.adabra.com/log?tit=www.gioiapura.it%2FOfferte%20su%20Orologi%20e%20Gioielli%20delle%20Migliori%20Marche%3A%20gioielleria%20online%20Gioiapura&_viewts=1553539057&pguri=https%3A%2F%2Fwww.gioiapura.it%2F&_usrc=7431f35392f1f144&_usrccts=1553539050&fp2=********&idp=110&pgty=101&az=RV&ec_lng=it&cli_ctlg=32&sl_qty=1&idrcctx=1350&__adbraud=110||115,129,594,596,1897,1936,1939,3441,3572|ca310d19-1405-4ca7-a9a9-5fe87a521194|374,381,421,1080,1199,1268,1281
-```
-[Go back to top](#tracker-descriptions)
-
 ## Adbot
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -243,50 +202,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "40px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Wfu\",179,115]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"b@)b@\",118,160]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"fW(i\",147,287]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"qGb))\",165,130]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
-## AdGainerSolutions
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var e = function(e) {
-        var t = {
-            swfContainerId: "fingerprintjs2",
-            swfPath: "flash/compiled/FontList.swf",
-            detectScreenOrientation: !0,
-            sortPluginsFor: [/palemoon/i]
-        };
-        this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-    };
-
-```
-2. Sends computed fingerprint back to server
-```
-    (new Fingerprint2).get(function(n, r) {
-        if (i = i + "&device_id=" + n + "&t=" + (new Date).getTime(), "undefined" != typeof ga && ga(function() {
-                i = i + "&ga_client_id=" + ga.getAll()[0].get("clientId") + "&ga_tracking_id=" + Object.keys(gaData)[0]
-            }), "undefined" != typeof vis_data)
-            for (var o in vis_data) i = i + "&vwo_" + o + "=" + vis_data[o];
-        var s = function(e) {
-            for (var t = [], i = 0; i < e.scripts.length; i++) t.push('<script type="text/javascript" async src="' + e.scripts[i].script + '" />');
-            jQuery("#tagManager_DIV").html(t.join(""))
-        };
-        if (window.XDomainRequest) {
-            var l = new XDomainRequest;
-            l.open("get", e + "incomingdata/tagManager?campaign_id=" + t + "&vars=" + i + "&referrer=" + a), l.send(), l.onload = function() {
-                var e = $.parseJSON(l.responseText);
-                null != e && void 0 !== e && s(e)
-            }
-        } else jQuery.support.cors = !0, jQuery.post(e + "incomingdata/tagManager", {
-            campaign_id: t,
-            vars: i,
-            referrer: a
-        }, s, "json")
-    })
-
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -506,17 +421,6 @@ This service has been classified as `FingerprintingInvasive` for the following r
 ```
 [Go back to top](#tracker-descriptions)
 
-## Adstune
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://adstune.com/cdn-cgi/bm/cv/2172558837/api.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"&M\",90,155]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\":F\\\\\\\\$\",53,78]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"-<E\",179,179]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
 ## AdxSpace
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -526,57 +430,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "13pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",2,20]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.23456789)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",4,22]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,125,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(125,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
-
-## AdYouLike
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cdn.pulpix.com/static/pulpix.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-("Fingerprint2", this, function() {
-        "use strict";
-        var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            var r = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
-            this.options = this.extend(t, r), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-
-```
-2. Sends computed fingerprint back to server
-```
-{
-                    key: "_computeTrackingEvent",
-                    value: function(e, r) {
-                        r.name = e;
-                        var o = new A(r),
-                            a = Object.assign({
-                                timestamp: (new Date).toISOString(),
-                                ab_test: t.chosenVariations,
-                                visitor_id: l.visitorId,
-                                session_id: l.sessionId,
-                                visitor_fingerprint: l.visitorFingerprint,
-                                visitor_random_id: l.visitorRandomId,
-                                document_referrer: window.document.referrer || void 0,
-                                device_orientation: p(),
-                                has_adblock: i(),
-                                is_tab_active: n.isTabActive(),
-                                is_visitor_active: f(),
-                                device_type: n.isMobile() ? "mobile" : "desktop",
-                                canonical_url: n.getCanonicalUrl()
-                            }, n.removeUndefinedKeys(o));
-                        return new s(a)
-                    }
-                }
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## AivaLabs
@@ -867,22 +720,6 @@ This service has been classified as `FingerprintingInvasive` for the following r
 ```
 [Go back to top](#tracker-descriptions)
 
-## Augur
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Policy Review
-1. Augur claims that they track users via devices, not through cookies. - `https://www.mediapost.com/publications/article/166916/bluecava-touts-device-fingerprinting.html`
-
-> A set of APIs and tools that instantly enables businesses to recognize devices, and consumers across devices. - `https://www.augur.io/#landingPage`
-
-> Cookie-less tracking - Instead of cookies (which cause mis-attribution), Augur uses CAKE, a multi-layer recognition architecture.
-
-2. Augur claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://www.augur.io/privacypolicy`
-
-> To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
-
-
-[Go back to top](#tracker-descriptions)
-
 ## AvantLink
 This service has been classified as `Analytics`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
@@ -1032,38 +869,6 @@ Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000
         return
     }
 }
-```
-
-[Go back to top](#tracker-descriptions)
-
-## BigClick
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        function initFingerprint() {
-            Fingerprint2.get(function(e) {
-                fingerprint_hash = Fingerprint2.x64hash128(e.map(function(e) {
-                    return e.value
-                }).join(), 31);
-                var t = {};
-                for (i = 0; i < e.length; i++) {
-                    var r = e[i].key;
-                    "canvas" !== r && "webgl" !== r && (null != lies[r] && (lies[r].value = e[i].value - 0), t[r] = e[i].value)
-                }
-                fingerprint_json = JSON.stringify(t)
-            })
-        }
-        hasFingerprint() && window.requestIdleCallback ? requestIdleCallback(initFingerprint) : hasFingerprint() && setTimeout(initFingerprint, 500)
-
-```
-2. Sends computed fingerprint back to server
-```
-            var _ = new("onload" in new XMLHttpRequest ? XMLHttpRequest : XDomainRequest),
-                u = "keys=" + encodeURIComponent(e.join("|||"));
-            "" !== fingerprint_hash && (u = u + "&fingerprint_hash=" + encodeURIComponent(fingerprint_hash) + "&fingerprint_json=" + encodeURIComponent(fingerprint_json)), _.open("POST", url + "/view", !0), _.setRequestHeader("Content-type", "application/x-www-form-urlencoded"), _.send(u)
-
 ```
 
 [Go back to top](#tracker-descriptions)
@@ -2381,28 +2186,6 @@ Drawbridge/Linkedin’s privacy policy states:
 
 [Go back to top](#tracker-descriptions)
 
-## ECSAnalytics
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://common.ecsanalytics.com/js/vendor/fp.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var e = function(e) {
-        var t = {
-            swfContainerId: "fingerprintjs2",
-            swfPath: "flash/compiled/FontList.swf",
-            detectScreenOrientation: !0,
-            sortPluginsFor: [/palemoon/i]
-        };
-        this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-    };
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: https://mittmedia.ecsanalytics.com/analytics/p.gif?r=ex&cid=REMOVED&d=lt.se&jid=REMOVED&vid=f2qwg0&eid=REMOVED&v=1.7.0
-```
-[Go back to top](#tracker-descriptions)
-
 ## EroAdvertising
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -2477,15 +2260,6 @@ This service has been classified as `Advertising` and `FingerprintingGeneral` fo
 ### Policy Review
 `https://eyenewton.ru/docs/privacy_policy.pdf`
 PRIVACY POLICY NOT RELEVANT AND "PROCESSING OF PERSONAL DATA" SECTION ONLY APPLIES TO CONSENT
-
-[Go back to top](#tracker-descriptions)
-
-## eyeReturn Marketing
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Policy Review
-1. Eyereturn claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://eyereturnmarketing.com/privacy/`
-
-> Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes
 
 [Go back to top](#tracker-descriptions)
 
@@ -2721,38 +2495,6 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
 
 [Go back to top](#tracker-descriptions)
 
-## FuelX
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cdn.fuelx.com/js/fp2.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-            audio: {
-                timeout: 1e3,
-                excludeIOS11: !0
-            },
-            fonts: {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                userDefinedFonts: [],
-                extendedJsFonts: !1
-            },
-            screen: {
-                detectScreenOrientation: !0
-            },
-            plugins: {
-                sortPluginsFor: [/palemoon/i],
-                excludeIE: !1
-            },
-
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: https://fsr3.fuel451.com/ids?browserId=REMOVED&fxidhash=REMOVED&bid=QwxV275UK6v5YQgGE2henQ%3D%3D&fxndid=&fxuuid=&lts=Tue%20Mar%2026%202019%2021%3A08%3A06%20GMT-0700%20(Pacific%20Daylight%20Time)&ga=&oid=&cb=fuelxP.setFXCookies&fxt=true
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## Gleam
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -2966,193 +2708,6 @@ Hotmart's Privacy Policy States:
 `https://www.hotmart.com/en/cookie-policy` (2)
 >Other data collection tools, similar to Cookies, are also employed by the HOTMART Platform, analytic and tracking cookies that aim to collect USER data and understand their behavior to enable the Platform to work. (2)
 
-[Go back to top](#tracker-descriptions)
-
-## ie8eamus
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `http://ie8eamus.com/sfp.js`
-1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "CanvasRenderingContext2D.fillText",
-  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "window.navigator.oscpu",
-  "arguments": null,
-  "value": "Intel Mac OS X 10.15"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OfflineAudioContext.createOscillator",
-  "arguments": null,
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OscillatorNode.type",
-  "arguments": null,
-  "value": "triangle"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OfflineAudioContext.createOscillator",
-  "arguments": null,
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OscillatorNode.type",
-  "arguments": null,
-  "value": "triangle"
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OfflineAudioContext.createOscillator",
-  "arguments": null,
-  "value": ""
-}
-```
-```json
-{
-  "top_level_url": "http://sandownautorepair.com/",
-  "script_url": "http://ie8eamus.com/sfp.js",
-  "script_line": "1",
-  "symbol": "OscillatorNode.type",
-  "arguments": null,
-  "value": "triangle"
-}
-```
 [Go back to top](#tracker-descriptions)
 
 ## iMedia
@@ -4092,76 +3647,6 @@ Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 
 [Go back to top](#tracker-descriptions)
 
-## Mystighty
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `http://mystighty.info/c/D.9m6Qb/2n5-lwSoWOQW9hM/jLcv3-M/z/g/xGN/Sp0UyXNUzFcnzmO/DOUE1M`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            this.options = this.extend(t, {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: [],
-                excludeDoNotTrack: !0,
-                excludePixelRatio: !0
-            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-```
-2. Sends computed fingerprint back to server
-```
-function logPageView(customData) {
-            var request;
-            request = configTrackerUrl + "?url=" + escapeWrapper(documentAlias.location.href) + "&ref=" + escapeWrapper(getReferrer()) + "&name=" + escapeWrapper(documentAlias.title) + "&avmws=" + escapeWrapper(getCookie("avmws")) + "&rand=" + Math.random() + "&lib=1";
-            if (isDefined(customData)) {
-                request += "&data=" + escapeWrapper(stringify(customData))
-            }
-            if (window.requestIdleCallback) {
-                requestIdleCallback(function() {
-                    try {
-                        Fingerprint2.get({
-                            excludeFlashFonts: true,
-                            excludeJsFonts: true
-                        }, function(components) {
-                            var values = components.map(function(component) {
-                                return component.value
-                            });
-                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
-                            request += "&fingerprint=" + escapeWrapper(murmur);
-                            getScript(request)
-                        })
-                    } catch (e) {
-                        getScript(request)
-                    }
-                })
-            } else {
-                setTimeout(function() {
-                    try {
-                        Fingerprint2.get({
-                            excludeFlashFonts: true,
-                            excludeJsFonts: true
-                        }, function(components) {
-                            var values = components.map(function(component) {
-                                return component.value
-                            });
-                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
-                            request += "&fingerprint=" + escapeWrapper(murmur);
-                            getScript(request)
-                        })
-                    } catch (e) {
-                        getScript(request)
-                    }
-                }, 500)
-            }
-        }
-
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## Negishim
 This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -4362,72 +3847,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
-## PaymentsMB
-This service has been classified as `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://check.paymentsmb.com/fp/check.js;CIS3SID=F79ACAC02BAAF0A3623D105AC1542107?org_id=jy5x5q16&session_id=ae98a314baa01d9ddace60a9fad0bff7&nonce=0a0573197ca532f6`    
-1. Script makes use of several APIs for the purpose of fingerprinting:
-```
-  this.getFPParams = function() {
-    if (!td_Zm) {
-      if ((new Date).getTime() - td_BK > 2000 || td_ry) {
-        var equivalentURL = unescape();
-        if (equivalentURL.length > 0) {
-          /** @type {boolean} */
-          td_Zm = true;
-          pc.close();
-          /** @type {null} */
-          pc = null;
-          return equivalentURL;
-        }
-      }
-    }
-    return null;
-  };
-
-```
-```
-function td_1h() {
-  /** @type {!Element} */
-  var canvas = document.createElement(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(0, 6));
-  if (!canvas) {
-    return null;
-  }
-  if (!canvas.getContext) {
-    return null;
-  }
-  var ctx = canvas.getContext(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(6, 2));
-  if (!ctx) {
-    return null;
-  }
-  if (!ctx.font || !ctx.fillText) {
-    return null;
-  }
-  /** @type {number} */
-  canvas.width = 300;
-  /** @type {number} */
-  canvas.height = 100;
-  ctx = canvas.getContext(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(6, 2));
-  var tempPathText = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(8, 32);
-  ctx.font = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(40, 9);
-  ctx.fillText(tempPathText, 0, 50);
-  ctx.font = td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(49, 10);
-  var linGrad = ctx.createLinearGradient(0, 0, canvas.width, 0);
-  linGrad.addColorStop("0", td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(59, 7));
-  linGrad.addColorStop(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(66, 3), Number(348826).toString(31));
-  linGrad.addColorStop(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(69, 3), td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(72, 3));
-  ctx.fillStyle = linGrad;
-  ctx.fillText(tempPathText, 0, 90);
-  var THREAD_STARTED = canvas.toDataURL(td_1X.tdz_83adc65896b549e5864253723924c2cb.td_f(75, 9));
-  if (!THREAD_STARTED) {
-    return null;
-  }
-  return td_3L(THREAD_STARTED);
-}
-
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -4725,51 +4144,6 @@ Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 
 [Go back to top](#tracker-descriptions)
 
-## PrismApp
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://prismapp-files.s3.amazonaws.com/widget/prism.js?v2`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var Fingerprint2 = PRISM_require("fingerprintjs2")
-```
-
-```
-                        getCanvasFp: function() {
-                            var e = [],
-                                t = document.createElement("canvas");
-                            t.width = 2e3, t.height = 200, t.style.display = "inline";
-                            var i = t.getContext("2d");
-                            return i.rect(0, 0, 10, 10), i.rect(2, 2, 6, 6), e.push("canvas winding:" + (i.isPointInPath(5, 5, "evenodd") === !1 ? "yes" : "no")), i.textBaseline = "alphabetic", i.fillStyle = "#f60", i.fillRect(125, 1, 62, 20), i.fillStyle = "#069", this.options.dontUseFakeFontInCanvas ? i.font = "11pt Arial" : i.font = "11pt no-real-font-123", i.fillText("Cwm fjordbank glyphs vext quiz, ðŸ˜ƒ", 2, 15), i.fillStyle = "rgba(102, 204, 0, 0.2)", i.font = "18pt Arial", i.fillText("Cwm fjordbank glyphs vext quiz, ðŸ˜ƒ", 4, 45), i.globalCompositeOperation = "multiply", i.fillStyle = "rgb(255,0,255)", i.beginPath(), i.arc(50, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(0,255,255)", i.beginPath(), i.arc(100, 50, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,255,0)", i.beginPath(), i.arc(75, 100, 50, 0, 2 * Math.PI, !0), i.closePath(), i.fill(), i.fillStyle = "rgb(255,0,255)", i.arc(75, 75, 75, 0, 2 * Math.PI, !0), i.arc(75, 75, 25, 0, 2 * Math.PI, !0), i.fill("evenodd"), e.push("canvas fp:" + t.toDataURL()), e.join("~")
-                        },
-
-```
-2. Fingerprint is then sent to api.prismapp.io:
-```
-BRUNCH_ENV: "production",
-            API_ENDPOINT: "https://api.prismapp.io",
-
-```
-```
-                    var context = this,
-                        payload = {
-                            device_id: context.shamu.analytics.fingerprint,
-                            conversation_id: msgObj.conversation_id,
-                            message_id: msgObj.id,
-                            channel: context.shamu.config.visitor.channel_name
-                        };
-                    api.post("/v2/metrics/messages", payload, function() {
-                        setTimeout(function() {
-                            context.feedMessage({}, msgObj)
-                        }, util.exponentialBackoff())
-                    }, function(response, xhr) {
-                        util.resetExponentialBackoff()
-                    })
-
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## PrometheusIntelligenceTechnology
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -4961,78 +4335,6 @@ Script: `https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l
 ```
 [Go back to top](#tracker-descriptions)
 
-## Provers
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            this.options = this.extend(t, {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: [],
-                excludeDoNotTrack: !0,
-                excludePixelRatio: !0
-            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-
-```
-2. Sends computed fingerprint back to provers.pro:
-```
-    new Fingerprint2().get(function(result) {
-        var s = document.createElement('script');
-        var x = document.getElementsByTagName('script')[0];
-        s.src = options.url + '?fp=' + result;
-        s.type = 'text/javascript';
-        s.async = true;
-        x.parentNode.insertBefore(s, x);
-    })
-})({
-    "url": "http:\/\/provers.pro\/Z-noA."
-});
-
-```
-
-[Go back to top](#tracker-descriptions)
-
-## Psonstrentie
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0ly_O/DcABy/OJTnAxxz`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            this.options = this.extend(t, {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: [],
-                excludeDoNotTrack: !0,
-                excludePixelRatio: !0
-            }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-
-```
-2. Sends computed fingerprint back to server
-```
-    new Fingerprint2().get(function(result) {
-        var s = document.createElement('script');
-        var x = document.getElementsByTagName('script')[0];
-        s.src = options.url + '?fp=' + result;
-        s.type = 'text/javascript';
-        s.async = true;
-        x.parentNode.insertBefore(s, x);
-    })
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## Radware
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -5159,124 +4461,6 @@ Salesforce's website states:
 >Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
 
 
-[Go back to top](#tracker-descriptions)
-
-## SAP
-This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD36293095`
-1. Script gathers several device characteristics to generate a fingerprint:
-```
-			cy.control.cySetUserDefined("DEVICEIDENTITYDONOTTRACK",navigator.doNotTrack);
-			cy.control.cySetUserDefined("DEVICEIDENTITYTIMEZONEOFFSET",String(new Date().getTimezoneOffset()));
-			cy.control.cySetUserDefined("DEVICEIDENTITYSTATIC",murmurhash3_32_gc((navigator.language + String(Math.pow (2, window.screen.colorDepth)) + screen.width + "&times;" + screen.height + sessionStorageCheck + indexedDBCheck + openDatabaseCheck + navigator.cpuClass + navigator.platform), cy_s));
-			cy.control.cySetUserDefined("DEVICEIDENTITYUSERAGENT",murmurhash3_32_gc(navigator.userAgent.replace(/[0-9]/g, ''), cy_s));
-			cy.control.cySetUserDefined("DEVICEIDENTITYCANVAS",murmurhash3_32_gc(getCanvasFingerPrint(), cy_s));
-			cy.control.cySetUserDefined("DEVICEIDENTITYBROWSERPLUGINS",cy_d3h);		
-			
-
-```
-2. Then script sends device properties to seewhy.com: 
-```
-cy.control._getBaseURL = function(/* optional */ res)
-{
-	var resource="seewhy.gif";
-	if (res)
-	{
-		resource = res;
-	}
-        var uidtest;
-	var protocol;
-	var port;
-	var swd='abandonment6.saas.seewhy.com';
-	var path='/abandonment2/WE/' +resource;
-	var ssl = window.location.protocol.toLowerCase().indexOf('https') >= 0;
-	if (ssl)
-	{
-		protocol='https';
-		port=443;
-	}
-	else
-	{
-		cy.control._cyConvertCYPropertyNamesToUpperCase();
-		uidtest=(cy.USERID==undefined) ? -1 : cy.USERID.length;
-
-		if (uidtest>0)
-		{
-			protocol='https';
-			port=443;
-		}
-		else
-		{
-			protocol='http';
-			port=80;
-		}
-
-
-	}
-	var swi = protocol+'://'+swd+':'+port+path;
-	var rn = Math.random();
-
-	return swi+"/"+rn;
-}
-
-```
-```
-function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* optional */ ocy, /* optional */ cysetter)
-{
-	var block = false;
-	if (isBlocking && typeof(isBlocking) == "boolean")
-	{
-		block = isBlocking;
-	}
-
-	try
-	{
-		cy.control._cySetCYProperties(ocy, cysetter);
-
-		if (block === true)
-		{
-			src = cy.control._cyGetElementSrc("seewhy.js");
-
-			// Doing a document.write requires that it be done before the page has finished loading (otherwise we will completely
-			// overwrite the page with the output of the document.write call).
-
-			if (document.readyState)
-			{
-				if (document.readyState != "complete")
-				{
-					document.write('<script type="text/javascript" src="',src,'"><\/script>');
-				}
-			}
-			else
-			{
-				document.write('<script type="text/javascript" src="',src,'"><\/script>');
-			}
-		}
-		else
-		{
-			var cy_image = cy.control._cyCreateImage(false);
-
-			cy_image.src = cy.control._cyGetElementSrc("seewhy.nogif");
-			
-			cy_image.style.cssText = 'display:none;'; 
-		}
-
-		var delay = false;
-		if (doDelay && typeof(doDelay) == "boolean")
-		{
-			delay = doDelay;
-		}
-
-		if (delay === true)
-		{
-			cy.control._cyWait(cy.control._cyGetWaitDuration());
-		}
-	}
-	catch(err){}
-}
-
-``` 
 [Go back to top](#tracker-descriptions)
 
 ## Selectable Media
@@ -5969,17 +5153,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 [Go back to top](#tracker-descriptions)
 
-## Unknown2mdnsys
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cfa.2mdnsys.com/cdn-cgi/bm/cv/2172558837/api.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "200px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"HB\\\"E\",64,140]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"J>\",118,151]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "50px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"j=Lx\",110,168]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"}4^Q\",74,105]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions)
-
 ## Upland
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -6481,58 +5654,6 @@ Script: `https://js.affasi.com/affasi_js.min.js`
                         result: JSON.stringify(l)
                     }, t, r, n, a), void(o = i = l = null)
 
-
-```
-[Go back to top](#tracker-descriptions)
-
-## Zefir
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://ze-fir.com/js/t.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        audio: () => new Promise(function(e) {
-            try {
-                var t = new(window.AudioContext || window.webkitAudioContext),
-                    n = (t.createOscillator(), t.createAnalyser(), t.createGain(), t.createScriptProcessor(4096, 1, 1), t.destination);
-                return e(t.sampleRate.toString() + "_" + n.maxChannelCount + "_" + n.numberOfInputs + "_" + n.numberOfOutputs + "_" + n.channelCount + "_" + n.channelCountMode + "_" + n.channelInterpretation)
-            } catch (t) {
-                return e("")
-            }
-        }),
-        colorDepth: () => new Promise(function(e) {
-            var t = screen.colorDepth;
-            return 32 === t && (t = 24), e(t || "")
-        }),
-        cpuClass: () => new Promise(function(e) {
-            return e(navigator.cpuClass || "")
-        }),
-
-```
-2. Sends computed fingerprint back to server
-```
-this.sendStat = function(t, n, i, a) {
-                return n = n || "POST", i = i || e.opts.statUrl, a = a || {}, new Promise(function(c, u) {
-                    var s = new XMLHttpRequest;
-                    s.withCredentials = !0, "withCredentials" in s ? s.open(n, i, !0) : "undefined" != typeof XDomainRequest ? (s = new XDomainRequest).open(n, i) : s = null, s.onreadystatechange = function() {
-                        if (4 === s.readyState && 200 === s.status) {
-                            var t = JSON.parse(s.responseText);
-                            c(t), e.syncResolve(t), t.runTests ? r.runTests().then(function(n) {
-                                var r = Object.assign({}, n.testResults, {
-                                    device: n.deviceTestsPrint,
-                                    browser: n.browserTestsPrint
-                                });
-                                r.canvas = o.x86.hash128(JSON.stringify(r.canvas)), e.sendStat({
-                                    agent: r
-                                }, !1, e.opts.statUrl + "/" + t.id)
-                            }) : t.runTests || t.bad ? !t.runTests && t.bad && e.humanFail("its bad") : e.humanResolve()
-                        }
-                    };
-                    var f = new FormData;
-                    for (var l in e.opts.id && f.append("id", e.opts.id), f.append("data", JSON.stringify(t)), f.append("url", window.location.href), f.append("referrer", document.referrer), a) a.hasOwnProperty(l) && s.setRequestHeader(l, a[l]);
-                    s.send(f)
-                })
-            }
 
 ```
 [Go back to top](#tracker-descriptions)
