@@ -1555,21 +1555,6 @@
         }
       },
       {
-        "365Media": {
-          "http://365media.com/": [
-            "365media.com"
-          ]
-        }
-      },
-      {
-        "4INFO": {
-          "http://www.4info.com/": [
-            "4info.com",
-            "adhaven.com"
-          ]
-        }
-      },
-      {
         "4mads": {
           "http://4mads.com/": [
             "4mads.com"
@@ -1599,9 +1584,9 @@
         }
       },
       {
-        "Accordant Media": {
-          "http://www.accordantmedia.com/": [
-            "accordantmedia.com"
+        "Accenture": {
+          "https://www.accenture.com/us-en": [
+            "adaptly.com"
           ]
         }
       },
@@ -1716,13 +1701,6 @@
         }
       },
       {
-        "Adaptly": {
-          "http://adaptly.com/": [
-            "adaptly.com"
-          ]
-        }
-      },
-      {
         "AdaptMX": {
           "https://adaptmx.com/": [
             "a-mo.net"
@@ -1753,30 +1731,9 @@
         }
       },
       {
-        "adBrite": {
-          "http://www.adbrite.com/": [
-            "adbrite.com"
-          ]
-        }
-      },
-      {
-        "Adbroker.de": {
-          "http://adbroker.de/": [
-            "adbroker.de"
-          ]
-        }
-      },
-      {
         "AdCash": {
           "https://adcash.com": [
             "ufpcdn.com"
-          ]
-        }
-      },
-      {
-        "Adchemy": {
-          "http://www.adchemy.com/": [
-            "adchemy.com"
           ]
         }
       },
@@ -1840,13 +1797,6 @@
         }
       },
       {
-        "AD Europe": {
-          "http://www.adeurope.com/": [
-            "adeurope.com"
-          ]
-        }
-      },
-      {
         "AdExtent": {
           "http://www.adextent.com/": [
             "adextent.com"
@@ -1892,42 +1842,10 @@
         }
       },
       {
-        "Adfunky": {
-          "http://www.adfunky.com/": [
-            "adfunky.com",
-            "adfunkyserver.com"
-          ]
-        }
-      },
-      {
-        "Adfusion": {
-          "http://www.adfusion.com/": [
-            "adfusion.com"
-          ]
-        }
-      },
-      {
-        "AdGear": {
-          "https://adgear.com/en/": [
-            "adgear.com",
-            "adgrx.com",
-            "bloom-hq.com",
-            "runadtag.com"
-          ]
-        }
-      },
-      {
         "AdGent Digital": {
           "http://www.adgentdigital.com/": [
             "adgentdigital.com",
             "shorttailmedia.com"
-          ]
-        }
-      },
-      {
-        "AdGibbon": {
-          "http://www.adgibbon.com/": [
-            "adgibbon.com"
           ]
         }
       },
@@ -1951,21 +1869,6 @@
           "http://www.adiant.com/": [
             "adblade.com",
             "adiant.com"
-          ]
-        }
-      },
-      {
-        "AdInsight": {
-          "http://www.adinsight.com/": [
-            "adinsight.com",
-            "adinsight.eu"
-          ]
-        }
-      },
-      {
-        "AdIQuity": {
-          "http://adiquity.com/": [
-            "adiquity.com"
           ]
         }
       },
@@ -2024,17 +1927,7 @@
         "Adknowledge": {
           "http://www.adknowledge.com/": [
             "adknowledge.com",
-            "adparlor.com",
-            "bidsystem.com",
-            "lookery.com"
-          ]
-        }
-      },
-      {
-        "AdLantis": {
-          "http://www.adlantis.jp/": [
-            "adimg.net",
-            "adlantis.jp"
+            "bidsystem.com"
           ]
         }
       },
@@ -2289,15 +2182,6 @@
         }
       },
       {
-        "ADP Dealer Services": {
-          "http://www.adpdealerservices.com/": [
-            "admission.net",
-            "adpdealerservices.com",
-            "cobalt.com"
-          ]
-        }
-      },
-      {
         "ad pepper media": {
           "http://www.adpepper.us/": [
             "adpepper.com",
@@ -2431,6 +2315,7 @@
       {
         "AdSpirit": {
           "http://www.adspirit.de/": [
+            "adbroker.de",
             "adspirit.com",
             "adspirit.de",
             "adspirit.net"
@@ -2699,14 +2584,6 @@
         }
       },
       {
-        "Aegis Group": {
-          "http://www.aemedia.com/": [
-            "aemedia.com",
-            "bluestreak.com"
-          ]
-        }
-      },
-      {
         "AERIFY MEDIA": {
           "http://aerifymedia.com/": [
             "aerifymedia.com",
@@ -2758,6 +2635,20 @@
           "http://www.afterdownload.com/": [
             "afdads.com",
             "afterdownload.com"
+          ]
+        }
+      },
+      {
+        "AGCS": {
+          "https://www.agcs.works/": [
+            "adgibbon.com"
+          ]
+        }
+      },
+      {
+        "AggregateIntelligence": {
+          "https://aggregateintelligence.com/": [
+            "365media.com"
           ]
         }
       },
@@ -2857,6 +2748,7 @@
       {
         "Ansira": {
           "https://ansira.com/": [
+            "admission.net",
             "ansira.com"
           ]
         }
@@ -2922,6 +2814,13 @@
         "appssavvy": {
           "http://appssavvy.com/": [
             "appssavvy.com"
+          ]
+        }
+      },
+      {
+        "ARANet": {
+          "https://www.aranet.io/": [
+            "adfusion.com"
           ]
         }
       },
@@ -3142,6 +3041,7 @@
       {
         "BasisTechnologies": {
           "https://basis.net/": [
+            "adbrite.com",
             "basis.net",
             "sitescout.com"
           ]
@@ -3425,14 +3325,6 @@
         }
       },
       {
-        "BrightRoll": {
-          "http://www.brightroll.com/": [
-            "brightroll.com",
-            "btrll.com"
-          ]
-        }
-      },
-      {
         "BrightTag": {
           "http://www.brighttag.com/": [
             "brighttag.com",
@@ -3543,6 +3435,14 @@
         }
       },
       {
+        "Cadent": {
+          "https://cadent.tv/": [
+            "4info.com",
+            "adhaven.com"
+          ]
+        }
+      },
+      {
         "Cadreon": {
           "http://www.cadreon.com/": [
             "cadreon.com"
@@ -3597,6 +3497,14 @@
         "CBproADS": {
           "http://www.cbproads.com/": [
             "cbproads.com"
+          ]
+        }
+      },
+      {
+        "CDKGlobal": {
+          "http://www.cdkglobal.com": [
+            "adpdealerservices.com",
+            "cobalt.com"
           ]
         }
       },
@@ -4176,6 +4084,15 @@
         }
       },
       {
+        "Dentsu": {
+          "https://www.dentsu.com/": [
+            "accordantmedia.com",
+            "aemedia.com",
+            "bluestreak.com"
+          ]
+        }
+      },
+      {
         "Deutsche Post DHL": {
           "http://www.dp-dhl.com/": [
             "adcloud.com",
@@ -4333,6 +4250,13 @@
           "http://www.doublepositive.com/": [
             "bid-tag.com",
             "doublepositive.com"
+          ]
+        }
+      },
+      {
+        "Drift": {
+          "https://www.drift.com/": [
+            "lookery.com"
           ]
         }
       },
@@ -4768,6 +4692,13 @@
         }
       },
       {
+        "Flipkart": {
+          "https://www.flipkart.com/": [
+            "adiquity.com"
+          ]
+        }
+      },
+      {
         "Flite": {
           "http://www.flite.com/": [
             "flite.com",
@@ -4787,6 +4718,13 @@
           "https://corp.fluct.jp/": [
             "adingo.jp",
             "fluct.jp"
+          ]
+        }
+      },
+      {
+        "Fluent": {
+          "https://fluentco.com": [
+            "adparlor.com"
           ]
         }
       },
@@ -5339,6 +5277,14 @@
           "http://www.infectiousmedia.com/": [
             "impressiondesk.com",
             "infectiousmedia.com"
+          ]
+        }
+      },
+      {
+        "Infinity": {
+          "https://www.infinity.co": [
+            "adinsight.com",
+            "adinsight.eu"
           ]
         }
       },
@@ -6388,6 +6334,14 @@
         }
       },
       {
+        "MobSuite": {
+          "http://mobsuite.com": [
+            "adfunky.com",
+            "adfunkyserver.com"
+          ]
+        }
+      },
+      {
         "MobVision": {
           "http://www.mobvision.com/": [
             "admoda.com",
@@ -7370,6 +7324,8 @@
             "mediaplex.com",
             "qksz.com",
             "qksz.net",
+            "runads.com",
+            "rundsp.com",
             "tqlkg.com",
             "valueclick.com",
             "valueclick.net",
@@ -7767,14 +7723,6 @@
         }
       },
       {
-        "RunAds": {
-          "http://www.runads.com/": [
-            "runads.com",
-            "rundsp.com"
-          ]
-        }
-      },
-      {
         "RuTarget": {
           "http://www.rutarget.ru/": [
             "rutarget.ru"
@@ -7804,6 +7752,16 @@
             "kruxdigital.com",
             "krxd.net",
             "salesforce.com"
+          ]
+        }
+      },
+      {
+        "Samsung": {
+          "https://samsung.com": [
+            "adgear.com",
+            "adgrx.com",
+            "bloom-hq.com",
+            "runadtag.com"
           ]
         }
       },
@@ -8916,6 +8874,7 @@
       {
         "UnitedInternet": {
           "https://www.united-internet.de/": [
+            "adeurope.com",
             "uimserv.net"
           ]
         }
@@ -8953,6 +8912,14 @@
         "Value Ad": {
           "http://valuead.com/": [
             "valuead.com"
+          ]
+        }
+      },
+      {
+        "ValueCommerce": {
+          "https://valuecommerce.co.jp": [
+            "adimg.net",
+            "adlantis.jp"
           ]
         }
       },
@@ -9182,6 +9149,13 @@
         }
       },
       {
+        "Walmart": {
+          "https://www.walmart.com/": [
+            "adchemy.com"
+          ]
+        }
+      },
+      {
         "Warumbistdusoarm": {
           "https://warumbistdusoarm.space": [
             "warumbistdusoarm.space"
@@ -9369,6 +9343,8 @@
             "aolcloud.net",
             "atwola.com",
             "bluelithium.com",
+            "brightroll.com",
+            "btrll.com",
             "dapper.net",
             "flurry.com",
             "interclick.com",

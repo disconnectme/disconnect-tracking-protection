@@ -43,31 +43,12 @@
         "tynt.com"
       ]
     },
-    "365Media": {
-      "properties": [
-        "aggregateintelligence.com"
-      ],
-      "resources": [
-        "365media.com",
-        "aggregateintelligence.com"
-      ]
-    },
     "4dem": {
       "properties": [
         "4dem.it"
       ],
       "resources": [
         "4dem.it"
-      ]
-    },
-    "4INFO": {
-      "properties": [
-        "4info.com",
-        "adhaven.com"
-      ],
-      "resources": [
-        "4info.com",
-        "adhaven.com"
       ]
     },
     "4mads": {
@@ -138,12 +119,13 @@
         "accelo.com"
       ]
     },
-    "Accordant Media": {
+    "Accenture": {
       "properties": [
-        "accordantmedia.com"
+        "accenture.com",
+        "adaptly.com"
       ],
       "resources": [
-        "accordantmedia.com"
+        "adaptly.com"
       ]
     },
     "Acoustic": {
@@ -433,14 +415,6 @@
         "adaptiveads.com"
       ]
     },
-    "Adaptly": {
-      "properties": [
-        "adaptly.com"
-      ],
-      "resources": [
-        "adaptly.com"
-      ]
-    },
     "AdaptMX": {
       "properties": [
         "adaptmx.com"
@@ -477,36 +451,12 @@
         "adbot.tw"
       ]
     },
-    "adBrite": {
-      "properties": [
-        "adbrite.com"
-      ],
-      "resources": [
-        "adbrite.com"
-      ]
-    },
-    "Adbroker.de": {
-      "properties": [
-        "adbroker.de"
-      ],
-      "resources": [
-        "adbroker.de"
-      ]
-    },
     "AdCash": {
       "properties": [
         "adcash.com"
       ],
       "resources": [
         "ufpcdn.com"
-      ]
-    },
-    "Adchemy": {
-      "properties": [
-        "adchemy.com"
-      ],
-      "resources": [
-        "adchemy.com"
       ]
     },
     "AdCirrus": {
@@ -587,14 +537,6 @@
         "adengage.com"
       ]
     },
-    "AD Europe": {
-      "properties": [
-        "adeurope.com"
-      ],
-      "resources": [
-        "adeurope.com"
-      ]
-    },
     "AdExtent": {
       "properties": [
         "adextent.com"
@@ -646,36 +588,6 @@
         "adfrontiers.com"
       ]
     },
-    "Adfunky": {
-      "properties": [
-        "adfunky.com",
-        "adfunkyserver.com"
-      ],
-      "resources": [
-        "adfunky.com",
-        "adfunkyserver.com"
-      ]
-    },
-    "Adfusion": {
-      "properties": [
-        "adfusion.com"
-      ],
-      "resources": [
-        "adfusion.com"
-      ]
-    },
-    "AdGear": {
-      "properties": [
-        "adgear.com",
-        "bloom-hq.com"
-      ],
-      "resources": [
-        "adgear.com",
-        "adgrx.com",
-        "bloom-hq.com",
-        "runadtag.com"
-      ]
-    },
     "AdGent Digital": {
       "properties": [
         "adgentdigital.com"
@@ -683,14 +595,6 @@
       "resources": [
         "adgentdigital.com",
         "shorttailmedia.com"
-      ]
-    },
-    "AdGibbon": {
-      "properties": [
-        "adgibbon.com"
-      ],
-      "resources": [
-        "adgibbon.com"
       ]
     },
     "Adglare": {
@@ -718,24 +622,6 @@
       "resources": [
         "adblade.com",
         "adiant.com"
-      ]
-    },
-    "AdInsight": {
-      "properties": [
-        "responsetap.com"
-      ],
-      "resources": [
-        "adinsight.com",
-        "adinsight.eu",
-        "responsetap.com"
-      ]
-    },
-    "AdIQuity": {
-      "properties": [
-        "adiquity.com"
-      ],
-      "resources": [
-        "adiquity.com"
       ]
     },
     "ADITION": {
@@ -801,27 +687,11 @@
     "Adknowledge": {
       "properties": [
         "adknowledge.com",
-        "adparlor.com",
-        "bidsystem.com",
-        "lookery.com"
+        "bidsystem.com"
       ],
       "resources": [
         "adknowledge.com",
-        "adparlor.com",
-        "bidsystem.com",
-        "lookery.com"
-      ]
-    },
-    "AdLantis": {
-      "properties": [
-        "adimg.net",
-        "adlantis.jp",
-        "www.adlantis.jp"
-      ],
-      "resources": [
-        "adimg.net",
-        "adlantis.jp",
-        "www.adlantis.jp"
+        "bidsystem.com"
       ]
     },
     "AdLeave": {
@@ -1129,17 +999,6 @@
         "adotmob.com"
       ]
     },
-    "ADP Dealer Services": {
-      "properties": [
-        "cdkglobal.com"
-      ],
-      "resources": [
-        "admission.net",
-        "adpdealerservices.com",
-        "cdkglobal.com",
-        "cobalt.com"
-      ]
-    },
     "ad pepper media": {
       "properties": [
         "adpepper.com",
@@ -1305,11 +1164,13 @@
     },
     "AdSpirit": {
       "properties": [
+        "adbroker.de",
         "adspirit.com",
         "adspirit.de",
         "adspirit.net"
       ],
       "resources": [
+        "adbroker.de",
         "adspirit.com",
         "adspirit.de",
         "adspirit.net"
@@ -1638,18 +1499,6 @@
         "adzly.com"
       ]
     },
-    "Aegis Group": {
-      "properties": [
-        "aemedia.com",
-        "bluestreak.com",
-        "dentsuaegisnetwork.com"
-      ],
-      "resources": [
-        "aemedia.com",
-        "bluestreak.com",
-        "dentsuaegisnetwork.com"
-      ]
-    },
     "AERIFY MEDIA": {
       "properties": [
         "aerifymedia.com",
@@ -1730,6 +1579,24 @@
       "resources": [
         "afdads.com",
         "afterdownload.com"
+      ]
+    },
+    "AGCS": {
+      "properties": [
+        "adgibbon.com",
+        "agcs.works"
+      ],
+      "resources": [
+        "adgibbon.com"
+      ]
+    },
+    "AggregateIntelligence": {
+      "properties": [
+        "aggregateintelligence.com"
+      ],
+      "resources": [
+        "365media.com",
+        "aggregateintelligence.com"
       ]
     },
     "AgileCRM": {
@@ -2025,6 +1892,7 @@
         "ansira.com"
       ],
       "resources": [
+        "admission.net",
         "ansira.com"
       ]
     },
@@ -2100,6 +1968,15 @@
       ],
       "resources": [
         "appssavvy.com"
+      ]
+    },
+    "ARANet": {
+      "properties": [
+        "adfusion.com",
+        "aranet.io"
+      ],
+      "resources": [
+        "adfusion.com"
       ]
     },
     "Arkwrights Homebrew": {
@@ -2452,10 +2329,12 @@
     },
     "BasisTechnologies": {
       "properties": [
+        "adbrite.com",
         "centro.net",
         "sitescout.com"
       ],
       "resources": [
+        "adbrite.com",
         "basis.net",
         "sitescout.com"
       ]
@@ -2965,15 +2844,6 @@
         "brightedge.com"
       ]
     },
-    "BrightRoll": {
-      "properties": [
-        "brightroll.com"
-      ],
-      "resources": [
-        "brightroll.com",
-        "btrll.com"
-      ]
-    },
     "BrightTag": {
       "properties": [
         "brighttag.com",
@@ -3156,6 +3026,17 @@
       "resources": [
         "c3metrics.com",
         "c3tag.com"
+      ]
+    },
+    "Cadent": {
+      "properties": [
+        "4info.com",
+        "adhaven.com",
+        "cadent.tv"
+      ],
+      "resources": [
+        "4info.com",
+        "adhaven.com"
       ]
     },
     "Cadreon": {
@@ -3366,6 +3247,16 @@
       "resources": [
         "cbsinteractive.com",
         "com.com"
+      ]
+    },
+    "CDKGlobal": {
+      "properties": [
+        "cdkglobal.com"
+      ],
+      "resources": [
+        "adpdealerservices.com",
+        "cdkglobal.com",
+        "cobalt.com"
       ]
     },
     "CDNWidget": {
@@ -4466,6 +4357,21 @@
         "indieclick.com"
       ]
     },
+    "Dentsu": {
+      "properties": [
+        "accordantmedia.com",
+        "aemedia.com",
+        "bluestreak.com",
+        "dentsu.com",
+        "dentsuaegisnetwork.com"
+      ],
+      "resources": [
+        "accordantmedia.com",
+        "aemedia.com",
+        "bluestreak.com",
+        "dentsuaegisnetwork.com"
+      ]
+    },
     "Deutsche Post DHL": {
       "properties": [
         "dpdhl.com"
@@ -4704,7 +4610,8 @@
       ],
       "resources": [
         "drift.com",
-        "driftt.com"
+        "driftt.com",
+        "lookery.com"
       ]
     },
     "DS-IQ": {
@@ -5467,6 +5374,15 @@
         "flattr.com"
       ]
     },
+    "Flipkart": {
+      "properties": [
+        "adiquity.com",
+        "flipkart.com"
+      ],
+      "resources": [
+        "adiquity.com"
+      ]
+    },
     "Flite": {
       "properties": [
         "flite.com",
@@ -5493,6 +5409,14 @@
       "resources": [
         "adingo.jp",
         "fluct.jp"
+      ]
+    },
+    "Fluent": {
+      "properties": [
+        "fluentco.com"
+      ],
+      "resources": [
+        "adparlor.com"
       ]
     },
     "Flux": {
@@ -6969,6 +6893,17 @@
       ],
       "resources": [
         "gimbal.com"
+      ]
+    },
+    "Infinity": {
+      "properties": [
+        "infinity.co",
+        "responsetap.com"
+      ],
+      "resources": [
+        "adinsight.com",
+        "adinsight.eu",
+        "responsetap.com"
       ]
     },
     "Inflection Point Media": {
@@ -8943,6 +8878,17 @@
         "mobilestorm.com"
       ]
     },
+    "MobSuite": {
+      "properties": [
+        "adfunky.com",
+        "adfunkyserver.com",
+        "mobsuite.com"
+      ],
+      "resources": [
+        "adfunky.com",
+        "adfunkyserver.com"
+      ]
+    },
     "MobVision": {
       "properties": [
         "admoda.com"
@@ -10519,7 +10465,8 @@
       "properties": [
         "cj.com",
         "conversantmedia.com",
-        "publicisgroupe.com"
+        "publicisgroupe.com",
+        "runads.com"
       ],
       "resources": [
         "adserver.com",
@@ -10539,6 +10486,8 @@
         "mediaplex.com",
         "qksz.com",
         "qksz.net",
+        "runads.com",
+        "rundsp.com",
         "tqlkg.com",
         "valueclick.com",
         "valueclick.net",
@@ -11227,15 +11176,6 @@
         "rtk.io"
       ]
     },
-    "RunAds": {
-      "properties": [
-        "runads.com"
-      ],
-      "resources": [
-        "runads.com",
-        "rundsp.com"
-      ]
-    },
     "RuTarget": {
       "properties": [
         "rutarget.ru"
@@ -11350,6 +11290,19 @@
       "resources": [
         "salesloft.com",
         "salesloftlinks.com"
+      ]
+    },
+    "Samsung": {
+      "properties": [
+        "adgear.com",
+        "bloom-hq.com",
+        "samsung.com"
+      ],
+      "resources": [
+        "adgear.com",
+        "adgrx.com",
+        "bloom-hq.com",
+        "runadtag.com"
       ]
     },
     "Samurai Factory": {
@@ -13328,9 +13281,11 @@
     },
     "UnitedInternet": {
       "properties": [
+        "adeurope.com",
         "united-internet.de"
       ],
       "resources": [
+        "adeurope.com",
         "uimserv.net"
       ]
     },
@@ -13433,6 +13388,17 @@
       ],
       "resources": [
         "valuead.com"
+      ]
+    },
+    "ValueCommerce": {
+      "properties": [
+        "adimg.net",
+        "adlantis.jp",
+        "valuecommerce.co.jp"
+      ],
+      "resources": [
+        "adimg.net",
+        "adlantis.jp"
       ]
     },
     "Various": {
@@ -13903,6 +13869,15 @@
         "wahoha.com"
       ]
     },
+    "Walmart": {
+      "properties": [
+        "adchemy.com",
+        "walmart.com"
+      ],
+      "resources": [
+        "adchemy.com"
+      ]
+    },
     "Warumbistdusoarm": {
       "properties": [
         "warumbistdusoarm.space"
@@ -14312,6 +14287,7 @@
         "aoltechguru.com",
         "atwola.com",
         "autoblog.com",
+        "brightroll.com",
         "cambio.com",
         "dailyfinance.com",
         "editions.com",
@@ -14362,6 +14338,8 @@
         "aolcloud.net",
         "atwola.com",
         "bluelithium.com",
+        "brightroll.com",
+        "btrll.com",
         "dapper.net",
         "editions.com",
         "flickr.com",
