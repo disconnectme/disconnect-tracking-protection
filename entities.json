@@ -2434,6 +2434,14 @@
         "bemail.it"
       ]
     },
+    "BeMob": {
+      "properties": [
+        "bemob.com"
+      ],
+      "resources": [
+        "7a75ebcbd7.com"
+      ]
+    },
     "Bento": {
       "properties": [
         "bentonow.com"
@@ -3143,6 +3151,14 @@
         "createsend9.com",
         "csd.io",
         "forwardtomyfriend.com"
+      ]
+    },
+    "CapitalAudience": {
+      "properties": [
+        "capitalaudience.com"
+      ],
+      "resources": [
+        "capitalaudience.com"
       ]
     },
     "CAPITALDATA": {
@@ -3879,6 +3895,14 @@
       ],
       "resources": [
         "contentabc.com"
+      ]
+    },
+    "ContentExchange": {
+      "properties": [
+        "contentexchange.me"
+      ],
+      "resources": [
+        "contentexchange.me"
       ]
     },
     "ContentMonkey": {
@@ -5424,6 +5448,7 @@
         "flux.jp"
       ],
       "resources": [
+        "flux-cdn.com",
         "flux.jp"
       ]
     },
@@ -7453,6 +7478,14 @@
         "kargo.com"
       ]
     },
+    "Katalys": {
+      "properties": [
+        "katalys.com"
+      ],
+      "resources": [
+        "revoffers.com"
+      ]
+    },
     "Keap": {
       "properties": [
         "keap.com"
@@ -7693,6 +7726,14 @@
         "leadformix.com"
       ]
     },
+    "LeadInfo": {
+      "properties": [
+        "leadinfo.com"
+      ],
+      "resources": [
+        "leadinfo.net"
+      ]
+    },
     "LeadsHub": {
       "properties": [
         "ztsrv.com"
@@ -7793,6 +7834,14 @@
       ],
       "resources": [
         "linkz.net"
+      ]
+    },
+    "ListenLayer": {
+      "properties": [
+        "listenlayer.com"
+      ],
+      "resources": [
+        "listenlayer.com"
       ]
     },
     "Listrak": {
@@ -13297,6 +13346,16 @@
         "unrulymedia.com"
       ]
     },
+    "Unseen": {
+      "properties": [
+        "friendshipmale.com",
+        "unseenreport.com"
+      ],
+      "resources": [
+        "friendshipmale.com",
+        "unseenreport.com"
+      ]
+    },
     "Upland": {
       "properties": [
         "uplandsoftware.com"
@@ -14231,6 +14290,14 @@
       "resources": [
         "admanager-xertive.com",
         "xertivemedia.com"
+      ]
+    },
+    "Xfyun": {
+      "properties": [
+        "xfyun.cn"
+      ],
+      "resources": [
+        "xfyun.cn"
       ]
     },
     "xplosion interactive": {
