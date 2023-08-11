@@ -15,7 +15,9 @@ The technical and policy review information below was recorded on the date obser
 - [AdxSpace](#AdxSpace)
 - [AivaLabs](#AivaLabs)
 - [a.js](#a.js)
+- [Akamai](#Akamai)
 - [Albacross](#Albacross)
+- [amoCRM](#amoCRM)
 - [AppCast](#AppCast)
 - [AuditedMedia](#AuditedMedia)
 - [AvantLink](#AvantLink)
@@ -58,6 +60,7 @@ The technical and policy review information below was recorded on the date obser
 - [Facebook](#Facebook)
 - [Fanplayr](#Fanplayr)
 - [Fiksu](#Fiksu)
+- [FingerprintJS](#FingerprintJS)
 - [Flocktory](#Flocktory)
 - [Flux](#Flux)
 - [Foresee](#Foresee)
@@ -89,6 +92,7 @@ The technical and policy review information below was recorded on the date obser
 - [LiveRamp](#LiveRamp)
 - [Lotame](#Lotame)
 - [lptracker](#lptracker)
+- [MarketingArchitects](#MarketingArchitects)
 - [MaxMind](#MaxMind)
 - [MediaMath](#MediaMath)
 - [Mercadopago](#Mercadopago)
@@ -98,6 +102,7 @@ The technical and policy review information below was recorded on the date obser
 - [Mobials](#Mobials)
 - [Negishim](#Negishim)
 - [NeroHut](#NeroHut)
+- [Noto](#Noto)
 - [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
 - [OpenX](#OpenX)
@@ -135,7 +140,9 @@ The technical and policy review information below was recorded on the date obser
 - [Stripchat](#Stripchat)
 - [Stripe](#Stripe)
 - [Tapad](#Tapad)
+- [TeamBlue](#TeamBlue)
 - [TechSolutions](#TechSolutions)
+- [TheNewCo](#TheNewCo)
 - [The-Trade-Desk](#The-Trade-Desk)
 - [tongdun.cn](#tongdun.cn)
 - [Trendemon](#Trendemon)
@@ -147,6 +154,7 @@ The technical and policy review information below was recorded on the date obser
 - [Webmecanik](#Webmecanik)
 - [Webmine](#Webmine)
 - [WideOrbit](#WideOrbit)
+- [wpadmngr](#wpadmngr)
 - [Xfyun](#Xfyun)
 - [Yandex](#Yandex)
 - [Yieldmo](#Yieldmo)
@@ -559,6 +567,25 @@ Raw log:
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## Akamai
+This service has been classified as `Content`, `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, p\u001f\u0018\u0003",2,15]||
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|HTMLCanvasElement.toDataURL|None||
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|RTCPeerConnection.setLocalDescription|["{\"type\":\"offer\",\"sdp\":\"v=0\\r\\no=mozilla...THIS_IS_SDPARTA-99.0 983981912882268784 0 IN IP4 0.0.0.0\\r\\ns=-\\r\\nt=0 0\\r\\na=fingerprint:sha-256 FE:E6:4C:19:46:C8:48:8A:42:B9:D1:B5:4C:E6:CF:71:10:72:8B:19:92:65:AF:97:23:64:D1:69:E1:EA:3F:85\\r\\na=group:BUNDLE 0\\r\\na=ice-options:trickle\\r\\na=msid-semantic:WMS *\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=sendrecv\\r\\na=ice-pwd:786db53bacdaddbf9de24f3f83b3311c\\r\\na=ice-ufrag:fc7ef5d2\\r\\na=mid:0\\r\\na=setup:actpass\\r\\na=sctp-port:5000\\r\\na=max-message-size:1073741823\\r\\n\"}","FUNCTION","FUNCTION"]||
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|window.navigator.hardwareConcurrency|None|8|
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|window.navigator.platform|None|MacIntel|
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0|15|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## Albacross
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
@@ -567,6 +594,26 @@ Albacross’ privacy policy states:
 `https://albacross.com/privacy-policy/`
 
 >The data processed is the IP-address from which you visited our customer´s website, and technical information that enables us to tell different visitors apart that are originating from the same IP-address (cookies). In some cases, the IP-address and the company it is matched with may constitute personal data – for instance when it comes to sole traders – as it would allow for the identification of the visitor.
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## amoCRM
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://gso.amocrm.ru/js/inner.js?1657200905`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",2,15]||
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|HTMLCanvasElement.toDataURL|None||
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|OfflineAudioContext.createOscillator|None||
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|OscillatorNode.type|None|triangle|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|window.navigator.hardwareConcurrency|None|8|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|window.navigator.platform|None|MacIntel|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://gso.amocrm.ru/js/inner.js?1657200905|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -1970,6 +2017,20 @@ Script: `https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?
 |https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.platform|None|MacIntel|
 |https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
+Script: `https://hb.contentexchange.me/template/fpjs_v3.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|HTMLCanvasElement.toDataURL|None||
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|OfflineAudioContext.createOscillator|None||
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|OscillatorNode.type|None|triangle|
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.hardwareConcurrency|None|8|
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.platform|None|MacIntel|
+|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PublicisGroupe
@@ -2335,6 +2396,41 @@ Fiksu's website states:
 
 >Looking to raise your brand’s profile with ads cross-platform? Or maybe you want to retarget lapsed customers that haven’t made a purchase in a while? Fiksu’s unique combination of aggregated user data and audience-building tools allows us to address brands’ biggest marketing challenges, reaching audiences on mobile and CTV/OTT. (2)  
 
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## FingerprintJS
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|HTMLCanvasElement.toDataURL|None||
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|OfflineAudioContext.createOscillator|None||
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|OscillatorNode.type|None|triangle|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|RTCPeerConnection.setLocalDescription|["{\"type\":\"offer\",\"sdp\":\"v=0\\r\\no=mozilla...THIS_IS_SDPARTA-99.0 4012115327994742495 0 IN IP4 0.0.0.0\\r\\ns=-\\r\\nt=0 0\\r\\na=fingerprint:sha-256 86:2D:77:18:F8:2E:C3:60:06:A8:E1:38:10:82:31:D0:0A:EF:D7:D7:79:3A:21:04:FF:12:E0:BC:3F:A0:38:E8\\r\\na=group:BUNDLE 0\\r\\na=ice-options:trickle\\r\\na=msid-semantic:WMS *\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=sendrecv\\r\\na=ice-pwd:b4d99e6a9b278db42494da46618e4c2a\\r\\na=ice-ufrag:646bba85\\r\\na=mid:0\\r\\na=setup:actpass\\r\\na=sctp-port:5000\\r\\na=max-message-size:1073741823\\r\\n\"}"]||
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|window.navigator.hardwareConcurrency|None|8|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|window.navigator.platform|None|MacIntel|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://fpnpmcdn.net/v3/j87xMWdr5VgjrfGoJESL/loader_v3.8.2.js|8|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+Script: `https://openfpcdn.io/fingerprintjs/v3/iife.min.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|HTMLCanvasElement.toDataURL|None||
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|OfflineAudioContext.createOscillator|None||
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|OscillatorNode.type|None|triangle|
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|window.navigator.hardwareConcurrency|None|8|
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|window.navigator.platform|None|MacIntel|
+|https://openfpcdn.io/fingerprintjs/v3/iife.min.js|8|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -3383,6 +3479,24 @@ Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2
    ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## MarketingArchitects
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://mapixl.com/scripts/pixlv2.min.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://mapixl.com/scripts/pixlv2.min.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",4,45]||
+|https://mapixl.com/scripts/pixlv2.min.js|1|HTMLCanvasElement.toDataURL|None||
+|https://mapixl.com/scripts/pixlv2.min.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://mapixl.com/scripts/pixlv2.min.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://mapixl.com/scripts/pixlv2.min.js|1|window.navigator.platform|None|MacIntel|
+|https://mapixl.com/scripts/pixlv2.min.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://mapixl.com/scripts/pixlv2.min.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## MaxMind
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -3809,6 +3923,27 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## Noto
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://net-tracker.notolytix.com/main.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://net-tracker.notolytix.com/main.js|872|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",4,45]||
+|https://net-tracker.notolytix.com/main.js|901|HTMLCanvasElement.toDataURL|None||
+|https://net-tracker.notolytix.com/main.js|1569|OfflineAudioContext.createOscillator|None||
+|https://net-tracker.notolytix.com/main.js|1570|OscillatorNode.type|None|triangle|
+|https://net-tracker.notolytix.com/main.js|129|RTCPeerConnection.setLocalDescription|None|FUNCTION|
+|https://net-tracker.notolytix.com/main.js|785|window.navigator.hardwareConcurrency|None|8|
+|https://net-tracker.notolytix.com/main.js|1094|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://net-tracker.notolytix.com/main.js|799|window.navigator.platform|None|MacIntel|
+|https://net-tracker.notolytix.com/main.js|668|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://net-tracker.notolytix.com/main.js|271|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## OneAd
@@ -5117,6 +5252,26 @@ Tapad's website states:
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## TeamBlue
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|HTMLCanvasElement.toDataURL|None||
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|OfflineAudioContext.createOscillator|None||
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|OscillatorNode.type|None|triangle|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|window.navigator.hardwareConcurrency|None|8|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|window.navigator.platform|None|MacIntel|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://motu.teamblue.services/js/he-man_all.min.js?v=2.1.20&ma=ma_enabled|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## TechSolutions
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -5193,6 +5348,25 @@ var ProcessorGeneral = async function ProcessorGeneral(action, event, args) {
     };
 
 ```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## TheNewCo
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://js.tncid.app/tnc.min.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://js.tncid.app/tnc.min.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, ðŸ˜ƒ",2,15]||
+|https://js.tncid.app/tnc.min.js|1|HTMLCanvasElement.toDataURL|None||
+|https://js.tncid.app/tnc.min.js|1|OfflineAudioContext.createOscillator|None||
+|https://js.tncid.app/tnc.min.js|1|OscillatorNode.type|None|triangle|
+|https://js.tncid.app/tnc.min.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://js.tncid.app/tnc.min.js|1|window.navigator.platform|None|MacIntel|
+|https://js.tncid.app/tnc.min.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://js.tncid.app/tnc.min.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## The Trade Desk
@@ -5690,6 +5864,26 @@ Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
   };
 
 ```
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## wpadmngr
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://js.wpadmngr.com/static/adManager.m.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://js.wpadmngr.com/static/adManager.m.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://js.wpadmngr.com/static/adManager.m.js|1|HTMLCanvasElement.toDataURL|None||
+|https://js.wpadmngr.com/static/adManager.m.js|1|OfflineAudioContext.createOscillator|None||
+|https://js.wpadmngr.com/static/adManager.m.js|1|OscillatorNode.type|None|triangle|
+|https://js.wpadmngr.com/static/adManager.m.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://js.wpadmngr.com/static/adManager.m.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://js.wpadmngr.com/static/adManager.m.js|1|window.navigator.platform|None|MacIntel|
+|https://js.wpadmngr.com/static/adManager.m.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://js.wpadmngr.com/static/adManager.m.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 

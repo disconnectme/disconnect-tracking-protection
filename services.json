@@ -6080,6 +6080,13 @@
         }
       },
       {
+        "MarketingArchitects": {
+          "https://www.marketingarchitects.com/": [
+            "mapixl.com"
+          ]
+        }
+      },
+      {
         "Martini Media": {
           "http://martinimedianetwork.com/": [
             "martiniadnetwork.com",
@@ -8525,6 +8532,13 @@
         }
       },
       {
+        "TeamBlue": {
+          "https://teamblue.services": [
+            "teamblue.services"
+          ]
+        }
+      },
+      {
         "TellApart": {
           "http://tellapart.com/": [
             "tellapart.com",
@@ -8547,6 +8561,13 @@
           "http://www.terra.com.br/": [
             "eztargetmedia.com",
             "terra.com.br"
+          ]
+        }
+      },
+      {
+        "TheNewCo": {
+          "https://www.thenewco.tech/": [
+            "tncid.app"
           ]
         }
       },
@@ -9299,6 +9320,13 @@
         "WordStream": {
           "http://www.wordstream.com/": [
             "wordstream.com"
+          ]
+        }
+      },
+      {
+        "wpadmngr": {
+          "https://js.wpadmngr.com": [
+            "wpadmngr.com"
           ]
         }
       },
@@ -10780,7 +10808,8 @@
       {
         "Akamai": {
           "http://www.akamai.com/": [
-            "go-mpulse.net"
+            "go-mpulse.net",
+            "pxlclnmdecom-a.akamaihd.net"
           ]
         }
       },
@@ -10802,6 +10831,13 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "alexametrics.com"
+          ]
+        }
+      },
+      {
+        "amoCRM": {
+          "https://www.amocrm.ru/": [
+            "amocrm.ru"
           ]
         }
       },
@@ -11230,6 +11266,14 @@
         "Feedjit": {
           "http://feedjit.com/": [
             "feedjit.com"
+          ]
+        }
+      },
+      {
+        "FingerprintJS": {
+          "https://fingerprint.com/": [
+            "fpnpmcdn.net",
+            "openfpcdn.io"
           ]
         }
       },
@@ -11771,6 +11815,13 @@
           "http://www.nielsen.com/": [
             "glanceguide.com",
             "nielsen.com"
+          ]
+        }
+      },
+      {
+        "Noto": {
+          "https://notolytix.com/": [
+            "notolytix.com"
           ]
         }
       },
@@ -12508,6 +12559,20 @@
         }
       },
       {
+        "Akamai": {
+          "http://www.akamai.com/": [
+            "pxlclnmdecom-a.akamaihd.net"
+          ]
+        }
+      },
+      {
+        "amoCRM": {
+          "https://www.amocrm.ru/": [
+            "amocrm.ru"
+          ]
+        }
+      },
+      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
@@ -12687,6 +12752,14 @@
         }
       },
       {
+        "FingerprintJS": {
+          "https://fingerprint.com/": [
+            "fpnpmcdn.net",
+            "openfpcdn.io"
+          ]
+        }
+      },
+      {
         "Flux": {
           "https://flux.jp/en/solutions/": [
             "flux-cdn.com"
@@ -12843,6 +12916,13 @@
         }
       },
       {
+        "MarketingArchitects": {
+          "https://www.marketingarchitects.com/": [
+            "mapixl.com"
+          ]
+        }
+      },
+      {
         "MaxMind": {
           "https://www.maxmind.com/en/home": [
             "maxmind.com",
@@ -12868,6 +12948,13 @@
         "Negishim": {
           "http://www.negishim.org": [
             "negishim.org"
+          ]
+        }
+      },
+      {
+        "Noto": {
+          "https://notolytix.com/": [
+            "notolytix.com"
           ]
         }
       },
@@ -13062,9 +13149,23 @@
         }
       },
       {
+        "TeamBlue": {
+          "https://teamblue.services": [
+            "teamblue.services"
+          ]
+        }
+      },
+      {
         "TechSolutions": {
           "https://www.techsolutions.com.tw/": [
             "techsolutions.com.tw"
+          ]
+        }
+      },
+      {
+        "TheNewCo": {
+          "https://www.thenewco.tech/": [
+            "tncid.app"
           ]
         }
       },
@@ -13124,6 +13225,13 @@
         "WideOrbit": {
           "https://www.wideorbit.com/": [
             "dep-x.com"
+          ]
+        }
+      },
+      {
+        "wpadmngr": {
+          "https://js.wpadmngr.com": [
+            "wpadmngr.com"
           ]
         }
       },
