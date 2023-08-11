@@ -168,7 +168,7 @@ Script: `https://assets.a-mo.net/js/adapter.js`
 |https://assets.a-mo.net/js/adapter.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://assets.a-mo.net/js/adapter.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Adbot
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -192,7 +192,7 @@ Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
         this.nativeMap = Array.prototype.map
     };
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## The Trade Desk
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -221,7 +221,7 @@ Adbrain's website states:
 >Adbrain uses machine learning algorithms to contextualize unstructured data points across devices, people, and households – achieving both broad coverage and a clear view of your target audience’s behavior. With a multidimensional approach to identity, it’s easier than ever to compare patterns across people, places, and things. 
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AdCash
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -232,7 +232,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "40px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Wfu\",179,115]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"b@)b@\",118,160]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"fW(i\",147,287]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"qGb))\",165,130]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Adjust
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -261,7 +261,7 @@ Adjust's website states:
 >Moving towards to cross-device tracking - Now, in combination with Adjust’s mobile SDK, our clients have the ability to implement cross-device tracking via their own BI system. Cross-device tracking works by matching activity across different devices to the same user who performs them by utilizing shared identifiers, such as sign-in data, that are in use on each user’s device.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AdMaven
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -283,7 +283,7 @@ Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
             })
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Admicro
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -305,7 +305,7 @@ c.prototype.getCanvas = function () {
         } catch (a) { return "Unknown" }
     }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Adnium
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -362,7 +362,7 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Adobe
 This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
@@ -384,7 +384,7 @@ Adobe's website states:
 >Retargeting Across Devices: Reach your consumers via the power of retargeting unlocked across the mobiles, tablets, browsers, and other devices they use everyday. Advertising is dramatically more effective if you can stay front of mind, and cross device retargeting allows your brand to do exactly that.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AdScore
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -448,7 +448,7 @@ This service has been classified as `FingerprintingInvasive` for the following r
             }
         }();
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AdxSpace
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -459,7 +459,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "13pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",2,20]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.23456789)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",4,22]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,125,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(125,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AivaLabs
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -497,7 +497,7 @@ this.sendAnalytics = function(n) {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## a.js
 This service has been classified as `Cryptomining` for the following reasons:
@@ -557,7 +557,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Albacross
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -568,7 +568,7 @@ Albacross’ privacy policy states:
 
 >The data processed is the IP-address from which you visited our customer´s website, and technical information that enables us to tell different visitors apart that are originating from the same IP-address (cookies). In some cases, the IP-address and the company it is matched with may constitute personal data – for instance when it comes to sole traders – as it would allow for the identification of the visitor.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AppCast
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -582,7 +582,7 @@ Appcast’s privacy policy states:
 > 
 >We may also enable third parties to use cookies, web beacons, and ID syncing to collect information when you click on an Appcast-powered job ad at third party websites." 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AuditedMedia
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -660,7 +660,7 @@ function(a) {
     }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AvantLink
 This service has been classified as `Analytics`, `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -680,7 +680,7 @@ Avantlink's website states:
 >- More Attribution Roles for AvantMetrics 
 >-  Additional Insight into the Customer’s Path to Purchase
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Awin
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -692,7 +692,7 @@ Awin's privacy policy States:
 >How do we collect data from end users? 
 >- Fingerprinting: This is a method by which Awin can uniquely identify a device by considering certain attributes of the browser or the device (incl. screen size/resolution and user configurations).
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Azet
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -706,7 +706,7 @@ function getFp() {
 }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BeMob
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -726,7 +726,7 @@ Script: `https://34763745d7.7a75ebcbd7.com/3e8d4264de65f2433ba93fee4f47dae4.js`
 |https://34763745d7.7a75ebcbd7.com/3e8d4264de65f2433ba93fee4f47dae4.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://34763745d7.7a75ebcbd7.com/3e8d4264de65f2433ba93fee4f47dae4.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BetssonPalantir
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -833,7 +833,7 @@ Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000
 }
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Bisnode
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -850,7 +850,7 @@ What data do we collect about you?
 
 >•Electronic identification data. IP-address and cookies from your visits to our sites
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BitMedia
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -889,7 +889,7 @@ Script: `https://ad.bitmedia.io/js/adbybm.js/5b58f88917356f00108024d8`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BlueCava
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -982,7 +982,7 @@ This service has been classified as `Analytics` and `FingerprintingInvasive` for
         stop();
       }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Oracle
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -1011,7 +1011,7 @@ Oracle’s website states:
 >- Map Consumer Purchase Path to Device: And deliver a consistent message across multiple devices
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BoostBox
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1065,7 +1065,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
       return ret;
     }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Bouncex
 This service has been classified as `Advertising`, `EmailStrict` and `FingerprintingInvasive` for the following reasons:
@@ -1133,7 +1133,7 @@ Script: `https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_mo
   "value": ""
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Brandcrumb
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1181,7 +1181,7 @@ e.prototype.getFingerprint = function() {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BreakTime
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1225,7 +1225,7 @@ Script: `https://a.breaktime.com.tw/js/au.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BrightEdge
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -1264,7 +1264,7 @@ var audioTimeoutId$jscomp$0 = setTimeout(function() {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## C3 Metrics
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1314,7 +1314,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
 ```
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CallSource
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -1423,7 +1423,7 @@ we = [{
             }]
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CapitalAudience
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1443,7 +1443,7 @@ Script: `https://api.targeting.capitalaudience.com/pixel/script.js`
 |https://api.targeting.capitalaudience.com/pixel/script.js|7|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://api.targeting.capitalaudience.com/pixel/script.js|3|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CartsGuru
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1513,7 +1513,7 @@ var b = {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CashBeet
 This service has been classified as `Cryptomining` for the following reasons:
@@ -1554,7 +1554,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Choozle
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -1578,7 +1578,7 @@ Choozle’s website states:
 >- Location and Content: Geolocation Targeting, IP Address Targeting, Contextual Targeting, Keyword Targeting, Postal code Targeting
 >- Other Targeting: Cross-Device Targeting
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ClearLink
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1649,7 +1649,7 @@ function c(e, t, n, r, i) {
             }
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Clickayab
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1660,7 +1660,7 @@ Script: `http://supplier.clickyab.com/api/multi.js`
 ```
 swfContainerId:"fingerprintjs2"
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ClickFrog
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1696,7 +1696,7 @@ Script: `http://franecki.net/js/lib.js`
     }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ClickGuard
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -1760,7 +1760,7 @@ Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Clixtell
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1821,7 +1821,7 @@ function n(t) {
         }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Cloudflare
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -1832,7 +1832,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
@@ -1881,7 +1881,7 @@ up: {"type":"submit","params":{"version":7,"job_id":"448165886709466","nonce":"0
 
 down: {"type":"hash_accepted","params":{"hashes":256}}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CoinPot
 This service has been classified as `Cryptomining` for the following reasons:
@@ -1954,7 +1954,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ContentExchange
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -1970,7 +1970,7 @@ Script: `https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?
 |https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.platform|None|MacIntel|
 |https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PublicisGroupe
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -1993,7 +1993,7 @@ Conversant's website states:
 >Whether you choose a mobile-only or integrated multi-device campaign, you’ll benefit from the insights that come from our incredibly rich cross-device consumer profiles. Our profiles encompass browsing, interaction, shopping and purchase data as well as mobile-specific insights like device and location. With superior cross-device mapping and a potential reach of 90+ percent of both iOS and Android, we offer an unparalleled opportunity to reach and message consumers across channels and on virtually any device they choose. In fact, we have full SDK integration with more than 20,000 apps. Conversant's cross-device solutions deliver more than three times the engagement and five times the conversions of single device programmes. From standard banners to rich, interactive full-screen executions, we offer an incredibly broad creative suite to accommodate virtually any marketing goal or metric. (2)
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## CryptoLoot
 This service has been classified as `Cryptomining` for the following reasons:
@@ -2014,7 +2014,7 @@ function _0x45bcc2() {
   }, 2E3);
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## dmpxs
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2150,7 +2150,7 @@ var c = "bob.dmpxs.com";
                 return r
             })();
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## DoubleVerify
 This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
@@ -2169,7 +2169,7 @@ DoubleVerify's Privacy Policy States:
 >> IP addresses are collected to extract geolocation information.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Microsoft
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2182,7 +2182,7 @@ Drawbridge/Linkedin’s privacy policy states:
 
 >Your Device and Location: When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit. We also get information about your network and device (e.g., IP address, proxy server, operating system, web browser and add-ons, device identifier and features, cookie IDs and/or ISP, or your mobile carrier). If you use our Services from a mobile device, that device will send us data about your location based on your phone settings.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## EroAdvertising
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2225,7 +2225,7 @@ eaCtrl.connectors = {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Experian
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2251,7 +2251,7 @@ Experian's website states:
 >- Control - Compare records, identify and harmonise duplicates, create a golden nominal and give each individual a unique identification number and ensure you can maintain an up-to-date and accurate view over time. (2) 
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## EyeNewton
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2259,7 +2259,7 @@ This service has been classified as `Advertising` and `FingerprintingGeneral` fo
 `https://eyenewton.ru/docs/privacy_policy.pdf`
 PRIVACY POLICY NOT RELEVANT AND "PROCESSING OF PERSONAL DATA" SECTION ONLY APPLIES TO CONSENT
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Facebook
 This service has been classified as `Social`, `Content`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2298,7 +2298,7 @@ Facebook's Website States:
   
 >Josh McFarland, CEO of TellApart, a Facebook Preferred Marketing Developer, adds: “Tracking click and conversion data deterministically across devices has confirmed what we know to be true: mobile ads drive commerce everywhere. This new reporting from Facebook has been a game-changer in our ability to help clients like Neiman Marcus and Sur La Table correctly value and invest in their mobile ads efforts.”
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Fanplayr
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2312,7 +2312,7 @@ Fanplayr’s privacy policy states:
 >•"Cookies" and Clear Gif Information. We may automatically collect certain information using "cookies" or clear gifs. Cookies are small data files that are stored on a User's hard drive at the request of a Web Site to enable such Web site to recognize Users who have previously visited them and retain certain information such as user preferences and history. If we combine cookies with or link them to any personally identifiable information, we would treat this information as Personal Data. Clear gifs are small, invisible graphic images that may be used by the Services or in emails relating to the Services to collect certain information and monitor user activity on the Services and may be combined with Your IP address or other information that we have gathered with respect to a User's use of the Services 
 >•We use analytics tools to track how You get to Web Sites and to understand how You use the WebSites after You arrive."
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Fiksu
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2336,7 +2336,7 @@ Fiksu's website states:
 >Looking to raise your brand’s profile with ads cross-platform? Or maybe you want to retarget lapsed customers that haven’t made a purchase in a while? Fiksu’s unique combination of aggregated user data and audience-building tools allows us to address brands’ biggest marketing challenges, reaching audiences on mobile and CTV/OTT. (2)  
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Flocktory
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2371,7 +2371,7 @@ Flocktory's website states:
 >Flocktory tracks millions of data points every single day and combines user behavior and customer shopping history with strong cohort analysis and predictive algorithms to support and automate your business decisions
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Flux
 This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2391,7 +2391,7 @@ Script: `https://flux-cdn.com/client/mainichi/mainichi2.min.js`
 |https://flux-cdn.com/client/mainichi/mainichi2.min.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://flux-cdn.com/client/mainichi/mainichi2.min.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Foresee
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -2476,7 +2476,7 @@ This service has been classified as `FingerprintingInvasive` for the following r
   self.Fingerprint = Binder;
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Friends2Follow
 This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2511,7 +2511,7 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Gleam
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2548,7 +2548,7 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
                 })
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Google
 This service has been classified as `Email`, `Social`, `Content`, `Analytics`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2579,7 +2579,7 @@ Google's website states:
 
 >Analytics will now help you understand the journey your customers are taking across their devices as they interact with your website, giving you a complete view of the impact of your marketing so you can run smarter campaigns that deliver more tailored experiences to your customers. Cross Device reporting in Analytics takes into account people who visit your website multiple times from different devices. Now, instead of seeing metrics in Analytics that show two separate sessions (e.g., one on desktop and the other on mobile), you’ll be able to see when users visited your website from two different devices (2)
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## GrapheneMedia
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -2598,7 +2598,7 @@ Script: `https://www.graphenedigitalanalytics.in/ccanalytics/fingerprint2.js`
         }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
     };
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Gridcash
 This service has been classified as `Cryptomining` for the following reasons:
@@ -2628,7 +2628,7 @@ This service has been classified as `Cryptomining` for the following reasons:
         }
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HilltopAds
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2665,7 +2665,7 @@ Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 });
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HotelChamp
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -2713,7 +2713,7 @@ Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HotMart
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2726,7 +2726,7 @@ Hotmart's Privacy Policy States:
 `https://www.hotmart.com/en/cookie-policy` (2)
 >Other data collection tools, similar to Cookies, are also employed by the HOTMART Platform, analytic and tracking cookies that aim to collect USER data and understand their behavior to enable the Platform to work. (2)
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## iMedia
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -2798,7 +2798,7 @@ This service has been classified as `FingerprintingInvasive` for the following r
         return canvas;
       };
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Impact
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2903,7 +2903,7 @@ function(a, b, c) {
         })
     }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Infolinks
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -2916,7 +2916,7 @@ Infolink's privacy policy States:
   
 >Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the Infolinks Properties, and other information about the individual’s system and connection and how the individual interacts with the Infolinks Properties and other websites.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Integral Ad Science
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2946,7 +2946,7 @@ Submission source: https://github.com/disconnectme/disconnect-tracking-protectio
             return !1
         }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## iShumei
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -2957,7 +2957,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "24px 'Arial'", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "#e88", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#f99", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"http://www.ishumei.com\",2,15]", "operation": "call"}, {"value": "rgba(120, 180, 0, 0.7)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"http://www.ishumei.com\",4,17]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## IslayTech
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -3001,7 +3001,7 @@ Script: `https://connect.islay.tech/analyzer/collector.min.js?x=1549440528024`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ismatlab.com
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3077,7 +3077,7 @@ function h(i) {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Itch
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3094,7 +3094,7 @@ Script: `https://static.itch.io/widget.min.js?1549413662`
             }(this))
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## JSE
 This service has been classified as `Cryptomining` for the following reasons:
@@ -3118,7 +3118,7 @@ This service has been classified as `Cryptomining` for the following reasons:
       } else {
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## justuno
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -3131,7 +3131,7 @@ Justuno’s privacy policy states:
 > 
 >"Non-Identifiable Data: When you interact with Justuno through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you, unless it is combined with Personal Information. Justuno may store such information itself or such information may be included in databases owned and maintained by Justuno affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers"
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Katalys
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3151,7 +3151,7 @@ Script: `https://db.revoffers.com/_track.js`
 |https://db.revoffers.com/_track.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://db.revoffers.com/_track.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## KISSmetrics
 This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
@@ -3177,7 +3177,7 @@ Kissmetrics' website states:
 >See a user’s full customer journey across devices (2) 
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Kitewheel
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3188,7 +3188,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Konduto
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3240,7 +3240,7 @@ Script: `https://i.k-analytix.com/k.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## LeadInfo
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -3259,7 +3259,7 @@ Script: `https://cdn.leadinfo.net/ping.js`
 |https://cdn.leadinfo.net/ping.js|7|window.navigator.platform|None|MacIntel|
 |https://cdn.leadinfo.net/ping.js|7|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## LeadsHub
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3281,7 +3281,7 @@ Script: `http://cdn.ztsrv.com/js/0.5.0/ztag.js`
 Request URL: http://us-west-2-v2-t.ztsrv.com/1/i/REMOVED;za/p.gif
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ListenLayer
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3300,7 +3300,7 @@ Script: `https://assets.listenlayer.com/datalayer.min.js?id=d1e08572-afbd-43cf-9
 |https://assets.listenlayer.com/datalayer.min.js?id=d1e08572-afbd-43cf-982a-30f8b988a971|1|window.navigator.platform|None|MacIntel|
 |https://assets.listenlayer.com/datalayer.min.js?id=d1e08572-afbd-43cf-982a-30f8b988a971|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## LiveRamp
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -3331,7 +3331,7 @@ LiveRamp's website states:
 
 >LiveRamp ties online and offline data into a single, persistent identifier to provide a clear, omnichannel view of the customer. (2)
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Lotame
 This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
@@ -3369,7 +3369,7 @@ Lotame's website states:
 >Cartographer clusters and connects your people across IDs, browsers, devices, and domains. So a consumer who visits your abc.com site would be connected to all the instances of their identity, including their visit to your def.com site. (2)
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## lptracker
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3381,7 +3381,7 @@ Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2
 ```
 {"site_id":62106,"fingerprint_hash":"XXXXXXXXXXX","version":"2.20.0-312-g9dbe2215e8-dirty","page":"https://green-game.ru/","domain":"green-game.ru","referer":"https://green-game.ru/"}: 
    ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## MaxMind
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -3456,7 +3456,7 @@ Script: `https://device.maxmind.com/js/device.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## MediaMath
 This service has been classified as `Email`, `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -3470,7 +3470,7 @@ MediaMath's Privacy Policy States:
 >We may assign a unique identifier called a MediaMath ID to your browser, your devices, such as your mobile device, connected television, or over-the-top television devices (""OTT TV Device""), or other screens you may encounter when we serve an ad to it or when you use it to access a client’s digital properties. Digital Properties include websites, emails, apps (""Digital Properties""). The MediaMath ID enables the Platform to determine within a reasonable level of confidence that a browser or devices is the same one with which the Platform has previously interacted. In some cases, based on data we receive from our clients or partners, we are able to infer within a reasonable probability that a particular browser or device should be associated with the same MediaMath ID. Where we are able to associate more than one browser or device with the same MediaMath ID, we may use this information to deliver targeted ads across multiple browsers or devices. This is sometimes referred to as cross-device advertising.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Mercadopago
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3498,7 +3498,7 @@ var td_3X = ['Andale Mono', 'Arial', 'Arial Black', 'AR PL UKai CN', 'AR PL UMin
     };
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## MinerAlt
 This service has been classified as `Cryptomining` for the following reasons:
@@ -3553,7 +3553,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Minescripts
 This service has been classified as `Cryptomining` for the following reasons:
@@ -3607,7 +3607,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## MineXMR
 This service has been classified as `Cryptomining` for the following reasons:
@@ -3665,7 +3665,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Mobials
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3721,7 +3721,7 @@ Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Negishim
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3751,7 +3751,7 @@ var a = window.location.href.replace("?", "^").replace(/&/g, "~");
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## NeroHut
 This service has been classified as `Cryptomining` for the following reasons:
@@ -3809,7 +3809,7 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## OneAd
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3867,7 +3867,7 @@ a.Fingerprint2 = function(a) {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## OnlineMetrix
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3879,7 +3879,7 @@ function tmx_run_page_fingerprinting(saveNotifs) {
   }
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## OpenX
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -3902,7 +3902,7 @@ OpenX's Privacy Policy States:
 
 >We primarily recognize your devices through the following identifiers: Cookies and Similar Technologies, Mobile Advertising IDs To help identify your browser and/or possible relationships between different browsers and devices, OpenX or our partners may use the local storage or cache in your browser.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Origo
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -3913,7 +3913,7 @@ Origo’s privacy policy states:
  
 >32. Data to be technically recorded during the operation of the systems: the data of the User's login computer, which are generated during the use of the Service and which are recorded by the System of Data Controllers as an automatic result of the technical processes. The data that is automatically recorded is automatically logged at the time of entry or exit without any separate statement or action by the User." 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PartyPoker
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -3924,7 +3924,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Paypal
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -3970,7 +3970,7 @@ Script: `https://cdn.simility.com/b.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HumanSecurity
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4071,7 +4071,7 @@ This service has been classified as `Advertising` and `FingerprintingInvasive` f
             }
         }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PinPoll
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -4082,7 +4082,7 @@ Pinpoll's privacy policy states:
 
 >Data generated by the software of Pinpoll can be the following data of users and voters: Device-specific information; Location-based information; Website-based information.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PixAnalytics
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -4140,7 +4140,7 @@ getCanvasFp: function() {
         }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Pixlee
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4166,7 +4166,7 @@ Script: `https://assets.pixlee.com/assets/pixlee_widget_1_0_0.js`
     }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Playwire
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4185,7 +4185,7 @@ Script: `https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js`
 |https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.platform|None|MacIntel|
 |https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Polen
 This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
@@ -4199,7 +4199,7 @@ Polen’s Terms of Service [no relevant privacy policy or Data processing agreem
 >i. Polen does not directly obtain any kind of information from its users. The information is obtained through its Partner Stores, being supplied only those strictly necessary for using the Polen Browser App; 
 iii. The information collected by Polen will be applied in the realization of improvements to the tool, and also for the development of new functionalities, which can be used by Polen in other products that will be developed by the company." 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PPCProtect
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4237,7 +4237,7 @@ Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PrometheusIntelligenceTechnology
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4271,7 +4271,7 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Protected Media
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4428,7 +4428,7 @@ Script: `https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l
   "value": ""
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Radware
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -4467,7 +4467,7 @@ Submission source: https://github.com/disconnectme/disconnect-tracking-protectio
                             }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## RazorPay
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -4478,7 +4478,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Rollick
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -4504,7 +4504,7 @@ Script: `https://widget.rollick.io/00294`
         this.nativeMap = Array.prototype.map;
     };
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## RoqAd
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -4530,7 +4530,7 @@ Roq.ad's Website states:
 >Identity Graph - Uncover which devices your users own and how they use them to interact with your brand. Understanding your audience and their online behavioral patterns enables you to define the perfect strategy to increase engagement. Built in-house, Roq.ad Cross-Device Identity Graph uses probabilistic data to make predictions and deterministic data sets to train the algorithms.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Salesforce
 This service has been classified as `Email`, `Analytics`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
@@ -4556,7 +4556,7 @@ Salesforce's website states:
 >Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Selectable Media
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4573,7 +4573,7 @@ getCanvasFingerprint: function() {
 
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Semantiqo
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4613,7 +4613,7 @@ Script: `https://sonar.semantiqo.com/c82up/checking.js`
             },
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SendPulse
 This service has been classified as `Email`, `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -4638,7 +4638,7 @@ Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 ```
 Request URL: https://login.sendpulse.com/members/forms/stat?true=jQuery112409706314635002642_1553640639385&event=show&formId=95496&fp=REMOVED&_=1553640639386
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ShaftTraffic
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4677,7 +4677,7 @@ Script: `https://a.libertystmedia.com/static?r=14817216&id=15&pid=4&sid=5&tid=26
         },
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Shixiseng
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4688,7 +4688,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SiftScience
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -4749,7 +4749,7 @@ Script: `https://cdn.siftscience.com/s.js`
                     fu: b.flash_uuid_
                 };
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Signifyd
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -4843,7 +4843,7 @@ this.getFPParams = function() {
 
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SmarterClick
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -4854,7 +4854,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SmartyAds
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -4890,7 +4890,7 @@ SmartyAds' website states:
 >Control your budget, target and retarget your audiences with relevant brand messages. Launch CPM advertising campaigns cross-channel on any device. (2)
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Smi
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -4939,7 +4939,7 @@ Script: `https://jsn.24smi.net/smi.js`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Socital
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -4953,7 +4953,7 @@ Socital's privacy policy states:
 >Passive Data Collection - Like most web-based services, we may automatically receive and record information on our server logs from your browser when you use the Socital Site and Services. We may use a variety of methods, including clear GIFs (also known as “web beacons”) and “cookies”, to collect this information. We use both session and persistent cookies. The information that we may collect with these automated methods may include, for example, your IP address, cookie information, a unique device or user ID, browser type, system type, the content and pages that you access on the Socital Site or Services, the frequency and duration of your visits to the Socital Site or Services, and the “referring URL” (i.e., the page from which you navigated to the Socital Site).
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SpareChange
 This service has been classified as `Cryptomining` for the following reasons:
@@ -5001,7 +5001,7 @@ function Miner(spareChangeApiKey, p1, p2) {
 }
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SteelHouse
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -5025,7 +5025,7 @@ Steelhouse's website states:
 >Because the SteelHouse Smart Pixel allows advertisers to run retargeting campaigns without the need for a product feed. Simply place the pixel on your website and you are able to retarget site visitors with the products and services they viewed on your website.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Storeland
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -5062,7 +5062,7 @@ try {
 
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Stripchat
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5073,7 +5073,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Stripe
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -5090,7 +5090,7 @@ Script: `https://m.stripe.network/inner.html#referrer=&title=Study.com%20%7C%20T
   "value": ""
 }
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Tapad
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -5115,7 +5115,7 @@ Tapad's website states:
 
 >One Powerful cross device graph - Simply put, The Tapad Graph is a data file that includes digital ad IDs that are clustered at the individual and/or household level. It’s built using a set of customer provided input IDs as a baseline, and from there we connect those IDs to other IDs associated with them — across multiple digital device types. Receive a file each week and start realizing the benefits of Tapad’s global cross-device graph. For example, a brand or agency with a file of first or third-party cookies can associate them to mobile devices, CTVs, and additional cookies — creating more relevant opportunities for brands to connect with consumers across devices.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## TechSolutions
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -5193,7 +5193,7 @@ var ProcessorGeneral = async function ProcessorGeneral(action, event, args) {
     };
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## The Trade Desk
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -5222,7 +5222,7 @@ TheTradeDesk's website states:
 >Analyze the entire customer journey. See which ads perform well on which devices, including Connected TV, desktop, and mobile.
 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## tongdun.cn
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -5235,7 +5235,7 @@ Script: `https://static.tongdun.net/v3/fm.js?ver=0.1&t=466485`
 |CanvasRenderingContext2D.fillText  |  ["http://fp.fraudmetrix.cn",2,15]|
 |HTMLCanvasElement.getContext  |  ["2d"]|
 |HTMLCanvasElement.toDataURL  |  null|
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Trendemon
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5246,7 +5246,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Unseen
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -5269,7 +5269,7 @@ Script: `https://friendshipmale.com/sfp.js`
 ```
 https://unseenreport.com/pxf.gif?uuid=REDACTED&eb=REDACTED&te=REDACTED&ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A105.0)%20Gecko%2F20100101%20Firefox%2F105.0&dev=r&res=14.31&b_frame=0&pk=REDACTED&bl=en-US&sr=987x1920&sz=1080x1920&hjs=6
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Upland
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5396,7 +5396,7 @@ getCanvasFp: function () {
         });
     }, 75);
    ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## VerticalHealth
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5422,7 +5422,7 @@ Script: `https://assets.verticalhealth.net/fingerprint2.min.js`
 Request URL: https://id.verticalhealth.net/pixel.gif?fprint=REMOVED&partnerid=iodine&context=%7B%22depression%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22diagnosis%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22new%20york%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22morphine%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tramadol%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22lortab%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22vicodin%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22one%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgery%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22tissue%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22muscle%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22surgeon%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22panic%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22doctor%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22pain%22%3A%7B%22score%22%3A3%2C%22count%22%3A3%7D%2C%22add%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22addictive%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22abuse%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22adhd%22%3A%7B%22score%22%3A1%2C%22count%22%3A1%7D%2C%22medications%22%3A%7B%22score%22%3A6%2C%22count%22%3A4%7D%7D
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Vtex
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -5440,7 +5440,7 @@ Vtex's privacy policy states:
  
 >We might also may put together additional information with Personal Information, such as gathering geographical location from your IP address and combining all of this with behavioral data about your usage of the Services with your name. 
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Warumbistdusoarm
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5451,7 +5451,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "50px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"26%k'\",115,244]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"&>\",48,218]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "200px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"KHJ/$\",147,109]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"V*\",50,156]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Webmecanik
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5613,7 +5613,7 @@ function(m, l, n, d) {
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Webmine
 This service has been classified as `Cryptomining` for the following reasons:
@@ -5647,7 +5647,7 @@ var CryptonightWASMWrapper = function() {
 };
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## WideOrbit
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5691,7 +5691,7 @@ Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
 
 ```
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Xfyun
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
@@ -5709,7 +5709,7 @@ Script: `https://dt.xfyun.cn/analysis-id.js`
 |https://dt.xfyun.cn/analysis-id.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://dt.xfyun.cn/analysis-id.js|2|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Yandex
 This service has been classified as `Advertising`, `FingerprintingInvasive` and `Content` for the following reasons:
@@ -5735,7 +5735,7 @@ Script: `https://mc.yandex.ru/metrika/watch.js`
       }
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Yieldmo
 This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
@@ -5746,7 +5746,7 @@ Yieldmo's privacy policy States:
 
 >As an End User browses the mobile Internet or uses Apps that include references to the Service, the End User’s browser or device may request advertisements from Yieldmo’s system. When Yieldmo receives these requests, and/or when Yieldmo delivers advertisements to such browser or device, we may collect information about these interactions (as well as any further interaction with the advertisements provided by the Service such as views, clicks, conversions, etc.). This may include, for example: IP address; unique identifiers sent to us from mobile devices, network carriers or data providers; information contained in HTTP headers or other internet transfer protocol signals…attributes of computer or device usage, such as advertisements clicked, websites and content areas visited; date and time of advertisement request, and advertisement delivery and interaction activities; browser type and version; operating system; language setting; information about or from the presence or use of Apps on a mobile device; and location. Such information is stored on Yieldmo’s servers. We may also collect the GPS location of your device if you have opted to provide it to Yieldmo or to one of Yieldmo’s publisher or third party data provider partners. On occasion, we may also receive information from third-parties that enables advertisement optimization, independently of or in combination with the information collected by Yieldmo, such as audience interest segments and product categories.
 
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ZafulAffiliate
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -5792,7 +5792,7 @@ Script: `https://js.affasi.com/affasi_js.min.js`
 
 
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Zip
 This service has been classified as `FingerprintingInvasive` for the following reasons:
@@ -5803,5 +5803,5 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 {"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-[Go back to top](#tracker-descriptions)
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
