@@ -2881,6 +2881,14 @@
         "brilig.com"
       ]
     },
+    "BrowserAnalytic": {
+      "properties": [
+        "browseranalytic.com"
+      ],
+      "resources": [
+        "browseranalytic.com"
+      ]
+    },
     "Browser-Update.org": {
       "properties": [
         "browser-update.org"
@@ -5709,6 +5717,14 @@
         "gb-world.net"
       ]
     },
+    "GeeTest": {
+      "properties": [
+        "geetest.com"
+      ],
+      "resources": [
+        "geetest.com"
+      ]
+    },
     "Gemius": {
       "properties": [
         "gemius.com",
@@ -7606,6 +7622,14 @@
         "kitewheel.com"
       ]
     },
+    "Klar": {
+      "properties": [
+        "getklar.com"
+      ],
+      "resources": [
+        "durchsichtig.xyz"
+      ]
+    },
     "Kokteyl": {
       "properties": [
         "admost.com",
@@ -9472,6 +9496,14 @@
       "resources": [
         "networkedblogs.com",
         "ninua.com"
+      ]
+    },
+    "NoFraud": {
+      "properties": [
+        "nofraud.com"
+      ],
+      "resources": [
+        "nofraud.com"
       ]
     },
     "Nokta": {
@@ -12937,6 +12969,14 @@
         "tracemyip.org"
       ]
     },
+    "Tracify": {
+      "properties": [
+        "tracify.ai"
+      ],
+      "resources": [
+        "tracify.ai"
+      ]
+    },
     "TrackingSoft": {
       "properties": [
         "roia.biz",
@@ -13708,6 +13748,14 @@
         "intellitxt.com",
         "picadmedia.com",
         "vibrantmedia.com"
+      ]
+    },
+    "VicinityMedia": {
+      "properties": [
+        "vicinity.media"
+      ],
+      "resources": [
+        "vic-m.co"
       ]
     },
     "Vidazoo": {
@@ -14677,6 +14725,14 @@
       ],
       "resources": [
         "yoggrt.com"
+      ]
+    },
+    "Yoox": {
+      "properties": [
+        "yoox.com"
+      ],
+      "resources": [
+        "yoox.it"
       ]
     },
     "Yotpo": {
