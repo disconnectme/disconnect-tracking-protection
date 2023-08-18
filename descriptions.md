@@ -19,6 +19,7 @@ The technical and policy review information below was recorded on the date obser
 - [Albacross](#Albacross)
 - [amoCRM](#amoCRM)
 - [AppCast](#AppCast)
+- [ArtificialComputationIntelligence](#ArtificialComputationIntelligence)
 - [AuditedMedia](#AuditedMedia)
 - [AvantLink](#AvantLink)
 - [Awin](#Awin)
@@ -35,11 +36,13 @@ The technical and policy review information below was recorded on the date obser
 - [BreakTime](#BreakTime)
 - [BrightEdge](#BrightEdge)
 - [BrowserAnalytic](#BrowserAnalytic)
+- [Buzzoola](#Buzzoola)
 - [C3-Metrics](#C3-Metrics)
 - [CallSource](#CallSource)
 - [CapitalAudience](#CapitalAudience)
 - [CartsGuru](#CartsGuru)
 - [CashBeet](#CashBeet)
+- [CHEQ](#CHEQ)
 - [Choozle](#Choozle)
 - [ClearLink](#ClearLink)
 - [Clickayab](#Clickayab)
@@ -108,6 +111,7 @@ The technical and policy review information below was recorded on the date obser
 - [NoFraud](#NoFraud)
 - [Noto](#Noto)
 - [OneAd](#OneAd)
+- [OneF](#OneF)
 - [OnlineMetrix](#OnlineMetrix)
 - [OpenX](#OpenX)
 - [Origo](#Origo)
@@ -149,6 +153,7 @@ The technical and policy review information below was recorded on the date obser
 - [TheNewCo](#TheNewCo)
 - [The-Trade-Desk](#The-Trade-Desk)
 - [tongdun.cn](#tongdun.cn)
+- [tp88trk](#tp88trk)
 - [Tracify](#Tracify)
 - [TrafficJunky](#TrafficJunky)
 - [Trendemon](#Trendemon)
@@ -156,6 +161,7 @@ The technical and policy review information below was recorded on the date obser
 - [Upland](#Upland)
 - [VerticalHealth](#VerticalHealth)
 - [VicinityMedia](#VicinityMedia)
+- [Vidoomy](#Vidoomy)
 - [Vtex](#Vtex)
 - [Warumbistdusoarm](#Warumbistdusoarm)
 - [Webmecanik](#Webmecanik)
@@ -167,6 +173,7 @@ The technical and policy review information below was recorded on the date obser
 - [Yieldmo](#Yieldmo)
 - [Yoox](#Yoox)
 - [ZafulAffiliate](#ZafulAffiliate)
+- [zatnoh](#zatnoh)
 - [Zip](#Zip)
 ## AdaptMX
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
@@ -636,6 +643,25 @@ Appcast’s privacy policy states:
 >The information we collect in this manner includes IP address, browser type, device type, operating system, referring URLs, dates and times of site visits, and predictive demographic information… 
 > 
 >We may also enable third parties to use cookies, web beacons, and ID syncing to collect information when you click on an Appcast-powered job ad at third party websites." 
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## ArtificialComputationIntelligence
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://www.acint.net/oci.js?t=1680743174827`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://www.acint.net/oci.js?t=1680743174827|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://www.acint.net/oci.js?t=1680743174827|1|HTMLCanvasElement.toDataURL|None||
+|https://www.acint.net/oci.js?t=1680743174827|1|OfflineAudioContext.createOscillator|None||
+|https://www.acint.net/oci.js?t=1680743174827|1|OscillatorNode.type|None|triangle|
+|https://www.acint.net/oci.js?t=1680743174827|1|window.navigator.hardwareConcurrency|None|8|
+|https://www.acint.net/oci.js?t=1680743174827|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://www.acint.net/oci.js?t=1680743174827|1|window.navigator.platform|None|MacIntel|
+|https://www.acint.net/oci.js?t=1680743174827|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -1340,6 +1366,25 @@ Script: `https://static.browseranalytic.com/js/d3d3LmNhamFtYXIuZXM=/44b73fa0/bca
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## Buzzoola
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|HTMLCanvasElement.toDataURL|None||
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|OfflineAudioContext.createOscillator|None||
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|OscillatorNode.type|None|triangle|
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|window.navigator.platform|None|MacIntel|
+|https://tube.buzzoola.com/new/build/buzzcommon.fpjs.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## C3 Metrics
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
@@ -1628,6 +1673,26 @@ Raw log:
     }
 }
 ```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## CHEQ
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://www.clickcease.com/monitor/stat.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://www.clickcease.com/monitor/stat.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
+|https://www.clickcease.com/monitor/stat.js|1|HTMLCanvasElement.toDataURL|None||
+|https://www.clickcease.com/monitor/stat.js|1|OfflineAudioContext.createOscillator|None||
+|https://www.clickcease.com/monitor/stat.js|1|OscillatorNode.type|None|triangle|
+|https://www.clickcease.com/monitor/stat.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://www.clickcease.com/monitor/stat.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://www.clickcease.com/monitor/stat.js|1|window.navigator.platform|None|MacIntel|
+|https://www.clickcease.com/monitor/stat.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://www.clickcease.com/monitor/stat.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Choozle
@@ -4081,6 +4146,25 @@ a.Fingerprint2 = function(a) {
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## OneF
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://track.onef.pro/cdn/fingerprintjs`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://track.onef.pro/cdn/fingerprintjs|2|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://track.onef.pro/cdn/fingerprintjs|2|HTMLCanvasElement.toDataURL|None||
+|https://track.onef.pro/cdn/fingerprintjs|2|OfflineAudioContext.createOscillator|None||
+|https://track.onef.pro/cdn/fingerprintjs|2|OscillatorNode.type|None|triangle|
+|https://track.onef.pro/cdn/fingerprintjs|2|window.navigator.hardwareConcurrency|None|8|
+|https://track.onef.pro/cdn/fingerprintjs|2|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://track.onef.pro/cdn/fingerprintjs|2|window.navigator.platform|None|MacIntel|
+|https://track.onef.pro/cdn/fingerprintjs|2|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## OnlineMetrix
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -5488,6 +5572,26 @@ Script: `https://static.tongdun.net/v3/fm.js?ver=0.1&t=466485`
 |HTMLCanvasElement.toDataURL  |  null|
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## tp88trk
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://www.tp88trk.com/scripts/sdk/everflow.js?`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",4,45]||
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|HTMLCanvasElement.toDataURL|None||
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|OfflineAudioContext.createOscillator|None||
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|OscillatorNode.type|None|triangle|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|window.navigator.hardwareConcurrency|None|8|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|window.navigator.platform|None|MacIntel|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://www.tp88trk.com/scripts/sdk/everflow.js?|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## Tracify
 This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -5744,6 +5848,25 @@ Script: `https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425`
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.platform|None|MacIntel|
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## Vidoomy
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|HTMLCanvasElement.toDataURL|None||
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|OfflineAudioContext.createOscillator|None||
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|OscillatorNode.type|None|triangle|
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.hardwareConcurrency|None|8|
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.platform|None|MacIntel|
+|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -6151,6 +6274,26 @@ Script: `https://js.affasi.com/affasi_js.min.js`
 
 
 ```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## zatnoh
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|HTMLCanvasElement.toDataURL|None||
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|OfflineAudioContext.createOscillator|None||
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|OscillatorNode.type|None|triangle|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|window.navigator.platform|None|MacIntel|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://zatnoh.com/pw/waWQiOjEwMzExMjUsInNpZCI6MTAzNjE0MCwid2lkIjoyNzI2MDUsInNyYyI6Mn0=eyJ.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Zip

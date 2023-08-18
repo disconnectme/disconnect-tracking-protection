@@ -2833,6 +2833,13 @@
         }
       },
       {
+        "ArtificialComputationIntelligence": {
+          "https://acint.net/": [
+            "acint.net"
+          ]
+        }
+      },
+      {
         "Atedra": {
           "https://www.atedra.com/": [
             "atedra.com"
@@ -3411,6 +3418,13 @@
         }
       },
       {
+        "Buzzoola": {
+          "https://www.buzzoola.com/en/": [
+            "buzzoola.com"
+          ]
+        }
+      },
+      {
         "BuzzParadise": {
           "http://www.buzzparadise.com/": [
             "buzzparadise.com"
@@ -3562,6 +3576,7 @@
         "CHEQ": {
           "https://cheq.ai/": [
             "cheqzone.com",
+            "clickcease.com",
             "defybrick.com"
           ]
         }
@@ -6807,6 +6822,13 @@
         }
       },
       {
+        "OneF": {
+          "https://track.onef.pro": [
+            "onef.pro"
+          ]
+        }
+      },
+      {
         "One iota": {
           "http://www.itsoneiota.com/": [
             "itsoneiota.com",
@@ -8702,6 +8724,13 @@
         }
       },
       {
+        "tp88trk": {
+          "https://www.tp88trk.com/": [
+            "tp88trk.com"
+          ]
+        }
+      },
+      {
         "TrackingSoft": {
           "http://trackingsoft.com/": [
             "trackingsoft.com"
@@ -9133,6 +9162,13 @@
         "VideoIntelligence": {
           "https://www.vi.ai/": [
             "vi.ai"
+          ]
+        }
+      },
+      {
+        "Vidoomy": {
+          "https://www.vidoomy.com/": [
+            "vidoomy.com"
           ]
         }
       },
@@ -9626,6 +9662,13 @@
           "http://www.zapunited.com/": [
             "zaparena.com",
             "zapunited.com"
+          ]
+        }
+      },
+      {
+        "zatnoh": {
+          "https://zatnoh.com": [
+            "zatnoh.com"
           ]
         }
       },
@@ -12622,6 +12665,13 @@
         }
       },
       {
+        "ArtificialComputationIntelligence": {
+          "https://acint.net/": [
+            "acint.net"
+          ]
+        }
+      },
+      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
@@ -12711,6 +12761,13 @@
         }
       },
       {
+        "Buzzoola": {
+          "https://www.buzzoola.com/en/": [
+            "buzzoola.com"
+          ]
+        }
+      },
+      {
         "C3 Metrics": {
           "http://c3metrics.com/": [
             "c3metrics.com",
@@ -12736,6 +12793,13 @@
         "CartsGuru": {
           "https://carts.guru/": [
             "carts.guru"
+          ]
+        }
+      },
+      {
+        "CHEQ": {
+          "https://cheq.ai/": [
+            "clickcease.com"
           ]
         }
       },
@@ -13044,6 +13108,13 @@
         }
       },
       {
+        "OneF": {
+          "https://track.onef.pro": [
+            "onef.pro"
+          ]
+        }
+      },
+      {
         "OnlineMetrix": {
           "http://h.online-metrix.net": [
             "online-metrix.net"
@@ -13255,6 +13326,13 @@
         }
       },
       {
+        "tp88trk": {
+          "https://www.tp88trk.com/": [
+            "tp88trk.com"
+          ]
+        }
+      },
+      {
         "Tracify": {
           "https://www.tracify.ai/": [
             "tracify.ai"
@@ -13303,6 +13381,13 @@
         "VicinityMedia": {
           "https://vicinity.media/": [
             "vic-m.co"
+          ]
+        }
+      },
+      {
+        "Vidoomy": {
+          "https://www.vidoomy.com/": [
+            "vidoomy.com"
           ]
         }
       },
@@ -13361,6 +13446,13 @@
             "affasi.com",
             "gw-ec.com",
             "zaful.com"
+          ]
+        }
+      },
+      {
+        "zatnoh": {
+          "https://zatnoh.com": [
+            "zatnoh.com"
           ]
         }
       },
