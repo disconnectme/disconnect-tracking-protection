@@ -4635,6 +4635,13 @@
         }
       },
       {
+        "Facebook": {
+          "http://www.facebook.com/": [
+            "atlassolutions.com"
+          ]
+        }
+      },
+      {
         "Facilitate Digital": {
           "http://www.facilitatedigital.com/": [
             "adsfac.eu",
@@ -5035,6 +5042,35 @@
         "GoldSpot Media": {
           "http://www.goldspotmedia.com/": [
             "goldspotmedia.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "2mdn.net",
+            "admeld.com",
+            "admob.com",
+            "adometry.com",
+            "adservice.google.ca",
+            "adservice.google.com",
+            "adwords.google.com",
+            "cc-dt.com",
+            "dartsearch.net",
+            "destinationurl.com",
+            "dmtry.com",
+            "doubleclick.net",
+            "fcmatch.google.com",
+            "fcmatch.youtube.com",
+            "google.com/pagead/1p-user-list",
+            "googleadservices.com",
+            "googlesyndication.com",
+            "googletagservices.com",
+            "invitemedia.com",
+            "smtad.net",
+            "teracent.com",
+            "teracent.net",
+            "ytsa.net"
           ]
         }
       },
@@ -8908,6 +8944,13 @@
         }
       },
       {
+        "Twitter": {
+          "https://twitter.com/": [
+            "ads-twitter.com"
+          ]
+        }
+      },
+      {
         "Twyn Group": {
           "http://www.twyn.com/": [
             "twyn-group.com",
@@ -11444,6 +11487,15 @@
         }
       },
       {
+        "Google": {
+          "http://www.google.com/": [
+            "crashlytics.com",
+            "google-analytics.com",
+            "postrank.com"
+          ]
+        }
+      },
+      {
         "GoSquared": {
           "https://www.gosquared.com/": [
             "gosquared.com"
@@ -12368,6 +12420,13 @@
           "https://www.transunion.com/": [
             "iesnare.com",
             "iovation.com"
+          ]
+        }
+      },
+      {
+        "Twitter": {
+          "https://twitter.com/": [
+            "tweetdeck.com"
           ]
         }
       },
@@ -13876,9 +13935,34 @@
         }
       },
       {
+        "Facebook": {
+          "http://www.facebook.com/": [
+            "apps.fbsbx.com",
+            "atdmt.com",
+            "facebook.com",
+            "facebook.de",
+            "facebook.fr",
+            "facebook.net",
+            "fb.com",
+            "fbsbx.com",
+            "friendfeed.com"
+          ]
+        }
+      },
+      {
         "Google": {
           "http://www.google.com/": [
-            "smartlock.google.com"
+            "developers.google.com",
+            "gmail.com",
+            "googlemail.com",
+            "inbox.google.com",
+            "mail.google.com",
+            "orkut.com",
+            "plus.google.com",
+            "plusone.google.com",
+            "smartlock.google.com",
+            "voice.google.com",
+            "wave.google.com"
           ]
         }
       },
@@ -13973,6 +14057,15 @@
         "TikTok": {
           "https://www.tiktok.com/": [
             "tiktok.com"
+          ]
+        }
+      },
+      {
+        "Twitter": {
+          "https://twitter.com/": [
+            "twimg.com",
+            "twitter.com",
+            "twitter.jp"
           ]
         }
       },
@@ -14195,77 +14288,6 @@
         "Webmining": {
           "https://webmining.co/": [
             "webmining.co"
-          ]
-        }
-      }
-    ],
-    "Disconnect": [
-      {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "apps.fbsbx.com",
-            "atdmt.com",
-            "atlassolutions.com",
-            "facebook.com",
-            "facebook.de",
-            "facebook.fr",
-            "facebook.net",
-            "fb.com",
-            "fbsbx.com",
-            "friendfeed.com"
-          ]
-        }
-      },
-      {
-        "Google": {
-          "http://www.google.com/": [
-            "2mdn.net",
-            "admeld.com",
-            "admob.com",
-            "adometry.com",
-            "adservice.google.ca",
-            "adservice.google.com",
-            "adwords.google.com",
-            "cc-dt.com",
-            "crashlytics.com",
-            "dartsearch.net",
-            "destinationurl.com",
-            "developers.google.com",
-            "dmtry.com",
-            "doubleclick.net",
-            "fcmatch.google.com",
-            "fcmatch.youtube.com",
-            "gmail.com",
-            "google-analytics.com",
-            "google.com/pagead/1p-user-list",
-            "googleadservices.com",
-            "googlemail.com",
-            "googlesyndication.com",
-            "googletagservices.com",
-            "inbox.google.com",
-            "invitemedia.com",
-            "mail.google.com",
-            "orkut.com",
-            "plus.google.com",
-            "plusone.google.com",
-            "postrank.com",
-            "smtad.net",
-            "teracent.com",
-            "teracent.net",
-            "voice.google.com",
-            "wave.google.com",
-            "ytsa.net"
-          ]
-        }
-      },
-      {
-        "Twitter": {
-          "https://twitter.com/": [
-            "ads-twitter.com",
-            "tweetdeck.com",
-            "twimg.com",
-            "twitter.com",
-            "twitter.jp"
           ]
         }
       }
