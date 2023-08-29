@@ -12898,13 +12898,6 @@
         }
       },
       {
-        "Cloudflare": {
-          "https://cloudflare.com": [
-            "hcaptcha.com"
-          ]
-        }
-      },
-      {
         "ContentExchange": {
           "https://www.contentexchange.me/": [
             "contentexchange.me"
@@ -13015,6 +13008,13 @@
         "Integral Ad Science": {
           "https://integralads.com/": [
             "adsafeprotected.com"
+          ]
+        }
+      },
+      {
+        "IntuitionMachines": {
+          "https://www.imachines.com/": [
+            "hcaptcha.com"
           ]
         }
       },

@@ -49,7 +49,6 @@ The technical and policy review information below was recorded on the date obser
 - [ClickFrog](#ClickFrog)
 - [ClickGuard](#ClickGuard)
 - [Clixtell](#Clixtell)
-- [Cloudflare](#Cloudflare)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [ContentExchange](#ContentExchange)
@@ -81,6 +80,7 @@ The technical and policy review information below was recorded on the date obser
 - [Impact](#Impact)
 - [Infolinks](#Infolinks)
 - [Integral-Ad-Science](#Integral-Ad-Science)
+- [IntuitionMachines](#IntuitionMachines)
 - [iShumei](#iShumei)
 - [IslayTech](#IslayTech)
 - [ismatlab.com](#ismatlab.com)
@@ -1962,17 +1962,6 @@ function n(t) {
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
-## Cloudflare
-This service has been classified as `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://assets.hcaptcha.com/c/7f492a3/hsw.js`  
-Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
-1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-```
-{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
-```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
 ## CoinHive
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -3150,6 +3139,17 @@ Submission source: https://github.com/disconnectme/disconnect-tracking-protectio
                 } catch (a) {}
             return !1
         }
+```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## IntuitionMachines
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://assets.hcaptcha.com/c/7f492a3/hsw.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 

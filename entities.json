@@ -3636,14 +3636,6 @@
         "close.io"
       ]
     },
-    "Cloudflare": {
-      "properties": [
-        "cloudflare.com"
-      ],
-      "resources": [
-        "hcaptcha.com"
-      ]
-    },
     "CloudMedia": {
       "properties": [
         "cloudmedia.fr"
@@ -7219,6 +7211,15 @@
       ],
       "resources": [
         "im-apps.net"
+      ]
+    },
+    "IntuitionMachines": {
+      "properties": [
+        "hcaptcha.com",
+        "imachines.com"
+      ],
+      "resources": [
+        "hcaptcha.com"
       ]
     },
     "Inuvo": {
