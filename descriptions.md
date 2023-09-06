@@ -58,6 +58,7 @@ The technical and policy review information below was recorded on the date obser
 - [DoubleVerify](#DoubleVerify)
 - [Microsoft](#Microsoft)
 - [EroAdvertising](#EroAdvertising)
+- [EthicalCapitalPartners](#EthicalCapitalPartners)
 - [Experian](#Experian)
 - [EyeNewton](#EyeNewton)
 - [Facebook](#Facebook)
@@ -2366,6 +2367,25 @@ eaCtrl.connectors = {
 
 
 ```
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## EthicalCapitalPartners
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|HTMLCanvasElement.toDataURL|None||
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|OfflineAudioContext.createOscillator|None||
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|OscillatorNode.type|None|triangle|
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|window.navigator.hardwareConcurrency|None|8|
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|window.navigator.platform|None|MacIntel|
+|https://hw-cdn2.adtng.com/delivery/idsync/ats/idsync.min.js?v=1679328000000|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -4987,7 +5007,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SiftScience
-This service has been classified as `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.siftscience.com/s.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5045,6 +5065,20 @@ Script: `https://cdn.siftscience.com/s.js`
                     fu: b.flash_uuid_
                 };
 ```
+Script: `https://cdn.sift.com/s.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://cdn.sift.com/s.js|40|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",4,45]||
+|https://cdn.sift.com/s.js|41|HTMLCanvasElement.toDataURL|None||
+|https://cdn.sift.com/s.js|31|window.navigator.hardwareConcurrency|None|8|
+|https://cdn.sift.com/s.js|34|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://cdn.sift.com/s.js|31|window.navigator.platform|None|MacIntel|
+|https://cdn.sift.com/s.js|32|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
+|https://cdn.sift.com/s.js|31|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
+
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Signifyd
