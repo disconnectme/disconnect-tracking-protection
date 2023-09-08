@@ -1550,7 +1550,8 @@
       {
         "33Across": {
           "http://33across.com/": [
-            "33across.com"
+            "33across.com",
+            "tynt.com"
           ]
         }
       },
@@ -3215,6 +3216,13 @@
         }
       },
       {
+        "Blis": {
+          "https://blis.com/": [
+            "blismedia.com"
+          ]
+        }
+      },
+      {
         "Blockthrough": {
           "https://blockthrough.com/": [
             "btloader.com",
@@ -3851,6 +3859,13 @@
         "Connatix.com": {
           "https://connatix.com/": [
             "connatix.com"
+          ]
+        }
+      },
+      {
+        "ConnectAdRealtime": {
+          "https://www.connectadrealtime.com/": [
+            "connectad.io"
           ]
         }
       },
@@ -4866,6 +4881,7 @@
         "FreeWheel": {
           "http://www.freewheel.tv/": [
             "bidr.io",
+            "fwmrm.net",
             "stickyadstv.com"
           ]
         }
@@ -8991,6 +9007,7 @@
             "radiumone.com",
             "scanscout.com",
             "smartclip.com",
+            "tidaltv.com",
             "tmnetads.com",
             "tremorhub.com",
             "tremormedia.com",
@@ -9644,6 +9661,7 @@
             "tacoda.net",
             "thewheelof.com",
             "vidible.tv",
+            "yahoo.co.jp",
             "ybp.yahoo.com",
             "yieldmanager.com",
             "yieldmanager.net",
@@ -9912,13 +9930,6 @@
     ],
     "Content": [
       {
-        "33Across": {
-          "http://33across.com/": [
-            "tynt.com"
-          ]
-        }
-      },
-      {
         "ActivEngage": {
           "http://www.activengage.com/": [
             "activengage.com"
@@ -10162,8 +10173,7 @@
       {
         "FreeWheel": {
           "http://www.freewheel.tv/": [
-            "freewheel.tv",
-            "fwmrm.net"
+            "freewheel.tv"
           ]
         }
       },
@@ -10625,13 +10635,6 @@
         }
       },
       {
-        "PunchTab": {
-          "http://www.punchtab.com/": [
-            "punchtab.com"
-          ]
-        }
-      },
-      {
         "RIM": {
           "http://www.rim.com/": [
             "rim.com",
@@ -10729,6 +10732,13 @@
         "Trackset": {
           "http://www.trackset.com/": [
             "trackset.com"
+          ]
+        }
+      },
+      {
+        "Tremor": {
+          "https://www.tremorinternational.com/": [
+            "videologygroup.com"
           ]
         }
       },
@@ -10837,14 +10847,6 @@
         "VG WORT": {
           "http://www.vgwort.de/": [
             "vgwort.de"
-          ]
-        }
-      },
-      {
-        "Videology": {
-          "http://www.videologygroup.com/": [
-            "tidaltv.com",
-            "videologygroup.com"
           ]
         }
       },
@@ -10959,13 +10961,6 @@
             "yandex.ru",
             "yandex.st",
             "yandex.ua"
-          ]
-        }
-      },
-      {
-        "Zopim": {
-          "https://www.zopim.com/": [
-            "zopim.com"
           ]
         }
       }
@@ -12650,6 +12645,13 @@
         }
       },
       {
+        "Walmart": {
+          "https://www.walmart.com/": [
+            "punchtab.com"
+          ]
+        }
+      },
+      {
         "Webclicktracker": {
           "http://www.webclicktracker.com/": [
             "webclicktracker.com"
@@ -12777,7 +12779,8 @@
       {
         "Zendesk": {
           "http://www.zendesk.com/": [
-            "zendesk.com"
+            "zendesk.com",
+            "zopim.com"
           ]
         }
       },
