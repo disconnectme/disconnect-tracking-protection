@@ -1839,7 +1839,7 @@ Script: `http://franecki.net/js/lib.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ClickGuard
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2711,7 +2711,7 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## GeeTest
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.geetest.com/static/js/fullpage.9.1.3.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
@@ -2765,7 +2765,7 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Google
-This service has been classified as `Email`, `Social`, `Content`, `Analytics`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Social`, `Content`, `Analytics`, `Anti-fraud`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Google's Privacy Policy States: 
 
@@ -3163,7 +3163,7 @@ Submission source: https://github.com/disconnectme/disconnect-tracking-protectio
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## IntuitionMachines
-This service has been classified as `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://assets.hcaptcha.com/c/7f492a3/hsw.js`  
 Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
@@ -4074,7 +4074,7 @@ Raw log:
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## NoFraud
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://services.nofraud.com/js/29353/customer_code.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
@@ -4088,7 +4088,7 @@ Script: `https://services.nofraud.com/js/29353/customer_code.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Noto
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://net-tracker.notolytix.com/main.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
@@ -4243,7 +4243,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Paypal
-This service has been classified as `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.simility.com/b.js`
 1. Script generates fingerprint by querying various device properties:
@@ -4289,7 +4289,7 @@ Script: `https://cdn.simility.com/b.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HumanSecurity
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 
 
@@ -5007,7 +5007,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SiftScience
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.siftscience.com/s.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5082,7 +5082,7 @@ Script: `https://cdn.sift.com/s.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Signifyd
-This service has been classified as `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://imgs.signifyd.com/fp/check.js;CIS3SID=C9228C29CD0388E0DDC4DF4F854E31D5?org_id=w2txo5aa&session_id=3q388g2l90eo68ggvk1cl1tl50&nonce=395aedb7ff15485c`    
 1. Script makes use of APIs for the purpose of fingerprinting:
@@ -5406,7 +5406,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Stripe
-This service has been classified as `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://m.stripe.network/inner.html#referrer=&title=Study.com%20%7C%20Take%20Online%20Courses.%20Earn%20College%20Credit.%20Research%20Schools%2C%20Degrees%20%26%20Careers&url=https%3A%2F%2Fstudy.com%2F&muid=739a3ba7-7618-41b6-b40c-af1890c68298&sid=d591e8f1-231b-42b4-9c18-c4d93cfd9552&preview=false&` 
 1. Script makes use of APIs for the purpose of fingerprinting:
@@ -5699,7 +5699,7 @@ https://unseenreport.com/pxf.gif?uuid=REDACTED&eb=REDACTED&te=REDACTED&ua=Mozill
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Upland
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://t.sf14g.com/sf14g.js`
 1. Generates fingerprint based on plugins, fonts, canvas, etc:
