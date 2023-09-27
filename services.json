@@ -13644,13 +13644,6 @@
         }
       },
       {
-        "Yandex": {
-          "http://www.yandex.com/": [
-            "mc.yandex.ru"
-          ]
-        }
-      },
-      {
         "Yoox": {
           "https://www.yoox.com/us": [
             "yoox.it"

@@ -170,7 +170,6 @@ The technical and policy review information below was recorded on the date obser
 - [WideOrbit](#WideOrbit)
 - [wpadmngr](#wpadmngr)
 - [Xfyun](#Xfyun)
-- [Yandex](#Yandex)
 - [Yieldmo](#Yieldmo)
 - [Yoox](#Yoox)
 - [ZafulAffiliate](#ZafulAffiliate)
@@ -6209,32 +6208,6 @@ Script: `https://dt.xfyun.cn/analysis-id.js`
 |https://dt.xfyun.cn/analysis-id.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://dt.xfyun.cn/analysis-id.js|2|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
 
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## Yandex
-This service has been classified as `Advertising`, `FingerprintingInvasive` and `Content` for the following reasons:
-### Technical Review
-Script: `https://mc.yandex.ru/metrika/watch.js`
-1. Script makes several calls to known invasive fingerprinting APIs:
-```
- Sj = "monospace;sans-serif;serif;Andale Mono;Arial;Arial Black;Arial Hebrew;Arial MT;Arial Narrow;Arial Rounded MT Bold;Arial Unicode MS;Bitstream Vera Sans Mono;Book Antiqua;Bookman Old Style;Calibri;Cambria;Cambria Math;Century;Century Gothic;Century Schoolbook;Comic Sans;Comic Sans MS;Consolas;Courier;Courier New;Garamond;Geneva;Georgia;Helvetica;Helvetica Neue;Impact;Lucida Bright;Lucida Calligraphy;Lucida Console;Lucida Fax;LUCIDA GRANDE;Lucida Handwriting;Lucida Sans;Lucida Sans Typewriter;Lucida Sans Unicode;Microsoft Sans Serif;Monaco;Monotype Corsiva;MS Gothic;MS Outlook;MS PGothic;MS Reference Sans Serif;MS Sans Serif;MS Serif;MYRIAD;MYRIAD PRO;Palatino;Palatino Linotype;Segoe Print;Segoe Script;Segoe UI;Segoe UI Light;Segoe UI Semibold;Segoe UI Symbol;Tahoma;Times;Times New Roman;Times New Roman PS;Trebuchet MS;Verdana;Wingdings;Wingdings 2;Wingdings 3".split(";"), Bq = t(function (a) {
-        a = jb(a)("canvas");
-        var c = n(a, "getContext");
-        if (!c) return null;
-        try {
-          var b = L(c, a)("2d");
-          b.font = "72px mmmmmmmmmmlli";
-          var d = b.measureText("mmmmmmmmmmlli").width;
-          return function (e) {
-            b.font = "72px " + e;
-            return b.measureText("mmmmmmmmmmlli").width === d;
-          };
-        } catch (e) {
-          return null;
-        }
-      }
-
-```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Yieldmo
