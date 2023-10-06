@@ -477,6 +477,14 @@
         "addecisive.com"
       ]
     },
+    "AdDelivery": {
+      "properties": [
+        "ad-delivery.net"
+      ],
+      "resources": [
+        "ad-delivery.net"
+      ]
+    },
     "AddFreeStats": {
       "properties": [
         "3dstats.com",
@@ -1697,21 +1705,30 @@
         "imiclk.com"
       ]
     },
-    "AKQA": {
-      "properties": [
-        "akqa.com"
-      ],
-      "resources": [
-        "akqa.com",
-        "srtk.net"
-      ]
-    },
     "Albacross": {
       "properties": [
         "albacross.com"
       ],
       "resources": [
         "albacross.com"
+      ]
+    },
+    "Alive5": {
+      "properties": [
+        "alive5.com"
+      ],
+      "resources": [
+        "websitealive.com",
+        "websitealive0.com",
+        "websitealive1.com",
+        "websitealive2.com",
+        "websitealive3.com",
+        "websitealive4.com",
+        "websitealive5.com",
+        "websitealive6.com",
+        "websitealive7.com",
+        "websitealive8.com",
+        "websitealive9.com"
       ]
     },
     "AllStarMediaGroup": {
@@ -3340,16 +3357,6 @@
         "cedexis.net"
       ]
     },
-    "Certona": {
-      "properties": [
-        "certona.com",
-        "res-x.com"
-      ],
-      "resources": [
-        "certona.com",
-        "res-x.com"
-      ]
-    },
     "ChannelAdvisor": {
       "properties": [
         "channeladvisor.com",
@@ -3944,14 +3951,6 @@
         "consumable.com"
       ]
     },
-    "Contact At Once!": {
-      "properties": [
-        "contactatonce.com"
-      ],
-      "resources": [
-        "contactatonce.com"
-      ]
-    },
     "ContactImpact": {
       "properties": [
         "contactimpact.de"
@@ -4166,7 +4165,8 @@
         "crimtan.com"
       ],
       "resources": [
-        "crimtan.com"
+        "crimtan.com",
+        "ctnsnet.com"
       ]
     },
     "Crisp Media": {
@@ -4342,16 +4342,6 @@
       ],
       "resources": [
         "datamind.ru"
-      ]
-    },
-    "DataSift": {
-      "properties": [
-        "datasift.com",
-        "tweetmeme.com"
-      ],
-      "resources": [
-        "datasift.com",
-        "tweetmeme.com"
       ]
     },
     "DatMean": {
@@ -4593,9 +4583,13 @@
     },
     "DigitalTurbine": {
       "properties": [
-        "digitalturbine.com"
+        "digitalturbine.com",
+        "fyber.com",
+        "heyzap.com"
       ],
       "resources": [
+        "fyber.com",
+        "heyzap.com",
         "tpbid.com"
       ]
     },
@@ -4861,16 +4855,15 @@
         "ebaystatic.com"
       ]
     },
-    "Echo": {
+    "Edgio": {
       "properties": [
-        "aboutecho.com",
-        "haloscan.com",
-        "js-kit.com"
+        "edg.io",
+        "limelight.com"
       ],
       "resources": [
-        "aboutecho.com",
-        "haloscan.com",
-        "js-kit.com"
+        "clickability.com",
+        "limelight.com",
+        "llnwd.net"
       ]
     },
     "edrone": {
@@ -5766,14 +5759,6 @@
         "servebom.com"
       ]
     },
-    "Fyber": {
-      "properties": [
-        "fyber.com"
-      ],
-      "resources": [
-        "fyber.com"
-      ]
-    },
     "Game Advertising Online": {
       "properties": [
         "game-advertising-online.com"
@@ -6064,18 +6049,6 @@
       ],
       "resources": [
         "godatafeed.com"
-      ]
-    },
-    "GoGrid": {
-      "properties": [
-        "datapipe.com",
-        "formalyzer.com"
-      ],
-      "resources": [
-        "datapipe.com",
-        "formalyzer.com",
-        "gogrid.com",
-        "komli.net"
       ]
     },
     "Goldbach": {
@@ -6645,6 +6618,14 @@
         "gunggo.com"
       ]
     },
+    "Haloscan": {
+      "properties": [
+        "haloscan.com"
+      ],
+      "resources": [
+        "haloscan.com"
+      ]
+    },
     "Hands Mobile": {
       "properties": [
         "hands.com.br",
@@ -6710,14 +6691,6 @@
       ],
       "resources": [
         "helpscout.net"
-      ]
-    },
-    "Heyzap": {
-      "properties": [
-        "heyzap.com"
-      ],
-      "resources": [
-        "heyzap.com"
       ]
     },
     "HilltopAds": {
@@ -7488,6 +7461,14 @@
         "i.ua"
       ]
     },
+    "iWin": {
+      "properties": [
+        "iwin.com"
+      ],
+      "resources": [
+        "oberon-media.com"
+      ]
+    },
     "IxactContact": {
       "properties": [
         "ixactcontact.com"
@@ -7583,6 +7564,14 @@
         "hostingcloud.racing",
         "hostingcloud.science",
         "jsecoin.com"
+      ]
+    },
+    "JSKit": {
+      "properties": [
+        "js-kit.com"
+      ],
+      "resources": [
+        "js-kit.com"
       ]
     },
     "JuicyAds": {
@@ -7990,16 +7979,6 @@
         "bra2hmail.com"
       ]
     },
-    "Limelight Networks": {
-      "properties": [
-        "limelight.com"
-      ],
-      "resources": [
-        "clickability.com",
-        "limelight.com",
-        "llnwd.net"
-      ]
-    },
     "LineZing": {
       "properties": [
         "linezing.com"
@@ -8071,9 +8050,11 @@
     },
     "LivePerson": {
       "properties": [
+        "contactatonce.com",
         "liveperson.com"
       ],
       "resources": [
+        "contactatonce.com",
         "liveperson.com",
         "liveperson.net",
         "nuconomy.com"
@@ -8510,7 +8491,6 @@
         "wsod.com"
       ],
       "resources": [
-        "markit.com",
         "wsod.com"
       ]
     },
@@ -8735,6 +8715,17 @@
       ],
       "resources": [
         "megaindex.ru"
+      ]
+    },
+    "MeltWater": {
+      "properties": [
+        "datasift.com",
+        "meltwater.com",
+        "tweetmeme.com"
+      ],
+      "resources": [
+        "datasift.com",
+        "tweetmeme.com"
       ]
     },
     "Mercadopago": {
@@ -9201,8 +9192,10 @@
         "monetate.net"
       ],
       "resources": [
+        "certona.com",
         "monetate.com",
-        "monetate.net"
+        "monetate.net",
+        "res-x.com"
       ]
     },
     "MONETIZEdigital": {
@@ -9445,6 +9438,14 @@
       ],
       "resources": [
         "newsinc.com"
+      ]
+    },
+    "Near": {
+      "properties": [
+        "near.com"
+      ],
+      "resources": [
+        "ubermedia.com"
       ]
     },
     "Negishim": {
@@ -9770,16 +9771,6 @@
       ],
       "resources": [
         "nyl.as"
-      ]
-    },
-    "Oberon Media": {
-      "properties": [
-        "iwin.com"
-      ],
-      "resources": [
-        "blaze.com",
-        "iwin.com",
-        "oberon-media.com"
       ]
     },
     "Observer": {
@@ -10465,10 +10456,13 @@
     },
     "Pixlee": {
       "properties": [
-        "pixlee.com"
+        "pixlee.com",
+        "turntonetworks.com"
       ],
       "resources": [
-        "pixlee.com"
+        "pixlee.com",
+        "turnto.com",
+        "turntonetworks.com"
       ]
     },
     "Platform161": {
@@ -10709,6 +10703,14 @@
         "projectwonderful.com"
       ]
     },
+    "ProlificTrade": {
+      "properties": [
+        "blaze.com"
+      ],
+      "resources": [
+        "blaze.com"
+      ]
+    },
     "PrometheusIntelligenceTechnology": {
       "properties": [
         "prometheusintelligencetechnology.com"
@@ -10943,6 +10945,14 @@
         "quismatch.com",
         "xaded.com",
         "xmladed.com"
+      ]
+    },
+    "Rackspace": {
+      "properties": [
+        "rackspace.com"
+      ],
+      "resources": [
+        "gogrid.com"
       ]
     },
     "RadarURL": {
@@ -11656,13 +11666,11 @@
     "SAY": {
       "properties": [
         "saymedia.com",
-        "typepad.com",
-        "videoegg.com"
+        "typepad.com"
       ],
       "resources": [
         "saymedia.com",
-        "typepad.com",
-        "videoegg.com"
+        "typepad.com"
       ]
     },
     "Scandinavian AdNetworks": {
@@ -13460,15 +13468,6 @@
         "programattik.com"
       ]
     },
-    "TurnTo": {
-      "properties": [
-        "turntonetworks.com"
-      ],
-      "resources": [
-        "turnto.com",
-        "turntonetworks.com"
-      ]
-    },
     "Tweetboard": {
       "properties": [
         "tweetboard.com"
@@ -13539,16 +13538,6 @@
       ],
       "resources": [
         "tyroo.com"
-      ]
-    },
-    "UberMedia": {
-      "properties": [
-        "tweetup.com",
-        "ubermedia.com"
-      ],
-      "resources": [
-        "tweetup.com",
-        "ubermedia.com"
       ]
     },
     "UberTags": {
@@ -13678,6 +13667,7 @@
         "uplandsoftware.com"
       ],
       "resources": [
+        "formalyzer.com",
         "leadlander.com",
         "sf14g.com",
         "trackalyzer.com",
@@ -13967,6 +13957,14 @@
         "viafoura.co"
       ]
     },
+    "Viant": {
+      "properties": [
+        "viantinc.com"
+      ],
+      "resources": [
+        "vindicosuite.com"
+      ]
+    },
     "Vibrant Media": {
       "properties": [
         "vibrantmedia.com"
@@ -14011,11 +14009,9 @@
     },
     "Viewbix": {
       "properties": [
-        "qoof.com",
         "viewbix.com"
       ],
       "resources": [
-        "qoof.com",
         "viewbix.com"
       ]
     },
@@ -14035,16 +14031,6 @@
       ],
       "resources": [
         "vinc.fr"
-      ]
-    },
-    "VINDICO": {
-      "properties": [
-        "vindicogroup.com",
-        "vindicosuite.com"
-      ],
-      "resources": [
-        "vindicogroup.com",
-        "vindicosuite.com"
       ]
     },
     "ViralHosts": {
@@ -14384,24 +14370,6 @@
       "resources": [
         "weborama.com",
         "weborama.fr"
-      ]
-    },
-    "WebsiteAlive": {
-      "properties": [
-        "websitealive.com",
-        "websitealive0.com",
-        "websitealive1.com",
-        "websitealive2.com",
-        "websitealive3.com",
-        "websitealive4.com",
-        "websitealive5.com",
-        "websitealive6.com",
-        "websitealive7.com",
-        "websitealive8.com",
-        "websitealive9.com"
-      ],
-      "resources": [
-        "websitealive.com"
       ]
     },
     "Web Stats": {
@@ -14745,6 +14713,7 @@
         "flickr.com",
         "flurry.com",
         "interclick.com",
+        "joystiq.com",
         "leadback.com",
         "mandatory.com",
         "mapquest.com",
@@ -14778,7 +14747,6 @@
         "yimg.jp",
         "yldmgrimg.net",
         "ymail.com",
-        "yuilibrary.com",
         "zenfs.com"
       ]
     },
