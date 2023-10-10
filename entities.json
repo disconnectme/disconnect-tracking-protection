@@ -2370,15 +2370,6 @@
         "batanganetwork.com"
       ]
     },
-    "Baynote": {
-      "properties": [
-        "baynote.com"
-      ],
-      "resources": [
-        "baynote.com",
-        "baynote.net"
-      ]
-    },
     "Bazaarvoice": {
       "properties": [
         "bazaarvoice.com"
@@ -2543,15 +2534,6 @@
       ],
       "resources": [
         "bidvertiser.com"
-      ]
-    },
-    "BigDoor": {
-      "properties": [
-        "bigdoor.com"
-      ],
-      "resources": [
-        "bigdoor.com",
-        "onetruefan.com"
       ]
     },
     "bigmirnet": {
@@ -2918,14 +2900,6 @@
       ],
       "resources": [
         "browsiprod.com"
-      ]
-    },
-    "BTBuckets": {
-      "properties": [
-        "btbuckets.com"
-      ],
-      "resources": [
-        "btbuckets.com"
       ]
     },
     "Bubblestat": {
@@ -3610,14 +3584,6 @@
         "clicmanager.fr"
       ]
     },
-    "ClipSyndicate": {
-      "properties": [
-        "clipsyndicate.com"
-      ],
-      "resources": [
-        "clipsyndicate.com"
-      ]
-    },
     "ClixMetrix": {
       "properties": [
         "clixmetrix.com"
@@ -3856,14 +3822,6 @@
       ],
       "resources": [
         "confiant-integrations.net"
-      ]
-    },
-    "Congoo": {
-      "properties": [
-        "congoo.com"
-      ],
-      "resources": [
-        "congoo.com"
       ]
     },
     "Connatix.com": {
@@ -4277,16 +4235,6 @@
       "resources": [
         "dada.pro",
         "simply.com"
-      ]
-    },
-    "DailyMe": {
-      "properties": [
-        "dailyme.com",
-        "newstogram.com"
-      ],
-      "resources": [
-        "dailyme.com",
-        "newstogram.com"
       ]
     },
     "DailyMotion": {
@@ -5305,6 +5253,7 @@
         "friendfeed.com",
         "instagram.com",
         "internalfb.com",
+        "liverail.com",
         "messenger.com",
         "meta.com",
         "oculus.com",
@@ -5326,7 +5275,7 @@
         "fbsbx.com",
         "friendfeed.com",
         "instagram.com",
-        "messenger.com"
+        "liverail.com"
       ]
     },
     "Facilitate Digital": {
@@ -5812,15 +5761,6 @@
         "geniegroupltd.co.uk"
       ]
     },
-    "Genius.com": {
-      "properties": [
-        "genius.com",
-        "rsvpgenius.com"
-      ],
-      "resources": [
-        "genius.com"
-      ]
-    },
     "GeoAds": {
       "properties": [
         "geoads.com"
@@ -5934,16 +5874,6 @@
       ],
       "resources": [
         "gliq.com"
-      ]
-    },
-    "Global Takeoff": {
-      "properties": [
-        "globaltakeoff.com",
-        "globaltakeoff.net"
-      ],
-      "resources": [
-        "globaltakeoff.com",
-        "globaltakeoff.net"
       ]
     },
     "Globe7": {
@@ -6487,16 +6417,6 @@
         "crm4d.com"
       ]
     },
-    "Gravity": {
-      "properties": [
-        "gravity.com",
-        "grvcdn.com"
-      ],
-      "resources": [
-        "gravity.com",
-        "grvcdn.com"
-      ]
-    },
     "GreenArrow": {
       "properties": [
         "greenarrowemail.com"
@@ -6848,8 +6768,7 @@
         "cmcore.com",
         "coremetrics.com",
         "ibm.com",
-        "unica.com",
-        "xtify.com"
+        "unica.com"
       ]
     },
     "ID5": {
@@ -7622,14 +7541,6 @@
         "keywee.co"
       ]
     },
-    "kikin": {
-      "properties": [
-        "kikin.com"
-      ],
-      "resources": [
-        "kikin.com"
-      ]
-    },
     "KISSmetrics": {
       "properties": [
         "kissmetrics.com"
@@ -7998,14 +7909,6 @@
         "liveperson.com",
         "liveperson.net",
         "nuconomy.com"
-      ]
-    },
-    "LiveRail": {
-      "properties": [
-        "liverail.com"
-      ],
-      "resources": [
-        "liverail.com"
       ]
     },
     "LiveRamp": {
@@ -8467,14 +8370,6 @@
         "mashero.com"
       ]
     },
-    "MashLogic": {
-      "properties": [
-        "mashlogic.com"
-      ],
-      "resources": [
-        "mashlogic.com"
-      ]
-    },
     "Match.com": {
       "properties": [
         "chemistry.com",
@@ -8881,11 +8776,9 @@
         "msads.net",
         "msndirect.com",
         "netconversions.com",
-        "office.com",
         "officelive.com",
         "outlook.com",
         "roiservice.com",
-        "s-msn.com",
         "skype.com",
         "touchcommerce.com",
         "xandr.com"
@@ -9825,7 +9718,6 @@
         "ooyala.com"
       ],
       "resources": [
-        "oo4.com",
         "ooyala.com"
       ]
     },
@@ -9977,7 +9869,6 @@
         "estara.com",
         "grapeshot.co.uk",
         "instantservice.com",
-        "istrack.com",
         "maxymiser.com",
         "moat.com",
         "moatads.com",
@@ -11258,16 +11149,6 @@
         "rightinbox.com"
       ]
     },
-    "RIM": {
-      "properties": [
-        "blackberry.com",
-        "laptopverge.com"
-      ],
-      "resources": [
-        "rim.com",
-        "scoreloop.com"
-      ]
-    },
     "Ringier": {
       "properties": [
         "ringier.cz"
@@ -11557,14 +11438,6 @@
       ],
       "resources": [
         "reflow.tv"
-      ]
-    },
-    "ScribeFire": {
-      "properties": [
-        "scribefire.com"
-      ],
-      "resources": [
-        "scribefire.com"
       ]
     },
     "Scribol": {
@@ -11857,15 +11730,6 @@
         "adswizz.com"
       ]
     },
-    "Six Apart": {
-      "properties": [
-        "movabletype.com",
-        "sixapart.com"
-      ],
-      "resources": [
-        "sixapart.com"
-      ]
-    },
     "Skimlinks": {
       "properties": [
         "skimlinks.com",
@@ -11874,14 +11738,6 @@
       "resources": [
         "skimlinks.com",
         "skimresources.com"
-      ]
-    },
-    "Skribit": {
-      "properties": [
-        "paulstamatiou.com"
-      ],
-      "resources": [
-        "skribit.com"
       ]
     },
     "Skupe Net": {
@@ -12264,14 +12120,6 @@
       ],
       "resources": [
         "spotx.tv"
-      ]
-    },
-    "Spring Metrics": {
-      "properties": [
-        "springmetrics.com"
-      ],
-      "resources": [
-        "springmetrics.com"
       ]
     },
     "SpringServe": {
@@ -12870,14 +12718,6 @@
         "uidapi.com"
       ]
     },
-    "ThingLink": {
-      "properties": [
-        "thinglink.com"
-      ],
-      "resources": [
-        "thinglink.com"
-      ]
-    },
     "Think Realtime": {
       "properties": [
         "echosearch.com",
@@ -12903,14 +12743,6 @@
       ],
       "resources": [
         "thrtle.com"
-      ]
-    },
-    "Thummit": {
-      "properties": [
-        "thummit.com"
-      ],
-      "resources": [
-        "thummit.com"
       ]
     },
     "TikTok": {
@@ -13012,14 +12844,6 @@
       "resources": [
         "fraudmetrix.cn",
         "tongdun.net"
-      ]
-    },
-    "Topsy": {
-      "properties": [
-        "topsy.com"
-      ],
-      "resources": [
-        "topsy.com"
       ]
     },
     "TowerData": {
@@ -13249,14 +13073,6 @@
         "triplelift.com"
       ]
     },
-    "Trovus": {
-      "properties": [
-        "trovus.co.uk"
-      ],
-      "resources": [
-        "trovus.co.uk"
-      ]
-    },
     "TruEffect": {
       "properties": [
         "adlegend.com",
@@ -13275,8 +13091,9 @@
         "trumba.com"
       ]
     },
-    "TRUSTe": {
+    "TrustARC": {
       "properties": [
+        "trustarc.com",
         "truste.com"
       ],
       "resources": [
@@ -13313,14 +13130,6 @@
       ],
       "resources": [
         "programattik.com"
-      ]
-    },
-    "Tweetboard": {
-      "properties": [
-        "tweetboard.com"
-      ],
-      "resources": [
-        "tweetboard.com"
       ]
     },
     "Twelvefold": {
@@ -13360,14 +13169,6 @@
         "twitter.jp"
       ]
     },
-    "Twitter Counter": {
-      "properties": [
-        "twittercounter.com"
-      ],
-      "resources": [
-        "twittercounter.com"
-      ]
-    },
     "Twyn Group": {
       "properties": [
         "twyn-group.com",
@@ -13384,14 +13185,6 @@
       ],
       "resources": [
         "tyroo.com"
-      ]
-    },
-    "UberTags": {
-      "properties": [
-        "ubertags.com"
-      ],
-      "resources": [
-        "ubertags.com"
       ]
     },
     "ucfunnel": {
@@ -13713,15 +13506,6 @@
         "mxptint.net"
       ]
     },
-    "Verizon": {
-      "properties": [
-        "luminate.com",
-        "verizon.com"
-      ],
-      "resources": [
-        "luminate.com"
-      ]
-    },
     "Vertical Acuity": {
       "properties": [
         "verticalacuity.com"
@@ -14015,14 +13799,6 @@
       ],
       "resources": [
         "vocus.io"
-      ]
-    },
-    "Voice2Page": {
-      "properties": [
-        "voice2page.com"
-      ],
-      "resources": [
-        "voice2page.com"
       ]
     },
     "Vserv": {
@@ -14517,7 +14293,6 @@
         "adtechjp.com",
         "adtechus.com",
         "advertising.com",
-        "aim.com",
         "aol.com",
         "aolcdn.com",
         "aolcloud.net",
@@ -14538,7 +14313,6 @@
         "oath.com",
         "overture.com",
         "patch.com",
-        "pixazza.com",
         "rightmedia.com",
         "rmxads.com",
         "rocketmail.com",
@@ -14561,8 +14335,7 @@
         "yieldmanager.net",
         "yimg.com",
         "yldmgrimg.net",
-        "ymail.com",
-        "zenfs.com"
+        "ymail.com"
       ]
     },
     "Yandex": {
