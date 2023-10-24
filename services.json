@@ -7220,6 +7220,18 @@
         }
       },
       {
+        "Partnerize": {
+          "https://partnerize.com/": [
+            "pepperjam.com",
+            "pjatr.com",
+            "pjtra.com",
+            "pntra.com",
+            "pntrac.com",
+            "pntrs.com"
+          ]
+        }
+      },
+      {
         "PartyPoker": {
           "https://www.partypoker.com/": [
             "iivt.com"
@@ -8752,6 +8764,13 @@
         }
       },
       {
+        "TargetVideo": {
+          "https://target-video.com/": [
+            "brid.tv"
+          ]
+        }
+      },
+      {
         "Tatto Media": {
           "http://tattomedia.com/": [
             "quicknoodles.com",
@@ -9235,6 +9254,13 @@
           "https://uplandsoftware.com/": [
             "leadlander.com",
             "trackalyzer.com"
+          ]
+        }
+      },
+      {
+        "UpsellIt": {
+          "https://upsellit.com": [
+            "upsellit.com"
           ]
         }
       },
@@ -10016,6 +10042,13 @@
         }
       },
       {
+        "Affirm": {
+          "https://www.affirm.com/": [
+            "affirm.com"
+          ]
+        }
+      },
+      {
         "Akamai": {
           "http://www.akamai.com/": [
             "akamai.com",
@@ -10027,14 +10060,16 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon.com",
-            "cloudfront.net"
+            "cloudfront.net",
+            "twitch.tv"
           ]
         }
       },
       {
         "Automattic": {
           "http://automattic.com/": [
-            "gravatar.com"
+            "gravatar.com",
+            "wp.com"
           ]
         }
       },
@@ -10048,7 +10083,8 @@
       {
         "Brightcove": {
           "http://www.brightcove.com/": [
-            "brightcove.com"
+            "brightcove.com",
+            "zencdn.net"
           ]
         }
       },
@@ -10060,10 +10096,26 @@
         }
       },
       {
+        "Cloudflare": {
+          "https://cloudflare.com": [
+            "cloudflare.com",
+            "cloudflarestream.com"
+          ]
+        }
+      },
+      {
         "Facebook": {
           "http://www.facebook.com/": [
+            "cdninstagram.com",
             "fbcdn.net",
             "instagram.com"
+          ]
+        }
+      },
+      {
+        "FundraiseUp": {
+          "https://fundraiseup.com/": [
+            "fundraiseup.com"
           ]
         }
       },
@@ -10074,7 +10126,6 @@
             "blogger.com",
             "feedburner.com",
             "ggpht.com",
-            "gmodules.com",
             "google.ad",
             "google.ae",
             "google.al",
@@ -10271,7 +10322,15 @@
             "googleusercontent.com",
             "gstatic.com",
             "recaptcha.net",
+            "youtube-nocookie.com",
             "youtube.com"
+          ]
+        }
+      },
+      {
+        "JWPlayer": {
+          "https://jwplayer.com/": [
+            "jwpcdn.com"
           ]
         }
       },
@@ -10299,7 +10358,10 @@
       {
         "Microsoft": {
           "http://www.microsoft.com/": [
+            "azure.com",
+            "azurefd.net",
             "bing.com",
+            "dynamics.com",
             "gamesforwindows.com",
             "getgamesmart.com",
             "healthvault.com",
@@ -10327,6 +10389,13 @@
         }
       },
       {
+        "Paypal": {
+          "https://www.paypal.com": [
+            "paypal.com"
+          ]
+        }
+      },
+      {
         "Pinterest": {
           "http://pinterest.com/": [
             "pinimg.com",
@@ -10338,6 +10407,21 @@
         "SAY": {
           "http://saymedia.com/": [
             "typepad.com"
+          ]
+        }
+      },
+      {
+        "Shopify": {
+          "https://shopify.com": [
+            "shopifyapps.com",
+            "shopifysvc.com"
+          ]
+        }
+      },
+      {
+        "Stripe": {
+          "https://stripe.com": [
+            "stripe.com"
           ]
         }
       },
@@ -10411,6 +10495,7 @@
             "yandex.by",
             "yandex.com",
             "yandex.com.tr",
+            "yandex.net",
             "yandex.ru",
             "yandex.st"
           ]
@@ -10492,6 +10577,7 @@
         "Akamai": {
           "http://www.akamai.com/": [
             "abmr.net",
+            "akstat.io",
             "go-mpulse.net",
             "pxlclnmdecom-a.akamaihd.net"
           ]
@@ -10963,6 +11049,13 @@
         }
       },
       {
+        "Digioh": {
+          "https://digioh.com/": [
+            "lightboxcdn.com"
+          ]
+        }
+      },
+      {
         "DirectCORP": {
           "http://www.directcorp.de/": [
             "ipcounter.de"
@@ -11419,6 +11512,15 @@
         }
       },
       {
+        "JWPlayer": {
+          "https://jwplayer.com/": [
+            "jwpltx.com",
+            "longtailvideo.com",
+            "ltassrv.com"
+          ]
+        }
+      },
+      {
         "KeyMetric": {
           "http://www.keymetric.net/": [
             "keymetric.net"
@@ -11474,14 +11576,6 @@
         "Logdy": {
           "http://logdy.com/": [
             "logdy.com"
-          ]
-        }
-      },
-      {
-        "LongTail Video": {
-          "http://www.longtailvideo.com/": [
-            "longtailvideo.com",
-            "ltassrv.com"
           ]
         }
       },
@@ -12483,7 +12577,8 @@
             "homesessive.com",
             "mandatory.com",
             "shoutcast.com",
-            "yahoofs.com"
+            "yahoofs.com",
+            "yimg.jp"
           ]
         }
       },

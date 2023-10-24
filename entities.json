@@ -1559,6 +1559,14 @@
         "affinity.co"
       ]
     },
+    "Affirm": {
+      "properties": [
+        "affirm.com"
+      ],
+      "resources": [
+        "affirm.com"
+      ]
+    },
     "Affle": {
       "properties": [
         "affle.com"
@@ -1694,6 +1702,7 @@
       "resources": [
         "abmr.net",
         "akamai.com",
+        "akstat.io",
         "edgesuite.net",
         "go-mpulse.net",
         "imiclk.com"
@@ -1849,7 +1858,8 @@
         "amazon.it",
         "assoc-amazon.com",
         "awstrack.me",
-        "cloudfront.net"
+        "cloudfront.net",
+        "twitch.tv"
       ]
     },
     "Ambient Digital": {
@@ -2202,7 +2212,8 @@
         "gravatar.com",
         "intensedebate.com",
         "polldaddy.com",
-        "pubmine.com"
+        "pubmine.com",
+        "wp.com"
       ]
     },
     "AutoPilot": {
@@ -2846,7 +2857,8 @@
         "brightcove.com"
       ],
       "resources": [
-        "brightcove.com"
+        "brightcove.com",
+        "zencdn.net"
       ]
     },
     "BrightEdge": {
@@ -3621,7 +3633,9 @@
         "cloudflare.com"
       ],
       "resources": [
-        "cloudflareinsights.com"
+        "cloudflare.com",
+        "cloudflareinsights.com",
+        "cloudflarestream.com"
       ]
     },
     "CloudMedia": {
@@ -4451,6 +4465,14 @@
         "digg.com"
       ]
     },
+    "Digioh": {
+      "properties": [
+        "digioh.com"
+      ],
+      "resources": [
+        "lightboxcdn.com"
+      ]
+    },
     "DigitalAdConsortium": {
       "properties": [
         "dac.co.jp"
@@ -5266,6 +5288,7 @@
         "apps.fbsbx.com",
         "atdmt.com",
         "atlassolutions.com",
+        "cdninstagram.com",
         "facebook.com",
         "facebook.de",
         "facebook.fr",
@@ -5644,7 +5667,8 @@
         "fundraiseup.com"
       ],
       "resources": [
-        "fndrsp.net"
+        "fndrsp.net",
+        "fundraiseup.com"
       ]
     },
     "Future Ads": {
@@ -6176,7 +6200,6 @@
         "doubleclick.net",
         "ggpht.com",
         "gmail.com",
-        "gmodules.com",
         "google-analytics.com",
         "google.ad",
         "google.ae",
@@ -6382,6 +6405,7 @@
         "postrank.com",
         "recaptcha.net",
         "smtad.net",
+        "youtube-nocookie.com",
         "youtube.com"
       ]
     },
@@ -7466,6 +7490,17 @@
         "justuno.com"
       ]
     },
+    "JWPlayer": {
+      "properties": [
+        "jwplayer.com"
+      ],
+      "resources": [
+        "jwpcdn.com",
+        "jwpltx.com",
+        "longtailvideo.com",
+        "ltassrv.com"
+      ]
+    },
     "Kaltura": {
       "properties": [
         "kaltura.com"
@@ -7978,15 +8013,6 @@
       ],
       "resources": [
         "longboardmedia.com"
-      ]
-    },
-    "LongTail Video": {
-      "properties": [
-        "jwplayer.com"
-      ],
-      "resources": [
-        "longtailvideo.com",
-        "ltassrv.com"
       ]
     },
     "Loomia": {
@@ -8758,11 +8784,14 @@
         "adsymptotic.com",
         "appnexus.com",
         "aquantive.com",
+        "azure.com",
+        "azurefd.net",
         "bing.com",
         "bizo.com",
         "bizographics.com",
         "clarity.ms",
         "drawbrid.ge",
+        "dynamics.com",
         "gamesforwindows.com",
         "gaug.es",
         "getgamesmart.com",
@@ -10010,6 +10039,19 @@
         "parsely.com"
       ]
     },
+    "Partnerize": {
+      "properties": [
+        "partnerize.com"
+      ],
+      "resources": [
+        "pepperjam.com",
+        "pjatr.com",
+        "pjtra.com",
+        "pntra.com",
+        "pntrac.com",
+        "pntrs.com"
+      ]
+    },
     "PartyPoker": {
       "properties": [
         "partypoker.com"
@@ -10040,6 +10082,7 @@
         "simility.com"
       ],
       "resources": [
+        "paypal.com",
         "simility.com"
       ]
     },
@@ -11657,6 +11700,15 @@
         "xiaoyuanzhao.com"
       ]
     },
+    "Shopify": {
+      "properties": [
+        "shopify.com"
+      ],
+      "resources": [
+        "shopifyapps.com",
+        "shopifysvc.com"
+      ]
+    },
     "Shopzilla": {
       "properties": [
         "shopzilla.com"
@@ -12286,6 +12338,7 @@
         "stripe.com"
       ],
       "resources": [
+        "stripe.com",
         "stripe.network"
       ]
     },
@@ -12551,6 +12604,14 @@
       ],
       "resources": [
         "targetix.net"
+      ]
+    },
+    "TargetVideo": {
+      "properties": [
+        "target-video.com"
+      ],
+      "resources": [
+        "brid.tv"
       ]
     },
     "Tatto Media": {
@@ -13290,6 +13351,14 @@
         "leadlander.com",
         "sf14g.com",
         "trackalyzer.com"
+      ]
+    },
+    "UpsellIt": {
+      "properties": [
+        "upsellit.com"
+      ],
+      "resources": [
+        "upsellit.com"
       ]
     },
     "Uptrends": {
@@ -14334,6 +14403,7 @@
         "yieldmanager.com",
         "yieldmanager.net",
         "yimg.com",
+        "yimg.jp",
         "yldmgrimg.net",
         "ymail.com"
       ]
@@ -14362,6 +14432,7 @@
         "yandex.com",
         "yandex.com.tr",
         "yandex.md",
+        "yandex.net",
         "yandex.ru",
         "yandex.st",
         "yandex.ua"

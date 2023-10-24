@@ -4242,7 +4242,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Paypal
-This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Content`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.simility.com/b.js`
 1. Script generates fingerprint by querying various device properties:
@@ -5405,7 +5405,7 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Stripe
-This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Content`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://m.stripe.network/inner.html#referrer=&title=Study.com%20%7C%20Take%20Online%20Courses.%20Earn%20College%20Credit.%20Research%20Schools%2C%20Degrees%20%26%20Careers&url=https%3A%2F%2Fstudy.com%2F&muid=739a3ba7-7618-41b6-b40c-af1890c68298&sid=d591e8f1-231b-42b4-9c18-c4d93cfd9552&preview=false&` 
 1. Script makes use of APIs for the purpose of fingerprinting:
