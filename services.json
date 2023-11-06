@@ -1534,13 +1534,6 @@
     ],
     "Advertising": [
       {
-        "1plusx": {
-          "https://www.1plusx.com/": [
-            "opecloud.com"
-          ]
-        }
-      },
-      {
         "2leep.com": {
           "http://2leep.com/": [
             "2leep.com"
@@ -2735,7 +2728,8 @@
             "amazon.es",
             "amazon.fr",
             "amazon.it",
-            "assoc-amazon.com"
+            "assoc-amazon.com",
+            "serving-sys.com"
           ]
         }
       },
@@ -2939,7 +2933,8 @@
       {
         "Audigent": {
           "https://audigent.com/": [
-            "ad.gt"
+            "ad.gt",
+            "hadronid.net"
           ]
         }
       },
@@ -3243,7 +3238,8 @@
           "https://blockthrough.com/": [
             "btloader.com",
             "pagefair.com",
-            "pagefair.net"
+            "pagefair.net",
+            "videoplayerhub.com"
           ]
         }
       },
@@ -4213,7 +4209,6 @@
             "eyeblaster.com",
             "eyewonder.com",
             "mdadx.com",
-            "serving-sys.com",
             "unicast.com"
           ]
         }
@@ -6849,6 +6844,13 @@
         }
       },
       {
+        "Nextdoor": {
+          "https://nextdoor.com": [
+            "nextdoor.com"
+          ]
+        }
+      },
+      {
         "NextMillennium": {
           "https://nextmillennium.io/": [
             "powerad.ai"
@@ -7128,6 +7130,7 @@
           "http://www.oracle.com/": [
             "bkrtx.com",
             "bluekai.com",
+            "en25.com",
             "estara.com",
             "grapeshot.co.uk",
             "moat.com",
@@ -8043,6 +8046,13 @@
           "http://www.samurai-factory.jp/": [
             "samurai-factory.jp",
             "shinobi.jp"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "scarabresearch.com"
           ]
         }
       },
@@ -9108,6 +9118,7 @@
         "TripleLift": {
           "http://triplelift.com/": [
             "3lift.com",
+            "opecloud.com",
             "triplelift.com"
           ]
         }
@@ -9754,6 +9765,7 @@
             "flurry.com",
             "interclick.com",
             "joystiq.com",
+            "js7k.com",
             "leadback.com",
             "marketingsolutions.yahoo.com",
             "oath.com",
@@ -11658,6 +11670,13 @@
         }
       },
       {
+        "Medallia": {
+          "https://medallia.com": [
+            "kampyle.com"
+          ]
+        }
+      },
+      {
         "Médiamétrie-eStat": {
           "http://www.mediametrie-estat.com/": [
             "estat.com",
@@ -11983,6 +12002,13 @@
         "Qualtrics": {
           "https://www.qualtrics.com/": [
             "qualtrics.com"
+          ]
+        }
+      },
+      {
+        "QuantumMetric": {
+          "https://www.quantummetric.com": [
+            "quantummetric.com"
           ]
         }
       },

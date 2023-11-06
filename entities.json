@@ -17,14 +17,6 @@
         "1-2-1marketing.com"
       ]
     },
-    "1plusx": {
-      "properties": [
-        "1plusx.com"
-      ],
-      "resources": [
-        "opecloud.com"
-      ]
-    },
     "2leep.com": {
       "properties": [
         "2leep.com"
@@ -1859,6 +1851,7 @@
         "assoc-amazon.com",
         "awstrack.me",
         "cloudfront.net",
+        "serving-sys.com",
         "twitch.tv"
       ]
     },
@@ -2151,7 +2144,8 @@
         "audigent.com"
       ],
       "resources": [
-        "ad.gt"
+        "ad.gt",
+        "hadronid.net"
       ]
     },
     "AuditedMedia": {
@@ -2629,7 +2623,8 @@
       "resources": [
         "btloader.com",
         "pagefair.com",
-        "pagefair.net"
+        "pagefair.net",
+        "videoplayerhub.com"
       ]
     },
     "BlogCatalog": {
@@ -4428,7 +4423,6 @@
         "eyeblaster.com",
         "eyewonder.com",
         "mdadx.com",
-        "serving-sys.com",
         "unicast.com"
       ]
     },
@@ -8459,6 +8453,14 @@
         "mdotm.com"
       ]
     },
+    "Medallia": {
+      "properties": [
+        "medallia.com"
+      ],
+      "resources": [
+        "kampyle.com"
+      ]
+    },
     "MediaBrix": {
       "properties": [
         "mediabrix.com"
@@ -9436,6 +9438,14 @@
         "nextag.com"
       ]
     },
+    "Nextdoor": {
+      "properties": [
+        "nextdoor.com"
+      ],
+      "resources": [
+        "nextdoor.com"
+      ]
+    },
     "NextMillennium": {
       "properties": [
         "nextmillennium.io"
@@ -9895,6 +9905,7 @@
         "clearspring.com",
         "connectedads.net",
         "eloqua.com",
+        "en25.com",
         "estara.com",
         "grapeshot.co.uk",
         "instantservice.com",
@@ -10738,6 +10749,14 @@
         "quantum-advertising.com"
       ]
     },
+    "QuantumMetric": {
+      "properties": [
+        "quantummetric.com"
+      ],
+      "resources": [
+        "quantummetric.com"
+      ]
+    },
     "QuinStreet": {
       "properties": [
         "quinstreet.com",
@@ -11434,7 +11453,8 @@
         "sap.com"
       ],
       "resources": [
-        "ondemand.com"
+        "ondemand.com",
+        "scarabresearch.com"
       ]
     },
     "Sapient": {
@@ -13127,10 +13147,12 @@
     },
     "TripleLift": {
       "properties": [
+        "1plusx.com",
         "triplelift.com"
       ],
       "resources": [
         "3lift.com",
+        "opecloud.com",
         "triplelift.com"
       ]
     },
@@ -14375,6 +14397,7 @@
         "flurry.com",
         "interclick.com",
         "joystiq.com",
+        "js7k.com",
         "leadback.com",
         "mandatory.com",
         "mapquest.com",
