@@ -13,7 +13,6 @@ The technical and policy review information below was recorded on the date obser
 - [Adobe](#Adobe)
 - [AdScore](#AdScore)
 - [AdxSpace](#AdxSpace)
-- [AivaLabs](#AivaLabs)
 - [a.js](#a.js)
 - [Akamai](#Akamai)
 - [Albacross](#Albacross)
@@ -26,13 +25,13 @@ The technical and policy review information below was recorded on the date obser
 - [Azet](#Azet)
 - [BeMob](#BeMob)
 - [BetssonPalantir](#BetssonPalantir)
+- [BevyCommerce](#BevyCommerce)
 - [Bisnode](#Bisnode)
 - [BitMedia](#BitMedia)
 - [BlueCava](#BlueCava)
 - [Oracle](#Oracle)
 - [BoostBox](#BoostBox)
 - [Bouncex](#Bouncex)
-- [Brandcrumb](#Brandcrumb)
 - [BreakTime](#BreakTime)
 - [BrightEdge](#BrightEdge)
 - [BrowserAnalytic](#BrowserAnalytic)
@@ -484,44 +483,6 @@ Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
-## AivaLabs
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://aivalabs.com/cta/?identity=QtBHuIKbz7dQys5LY2dm0u4SiTppOAeMefE/JyIcTGlKg1zbgwTL.&shop=g-floor.myshopify.com`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-                function a() {
-                    e.printInfo("Socket connected");
-                    var t = this;
-                    (new Fingerprint2).get(function(e, a) {
-                        t.emit("connected", {
-                            clientEmail: Aiva.ExportData.clientEmail,
-                            fingerprint: e,
-                            currentSite: window.location.href,
-                            timezone: Aiva.ExportData.timezone
-                        })
-                    })
-                }
-
-```
-2. Sends computed fingerprint back to server
-```
-this.sendAnalytics = function(n) {
-            var r = t.getIdentityString(n),
-                i = t.getAnalytics(r);
-            if (!a.isBot() && !Aiva.ExportData.isPreview) {
-                var r = t.getIdentityString(n),
-                    s = t.numberOfTiles(n),
-                    i = t.getAnalytics(r),
-                    o = Aiva.Parameters.Socket;
-                Aiva.Constants.DebugMode && e.printInfo(i.data), o.emit("analytics", i.data, s)
-            }
-        }
-
-```
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
 ## a.js
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -744,7 +705,7 @@ function(a) {
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## AvantLink
-This service has been classified as `Analytics`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Avantlink's Privacy Policy States:
 
@@ -912,6 +873,44 @@ Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000
         return
     }
 }
+```
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## BevyCommerce
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://aivalabs.com/cta/?identity=QtBHuIKbz7dQys5LY2dm0u4SiTppOAeMefE/JyIcTGlKg1zbgwTL.&shop=g-floor.myshopify.com`
+1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+```
+                function a() {
+                    e.printInfo("Socket connected");
+                    var t = this;
+                    (new Fingerprint2).get(function(e, a) {
+                        t.emit("connected", {
+                            clientEmail: Aiva.ExportData.clientEmail,
+                            fingerprint: e,
+                            currentSite: window.location.href,
+                            timezone: Aiva.ExportData.timezone
+                        })
+                    })
+                }
+
+```
+2. Sends computed fingerprint back to server
+```
+this.sendAnalytics = function(n) {
+            var r = t.getIdentityString(n),
+                i = t.getAnalytics(r);
+            if (!a.isBot() && !Aiva.ExportData.isPreview) {
+                var r = t.getIdentityString(n),
+                    s = t.numberOfTiles(n),
+                    i = t.getAnalytics(r),
+                    o = Aiva.Parameters.Socket;
+                Aiva.Constants.DebugMode && e.printInfo(i.data), o.emit("analytics", i.data, s)
+            }
+        }
+
 ```
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
@@ -1214,54 +1213,6 @@ Script: `https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_mo
   "value": ""
 }
 ```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## Brandcrumb
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://static.brandcrumb.com/bc.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var b = function(a) {
-            if (!(this instanceof b)) return new b(a);
-            var c = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
-            this.options = this.extend(a, c), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
-
-```
-2. Sends computed fingerprint back to server:
-```
-e.prototype.getFingerprint = function() {
-        var a = this,
-            b = new Fingerprint2;
-        b.get(function(b, c) {
-            var d = {};
-            for (var e in c) d[c[e].key] = c[e].value;
-            var h = {
-                fingerprint: b,
-                user_agent: d.user_agent,
-                user_agent_hash: g(d, "user_agent"),
-                regular_plugins: d.regular_plugins,
-                regular_plugins_hash: g(d, "regular_plugins"),
-                available_resolution_hash: g(d, "available_resolution"),
-                has_lied_languages_hash: g(d, "has_lied_languages"),
-                webgl_hash: g(d, "webgl"),
-                canvas_hash: g(d, "canvas"),
-                pixel_ratio_hash: g(d, "pixel_ratio"),
-                canvas_webgl_hash: g(f(d, "canvas"), "webgl")
-            };
-            a.sendPixel(a.getUrl("dharma"), h)
-        })
-    }
-
-```
-
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BreakTime
@@ -1838,7 +1789,7 @@ Script: `http://franecki.net/js/lib.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## ClickGuard
-This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2570,7 +2521,7 @@ Flocktory's website states:
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Flux
-This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://flux-cdn.com/client/mainichi/mainichi2.min.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
@@ -3486,7 +3437,7 @@ Script: `https://i.k-analytix.com/k.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## LeadInfo
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.leadinfo.net/ping.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
@@ -3577,7 +3528,7 @@ LiveRamp's website states:
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Lotame
-This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Lotame's privacy policy States:
 
@@ -4848,7 +4799,7 @@ Roq.ad's Website states:
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Salesforce
-This service has been classified as `Email`, `Analytics`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
+This service has been classified as `Email`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
 Salesforce's privacy policy States:
 
@@ -4931,7 +4882,7 @@ Script: `https://sonar.semantiqo.com/c82up/checking.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## SendPulse
-This service has been classified as `Email`, `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
