@@ -1951,26 +1951,6 @@
         "atrinsic.com"
       ]
     },
-    "AT&T": {
-      "properties": [
-        "att.com",
-        "att.net",
-        "cnn.com",
-        "dccomics.com",
-        "hbo.com",
-        "hbogo.com",
-        "hbomax.com",
-        "hbonow.com",
-        "tbs.com",
-        "tnt.com",
-        "warnermediagroup.com",
-        "yp.com"
-      ],
-      "resources": [
-        "att.com",
-        "yp.com"
-      ]
-    },
     "Attentive": {
       "properties": [
         "attentive.com"
@@ -2526,7 +2506,6 @@
         "blogherads.com"
       ],
       "resources": [
-        "blogher.com",
         "blogherads.com"
       ]
     },
@@ -4859,8 +4838,7 @@
         "experian.se"
       ],
       "resources": [
-        "audienceiq.com",
-        "experian.com"
+        "audienceiq.com"
       ]
     },
     "expo-MAX": {
@@ -5163,15 +5141,6 @@
         "footprintlive.com"
       ]
     },
-    "Forbes": {
-      "properties": [
-        "brandsideplatform.com",
-        "forbes.com"
-      ],
-      "resources": [
-        "forbes.com"
-      ]
-    },
     "Foresee": {
       "properties": [
         "foresee.com"
@@ -5191,7 +5160,6 @@
       ],
       "resources": [
         "fimserve.com",
-        "foxnetworks.com",
         "foxonestop.com",
         "mobsmith.com",
         "myads.com"
@@ -5357,7 +5325,6 @@
         "pointroll.com"
       ],
       "resources": [
-        "gannett.com",
         "pointroll.com"
       ]
     },
@@ -5802,13 +5769,10 @@
         "admeld.com",
         "admob.com",
         "adometry.com",
-        "apture.com",
         "blogger.com",
-        "cc-dt.com",
         "crashlytics.com",
         "dartsearch.net",
         "destinationurl.com",
-        "dmtry.com",
         "doubleclick.net",
         "ggpht.com",
         "gmail.com",
@@ -6163,7 +6127,6 @@
         "raasnet.com"
       ],
       "resources": [
-        "hearst.com",
         "ic-live.com",
         "icrossing.com",
         "raasnet.com",
@@ -6451,16 +6414,6 @@
       "resources": [
         "360yield.com",
         "improvedigital.com"
-      ]
-    },
-    "InboundWriter": {
-      "properties": [
-        "enquisite.com",
-        "inboundwriter.com"
-      ],
-      "resources": [
-        "enquisite.com",
-        "inboundwriter.com"
       ]
     },
     "IndexExchange": {
@@ -7232,6 +7185,14 @@
         "adsummos.net"
       ]
     },
+    "KrushMedia": {
+      "properties": [
+        "krushmedia.com"
+      ],
+      "resources": [
+        "krushmedia.com"
+      ]
+    },
     "Kueez": {
       "properties": [
         "kueez.com"
@@ -7531,14 +7492,6 @@
       ],
       "resources": [
         "logdy.com"
-      ]
-    },
-    "Longboard Media": {
-      "properties": [
-        "longboardmedia.com"
-      ],
-      "resources": [
-        "longboardmedia.com"
       ]
     },
     "Loomia": {
@@ -7984,14 +7937,6 @@
         "mediabrix.com"
       ]
     },
-    "MediaCom": {
-      "properties": [
-        "mediacom.com"
-      ],
-      "resources": [
-        "mediacom.com"
-      ]
-    },
     "Medialets": {
       "properties": [
         "medialets.com"
@@ -8285,12 +8230,10 @@
         "inq.com",
         "licdn.com",
         "linkedin.com",
-        "live.com",
         "microsoft.com",
         "microsoftstore.com",
         "msads.net",
         "officelive.com",
-        "outlook.com",
         "roiservice.com",
         "skype.com",
         "touchcommerce.com",
@@ -8304,7 +8247,6 @@
         "mydas.mobi"
       ],
       "resources": [
-        "millennialmedia.com",
         "mydas.mobi"
       ]
     },
@@ -8550,15 +8492,6 @@
         "mopub.com"
       ]
     },
-    "motigo": {
-      "properties": [
-        "motigo.com"
-      ],
-      "resources": [
-        "motigo.com",
-        "nedstatbasic.net"
-      ]
-    },
     "Mouseflow": {
       "properties": [
         "mouseflow.com"
@@ -8728,6 +8661,14 @@
       ],
       "resources": [
         "ubermedia.com"
+      ]
+    },
+    "nedstatbasic": {
+      "properties": [
+        "nedstatbasic.net"
+      ],
+      "resources": [
+        "nedstatbasic.net"
       ]
     },
     "Negishim": {
@@ -9947,16 +9888,6 @@
         "prometheusintelligencetechnology.com"
       ]
     },
-    "Pronunciator": {
-      "properties": [
-        "pronunciator.com",
-        "visitorville.com"
-      ],
-      "resources": [
-        "pronunciator.com",
-        "visitorville.com"
-      ]
-    },
     "Propeller Ads": {
       "properties": [
         "propellerads.com"
@@ -11147,6 +11078,15 @@
         "simply.com"
       ]
     },
+    "Sinclair": {
+      "properties": [
+        "sbgi.net"
+      ],
+      "resources": [
+        "extend.tv",
+        "zypmedia.com"
+      ]
+    },
     "SirData": {
       "properties": [
         "sirdata.com"
@@ -11297,7 +11237,6 @@
       ],
       "resources": [
         "sc-static.net",
-        "snap.com",
         "snapchat.com"
       ]
     },
@@ -12130,8 +12069,7 @@
         "tinder.com"
       ],
       "resources": [
-        "carbonads.com",
-        "tinder.com"
+        "carbonads.com"
       ]
     },
     "TiqIQ": {
@@ -12501,14 +12439,12 @@
       "properties": [
         "digits.com",
         "fabric.io",
-        "tweetdeck.com",
         "twitter.com",
         "twitter.jp"
       ],
       "resources": [
         "ads-twitter.com",
         "t.co",
-        "tweetdeck.com",
         "twimg.com",
         "twitter.com",
         "twitter.jp"
@@ -12843,7 +12779,6 @@
       ],
       "resources": [
         "maxpointinteractive.com",
-        "maxusglobal.com",
         "mxptint.net"
       ]
     },
@@ -13061,14 +12996,6 @@
         "vizisense.net"
       ]
     },
-    "Vizu": {
-      "properties": [
-        "vizu.com"
-      ],
-      "resources": [
-        "vizu.com"
-      ]
-    },
     "Vizury": {
       "properties": [
         "vizury.com"
@@ -13189,7 +13116,11 @@
     },
     "Wayfair": {
       "properties": [
-        "wayfair.com"
+        "perigold.com",
+        "wayfair.ca",
+        "wayfair.co.uk",
+        "wayfair.com",
+        "wayfair.de"
       ],
       "resources": [
         "wayfair.com"
@@ -13446,7 +13377,6 @@
         "xaxis.com"
       ],
       "resources": [
-        "247realmedia.com",
         "accelerator-media.com",
         "compete.com",
         "decdna.net",
@@ -13460,7 +13390,6 @@
         "pm14.com",
         "realmedia.com",
         "themig.com",
-        "wpp.com",
         "xaxis.com"
       ]
     },
@@ -13611,7 +13540,6 @@
         "joystiq.com",
         "js7k.com",
         "mandatory.com",
-        "mapquest.com",
         "mybloglog.com",
         "oath.com",
         "overture.com",
@@ -13974,15 +13902,6 @@
       ],
       "resources": [
         "zumobi.com"
-      ]
-    },
-    "ZypMedia": {
-      "properties": [
-        "zypmedia.com"
-      ],
-      "resources": [
-        "extend.tv",
-        "zypmedia.com"
       ]
     }
   }

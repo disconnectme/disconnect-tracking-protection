@@ -2807,14 +2807,6 @@
         }
       },
       {
-        "AT&T": {
-          "http://www.att.com/": [
-            "att.com",
-            "yp.com"
-          ]
-        }
-      },
-      {
         "Attentive": {
           "https://www.attentive.com/": [
             "attn.tv"
@@ -3177,7 +3169,6 @@
       {
         "BlogHer": {
           "http://www.blogher.com/": [
-            "blogher.com",
             "blogherads.com"
           ]
         }
@@ -4451,8 +4442,7 @@
       {
         "Experian": {
           "http://www.experian.com/": [
-            "audienceiq.com",
-            "experian.com"
+            "audienceiq.com"
           ]
         }
       },
@@ -4621,17 +4611,9 @@
         }
       },
       {
-        "Forbes": {
-          "http://www.forbes.com/": [
-            "forbes.com"
-          ]
-        }
-      },
-      {
         "Fox One Stop Media": {
           "http://www.foxonestop.com/": [
             "fimserve.com",
-            "foxnetworks.com",
             "foxonestop.com",
             "mobsmith.com",
             "myads.com"
@@ -4726,7 +4708,6 @@
       {
         "Gannett": {
           "http://www.gannett.com/": [
-            "gannett.com",
             "pointroll.com"
           ]
         }
@@ -4874,13 +4855,10 @@
             "admeld.com",
             "admob.com",
             "adometry.com",
-            "adservice.google.ca",
             "adservice.google.com",
             "adwords.google.com",
-            "cc-dt.com",
             "dartsearch.net",
             "destinationurl.com",
-            "dmtry.com",
             "doubleclick.net",
             "fcmatch.google.com",
             "fcmatch.youtube.com",
@@ -4955,7 +4933,6 @@
       {
         "Hearst": {
           "http://www.hearst.com/": [
-            "hearst.com",
             "ic-live.com",
             "icrossing.com",
             "sptag3.com"
@@ -5614,6 +5591,13 @@
         }
       },
       {
+        "KrushMedia": {
+          "https://krushmedia.com/": [
+            "krushmedia.com"
+          ]
+        }
+      },
+      {
         "Kueez": {
           "https://weare.kueez.com/": [
             "kueezrtb.com"
@@ -5788,13 +5772,6 @@
         "LockerDome": {
           "https://lockerdome.com/": [
             "lockerdome.com"
-          ]
-        }
-      },
-      {
-        "Longboard Media": {
-          "http://longboardmedia.com/": [
-            "longboardmedia.com"
           ]
         }
       },
@@ -6015,13 +5992,6 @@
         }
       },
       {
-        "MediaCom": {
-          "http://www.mediacom.com/": [
-            "mediacom.com"
-          ]
-        }
-      },
-      {
         "Medialets": {
           "http://www.medialets.com/": [
             "medialets.com"
@@ -6161,7 +6131,6 @@
       {
         "Millennial Media": {
           "http://www.millennialmedia.com/": [
-            "millennialmedia.com",
             "mydas.mobi"
           ]
         }
@@ -7618,9 +7587,7 @@
             "krux.com",
             "kruxdigital.com",
             "krxd.net",
-            "mybuys.com",
-            "salesforce.com",
-            "salesforceliveagent.com"
+            "mybuys.com"
           ]
         }
       },
@@ -7838,6 +7805,14 @@
         }
       },
       {
+        "Sinclair": {
+          "http://sbgi.net/": [
+            "extend.tv",
+            "zypmedia.com"
+          ]
+        }
+      },
+      {
         "SirData": {
           "https://sirdata.com/en/": [
             "sddan.com"
@@ -7928,7 +7903,6 @@
         "Snap": {
           "http://www.snap.com/": [
             "sc-static.net",
-            "snap.com",
             "snapchat.com"
           ]
         }
@@ -8465,8 +8439,7 @@
       {
         "Tinder": {
           "http://tinder.com/": [
-            "carbonads.com",
-            "tinder.com"
+            "carbonads.com"
           ]
         }
       },
@@ -8908,7 +8881,6 @@
         "Vericast": {
           "https://www.vericast.com/": [
             "maxpointinteractive.com",
-            "maxusglobal.com",
             "mxptint.net"
           ]
         }
@@ -9021,13 +8993,6 @@
         "VistaprintSchweizGmbH": {
           "https://www.vistaprint.ch/": [
             "vpdcp.com"
-          ]
-        }
-      },
-      {
-        "Vizu": {
-          "http://www.vizu.com/": [
-            "vizu.com"
           ]
         }
       },
@@ -9188,7 +9153,6 @@
       {
         "WPP": {
           "http://www.wpp.com/": [
-            "247realmedia.com",
             "accelerator-media.com",
             "decdna.net",
             "decideinteractive.com",
@@ -9201,7 +9165,6 @@
             "pm14.com",
             "realmedia.com",
             "themig.com",
-            "wpp.com",
             "xaxis.com"
           ]
         }
@@ -9500,14 +9463,6 @@
             "zumobi.com"
           ]
         }
-      },
-      {
-        "ZypMedia": {
-          "http://www.zypmedia.com/": [
-            "extend.tv",
-            "zypmedia.com"
-          ]
-        }
       }
     ],
     "Content": [
@@ -9600,9 +9555,7 @@
       {
         "Google": {
           "http://www.google.com/": [
-            "apture.com",
             "blogger.com",
-            "feedburner.com",
             "ggpht.com",
             "google.ad",
             "google.ae",
@@ -9840,10 +9793,8 @@
             "azurefd.net",
             "bing.com",
             "dynamics.com",
-            "live.com",
             "microsoft.com",
             "msn.com",
-            "outlook.com",
             "skype.com"
           ]
         }
@@ -9927,11 +9878,7 @@
             "5min.com",
             "aolcdn.com",
             "flickr.com",
-            "huffingtonpost.com",
-            "mapquest.com",
-            "moviefone.com",
             "staticflickr.com",
-            "techcrunch.com",
             "tumblr.com",
             "winamp.com",
             "yahoo.com",
@@ -10772,14 +10719,6 @@
         }
       },
       {
-        "InboundWriter": {
-          "http://www.inboundwriter.com/": [
-            "enquisite.com",
-            "inboundwriter.com"
-          ]
-        }
-      },
-      {
         "Infernotions": {
           "https://infernotions.com/": [
             "infernotions.com"
@@ -11034,14 +10973,6 @@
         }
       },
       {
-        "motigo": {
-          "http://motigo.com/": [
-            "motigo.com",
-            "nedstatbasic.net"
-          ]
-        }
-      },
-      {
         "Mouseflow": {
           "http://mouseflow.com/": [
             "mouseflow.com"
@@ -11087,6 +11018,13 @@
         "Near": {
           "https://near.com/": [
             "ubermedia.com"
+          ]
+        }
+      },
+      {
+        "nedstatbasic": {
+          "https://nedstatbasic.net/": [
+            "nedstatbasic.net"
           ]
         }
       },
@@ -11274,14 +11212,6 @@
         }
       },
       {
-        "Pronunciator": {
-          "http://www.pronunciator.com/": [
-            "pronunciator.com",
-            "visitorville.com"
-          ]
-        }
-      },
-      {
         "Qualaroo": {
           "http://qualaroo.com/": [
             "kissinsights.com",
@@ -11397,6 +11327,14 @@
         "SageMetrics": {
           "http://www.sagemetrics.com/": [
             "sageanalyst.net"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "salesforce.com",
+            "salesforceliveagent.com"
           ]
         }
       },
@@ -11630,13 +11568,6 @@
         "TrustARC": {
           "https://trustarc.com/": [
             "truste.com"
-          ]
-        }
-      },
-      {
-        "Twitter": {
-          "https://twitter.com/": [
-            "tweetdeck.com"
           ]
         }
       },
@@ -12862,8 +12793,7 @@
       {
         "Experian": {
           "http://www.experian.com/": [
-            "audienceiq.com",
-            "experian.com"
+            "audienceiq.com"
           ]
         }
       },
@@ -12917,10 +12847,8 @@
             "2mdn.net",
             "admeld.com",
             "admob.com",
-            "adservice.google.ca",
             "adservice.google.com",
             "adwords.google.com",
-            "cc-dt.com",
             "destinationurl.com",
             "developers.google.com",
             "doubleclick.net",
