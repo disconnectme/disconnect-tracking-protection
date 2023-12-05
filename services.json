@@ -1578,6 +1578,13 @@
         }
       },
       {
+        "Accessibe": {
+          "https://accessibe.com/": [
+            "acsbapp.com"
+          ]
+        }
+      },
+      {
         "Acoustic": {
           "https://www.acoustic.com/": [
             "mkt51.net",
@@ -2396,6 +2403,13 @@
         }
       },
       {
+        "Advangelists": {
+          "https://advangelists.com/": [
+            "advangelists.com"
+          ]
+        }
+      },
+      {
         "Adventive": {
           "http://adventive.com/": [
             "adventive.com"
@@ -3188,6 +3202,13 @@
         }
       },
       {
+        "Boltive": {
+          "https://www.adlightning.com/": [
+            "adlightning.com"
+          ]
+        }
+      },
+      {
         "Boo-Box": {
           "http://boo-box.com/": [
             "boo-box.com"
@@ -3408,6 +3429,13 @@
         "CAPITALDATA": {
           "http://www.capitaldata.fr/": [
             "capitaldata.fr"
+          ]
+        }
+      },
+      {
+        "Captify": {
+          "https://www.captifytechnologies.com/": [
+            "cpx.to"
           ]
         }
       },
@@ -4475,6 +4503,13 @@
         }
       },
       {
+        "Ezoic": {
+          "https://www.ezoic.com/": [
+            "ezodn.com"
+          ]
+        }
+      },
+      {
         "Facebook": {
           "http://www.facebook.com/": [
             "atlassolutions.com",
@@ -4980,6 +5015,13 @@
         "Httpool": {
           "http://www.httpool.com/": [
             "httpool.com"
+          ]
+        }
+      },
+      {
+        "HubSpot": {
+          "http://www.hubspot.com/": [
+            "hs-banner.com"
           ]
         }
       },
@@ -6046,6 +6088,13 @@
         }
       },
       {
+        "Mediawallah": {
+          "https://mediawallah.com": [
+            "mediawallah.com"
+          ]
+        }
+      },
+      {
         "Medicx Media Solutions": {
           "http://www.medicxmedia.com/": [
             "medicxmedia.com"
@@ -6721,14 +6770,6 @@
         }
       },
       {
-        "OptinMonster": {
-          "https://optinmonster.com/": [
-            "optinmonster.com",
-            "optnmstr.com"
-          ]
-        }
-      },
-      {
         "OptMD": {
           "http://optmd.com/": [
             "optmd.com"
@@ -7317,6 +7358,13 @@
         }
       },
       {
+        "reddit": {
+          "http://www.reddit.com/": [
+            "redditstatic.com"
+          ]
+        }
+      },
+      {
         "Redux Media": {
           "http://reduxmedia.com/": [
             "reduxmedia.com"
@@ -7436,6 +7484,15 @@
         "Retirement Living": {
           "www.retirement-living.com/": [
             "retirement-living.com"
+          ]
+        }
+      },
+      {
+        "Retyp": {
+          "https://optinmonster.com/": [
+            "omappapi.com",
+            "optinmonster.com",
+            "optnmstr.com"
           ]
         }
       },
@@ -8624,6 +8681,13 @@
           "http://www.trueffect.com/": [
             "adlegend.com",
             "trueffect.com"
+          ]
+        }
+      },
+      {
+        "TrustPilot": {
+          "https://trustpilot.com": [
+            "trustpilot.com"
           ]
         }
       },
@@ -9927,7 +9991,9 @@
       {
         "Adobe": {
           "http://www.adobe.com/": [
-            "livefyre.com"
+            "adobedc.net",
+            "livefyre.com",
+            "mktoresp.com"
           ]
         }
       },
@@ -10078,6 +10144,13 @@
         "BetssonPalantir": {
           "https://betssonpalantir.com/": [
             "betssonpalantir.com"
+          ]
+        }
+      },
+      {
+        "Bitrix24": {
+          "https://www.bitrix24.com/": [
+            "bitrix.info"
           ]
         }
       },
@@ -10354,6 +10427,15 @@
         }
       },
       {
+        "DataDog": {
+          "https://datadoghq.com": [
+            "browser-intake-datadoghq.com",
+            "datadoghq-browser-agent.com",
+            "datadoghq.com"
+          ]
+        }
+      },
+      {
         "Dataium": {
           "http://www.dataium.com/": [
             "collserve.com",
@@ -10409,6 +10491,13 @@
         "dwstat.com": {
           "http://www.dwstat.cn/": [
             "dwstat.cn"
+          ]
+        }
+      },
+      {
+        "Dynatrace": {
+          "https://dynatrace.com": [
+            "dynatrace.com"
           ]
         }
       },
@@ -10912,7 +11001,8 @@
       {
         "Medallia": {
           "https://medallia.com": [
-            "kampyle.com"
+            "kampyle.com",
+            "medallia.com"
           ]
         }
       },
@@ -11333,6 +11423,9 @@
       {
         "Salesforce": {
           "https://www.salesforce.com/": [
+            "cquotient.com",
+            "evgnet.com",
+            "igodigital.com",
             "salesforce.com",
             "salesforceliveagent.com"
           ]
@@ -11774,6 +11867,7 @@
       {
         "Yandex": {
           "http://www.yandex.com/": [
+            "informer.yandex.ru",
             "yandex.ua"
           ]
         }

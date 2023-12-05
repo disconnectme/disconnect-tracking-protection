@@ -110,6 +110,14 @@
         "adaptly.com"
       ]
     },
+    "Accessibe": {
+      "properties": [
+        "accessibe.com"
+      ],
+      "resources": [
+        "acsbapp.com"
+      ]
+    },
     "Acoustic": {
       "properties": [
         "acoustic.com",
@@ -854,6 +862,7 @@
       "resources": [
         "2o7.net",
         "adobe.com",
+        "adobedc.net",
         "auditude.com",
         "demdex.com",
         "demdex.net",
@@ -867,6 +876,7 @@
         "livefyre.com",
         "marketo.com",
         "marketo.net",
+        "mktoresp.com",
         "omniture.com",
         "omtrdc.net",
         "tmogul.com",
@@ -1242,6 +1252,14 @@
       "resources": [
         "ad4m.at",
         "ad4mat.de"
+      ]
+    },
+    "Advangelists": {
+      "properties": [
+        "advangelists.com"
+      ],
+      "resources": [
+        "advangelists.com"
       ]
     },
     "Adventive": {
@@ -2444,6 +2462,7 @@
         "bitrix24.com"
       ],
       "resources": [
+        "bitrix.info",
         "bitrix24.com"
       ]
     },
@@ -2558,6 +2577,14 @@
       ],
       "resources": [
         "blutrumpet.com"
+      ]
+    },
+    "Boltive": {
+      "properties": [
+        "adlightning.com"
+      ],
+      "resources": [
+        "adlightning.com"
       ]
     },
     "Bombora": {
@@ -3017,6 +3044,14 @@
       ],
       "resources": [
         "capitaldata.fr"
+      ]
+    },
+    "Captify": {
+      "properties": [
+        "captifytechnologies.com"
+      ],
+      "resources": [
+        "cpx.to"
       ]
     },
     "Carambola": {
@@ -3588,8 +3623,7 @@
     "Compuware": {
       "properties": [
         "axf8.net",
-        "compuware.com",
-        "dynatrace.com"
+        "compuware.com"
       ],
       "resources": [
         "axf8.net",
@@ -4001,6 +4035,16 @@
       ],
       "resources": [
         "dmxleo.com"
+      ]
+    },
+    "DataDog": {
+      "properties": [
+        "datadoghq.com"
+      ],
+      "resources": [
+        "browser-intake-datadoghq.com",
+        "datadoghq-browser-agent.com",
+        "datadoghq.com"
       ]
     },
     "Dataium": {
@@ -4418,6 +4462,14 @@
       ],
       "resources": [
         "dynata.com"
+      ]
+    },
+    "Dynatrace": {
+      "properties": [
+        "dynatrace.com"
+      ],
+      "resources": [
+        "dynatrace.com"
       ]
     },
     "Earnify": {
@@ -4888,6 +4940,14 @@
       ],
       "resources": [
         "eyeviewdigital.com"
+      ]
+    },
+    "Ezoic": {
+      "properties": [
+        "ezoic.com"
+      ],
+      "resources": [
+        "ezodn.com"
       ]
     },
     "ezymarketer": {
@@ -6238,6 +6298,7 @@
       ],
       "resources": [
         "hs-analytics.net",
+        "hs-banner.com",
         "hsms06.com",
         "hubspot.com",
         "hubspotemail.net",
@@ -7926,7 +7987,8 @@
         "medallia.com"
       ],
       "resources": [
-        "kampyle.com"
+        "kampyle.com",
+        "medallia.com"
       ]
     },
     "MediaBrix": {
@@ -8006,6 +8068,14 @@
       "resources": [
         "grow.me",
         "mediavine.com"
+      ]
+    },
+    "Mediawallah": {
+      "properties": [
+        "mediawallah.com"
+      ],
+      "resources": [
+        "mediawallah.com"
       ]
     },
     "Medicx Media Solutions": {
@@ -9231,16 +9301,6 @@
         "optimumresponse.com"
       ]
     },
-    "OptinMonster": {
-      "properties": [
-        "optinmonster.com",
-        "optnmstr.com"
-      ],
-      "resources": [
-        "optinmonster.com",
-        "optnmstr.com"
-      ]
-    },
     "OptMD": {
       "properties": [
         "optmd.com"
@@ -10240,7 +10300,8 @@
         "reddit.com"
       ],
       "resources": [
-        "reddit.com"
+        "reddit.com",
+        "redditstatic.com"
       ]
     },
     "Redlink": {
@@ -10420,6 +10481,17 @@
       ],
       "resources": [
         "retirement-living.com"
+      ]
+    },
+    "Retyp": {
+      "properties": [
+        "optinmonster.com",
+        "optnmstr.com"
+      ],
+      "resources": [
+        "omappapi.com",
+        "optinmonster.com",
+        "optnmstr.com"
       ]
     },
     "RevContent": {
@@ -10673,9 +10745,12 @@
         "trailblazer.me"
       ],
       "resources": [
+        "cquotient.com",
         "evergage.com",
+        "evgnet.com",
         "exacttarget.com",
         "exct.net",
+        "igodigital.com",
         "krux.com",
         "kruxdigital.com",
         "krxd.net",
@@ -12381,6 +12456,14 @@
       ],
       "resources": [
         "truste.com"
+      ]
+    },
+    "TrustPilot": {
+      "properties": [
+        "trustpilot.com"
+      ],
+      "resources": [
+        "trustpilot.com"
       ]
     },
     "TrustX": {
