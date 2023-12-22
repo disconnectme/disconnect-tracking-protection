@@ -48,7 +48,6 @@ The technical and policy review information below was recorded on the date obser
 - [ClickFrog](#ClickFrog)
 - [ClickGuard](#ClickGuard)
 - [Clixtell](#Clixtell)
-- [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
 - [ContentExchange](#ContentExchange)
 - [PublicisGroupe](#PublicisGroupe)
@@ -60,7 +59,6 @@ The technical and policy review information below was recorded on the date obser
 - [EthicalCapitalPartners](#EthicalCapitalPartners)
 - [Experian](#Experian)
 - [EyeNewton](#EyeNewton)
-- [Facebook](#Facebook)
 - [Fanplayr](#Fanplayr)
 - [Fiksu](#Fiksu)
 - [FingerprintJS](#FingerprintJS)
@@ -102,6 +100,7 @@ The technical and policy review information below was recorded on the date obser
 - [MaxMind](#MaxMind)
 - [MediaMath](#MediaMath)
 - [Mercadopago](#Mercadopago)
+- [Meta](#Meta)
 - [MinerAlt](#MinerAlt)
 - [Minescripts](#Minescripts)
 - [MineXMR](#MineXMR)
@@ -1913,55 +1912,6 @@ function n(t) {
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
-## CoinHive
-This service has been classified as `Cryptomining` for the following reasons:
-### Policy Review
-1. The main website `https://coinhive.com` describes its service as a javascript crypto miner.
-
-> Coinhive offers a JavaScript miner for the Monero Blockchain (Why Monero?) that you can embed in your website
-### Technical Review
-Coinhive has been identified using the following domains:
-- coinhive.com
-- coin-hive.com
-- cnhv.co
-- authedmine.com
-- wsservices.org
-
-1. Script contains an implementation of the cryptonight hash algorithm
-
-```
-var CryptonightWASMWrapper = function() {
-  this.ctx = _cryptonight_create();
-  /** @type {number} */
-  this.throttleWait = 0;
-  /** @type {number} */
-  this.throttledStart = 0;
-  /** @type {number} */
-  this.throttledHashes = 0;
-  this.workThrottledBound = this.workThrottled.bind(this);
-  /** @type {null} */
-  this.currentJob = null;
-  /** @type {!Uint8Array} */
-  this.target = new Uint8Array([255, 255, 255, 255, 255, 255, 255, 255]);
-  var inputs = Module.HEAPU8.buffer;
-  /** @type {!Uint8Array} */
-  this.input = new Uint8Array(inputs, Module._malloc(84), 84);
-  /** @type {!Uint8Array} */
-  this.output = new Uint8Array(inputs, Module._malloc(32), 32);
-  self.postMessage("ready");
-  self.onmessage = this.onMessage.bind(this);
-};
-```
-
-2. Network traffic shows script submitting hashes
-
-```
-up: {"type":"submit","params":{"version":7,"job_id":"448165886709466","nonce":"0bf389de","result":"eefccc790cd55f37715d07ffedd97652737eff274c747795e4c66f2da81ad100"}}
-
-down: {"type":"hash_accepted","params":{"hashes":256}}
-```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
 ## CoinPot
 This service has been classified as `Cryptomining` for the following reasons:
 ### Technical Review
@@ -2370,45 +2320,6 @@ This service has been classified as `Advertising` and `FingerprintingGeneral` fo
 ### Policy Review
 `https://eyenewton.ru/docs/privacy_policy.pdf`
 PRIVACY POLICY NOT RELEVANT AND "PROCESSING OF PERSONAL DATA" SECTION ONLY APPLIES TO CONSENT
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## Facebook
-This service has been classified as `Social`, `Content`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
-### Policy Review
-Facebook's Privacy Policy States:  
-  
-`https://www.facebook.com/policies/cookies` (1)
-  
->Cookies are used to store and receive identifiers and other information on computers, phones, and other devices. Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies.”  (1)
-  
->Cookies help us serve and measure ads across different browsers and devices used by the same person.  (1)
-  
->We also use cookies to help you opt out of seeing ads from Facebook based on your activity on third-party websites.  (1)
-  
->We may place cookies on your computer or device, and receive information stored in cookies, when you use or visit: Websites and apps provided by other companies that use the Facebook Products, including companies that incorporate the Facebook Technologies into their websites and apps. Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.  (1)
-
-`https://m.facebook.com/policy.php` (2)
-
->Device Information: As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. (2)  
->  
->Information we obtain from these devices includes:
->-   Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
->-   Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
->-   Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
->-   Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
->-   Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
->-   Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network (2)
-
-Facebook's Website States:  
-  
-`https://www.facebook.com/business/news/cross-device-measurement`
-  
->Today we’re launching cross-device reporting for Facebook ads, enabling advertisers to see for the first time how people are moving between devices — across mobile apps and the web — before they convert.  
-  
->With the new cross-device report, advertisers are now able to view the devices on which people see ads and the devices on which conversions subsequently occur. For instance, a marketer can view the number of customers that clicked an ad on an iPhone but then later converted on desktop, or the number of people that saw an ad on desktop but then converted on an Android tablet.  
-  
->Josh McFarland, CEO of TellApart, a Facebook Preferred Marketing Developer, adds: “Tracking click and conversion data deterministically across devices has confirmed what we know to be true: mobile ads drive commerce everywhere. This new reporting from Facebook has been a game-changer in our ability to help clients like Neiman Marcus and Sur La Table correctly value and invest in their mobile ads efforts.”
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
@@ -3712,6 +3623,45 @@ var td_3X = ['Andale Mono', 'Arial', 'Arial Black', 'AR PL UKai CN', 'AR PL UMin
 ```
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
+## Meta
+This service has been classified as `Social`, `Content`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Facebook's Privacy Policy States:  
+  
+`https://www.facebook.com/policies/cookies` (1)
+  
+>Cookies are used to store and receive identifiers and other information on computers, phones, and other devices. Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies.”  (1)
+  
+>Cookies help us serve and measure ads across different browsers and devices used by the same person.  (1)
+  
+>We also use cookies to help you opt out of seeing ads from Facebook based on your activity on third-party websites.  (1)
+  
+>We may place cookies on your computer or device, and receive information stored in cookies, when you use or visit: Websites and apps provided by other companies that use the Facebook Products, including companies that incorporate the Facebook Technologies into their websites and apps. Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.  (1)
+
+`https://m.facebook.com/policy.php` (2)
+
+>Device Information: As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. (2)  
+>  
+>Information we obtain from these devices includes:
+>-   Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+>-   Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+>-   Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
+>-   Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+>-   Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+>-   Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network (2)
+
+Facebook's Website States:  
+  
+`https://www.facebook.com/business/news/cross-device-measurement`
+  
+>Today we’re launching cross-device reporting for Facebook ads, enabling advertisers to see for the first time how people are moving between devices — across mobile apps and the web — before they convert.  
+  
+>With the new cross-device report, advertisers are now able to view the devices on which people see ads and the devices on which conversions subsequently occur. For instance, a marketer can view the number of customers that clicked an ad on an iPhone but then later converted on desktop, or the number of people that saw an ad on desktop but then converted on an Android tablet.  
+  
+>Josh McFarland, CEO of TellApart, a Facebook Preferred Marketing Developer, adds: “Tracking click and conversion data deterministically across devices has confirmed what we know to be true: mobile ads drive commerce everywhere. This new reporting from Facebook has been a game-changer in our ability to help clients like Neiman Marcus and Sur La Table correctly value and invest in their mobile ads efforts.”
+
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
 ## MinerAlt
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -3814,64 +3764,6 @@ Raw log:
         "run_stats": {
             "cpu": 12.740271885062246,
             "memory": "581.2 MB"
-        },
-        "workers_created": []
-    }
-}
-```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## MineXMR
-This service has been classified as `Cryptomining` for the following reasons:
-### Technical Review
-Observered on: http://moviedream.ws
-- CPU utilization
-    - Baseline load: 646.56%
-    - Cryptomining script blocked: 11.57%
-
-Raw log:
-```
-{
-    "WhenNotBlocked": {
-        "test_webpage": "http://moviedream.ws",
-        "isBlockingMiners": false,
-        "miners": [
-            "minexmr.stream"
-        ],
-        "miner_requests": [
-            "https://minexmr.stream/webmr.js"
-        ],
-        "run_stats": {
-            "cpu": 646.5359477124183,
-            "memory": "589.1 MB"
-        },
-        "workers_created": [
-            "blob:https://moviedream.ws/62f64f25-7be6-4539-8fa0-5617e0773165",
-            "blob:https://moviedream.ws/484e838d-e581-4c3d-9453-fe3f33fd7ce0",
-            "blob:https://moviedream.ws/82337e0b-915f-4644-af6f-4814566a6eb5",
-            "blob:https://moviedream.ws/94fea957-4b4d-4ab9-ab8e-5ebe0a759532",
-            "blob:https://moviedream.ws/f5a36d5d-479d-4771-8030-56aa361b8fea",
-            "blob:https://moviedream.ws/3cc62465-579f-4cc5-b8f1-06e7ad1c1e57",
-            "blob:https://moviedream.ws/123f517d-046d-4441-8026-a6b19de8a572",
-            "blob:https://moviedream.ws/9c6ed56c-95a1-4ede-b206-50d4f25bc9ad",
-            "blob:https://moviedream.ws/d37d0afa-c6f5-4415-b763-53b3f309d520",
-            "blob:https://moviedream.ws/808b073f-f3da-45ef-94b6-8289603bead9",
-            "blob:https://moviedream.ws/4d096716-d4a0-4d8e-98e3-a0f2f0b2d528",
-            "blob:https://moviedream.ws/c1b5b807-034a-4b34-94dc-dc74ea8ff56b"
-        ]
-    },
-    "WhenBlocked": {
-        "test_webpage": "http://moviedream.ws",
-        "isBlockingMiners": true,
-        "miners": [
-            "minexmr.stream"
-        ],
-        "miner_requests": [
-            "https://minexmr.stream/webmr.js"
-        ],
-        "run_stats": {
-            "cpu": 11.568958173609335,
-            "memory": "447.9 MB"
         },
         "workers_created": []
     }

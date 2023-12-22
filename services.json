@@ -145,7 +145,6 @@
             "clickacumba.com",
             "emlmkt.com",
             "mailmktool.com",
-            "showlanding.com",
             "trckacbm.com"
           ]
         }
@@ -913,7 +912,7 @@
       {
         "AtomPark": {
           "https://www.atompark.com/": [
-            "atompark.com"
+            "atomicpark.email"
           ]
         }
       },
@@ -948,7 +947,6 @@
       {
         "BoomerangGmail.com": {
           "https://www.boomeranggmail.com/home/": [
-            "boomeranggmail.com",
             "mailstat.us"
           ]
         }
@@ -1032,7 +1030,6 @@
             "createsend7.com",
             "createsend8.com",
             "createsend9.com",
-            "csd.io",
             "forwardtomyfriend.com"
           ]
         }
@@ -1098,14 +1095,15 @@
       {
         "DidTheyReadIt": {
           "http://didtheyreadit.com/": [
-            "didtheyreadit.com"
+            "e-mail-servers.com"
           ]
         }
       },
       {
         "EmailTrackerWebsite": {
           "https://emailtracker.website": [
-            "emailtracker.website"
+            "email-signature-image.com",
+            "my-email-signature.link"
           ]
         }
       },
@@ -1147,8 +1145,7 @@
       {
         "GetNotify": {
           "https://getnotify.com/": [
-            "email81.com",
-            "getnotify.com"
+            "email81.com"
           ]
         }
       },
@@ -1156,13 +1153,6 @@
         "GlobalIntelliSystems": {
           "https://gliq.com/index.html": [
             "gliq.com"
-          ]
-        }
-      },
-      {
-        "Gmelius": {
-          "https://gmelius.com/": [
-            "gmelius.com"
           ]
         }
       },
@@ -1256,23 +1246,9 @@
         }
       },
       {
-        "MailerJet": {
-          "https://mailerjet.com/": [
-            "mailerjet.com"
-          ]
-        }
-      },
-      {
         "MailerLite": {
           "https://www.mailerlite.com/": [
             "mailerlite.com"
-          ]
-        }
-      },
-      {
-        "MailSpice": {
-          "https://mailspice.com/": [
-            "mailspice.com"
           ]
         }
       },
@@ -1379,8 +1355,7 @@
       {
         "RevenueGrid": {
           "https://revenuegrid.com/": [
-            "revenuegrid.com",
-            "smartcloudconnect.io"
+            "revenuegrid.com"
           ]
         }
       },
@@ -1411,7 +1386,7 @@
       {
         "SalesHandy": {
           "https://www.saleshandy.com/": [
-            "saleshandy.com"
+            "shetrk.com"
           ]
         }
       },
@@ -1426,7 +1401,7 @@
       {
         "Streak": {
           "https://www.streak.com/": [
-            "streak.com"
+            "mailfoogae.appspot.com"
           ]
         }
       },
@@ -4510,14 +4485,6 @@
         }
       },
       {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "atlassolutions.com",
-            "liverail.com"
-          ]
-        }
-      },
-      {
         "Facilitate Digital": {
           "http://www.facilitatedigital.com/": [
             "adsfac.eu",
@@ -6132,6 +6099,14 @@
         }
       },
       {
+        "Meta": {
+          "https://www.meta.com/": [
+            "atlassolutions.com",
+            "liverail.com"
+          ]
+        }
+      },
+      {
         "MetrixLab": {
           "https://www.metrixlab.com": [
             "adoftheyear.com",
@@ -6865,6 +6840,13 @@
         }
       },
       {
+        "OzoneProject": {
+          "https://www.ozoneproject.com/": [
+            "the-ozone-project.com"
+          ]
+        }
+      },
+      {
         "Paid-To-Promote.net": {
           "http://www.paid-to-promote.net/": [
             "paid-to-promote.net"
@@ -7300,6 +7282,13 @@
             "quismatch.com",
             "xaded.com",
             "xmladed.com"
+          ]
+        }
+      },
+      {
+        "qwtag": {
+          "https://qwtag.com": [
+            "qwtag.com"
           ]
         }
       },
@@ -8913,8 +8902,9 @@
         }
       },
       {
-        "Venatus Media": {
-          "http://venatusmedia.com": [
+        "Venatus": {
+          "https://venatus.com": [
+            "adinplay.com",
             "venatusmedia.com"
           ]
         }
@@ -9601,15 +9591,6 @@
         }
       },
       {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "cdninstagram.com",
-            "fbcdn.net",
-            "instagram.com"
-          ]
-        }
-      },
-      {
         "FundraiseUp": {
           "https://fundraiseup.com/": [
             "fundraiseup.com"
@@ -9837,16 +9818,18 @@
         }
       },
       {
-        "Mail.Ru": {
-          "http://mail.ru/": [
-            "my.mail.ru"
+        "McAfee": {
+          "http://www.mcafee.com/": [
+            "mcafee.com"
           ]
         }
       },
       {
-        "McAfee": {
-          "http://www.mcafee.com/": [
-            "mcafee.com"
+        "Meta": {
+          "https://www.meta.com/": [
+            "cdninstagram.com",
+            "fbcdn.net",
+            "instagram.com"
           ]
         }
       },
@@ -9933,6 +9916,13 @@
           "http://vimeo.com/": [
             "vimeo.com",
             "vimeocdn.com"
+          ]
+        }
+      },
+      {
+        "VKontakte": {
+          "http://vk.com/": [
+            "my.mail.ru"
           ]
         }
       },
@@ -11194,6 +11184,13 @@
         }
       },
       {
+        "OneTrust": {
+          "https://onetrust.com": [
+            "onetrust.com"
+          ]
+        }
+      },
+      {
         "Ooyala": {
           "http://www.ooyala.com/": [
             "ooyala.com"
@@ -11228,6 +11225,13 @@
         "ÖWA": {
           "http://www.oewa.at/": [
             "oewa.at"
+          ]
+        }
+      },
+      {
+        "p7cloud.net": {
+          "https://p7cloud.net": [
+            "p7cloud.net"
           ]
         }
       },
@@ -12899,22 +12903,6 @@
         }
       },
       {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "apps.fbsbx.com",
-            "atdmt.com",
-            "atlassolutions.com",
-            "facebook.com",
-            "facebook.de",
-            "facebook.fr",
-            "facebook.net",
-            "fb.com",
-            "fbsbx.com",
-            "friendfeed.com"
-          ]
-        }
-      },
-      {
         "Fanplayr": {
           "https://fanplayr.com/": [
             "fanplayr.com"
@@ -12954,9 +12942,7 @@
             "googlemail.com",
             "googlesyndication.com",
             "googletagservices.com",
-            "inbox.google.com",
             "invitemedia.com",
-            "mail.google.com",
             "plus.google.com",
             "plusone.google.com",
             "postrank.com",
@@ -12964,7 +12950,6 @@
             "teracent.com",
             "teracent.net",
             "voice.google.com",
-            "wave.google.com",
             "ytsa.net"
           ]
         }
@@ -13019,6 +13004,21 @@
             "designbloxlive.com",
             "mathtag.com",
             "mediamath.com"
+          ]
+        }
+      },
+      {
+        "Meta": {
+          "https://www.meta.com/": [
+            "atdmt.com",
+            "atlassolutions.com",
+            "facebook.com",
+            "facebook.de",
+            "facebook.fr",
+            "facebook.net",
+            "fb.com",
+            "fbsbx.com",
+            "friendfeed.com"
           ]
         }
       },
@@ -13282,33 +13282,15 @@
         }
       },
       {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "apps.fbsbx.com",
-            "atdmt.com",
-            "facebook.com",
-            "facebook.de",
-            "facebook.fr",
-            "facebook.net",
-            "fb.com",
-            "fbsbx.com",
-            "friendfeed.com"
-          ]
-        }
-      },
-      {
         "Google": {
           "http://www.google.com/": [
             "developers.google.com",
             "gmail.com",
             "googlemail.com",
-            "inbox.google.com",
-            "mail.google.com",
             "plus.google.com",
             "plusone.google.com",
             "smartlock.google.com",
-            "voice.google.com",
-            "wave.google.com"
+            "voice.google.com"
           ]
         }
       },
@@ -13320,18 +13302,16 @@
         }
       },
       {
-        "Mail.Ru": {
-          "http://mail.ru/": [
-            "list.ru",
-            "mail.ru"
-          ]
-        }
-      },
-      {
-        "Meebo": {
-          "https://www.meebo.com/": [
-            "meebo.com",
-            "meebocdn.net"
+        "Meta": {
+          "https://www.meta.com/": [
+            "atdmt.com",
+            "facebook.com",
+            "facebook.de",
+            "facebook.fr",
+            "facebook.net",
+            "fb.com",
+            "fbsbx.com",
+            "friendfeed.com"
           ]
         }
       },
@@ -13349,17 +13329,7 @@
             "addthis.com",
             "addthiscdn.com",
             "addthisedge.com",
-            "clearspring.com",
-            "connectedads.net",
-            "xgraph.com",
-            "xgraph.net"
-          ]
-        }
-      },
-      {
-        "Papaya": {
-          "http://papayamobile.com/": [
-            "papayamobile.com"
+            "clearspring.com"
           ]
         }
       },
@@ -13418,6 +13388,8 @@
       {
         "VKontakte": {
           "http://vk.com/": [
+            "list.ru",
+            "mail.ru",
             "userapi.com",
             "vk.com",
             "vkontakte.ru"
@@ -13427,18 +13399,14 @@
       {
         "Yahoo!": {
           "http://www.yahoo.com/": [
-            "address.yahoo.com",
-            "alerts.yahoo.com",
             "avatars.yahoo.com",
             "buzz.yahoo.com",
             "calendar.yahoo.com",
             "edit.yahoo.com",
-            "legalredirect.yahoo.com",
             "login.yahoo.com",
             "mail.yahoo.com",
             "my.yahoo.com",
             "mybloglog.com",
-            "notepad.yahoo.com",
             "pulse.yahoo.com",
             "rocketmail.com",
             "webmessenger.yahoo.com",
@@ -13451,18 +13419,24 @@
       {
         "a.js": {
           "http://zymerget.bid": [
-            "alflying.date",
-            "alflying.win",
-            "anybest.site",
-            "flightsy.bid",
-            "flightsy.win",
-            "flightzy.bid",
             "flightzy.date",
-            "flightzy.win",
-            "zymerget.bid",
-            "zymerget.faith"
+            "zymerget.bid"
           ],
           "performance": "true"
+        }
+      },
+      {
+        "AuthedMine": {
+          "https://authedmine.com": [
+            "authedmine.com"
+          ]
+        }
+      },
+      {
+        "bmst.pw": {
+          "https://bmst.pw": [
+            "bmst.pw"
+          ]
         }
       },
       {
@@ -13471,20 +13445,6 @@
             "cashbeet.com",
             "serv1swork.com"
           ]
-        }
-      },
-      {
-        "CoinHive": {
-          "https://coinhive.com": [
-            "ad-miner.com",
-            "authedmine.com",
-            "bmst.pw",
-            "cnhv.co",
-            "coin-hive.com",
-            "coinhive.com",
-            "wsservices.org"
-          ],
-          "performance": "true"
         }
       },
       {
@@ -13500,8 +13460,6 @@
           "https://crypto-loot.com": [
             "cryptaloot.pro",
             "crypto-loot.com",
-            "cryptolootminer.com",
-            "flashx.pw",
             "gitgrub.pro",
             "reauthenticator.com",
             "statdynamic.com",
@@ -13513,9 +13471,7 @@
       {
         "CryptoWebMiner": {
           "https://www.crypto-webminer.com": [
-            "bitcoin-pay.eu",
             "crypto-webminer.com",
-            "ethpocket.de",
             "ethtrader.de"
           ]
         }
@@ -13523,8 +13479,7 @@
       {
         "Gridcash": {
           "https://www.gridcash.net/": [
-            "adless.io",
-            "gridcash.net"
+            "adless.io"
           ],
           "performance": "true"
         }
@@ -13532,7 +13487,6 @@
       {
         "JSE": {
           "http://jsecoin.com": [
-            "freecontent.bid",
             "freecontent.date",
             "freecontent.stream",
             "hashing.win",
@@ -13546,22 +13500,15 @@
       {
         "MinerAlt": {
           "http://mineralt.io": [
-            "1q2w3.website",
             "analytics.blue",
-            "aster18cdn.nl",
-            "belicimo.pw",
             "besstahete.info",
-            "dinorslick.icu",
             "feesocrald.com",
             "gramombird.com",
             "istlandoll.com",
             "mepirtedic.com",
-            "mineralt.io",
             "pampopholf.com",
             "tercabilis.info",
-            "tulip18.com",
-            "vidzi.tv",
-            "yololike.space"
+            "tulip18.com"
           ],
           "performance": "true"
         }
@@ -13569,16 +13516,7 @@
       {
         "Minescripts": {
           "http://minescripts.info": [
-            "minescripts.info",
-            "sslverify.info"
-          ],
-          "performance": "true"
-        }
-      },
-      {
-        "MineXMR": {
-          "http://minexmr.stream": [
-            "minexmr.stream"
+            "minescripts.info"
           ],
           "performance": "true"
         }
@@ -13586,8 +13524,7 @@
       {
         "NeroHut": {
           "https://nerohut.com": [
-            "nerohut.com",
-            "nhsrv.cf"
+            "nerohut.com"
           ],
           "performance": "true"
         }

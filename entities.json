@@ -329,7 +329,6 @@
         "clickacumba.com",
         "emlmkt.com",
         "mailmktool.com",
-        "showlanding.com",
         "trckacbm.com"
       ]
     },
@@ -1581,28 +1580,12 @@
     },
     "a.js": {
       "properties": [
-        "alflying.date",
-        "alflying.win",
-        "anybest.site",
-        "flightsy.bid",
-        "flightsy.win",
-        "flightzy.bid",
         "flightzy.date",
-        "flightzy.win",
-        "zymerget.bid",
-        "zymerget.faith"
+        "zymerget.bid"
       ],
       "resources": [
-        "alflying.date",
-        "alflying.win",
-        "anybest.site",
-        "flightsy.bid",
-        "flightsy.win",
-        "flightzy.bid",
         "flightzy.date",
-        "flightzy.win",
-        "zymerget.bid",
-        "zymerget.faith"
+        "zymerget.bid"
       ]
     },
     "Akamai": {
@@ -1950,7 +1933,7 @@
         "atompark.com"
       ],
       "resources": [
-        "atompark.com"
+        "atomicpark.email"
       ]
     },
     "Atoomic.com": {
@@ -2047,6 +2030,14 @@
       "resources": [
         "augme.com",
         "hipcricket.com"
+      ]
+    },
+    "AuthedMine": {
+      "properties": [
+        "authedmine.com"
+      ],
+      "resources": [
+        "authedmine.com"
       ]
     },
     "AuthorEmail": {
@@ -2579,6 +2570,14 @@
         "blutrumpet.com"
       ]
     },
+    "bmst.pw": {
+      "properties": [
+        "bmst.pw"
+      ],
+      "resources": [
+        "bmst.pw"
+      ]
+    },
     "Boltive": {
       "properties": [
         "adlightning.com"
@@ -2609,7 +2608,6 @@
         "mailstat.us"
       ],
       "resources": [
-        "boomeranggmail.com",
         "mailstat.us"
       ]
     },
@@ -3026,7 +3024,6 @@
         "createsend7.com",
         "createsend8.com",
         "createsend9.com",
-        "csd.io",
         "forwardtomyfriend.com"
       ]
     },
@@ -3531,21 +3528,6 @@
         "cmmeglobal.com"
       ]
     },
-    "CoinHive": {
-      "properties": [
-        "authedmine.com",
-        "coinhive.com"
-      ],
-      "resources": [
-        "ad-miner.com",
-        "authedmine.com",
-        "bmst.pw",
-        "cnhv.co",
-        "coin-hive.com",
-        "coinhive.com",
-        "wsservices.org"
-      ]
-    },
     "CoinPot": {
       "properties": [
         "coinpot.co"
@@ -3972,8 +3954,6 @@
       "resources": [
         "cryptaloot.pro",
         "crypto-loot.com",
-        "cryptolootminer.com",
-        "flashx.pw",
         "gitgrub.pro",
         "reauthenticator.com",
         "statdynamic.com",
@@ -3985,9 +3965,7 @@
         "crypto-webminer.com"
       ],
       "resources": [
-        "bitcoin-pay.eu",
         "crypto-webminer.com",
-        "ethpocket.de",
         "ethtrader.de"
       ]
     },
@@ -4227,7 +4205,7 @@
         "didtheyreadit.com"
       ],
       "resources": [
-        "didtheyreadit.com"
+        "e-mail-servers.com"
       ]
     },
     "Digg": {
@@ -4611,7 +4589,8 @@
         "emailtracker.website"
       ],
       "resources": [
-        "emailtracker.website"
+        "email-signature-image.com",
+        "my-email-signature.link"
       ]
     },
     "Emego": {
@@ -4956,47 +4935,6 @@
       ],
       "resources": [
         "ezymarketer.net"
-      ]
-    },
-    "Facebook": {
-      "properties": [
-        "atlassolutions.com",
-        "commercepartnerhub.com",
-        "e.gg",
-        "facebook.com",
-        "facebook.de",
-        "facebook.fr",
-        "facebook.net",
-        "fb.com",
-        "fb.me",
-        "fbcdn.net",
-        "friendfeed.com",
-        "instagram.com",
-        "internalfb.com",
-        "liverail.com",
-        "messenger.com",
-        "meta.com",
-        "oculus.com",
-        "oversightboard.com",
-        "threads.net",
-        "whatsapp.com",
-        "workplace.com"
-      ],
-      "resources": [
-        "apps.fbsbx.com",
-        "atdmt.com",
-        "atlassolutions.com",
-        "cdninstagram.com",
-        "facebook.com",
-        "facebook.de",
-        "facebook.fr",
-        "facebook.net",
-        "fb.com",
-        "fbcdn.net",
-        "fbsbx.com",
-        "friendfeed.com",
-        "instagram.com",
-        "liverail.com"
       ]
     },
     "Facilitate Digital": {
@@ -5481,8 +5419,7 @@
         "getnotify.com"
       ],
       "resources": [
-        "email81.com",
-        "getnotify.com"
+        "email81.com"
       ]
     },
     "Get Satisfaction": {
@@ -5553,14 +5490,6 @@
       ],
       "resources": [
         "glomex.com"
-      ]
-    },
-    "Gmelius": {
-      "properties": [
-        "gmelius.com"
-      ],
-      "resources": [
-        "gmelius.com"
       ]
     },
     "GMO": {
@@ -6090,8 +6019,7 @@
         "gridcash.net"
       ],
       "resources": [
-        "adless.io",
-        "gridcash.net"
+        "adless.io"
       ]
     },
     "Grocery Shopping Network": {
@@ -7002,7 +6930,6 @@
         "jsecoin.com"
       ],
       "resources": [
-        "freecontent.bid",
         "freecontent.date",
         "freecontent.stream",
         "hashing.win",
@@ -7768,38 +7695,12 @@
         "tinyletter.com"
       ]
     },
-    "MailerJet": {
-      "properties": [
-        "mailerjet.com"
-      ],
-      "resources": [
-        "mailerjet.com"
-      ]
-    },
     "MailerLite": {
       "properties": [
         "mailerlite.com"
       ],
       "resources": [
         "mailerlite.com"
-      ]
-    },
-    "Mail.Ru": {
-      "properties": [
-        "list.ru",
-        "mail.ru"
-      ],
-      "resources": [
-        "list.ru",
-        "mail.ru"
-      ]
-    },
-    "MailSpice": {
-      "properties": [
-        "mailspice.com"
-      ],
-      "resources": [
-        "mailspice.com"
       ]
     },
     "MailTag": {
@@ -8086,15 +7987,6 @@
         "medicxmedia.com"
       ]
     },
-    "Meebo": {
-      "properties": [
-        "meebo.com"
-      ],
-      "resources": [
-        "meebo.com",
-        "meebocdn.net"
-      ]
-    },
     "MegaIndex": {
       "properties": [
         "megaindex.ru"
@@ -8167,6 +8059,48 @@
         "rimmkaufman.com",
         "rkdms.com",
         "securedvisit.com"
+      ]
+    },
+    "Meta": {
+      "properties": [
+        "apps.fbsbx.com",
+        "atlassolutions.com",
+        "commercepartnerhub.com",
+        "e.gg",
+        "facebook.com",
+        "facebook.de",
+        "facebook.fr",
+        "facebook.net",
+        "fb.com",
+        "fb.me",
+        "fbcdn.net",
+        "fbsbx.com",
+        "friendfeed.com",
+        "instagram.com",
+        "internalfb.com",
+        "liverail.com",
+        "messenger.com",
+        "meta.com",
+        "oculus.com",
+        "oversightboard.com",
+        "threads.net",
+        "whatsapp.com",
+        "workplace.com"
+      ],
+      "resources": [
+        "atdmt.com",
+        "atlassolutions.com",
+        "cdninstagram.com",
+        "facebook.com",
+        "facebook.de",
+        "facebook.fr",
+        "facebook.net",
+        "fb.com",
+        "fbcdn.net",
+        "fbsbx.com",
+        "friendfeed.com",
+        "instagram.com",
+        "liverail.com"
       ]
     },
     "MetrixLab": {
@@ -8330,27 +8264,18 @@
     },
     "MinerAlt": {
       "properties": [
-        "mineralt.io",
-        "vidzi.nu",
-        "vidzi.tv"
+        "vidzi.nu"
       ],
       "resources": [
-        "1q2w3.website",
         "analytics.blue",
-        "aster18cdn.nl",
-        "belicimo.pw",
         "besstahete.info",
-        "dinorslick.icu",
         "feesocrald.com",
         "gramombird.com",
         "istlandoll.com",
         "mepirtedic.com",
-        "mineralt.io",
         "pampopholf.com",
         "tercabilis.info",
-        "tulip18.com",
-        "vidzi.tv",
-        "yololike.space"
+        "tulip18.com"
       ]
     },
     "Minescripts": {
@@ -8358,8 +8283,7 @@
         "minescripts.info"
       ],
       "resources": [
-        "minescripts.info",
-        "sslverify.info"
+        "minescripts.info"
       ]
     },
     "MineXMR": {
@@ -8762,8 +8686,7 @@
         "nerohut.com"
       ],
       "resources": [
-        "nerohut.com",
-        "nhsrv.cf"
+        "nerohut.com"
       ]
     },
     "NetAffiliation": {
@@ -9156,6 +9079,14 @@
         "onetag-sys.com"
       ]
     },
+    "OneTrust": {
+      "properties": [
+        "onetrust.com"
+      ],
+      "resources": [
+        "onetrust.com"
+      ]
+    },
     "Oneupweb": {
       "properties": [
         "oneupweb.com",
@@ -9330,7 +9261,6 @@
         "bkrtx.com",
         "bluekai.com",
         "clearspring.com",
-        "connectedads.net",
         "eloqua.com",
         "en25.com",
         "estara.com",
@@ -9342,9 +9272,7 @@
         "moatpixel.com",
         "nexac.com",
         "oracle.com",
-        "responsys.com",
-        "xgraph.com",
-        "xgraph.net"
+        "responsys.com"
       ]
     },
     "OrangeSoda": {
@@ -9449,20 +9377,28 @@
         "adsbwm.com"
       ]
     },
+    "OzoneProject": {
+      "properties": [
+        "ozoneproject.com"
+      ],
+      "resources": [
+        "the-ozone-project.com"
+      ]
+    },
+    "p7cloud.net": {
+      "properties": [
+        "p7cloud.net"
+      ],
+      "resources": [
+        "p7cloud.net"
+      ]
+    },
     "Paid-To-Promote.net": {
       "properties": [
         "paid-to-promote.net"
       ],
       "resources": [
         "paid-to-promote.net"
-      ]
-    },
-    "Papaya": {
-      "properties": [
-        "papayamobile.com"
-      ],
-      "resources": [
-        "papayamobile.com"
       ]
     },
     "Parse.ly": {
@@ -10156,6 +10092,14 @@
         "xmladed.com"
       ]
     },
+    "qwtag": {
+      "properties": [
+        "qwtag.com"
+      ],
+      "resources": [
+        "qwtag.com"
+      ]
+    },
     "Rackspace": {
       "properties": [
         "rackspace.com"
@@ -10507,7 +10451,7 @@
         "revenuegrid.com"
       ],
       "resources": [
-        "smartcloudconnect.io"
+        "revenuegrid.com"
       ]
     },
     "RevenueMax": {
@@ -10766,7 +10710,7 @@
         "saleshandy.com"
       ],
       "resources": [
-        "saleshandy.com"
+        "shetrk.com"
       ]
     },
     "Salesintelligence": {
@@ -11663,7 +11607,7 @@
         "streak.com"
       ],
       "resources": [
-        "streak.com"
+        "mailfoogae.appspot.com"
       ]
     },
     "Streamray": {
@@ -12819,11 +12763,14 @@
         "velti.com"
       ]
     },
-    "Venatus Media": {
+    "Venatus": {
       "properties": [
+        "adinplay.com",
+        "venatus.com",
         "venatusmedia.com"
       ],
       "resources": [
+        "adinplay.com",
         "venatusmedia.com"
       ]
     },
@@ -13089,9 +13036,13 @@
     },
     "VKontakte": {
       "properties": [
+        "list.ru",
+        "mail.ru",
         "vk.com"
       ],
       "resources": [
+        "list.ru",
+        "mail.ru",
         "userapi.com",
         "vk.com",
         "vkontakte.ru"
