@@ -1518,6 +1518,13 @@
         }
       },
       {
+        "360.cn": {
+          "https://360.cn": [
+            "360.cn"
+          ]
+        }
+      },
+      {
         "6sense": {
           "https://6sense.com/": [
             "6sc.co"
@@ -1575,6 +1582,14 @@
           "http://www.actisens.com/": [
             "actisens.com",
             "gestionpub.com"
+          ]
+        }
+      },
+      {
+        "ActiveCampaign": {
+          "https://www.activecampaign.com": [
+            "app-us1.com",
+            "trackcmp.net"
           ]
         }
       },
@@ -1680,7 +1695,8 @@
       {
         "AdaptMX": {
           "https://adaptmx.com/": [
-            "a-mo.net"
+            "a-mo.net",
+            "a-mx.com"
           ]
         }
       },
@@ -1961,6 +1977,14 @@
         }
       },
       {
+        "Admiral": {
+          "https://www.getadmiral.com": [
+            "operationchicken.com",
+            "reconditerespect.com"
+          ]
+        }
+      },
+      {
         "Admixer": {
           "https://admixer.co.kr/main": [
             "admixer.co.kr"
@@ -1985,6 +2009,13 @@
         "Admotion": {
           "http://www.admotion.com/": [
             "admotion.com"
+          ]
+        }
+      },
+      {
+        "Adnami": {
+          "https://adnami.io": [
+            "adnami.io"
           ]
         }
       },
@@ -2238,6 +2269,13 @@
         "Adsrevenue.net": {
           "http://adsrevenue.net/": [
             "adsrevenue.net"
+          ]
+        }
+      },
+      {
+        "Adstanding": {
+          "https://adstanding.com": [
+            "adstanding.com"
           ]
         }
       },
@@ -2523,6 +2561,13 @@
         }
       },
       {
+        "AfterPay": {
+          "https://afterpay.com": [
+            "afterpay.com"
+          ]
+        }
+      },
+      {
         "AGCS": {
           "https://www.agcs.works/": [
             "adgibbon.com"
@@ -2593,17 +2638,27 @@
         }
       },
       {
+        "Amadeus": {
+          "https://amadeus-hospitality.com": [
+            "travelaudience.com"
+          ]
+        }
+      },
+      {
         "Amazon.com": {
           "http://www.amazon.com/": [
+            "a2z.com",
             "amazon-adsystem.com",
             "amazon.ca",
             "amazon.co.jp",
             "amazon.co.uk",
             "amazon.de",
+            "amazon.dev",
             "amazon.es",
             "amazon.fr",
             "amazon.it",
             "assoc-amazon.com",
+            "imdb.com",
             "serving-sys.com"
           ]
         }
@@ -2732,6 +2787,13 @@
         }
       },
       {
+        "ArtsAI": {
+          "https://artsai.com": [
+            "adxcel-ec2.com"
+          ]
+        }
+      },
+      {
         "AssemblyGlobal": {
           "https://assemblyglobal.com": [
             "thesearchagency.com",
@@ -2775,6 +2837,13 @@
         }
       },
       {
+        "AttentiveMobile": {
+          "https://attentivemobile.com": [
+            "attentivemobile.com"
+          ]
+        }
+      },
+      {
         "Audience2Media": {
           "http://www.audience2media.com/": [
             "audience2media.com"
@@ -2785,6 +2854,13 @@
         "Audience Ad Network": {
           "http://audienceadnetwork.com/": [
             "audienceadnetwork.com"
+          ]
+        }
+      },
+      {
+        "AudienceProject": {
+          "https://audienceproject.com": [
+            "userreport.com"
           ]
         }
       },
@@ -2860,7 +2936,8 @@
       },
       {
         "Avocet": {
-          "https://avocet.io/": [
+          "https://avocet.io": [
+            "avct.cloud",
             "avocet.io"
           ]
         }
@@ -2934,7 +3011,8 @@
       {
         "Baidu": {
           "https://baidu.com": [
-            "mediago.io"
+            "mediago.io",
+            "popin.cc"
           ]
         }
       },
@@ -3167,9 +3245,23 @@
         }
       },
       {
+        "Bluecore": {
+          "https://www.bluecore.com": [
+            "bluecore.com"
+          ]
+        }
+      },
+      {
         "Blu Trumpet": {
           "http://www.blutrumpet.com/": [
             "blutrumpet.com"
+          ]
+        }
+      },
+      {
+        "Bolide": {
+          "https://bolide.network/": [
+            "searchserverapi.com"
           ]
         }
       },
@@ -3211,6 +3303,7 @@
       {
         "Branch": {
           "https://branch.io/": [
+            "app.link",
             "branch.io"
           ]
         }
@@ -3237,6 +3330,14 @@
         }
       },
       {
+        "Braze": {
+          "https://braze.com": [
+            "appboycdn.com",
+            "braze.com"
+          ]
+        }
+      },
+      {
         "BreakTime": {
           "https://www.breaktime.com.tw/": [
             "breaktime.com.tw"
@@ -3256,6 +3357,15 @@
             "adserverplus.com",
             "oridian.com",
             "ybrantdigital.com"
+          ]
+        }
+      },
+      {
+        "BrightEdge": {
+          "http://www.brightedge.com/": [
+            "b0e8.com",
+            "bc0a.com",
+            "brightedge.com"
           ]
         }
       },
@@ -3374,6 +3484,13 @@
         }
       },
       {
+        "CallRail": {
+          "https://callrail.com": [
+            "callrail.com"
+          ]
+        }
+      },
+      {
         "Campaigner": {
           "https://www.campaigner.com/": [
             "communicatorcorp.com"
@@ -3449,6 +3566,13 @@
         "CBproADS": {
           "http://www.cbproads.com/": [
             "cbproads.com"
+          ]
+        }
+      },
+      {
+        "ccgateway.net": {
+          "https://ccgateway.net": [
+            "ccgateway.net"
           ]
         }
       },
@@ -3560,6 +3684,13 @@
         "Clickayab": {
           "http://www.clickyab.com": [
             "clickyab.com"
+          ]
+        }
+      },
+      {
+        "ClickCertain": {
+          "https://clickcertain.com": [
+            "clickcertain.com"
           ]
         }
       },
@@ -3727,6 +3858,7 @@
       {
         "Confiant": {
           "https://confiant.com": [
+            "clarium.io",
             "confiant-integrations.net"
           ]
         }
@@ -3746,9 +3878,17 @@
         }
       },
       {
+        "ConstantContact": {
+          "http://constantcontact.com/": [
+            "ctctcdn.com"
+          ]
+        }
+      },
+      {
         "Consumable": {
           "http://consumable.com/": [
-            "consumable.com"
+            "consumable.com",
+            "serverbid.com"
           ]
         }
       },
@@ -3820,6 +3960,13 @@
         }
       },
       {
+        "ConvertKit": {
+          "https://convertkit.com/": [
+            "convertkit.com"
+          ]
+        }
+      },
+      {
         "Cootlogix": {
           "https://www.cootlogix.com/": [
             "cootlogix.com"
@@ -3830,6 +3977,13 @@
         "CoreMotives": {
           "http://coremotives.com/": [
             "coremotives.com"
+          ]
+        }
+      },
+      {
+        "Coveo": {
+          "https://coveo.com": [
+            "coveo.com"
           ]
         }
       },
@@ -3894,6 +4048,13 @@
         "CSG": {
           "https://www.csgi.com/": [
             "kitewheel.com"
+          ]
+        }
+      },
+      {
+        "CyberAgent": {
+          "https://cyberagent.co.jp": [
+            "adtdp.com"
           ]
         }
       },
@@ -4150,7 +4311,8 @@
         "Disqus": {
           "http://disqus.com/": [
             "disqus.com",
-            "disqusads.com"
+            "disqusads.com",
+            "disquscdn.com"
           ]
         }
       },
@@ -4172,6 +4334,13 @@
         "DotdashMeredith": {
           "https://www.dotdashmeredith.com/": [
             "selectablemedia.com"
+          ]
+        }
+      },
+      {
+        "DotMetrics": {
+          "https://dotmetrics.net": [
+            "dotmetrics.net"
           ]
         }
       },
@@ -4199,8 +4368,24 @@
       {
         "Dstillery": {
           "https://dstillery.com": [
+            "dstillery.com",
             "m6d.com",
             "media6degrees.com"
+          ]
+        }
+      },
+      {
+        "DTSTechnology": {
+          "https://dtscout.com": [
+            "dtscout.com",
+            "dtssrv.com"
+          ]
+        }
+      },
+      {
+        "DurationMedia": {
+          "https://durationmedia.net/": [
+            "durationmedia.net"
           ]
         }
       },
@@ -4248,6 +4433,13 @@
             "ebayadservices.com",
             "ebayimg.com",
             "ebaystatic.com"
+          ]
+        }
+      },
+      {
+        "Edgio": {
+          "https://edg.io/": [
+            "uplynk.com"
           ]
         }
       },
@@ -4326,6 +4518,13 @@
         }
       },
       {
+        "Entravision": {
+          "https://entravision.com": [
+            "smadex.com"
+          ]
+        }
+      },
+      {
         "Epic Media Group": {
           "http://www.theepicmediagroup.com/": [
             "epicadvertising.com",
@@ -4353,6 +4552,13 @@
           "https://equativ.com/": [
             "sascdn.com",
             "smartadserver.com"
+          ]
+        }
+      },
+      {
+        "Ermes": {
+          "https://www.ermes.ai": [
+            "leadplace.fr"
           ]
         }
       },
@@ -4406,6 +4612,13 @@
         "Evisions Marketing": {
           "http://www.evisionsmarketing.com/": [
             "engineseeker.com"
+          ]
+        }
+      },
+      {
+        "EvolutionTechnologies": {
+          "https://e-volution.ai": [
+            "e-volution.ai"
           ]
         }
       },
@@ -4482,7 +4695,8 @@
       {
         "Ezoic": {
           "https://www.ezoic.com/": [
-            "ezodn.com"
+            "ezodn.com",
+            "ezoic.com"
           ]
         }
       },
@@ -4505,6 +4719,13 @@
         "FetchBack": {
           "http://www.fetchback.com/": [
             "fetchback.com"
+          ]
+        }
+      },
+      {
+        "FiftyTechnologyLimited": {
+          "https://fifty.io": [
+            "fiftyt.com"
           ]
         }
       },
@@ -4624,7 +4845,9 @@
       {
         "Freestar": {
           "https://freestar.com/": [
-            "deployads.com"
+            "deployads.com",
+            "floors.dev",
+            "pub.network"
           ]
         }
       },
@@ -4649,6 +4872,13 @@
           "http://www.frogsex.com/": [
             "double-check.com",
             "frogsex.com"
+          ]
+        }
+      },
+      {
+        "fuseplatform.net": {
+          "https://fuseplatform.net": [
+            "fuseplatform.net"
           ]
         }
       },
@@ -4710,6 +4940,13 @@
         "GB-World": {
           "http://www.gb-world.net/": [
             "gb-world.net"
+          ]
+        }
+      },
+      {
+        "Geistm": {
+          "https://geistm.com": [
+            "geistm.com"
           ]
         }
       },
@@ -4914,6 +5151,13 @@
         }
       },
       {
+        "HashtagLabs": {
+          "https://hashtag-labs.com": [
+            "htlbid.com"
+          ]
+        }
+      },
+      {
         "Hearst": {
           "http://www.hearst.com/": [
             "ic-live.com",
@@ -4962,14 +5206,14 @@
       {
         "HubSpot": {
           "http://www.hubspot.com/": [
-            "hs-banner.com"
-          ]
-        }
-      },
-      {
-        "HumanSecurity": {
-          "https://www.humansecurity.com/": [
-            "perimeterx.net"
+            "hs-banner.com",
+            "hs-scripts.com",
+            "hsadspixel.net",
+            "hsappstatic.net",
+            "hscollectedforms.net",
+            "hsforms.com",
+            "hsleadflows.net",
+            "hubapi.com"
           ]
         }
       },
@@ -5033,6 +5277,7 @@
       {
         "ID5": {
           "http://id5.io/": [
+            "eu-1-id5-sync.com",
             "id5-sync.com"
           ]
         }
@@ -5075,7 +5320,10 @@
             "csdata1.com",
             "csdata2.com",
             "csdata3.com",
-            "fqtag.com"
+            "fqtag.com",
+            "impactcdn.com",
+            "impactradius-event.com",
+            "ojrq.net"
           ]
         }
       },
@@ -5142,6 +5390,13 @@
         }
       },
       {
+        "InMarket": {
+          "https://inmarket.com": [
+            "ninthdecimal.com"
+          ]
+        }
+      },
+      {
         "InMobi": {
           "http://www.inmobi.com/": [
             "aerserv.com",
@@ -5161,6 +5416,14 @@
         "Innity": {
           "http://innity.com/": [
             "innity.com"
+          ]
+        }
+      },
+      {
+        "Innovid": {
+          "https://innovid.com": [
+            "innovid.com",
+            "tvsquared.com"
           ]
         }
       },
@@ -5284,6 +5547,13 @@
         }
       },
       {
+        "Invoca": {
+          "https://www.invoca.com/": [
+            "invocacdn.com"
+          ]
+        }
+      },
+      {
         "iPerceptions": {
           "http://www.iperceptions.com/": [
             "iperceptions.com"
@@ -5312,6 +5582,13 @@
         "iProspect": {
           "http://www.iprospect.com/": [
             "iprospect.com"
+          ]
+        }
+      },
+      {
+        "IQZone": {
+          "https://iqzone.com": [
+            "iqzone.com"
           ]
         }
       },
@@ -5404,6 +5681,7 @@
       {
         "JuicyAds": {
           "http://www.juicyads.com/": [
+            "jads.co",
             "juicyads.com"
           ]
         }
@@ -5416,8 +5694,16 @@
         }
       },
       {
+        "KadamAdvertising": {
+          "https://kadam.net": [
+            "uuidksinc.net"
+          ]
+        }
+      },
+      {
         "Kameleoon": {
           "https://www.kameleoon.com/": [
+            "kameleoon.com",
             "kameleoon.eu",
             "kameleoon.io"
           ]
@@ -5489,9 +5775,23 @@
         }
       },
       {
+        "Klarna": {
+          "https://klarna.com": [
+            "klarnaservices.com"
+          ]
+        }
+      },
+      {
         "Klaviyo": {
           "https://klaviyo.com": [
             "klaviyo.com"
+          ]
+        }
+      },
+      {
+        "Klevu": {
+          "https://www.klevu.com": [
+            "klevu.com"
           ]
         }
       },
@@ -5539,9 +5839,23 @@
         }
       },
       {
+        "ktkjmp.com": {
+          "https://ktkjmp.com": [
+            "ktkjmp.com"
+          ]
+        }
+      },
+      {
         "Kueez": {
           "https://weare.kueez.com/": [
             "kueezrtb.com"
+          ]
+        }
+      },
+      {
+        "Lasso": {
+          "https://getlasso.co": [
+            "getlasso.co"
           ]
         }
       },
@@ -5633,8 +5947,16 @@
       {
         "Listrak": {
           "http://www.listrak.com/": [
+            "espssl.com",
             "listrak.com",
             "listrakbi.com"
+          ]
+        }
+      },
+      {
+        "LiveChat": {
+          "https://livechat.com": [
+            "livechatinc.com"
           ]
         }
       },
@@ -5740,6 +6062,8 @@
       {
         "LYCorp": {
           "https://www.lycorp.co.jp/ja/": [
+            "line-scdn.net",
+            "line.me",
             "yahoo.co.jp"
           ]
         }
@@ -5782,6 +6106,7 @@
         "MailChimp": {
           "http://mailchimp.com/": [
             "campaign-archive1.com",
+            "chimpstatic.com",
             "list-manage.com",
             "mailchimp.com"
           ]
@@ -5800,6 +6125,14 @@
           "http://www.marchex.com/": [
             "industrybrains.com",
             "marchex.com"
+          ]
+        }
+      },
+      {
+        "Marfeel": {
+          "https://marfeel.com": [
+            "mrf.io",
+            "newsroom.bi"
           ]
         }
       },
@@ -5841,6 +6174,13 @@
         }
       },
       {
+        "MatherEconomics": {
+          "https://www.mathereconomics.com": [
+            "matheranalytics.com"
+          ]
+        }
+      },
+      {
         "Matomy": {
           "http://www.matomy.com/": [
             "matomy.com",
@@ -5855,6 +6195,13 @@
           "http://www.maxbounty.com/": [
             "maxbounty.com",
             "mb01.com"
+          ]
+        }
+      },
+      {
+        "mdhv.io": {
+          "https://mdhv.io": [
+            "mdhv.io"
           ]
         }
       },
@@ -5936,7 +6283,8 @@
       {
         "Mediawallah": {
           "https://mediawallah.com": [
-            "mediawallah.com"
+            "mediawallah.com",
+            "mediawallahscript.com"
           ]
         }
       },
@@ -6056,6 +6404,7 @@
       {
         "MNTN": {
           "https://mountain.com": [
+            "mountain.com",
             "steelhouse.com",
             "steelhousemedia.com"
           ]
@@ -6171,9 +6520,23 @@
         }
       },
       {
+        "MoveableInk": {
+          "https://movableink.com": [
+            "micpn.com"
+          ]
+        }
+      },
+      {
         "MovieLush.com": {
           "https://www.movielush.com/": [
             "affbuzzads.com"
+          ]
+        }
+      },
+      {
+        "mrtnsvr.com": {
+          "https://mrtnsvr.com": [
+            "mrtnsvr.com"
           ]
         }
       },
@@ -6337,6 +6700,8 @@
       {
         "NextMillennium": {
           "https://nextmillennium.io/": [
+            "brainlyads.com",
+            "nextmillmedia.com",
             "powerad.ai"
           ]
         }
@@ -6570,6 +6935,14 @@
         }
       },
       {
+        "OpenWeb": {
+          "https://openweb.com": [
+            "spot.im",
+            "spotim.market"
+          ]
+        }
+      },
+      {
         "OpenX": {
           "http://openx.com/": [
             "liftdna.com",
@@ -6578,6 +6951,7 @@
             "openx.org",
             "openxcdn.net",
             "openxenterprise.com",
+            "pubnation.com",
             "servedbyopenx.com"
           ]
         }
@@ -6654,6 +7028,20 @@
         }
       },
       {
+        "Osano": {
+          "https://osano.com": [
+            "osano.com"
+          ]
+        }
+      },
+      {
+        "OTM": {
+          "https://otm-r.ru/": [
+            "otm-r.com"
+          ]
+        }
+      },
+      {
         "Otto": {
           "https://otto.de": [
             "otto.de"
@@ -6665,6 +7053,7 @@
           "http://www.outbrain.com/": [
             "ligatus.com",
             "outbrain.com",
+            "outbrainimg.com",
             "sphere.com",
             "visualrevenue.com",
             "zemanta.com"
@@ -6765,6 +7154,13 @@
         }
       },
       {
+        "Pelmorex": {
+          "https://www.pelmorex.com/en/": [
+            "theweathernetwork.com"
+          ]
+        }
+      },
+      {
         "Performancing": {
           "http://performancing.com/": [
             "performancing.com"
@@ -6817,7 +7213,8 @@
             "emediate.com",
             "emediate.dk",
             "emediate.eu",
-            "hit-parade.com"
+            "hit-parade.com",
+            "npttech.com"
           ]
         }
       },
@@ -6978,7 +7375,8 @@
       {
         "Propeller Ads": {
           "http://propellerads.com/": [
-            "propellerads.com"
+            "propellerads.com",
+            "rtmark.net"
           ]
         }
       },
@@ -7020,6 +7418,7 @@
             "ftjcfx.com",
             "greystripe.com",
             "lduhtrp.net",
+            "mczbf.com",
             "mediaplex.com",
             "qksz.com",
             "qksz.net",
@@ -7107,6 +7506,13 @@
         }
       },
       {
+        "quantumdex.io": {
+          "https://quantumdex.io": [
+            "quantumdex.io"
+          ]
+        }
+      },
+      {
         "QuinStreet": {
           "http://quinstreet.com/": [
             "qnsr.com",
@@ -7122,6 +7528,13 @@
             "quismatch.com",
             "xaded.com",
             "xmladed.com"
+          ]
+        }
+      },
+      {
+        "Quora": {
+          "https://quora.com": [
+            "quora.com"
           ]
         }
       },
@@ -7160,7 +7573,9 @@
             "linksynergy.com",
             "mediaforge.com",
             "nextperformance.com",
-            "nxtck.com"
+            "nxtck.com",
+            "rakuten.com",
+            "rmtag.com"
           ]
         }
       },
@@ -7175,6 +7590,20 @@
         "Raptive": {
           "https://raptive.com/": [
             "adthrive.com"
+          ]
+        }
+      },
+      {
+        "Reaktion": {
+          "https://reaktion.com": [
+            "reaktion.com"
+          ]
+        }
+      },
+      {
+        "RebuyInc": {
+          "https://rebuyengine.com": [
+            "rebuyengine.com"
           ]
         }
       },
@@ -7302,6 +7731,13 @@
         }
       },
       {
+        "Retargetly": {
+          "https://retargetly.com": [
+            "retargetly.com"
+          ]
+        }
+      },
+      {
         "Retirement Living": {
           "www.retirement-living.com/": [
             "retirement-living.com"
@@ -7414,7 +7850,15 @@
       {
         "RTBHouse": {
           "https://www.rtbhouse.com": [
-            "creativecdn.com"
+            "creativecdn.com",
+            "rtbhouse.com"
+          ]
+        }
+      },
+      {
+        "RTBsystem": {
+          "https://www.rtbsystem.com/": [
+            "rtbsystem.com"
           ]
         }
       },
@@ -7449,6 +7893,21 @@
         }
       },
       {
+        "SafeOpt": {
+          "https://safeopt.com": [
+            "shop.pe"
+          ]
+        }
+      },
+      {
+        "SailThru": {
+          "https://www.sailthru.com/": [
+            "sail-horizon.com",
+            "sail-personalize.com"
+          ]
+        }
+      },
+      {
         "Salesforce": {
           "https://www.salesforce.com/": [
             "evergage.com",
@@ -7468,6 +7927,13 @@
         }
       },
       {
+        "Samba.tv": {
+          "https://samba.tv": [
+            "samba.tv"
+          ]
+        }
+      },
+      {
         "Samsung": {
           "https://samsung.com": [
             "adgear.com",
@@ -7481,6 +7947,13 @@
           "https://www.sap.com": [
             "leadformix.com",
             "scarabresearch.com"
+          ]
+        }
+      },
+      {
+        "Sape": {
+          "https://www.sape.ru/en/": [
+            "sape.ru"
           ]
         }
       },
@@ -7558,6 +8031,13 @@
         }
       },
       {
+        "Semicasting": {
+          "https://semcasting.com": [
+            "rtactivate.com"
+          ]
+        }
+      },
+      {
         "SendPulse": {
           "https://sendpulse.com/": [
             "sendpulse.com"
@@ -7622,6 +8102,13 @@
         }
       },
       {
+        "Shogun": {
+          "https://getshogun.com": [
+            "getshogun.com"
+          ]
+        }
+      },
+      {
         "Shopzilla": {
           "http://www.shopzilla.com/": [
             "shopzilla.com"
@@ -7645,6 +8132,7 @@
       {
         "Silverpush": {
           "https://silverpush.co": [
+            "chocolateplatform.com",
             "ivdopia.com",
             "vdopia.com"
           ]
@@ -7725,6 +8213,13 @@
         }
       },
       {
+        "Smile": {
+          "https://smile.io": [
+            "smile.io"
+          ]
+        }
+      },
+      {
         "SmileWanted": {
           "https://www.smilewanted.com/": [
             "smilewanted.com"
@@ -7796,6 +8291,13 @@
         }
       },
       {
+        "So-netMediaNetworks": {
+          "https://so-netmedia.jp": [
+            "ladsp.com"
+          ]
+        }
+      },
+      {
         "Sonobi": {
           "http://sonobi.com/": [
             "sonobi.com"
@@ -7815,6 +8317,7 @@
             "lijit.com",
             "prosperent.com",
             "s-onetag.com",
+            "smrtb.com",
             "sovrn.com",
             "viglink.com"
           ]
@@ -7892,6 +8395,13 @@
         }
       },
       {
+        "Stamped": {
+          "https://stamped.io": [
+            "stamped.io"
+          ]
+        }
+      },
+      {
         "StarGames": {
           "https://www.stargames.net/": [
             "stargamesaffiliate.com"
@@ -7924,6 +8434,7 @@
       {
         "Stripchat": {
           "https://stripchat.com/": [
+            "stripchat.com",
             "stripst.com",
             "xlivrdr.com"
           ]
@@ -7951,9 +8462,23 @@
         }
       },
       {
+        "Sumo": {
+          "https://sumome.com/": [
+            "sumo.com"
+          ]
+        }
+      },
+      {
         "SunAdNetwork": {
           "https://www.sunadnetwork.com/": [
             "adclickmedia.com"
+          ]
+        }
+      },
+      {
+        "SundaySky": {
+          "https://sundaysky.com": [
+            "sundaysky.com"
           ]
         }
       },
@@ -7968,6 +8493,13 @@
         "Supership": {
           "https://supership.jp/": [
             "socdm.com"
+          ]
+        }
+      },
+      {
+        "Survicate": {
+          "https://www.survicate.com": [
+            "survicate.com"
           ]
         }
       },
@@ -8008,6 +8540,13 @@
           "http://www.syncapse.com/": [
             "clickable.net",
             "syncapse.com"
+          ]
+        }
+      },
+      {
+        "t13.io": {
+          "https://t13.io": [
+            "t13.io"
           ]
         }
       },
@@ -8057,6 +8596,13 @@
         "tappx": {
           "https://www.tappx.com/": [
             "tappx.com"
+          ]
+        }
+      },
+      {
+        "TaptapDigital": {
+          "https://taptapdigital.com": [
+            "taptapnetworks.com"
           ]
         }
       },
@@ -8300,7 +8846,8 @@
             "brighttag.com",
             "btstatic.com",
             "neustar.biz",
-            "thebrighttag.com"
+            "thebrighttag.com",
+            "truoptik.com"
           ]
         }
       },
@@ -8315,6 +8862,13 @@
         "Travora Media": {
           "http://www.travoramedia.com/": [
             "traveladvertising.com"
+          ]
+        }
+      },
+      {
+        "TreasureData": {
+          "https://treasuredata.com": [
+            "treasuredata.com"
           ]
         }
       },
@@ -8342,10 +8896,24 @@
         }
       },
       {
+        "TrueAnthem": {
+          "https://trueanthem.com": [
+            "tru.am"
+          ]
+        }
+      },
+      {
         "TruEffect": {
           "http://www.trueffect.com/": [
             "adlegend.com",
             "trueffect.com"
+          ]
+        }
+      },
+      {
+        "Truffle": {
+          "https://truffle.bid": [
+            "truffle.bid"
           ]
         }
       },
@@ -8445,8 +9013,16 @@
         }
       },
       {
+        "Unblockia": {
+          "https://www.unblockia.com": [
+            "unblockia.com"
+          ]
+        }
+      },
+      {
         "Unbounce": {
           "http://unbounce.com/": [
+            "ubembed.com",
             "unbounce.com"
           ]
         }
@@ -8519,6 +9095,13 @@
         "UpWave": {
           "https://www.upwave.com/": [
             "survata.com"
+          ]
+        }
+      },
+      {
+        "UserCentrics": {
+          "https://www.usercentrics.com": [
+            "cookiebot.com"
           ]
         }
       },
@@ -8652,6 +9235,14 @@
         }
       },
       {
+        "Viafoura": {
+          "https://viafoura.com/": [
+            "viafoura.co",
+            "viafoura.net"
+          ]
+        }
+      },
+      {
         "Viant": {
           "https://www.viantinc.com/": [
             "adelphic.com",
@@ -8752,6 +9343,20 @@
           "https://en.vocento.com/": [
             "vocento.com",
             "vocstatic.com"
+          ]
+        }
+      },
+      {
+        "Voltn": {
+          "https://voltn.com": [
+            "nytrng.com"
+          ]
+        }
+      },
+      {
+        "vrtcal": {
+          "https://www.vrtcal.com/": [
+            "vrtcal.com"
           ]
         }
       },
@@ -8884,6 +9489,13 @@
         }
       },
       {
+        "Wistia": {
+          "https://wistia.com": [
+            "wistia.com"
+          ]
+        }
+      },
+      {
         "WordStream": {
           "http://www.wordstream.com/": [
             "wordstream.com"
@@ -8930,7 +9542,8 @@
           "https://www.wunderkind.co/": [
             "bounceexchange.com",
             "bouncex.com",
-            "bouncex.net"
+            "bouncex.net",
+            "wknd.ai"
           ]
         }
       },
@@ -8993,6 +9606,7 @@
             "rmxads.com",
             "tacoda.net",
             "vidible.tv",
+            "yahoo.net",
             "ybp.yahoo.com",
             "yieldmanager.com",
             "yieldmanager.net",
@@ -9019,6 +9633,13 @@
             "yandex.ru/cycounter",
             "yandex.ru/portal/set/any",
             "yandex.ru/set/s/rsya-tag-users/data"
+          ]
+        }
+      },
+      {
+        "Yeahmobi": {
+          "https://yeahmobi.com": [
+            "clientgear.com"
           ]
         }
       },
@@ -9178,6 +9799,7 @@
         "Adobe": {
           "http://www.adobe.com/": [
             "adobe.com",
+            "scene7.com",
             "typekit.com"
           ]
         }
@@ -9193,7 +9815,8 @@
         "Akamai": {
           "http://www.akamai.com/": [
             "akamai.com",
-            "edgesuite.net"
+            "edgesuite.net",
+            "techlab-cdn.com"
           ]
         }
       },
@@ -9242,6 +9865,13 @@
           "https://cloudflare.com": [
             "cloudflare.com",
             "cloudflarestream.com"
+          ]
+        }
+      },
+      {
+        "Cloudinary": {
+          "https://cloudinary.com": [
+            "cloudinary.com"
           ]
         }
       },
@@ -9459,6 +10089,13 @@
         }
       },
       {
+        "Imgix": {
+          "https://imgix.com": [
+            "imgix.net"
+          ]
+        }
+      },
+      {
         "JWPlayer": {
           "https://jwplayer.com/": [
             "jwpcdn.com"
@@ -9504,6 +10141,7 @@
             "dynamics.com",
             "microsoft.com",
             "msn.com",
+            "nuance.com",
             "skype.com"
           ]
         }
@@ -9870,14 +10508,6 @@
         }
       },
       {
-        "BrightEdge": {
-          "http://www.brightedge.com/": [
-            "b0e8.com",
-            "brightedge.com"
-          ]
-        }
-      },
-      {
         "BrowserAnalytic": {
           "https://browseranalytic.com": [
             "browseranalytic.com"
@@ -10040,6 +10670,13 @@
         }
       },
       {
+        "convertexperiments.com": {
+          "https://convertexperiments.com": [
+            "convertexperiments.com"
+          ]
+        }
+      },
+      {
         "Convert Insights": {
           "http://www.convert.com/": [
             "convert.com",
@@ -10088,7 +10725,8 @@
           "https://datadoghq.com": [
             "browser-intake-datadoghq.com",
             "datadoghq-browser-agent.com",
-            "datadoghq.com"
+            "datadoghq.com",
+            "datadoghq.eu"
           ]
         }
       },
@@ -10123,6 +10761,13 @@
         }
       },
       {
+        "Discord": {
+          "https://discord.com": [
+            "discordapp.com"
+          ]
+        }
+      },
+      {
         "DistilNetworks": {
           "https://www.distilnetworks.com/": [
             "distiltag.com"
@@ -10141,6 +10786,13 @@
           "https://www.drift.com/": [
             "drift.com",
             "driftt.com"
+          ]
+        }
+      },
+      {
+        "dtscdn.com": {
+          "https://dtscdn.com": [
+            "dtscdn.com"
           ]
         }
       },
@@ -10299,6 +10951,14 @@
         }
       },
       {
+        "FunctionalSoftware": {
+          "https://sentry.io": [
+            "sentry-cdn.com",
+            "sentry.io"
+          ]
+        }
+      },
+      {
         "FundraiseUp": {
           "https://fundraiseup.com/": [
             "fndrsp.net"
@@ -10371,6 +11031,13 @@
             "google-analytics.com",
             "googleoptimize.com",
             "postrank.com"
+          ]
+        }
+      },
+      {
+        "Gorgias": {
+          "https://gorgias.com": [
+            "gorgias.chat"
           ]
         }
       },
@@ -10455,7 +11122,8 @@
       {
         "Hotjar": {
           "https://www.hotjar.com": [
-            "hotjar.com"
+            "hotjar.com",
+            "hotjar.io"
           ]
         }
       },
@@ -10463,6 +11131,7 @@
         "HubSpot": {
           "http://www.hubspot.com/": [
             "hs-analytics.net",
+            "hsforms.net",
             "hubspot.com",
             "usemessages.com"
           ]
@@ -10474,6 +11143,7 @@
             "adxyield.com",
             "adzmath.com",
             "clean.gg",
+            "perimeterx.net",
             "px-cdn.net",
             "px-cloud.net",
             "whiteops.com"
@@ -10501,6 +11171,7 @@
           "https://www.infonline.de/": [
             "infonline.de",
             "ioam.de",
+            "iocnt.net",
             "ivwbox.de"
           ]
         }
@@ -10542,6 +11213,13 @@
         }
       },
       {
+        "ipify": {
+          "https://ipify.org/": [
+            "ipify.org"
+          ]
+        }
+      },
+      {
         "IslayTech": {
           "http://islay.tech": [
             "islay.tech"
@@ -10567,6 +11245,13 @@
         "JSKit": {
           "https://js-kit.com/": [
             "js-kit.com"
+          ]
+        }
+      },
+      {
+        "Judge": {
+          "https://www.judge.me": [
+            "judge.me"
           ]
         }
       },
@@ -10599,6 +11284,7 @@
             "contactatonce.com",
             "liveperson.com",
             "liveperson.net",
+            "lpsnmedia.net",
             "nuconomy.com"
           ]
         }
@@ -10729,11 +11415,14 @@
         "Microsoft": {
           "http://www.microsoft.com/": [
             "clarity.ms",
+            "footprintdns.com",
             "gaug.es",
             "inq.com",
+            "live.net",
             "microsoftstore.com",
             "officelive.com",
-            "touchcommerce.com"
+            "touchcommerce.com",
+            "visualstudio.com"
           ]
         }
       },
@@ -10760,6 +11449,13 @@
         }
       },
       {
+        "Monsido": {
+          "https://www.monsido.com": [
+            "monsido.com"
+          ]
+        }
+      },
+      {
         "Mouseflow": {
           "http://mouseflow.com/": [
             "mouseflow.com"
@@ -10777,6 +11473,13 @@
         "MyCounter": {
           "http://mycounter.com.ua/": [
             "mycounter.com.ua"
+          ]
+        }
+      },
+      {
+        "MyFonts": {
+          "https://myfonts.com": [
+            "myfonts.net"
           ]
         }
       },
@@ -10854,6 +11557,13 @@
         }
       },
       {
+        "Noibu": {
+          "https://www.noibu.com": [
+            "noibu.com"
+          ]
+        }
+      },
+      {
         "Noto": {
           "https://notolytix.com/": [
             "notolytix.com"
@@ -10893,7 +11603,8 @@
       {
         "OneTrust": {
           "https://onetrust.com": [
-            "onetrust.com"
+            "onetrust.com",
+            "onetrust.io"
           ]
         }
       },
@@ -10957,6 +11668,13 @@
         }
       },
       {
+        "Pendo": {
+          "https://www.pendo.io/": [
+            "pendo.io"
+          ]
+        }
+      },
+      {
         "PersianStat.com": {
           "http://www.persianstat.com/": [
             "persianstat.com"
@@ -10982,6 +11700,8 @@
           "https://piano.io/": [
             "at-o.net",
             "atinternet.com",
+            "piano.io",
+            "tinypass.com",
             "xiti.com"
           ]
         }
@@ -11101,6 +11821,13 @@
         }
       },
       {
+        "Riskified": {
+          "https://www.riskified.com": [
+            "riskified.com"
+          ]
+        }
+      },
+      {
         "Rollick": {
           "https://gorollick.com": [
             "rollick.io"
@@ -11171,6 +11898,21 @@
         }
       },
       {
+        "SiteImprove": {
+          "https://siteimprove.com": [
+            "siteimproveanalytics.com",
+            "siteimproveanalytics.io"
+          ]
+        }
+      },
+      {
+        "SmartBear": {
+          "https://www.smartbear.com": [
+            "bugsnag.com"
+          ]
+        }
+      },
+      {
         "Snoobi": {
           "http://www.snoobi.com/": [
             "snoobi.com"
@@ -11194,7 +11936,22 @@
       {
         "Sourcepoint": {
           "https://www.sourcepoint.com/": [
+            "privacy-mgmt.com",
             "summerhamster.com"
+          ]
+        }
+      },
+      {
+        "SpeedCurve": {
+          "https://speedcurve.com": [
+            "speedcurve.com"
+          ]
+        }
+      },
+      {
+        "Spotify": {
+          "https://spotify.com": [
+            "pdst.fm"
           ]
         }
       },
@@ -11241,6 +11998,13 @@
         }
       },
       {
+        "STG": {
+          "https://stg.com/": [
+            "usabilla.com"
+          ]
+        }
+      },
+      {
         "Storeland": {
           "https://storeland.ru/": [
             "storeland.ru"
@@ -11251,6 +12015,13 @@
         "Stratigent": {
           "http://www.stratigent.com/": [
             "stratigent.com"
+          ]
+        }
+      },
+      {
+        "Swym": {
+          "https://swym.it": [
+            "swymrelay.com"
           ]
         }
       },
@@ -11319,6 +12090,13 @@
         }
       },
       {
+        "Transcend": {
+          "https://www.transcend.io": [
+            "transcend.io"
+          ]
+        }
+      },
+      {
         "TransUnion": {
           "https://www.transunion.com/": [
             "iesnare.com",
@@ -11329,6 +12107,7 @@
       {
         "TrustARC": {
           "https://trustarc.com/": [
+            "trustarc.com",
             "truste.com"
           ]
         }
@@ -11379,6 +12158,13 @@
         }
       },
       {
+        "usbrowserspeed.com": {
+          "https://usbrowserspeed.com": [
+            "usbrowserspeed.com"
+          ]
+        }
+      },
+      {
         "User Local": {
           "http://nakanohito.jp/": [
             "nakanohito.jp"
@@ -11396,13 +12182,6 @@
         "Vertster": {
           "http://www.vertster.com/": [
             "vertster.com"
-          ]
-        }
-      },
-      {
-        "Viafoura": {
-          "https://viafoura.com/": [
-            "viafoura.co"
           ]
         }
       },
@@ -12663,8 +13442,6 @@
             "atdmt.com",
             "atlassolutions.com",
             "facebook.com",
-            "facebook.de",
-            "facebook.fr",
             "facebook.net",
             "fb.com",
             "fbsbx.com",

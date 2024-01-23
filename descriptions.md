@@ -1235,7 +1235,7 @@ Script: `https://a.breaktime.com.tw/js/au.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BrightEdge
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.b0e8.com/conv_v3.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4197,7 +4197,7 @@ Script: `https://cdn.simility.com/b.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HumanSecurity
-This service has been classified as `Anti-fraud`, `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 
 
