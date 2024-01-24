@@ -1599,6 +1599,7 @@
       "resources": [
         "abmr.net",
         "akamai.com",
+        "akamaihd.net",
         "akstat.io",
         "edgesuite.net",
         "go-mpulse.net",
@@ -2650,6 +2651,7 @@
         "brcdn.com"
       ],
       "resources": [
+        "brsrvr.com",
         "exponea.com"
       ]
     },
@@ -5037,6 +5039,7 @@
         "etargetnet.com"
       ],
       "resources": [
+        "etarget.eu",
         "etargetnet.com"
       ]
     },
@@ -6302,8 +6305,11 @@
         "invitemedia.com",
         "postrank.com",
         "recaptcha.net",
+        "teracent.com",
+        "teracent.net",
         "youtube-nocookie.com",
-        "youtube.com"
+        "youtube.com",
+        "ytsa.net"
       ]
     },
     "Gorgias": {
@@ -6596,6 +6602,7 @@
         "adzmath.com",
         "clean.gg",
         "perimeterx.com",
+        "perimeterx.net",
         "px-cdn.net",
         "px-cloud.net",
         "whiteops.com"
@@ -8612,6 +8619,7 @@
         "adnxs-simple.com",
         "adnxs.com",
         "adrdgt.com",
+        "alenty.com",
         "appnexus.com",
         "aquantive.com",
         "azure.com",
@@ -9664,7 +9672,9 @@
       ],
       "resources": [
         "mobiletheory.com",
-        "opera.com"
+        "opera.com",
+        "operamediaworks.com",
+        "operasoftware.com"
       ]
     },
     "Opinary": {
@@ -10210,10 +10220,12 @@
     },
     "Polen": {
       "properties": [
-        "opolen.com.br"
+        "opolen.com.br",
+        "polen.com.br"
       ],
       "resources": [
-        "opolen.com.br"
+        "opolen.com.br",
+        "polen.com.br"
       ]
     },
     "Polymail": {
@@ -10533,6 +10545,7 @@
       ],
       "resources": [
         "quantcast.com",
+        "quantcount.com",
         "quantserve.com",
         "struq.com"
       ]
@@ -13435,6 +13448,7 @@
         "ipredictive.com",
         "sitemeter.com",
         "specificclick.net",
+        "specificmedia.co.uk",
         "specificmedia.com",
         "vindicosuite.com"
       ]
@@ -14334,6 +14348,8 @@
         "zaful.com"
       ],
       "resources": [
+        "affasi.com",
+        "gw-ec.com",
         "zaful.com"
       ]
     },
