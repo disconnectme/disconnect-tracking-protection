@@ -4226,6 +4226,13 @@
         }
       },
       {
+        "Digiseg": {
+          "https://digiseg.io": [
+            "digiseg.net"
+          ]
+        }
+      },
+      {
         "DigitalAdConsortium": {
           "https://www.dac.co.jp/": [
             "impact-ad.jp"
@@ -5124,6 +5131,13 @@
         "Gruner + Jahr": {
           "http://www.guj.de/": [
             "guj.de"
+          ]
+        }
+      },
+      {
+        "GrupoGlobo": {
+          "https://globo.com": [
+            "globo.com"
           ]
         }
       },
@@ -8154,6 +8168,14 @@
         }
       },
       {
+        "SingularLabs": {
+          "https://singular.net": [
+            "singular.net",
+            "sng.link"
+          ]
+        }
+      },
+      {
         "SirData": {
           "https://sirdata.com/en/": [
             "sddan.com"
@@ -8767,6 +8789,14 @@
           "https://www.tonefuse.com/": [
             "clickfuse.com",
             "tonemedia.com"
+          ]
+        }
+      },
+      {
+        "TOTVS": {
+          "https://totvs.com": [
+            "tail.digital",
+            "tailtarget.com"
           ]
         }
       },

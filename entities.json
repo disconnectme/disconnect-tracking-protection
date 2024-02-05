@@ -4427,6 +4427,14 @@
         "lightboxcdn.com"
       ]
     },
+    "Digiseg": {
+      "properties": [
+        "digiseg.io"
+      ],
+      "resources": [
+        "digiseg.net"
+      ]
+    },
     "DigitalAdConsortium": {
       "properties": [
         "dac.co.jp"
@@ -6401,6 +6409,73 @@
       ],
       "resources": [
         "guj.de"
+      ]
+    },
+    "GrupoGlobo": {
+      "properties": [
+        "agenciaoglobo.com.br",
+        "alemdohorizonte.globo",
+        "assineglobo.com.br",
+        "assineoglobo.com.br",
+        "casaecomida.com",
+        "cbnsaopaulo.fm.br",
+        "classificadosautoesporte.com.br",
+        "classificadosdorio.com.br",
+        "clubeoglobo.com.br",
+        "festivalled.com.br",
+        "g1combr.co",
+        "g2c.tv.br",
+        "gama.globo",
+        "globo.com",
+        "globoesporte.com",
+        "globofilmes.com",
+        "globoi.com",
+        "globomais.com.br",
+        "globonocinema.com.br",
+        "globotechnologies.globo",
+        "globovideos.com",
+        "gritosreais.com.br",
+        "infoglobo.com.br",
+        "marieclaire.com.br",
+        "memoriaglobo.com.br",
+        "milhoesdepossibilidades.globo",
+        "netnews2.com.br",
+        "ntr.com.br",
+        "oglobo.com",
+        "paraquemdoar.com.br",
+        "pfcinternacional.com",
+        "philos.tv",
+        "premiomultishow.com.br",
+        "publicidadeeditoraglobo.com.br",
+        "quemacontece.com",
+        "radiogloborio.com.br",
+        "receita.com",
+        "redeglobo.com.br",
+        "revistacasaecomida.com",
+        "revistacasaecomida.com.br",
+        "revistacasaejardim.com.br",
+        "revistacrescer.com.br",
+        "revistaglamour.com.br",
+        "riogastronomia.com",
+        "salveaweb.com",
+        "sawpf.com",
+        "sawpf.com.br",
+        "sgr.net.br",
+        "sinaldigitalminas.com.br",
+        "siscom.globo",
+        "somosumasoglobo.com",
+        "techtudo.com.br",
+        "telecine.com.br",
+        "valoreconomico.com.br",
+        "valorinternational.com.br",
+        "valorinvest.com.br",
+        "valornoticias.com.br",
+        "viuhub.com.br",
+        "vogue.gm",
+        "wiredfestival.com.br"
+      ],
+      "resources": [
+        "globo.com"
       ]
     },
     "GTop": {
@@ -11642,6 +11717,15 @@
         "zypmedia.com"
       ]
     },
+    "SingularLabs": {
+      "properties": [
+        "singular.net"
+      ],
+      "resources": [
+        "singular.net",
+        "sng.link"
+      ]
+    },
     "SirData": {
       "properties": [
         "sirdata.com"
@@ -12687,6 +12771,15 @@
       "resources": [
         "fraudmetrix.cn",
         "tongdun.net"
+      ]
+    },
+    "TOTVS": {
+      "properties": [
+        "totvs.com"
+      ],
+      "resources": [
+        "tail.digital",
+        "tailtarget.com"
       ]
     },
     "tp88trk": {
