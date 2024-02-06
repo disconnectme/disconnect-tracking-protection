@@ -49,7 +49,6 @@ The technical and policy review information below was recorded on the date obser
 - [ClickGuard](#ClickGuard)
 - [Clixtell](#Clixtell)
 - [CoinPot](#CoinPot)
-- [ContentExchange](#ContentExchange)
 - [PublicisGroupe](#PublicisGroupe)
 - [CryptoLoot](#CryptoLoot)
 - [CSG](#CSG)
@@ -1959,36 +1958,6 @@ Raw log:
     }
 }
 ```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## ContentExchange
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new`
-1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-
-|script_url|script_line|symbol|arguments|value|
-|--|--|--|--|--|
-|https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|106|CanvasRenderingContext2D.fillText|["abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~1!2@3#4$5%6^7&8*9(0)-_=+[{]}|;:',<.>/?",2,15]||
-|https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|110|HTMLCanvasElement.toDataURL|None||
-|https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.hardwareConcurrency|None|8|
-|https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.platform|None|MacIntel|
-|https://analytics.contentexchange.me/bex/boot/5e8f0100ff1b0c5f82a469fa?url=https%3A%2F%2Fsbb.rs%2F&ref=direct&gdpr=2&cx_id=new|29|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
-
-Script: `https://hb.contentexchange.me/template/fpjs_v3.js`
-1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-
-|script_url|script_line|symbol|arguments|value|
-|--|--|--|--|--|
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|HTMLCanvasElement.toDataURL|None||
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|OfflineAudioContext.createOscillator|None||
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|OscillatorNode.type|None|triangle|
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.hardwareConcurrency|None|8|
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.oscpu|None|Intel Mac OS X 10.15|
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.platform|None|MacIntel|
-|https://hb.contentexchange.me/template/fpjs_v3.js|8|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
-
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PublicisGroupe

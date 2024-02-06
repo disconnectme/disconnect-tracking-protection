@@ -12622,13 +12622,6 @@
         }
       },
       {
-        "ContentExchange": {
-          "https://www.contentexchange.me/": [
-            "contentexchange.me"
-          ]
-        }
-      },
-      {
         "CSG": {
           "https://www.csgi.com/": [
             "kitewheel.com"
