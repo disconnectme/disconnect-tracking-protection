@@ -10688,13 +10688,6 @@
         }
       },
       {
-        "BrowserAnalytic": {
-          "https://browseranalytic.com": [
-            "browseranalytic.com"
-          ]
-        }
-      },
-      {
         "Bubblestat": {
           "http://www.bubblestat.com/": [
             "bubblestat.com"
@@ -13803,6 +13796,13 @@
       }
     ],
     "Anti-fraud": [
+      {
+        "BrowserAnalytic": {
+          "https://browseranalytic.com": [
+            "browseranalytic.com"
+          ]
+        }
+      },
       {
         "ClickGuard": {
           "https://www.clickguard.com/": [

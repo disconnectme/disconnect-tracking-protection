@@ -1273,7 +1273,7 @@ var audioTimeoutId$jscomp$0 = setTimeout(function() {
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## BrowserAnalytic
-This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.browseranalytic.com/js/d3d3LmNhamFtYXIuZXM=/44b73fa0/bcaptcha.js`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
