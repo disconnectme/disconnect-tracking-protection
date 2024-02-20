@@ -1527,7 +1527,8 @@
       {
         "6sense": {
           "https://6sense.com/": [
-            "6sc.co"
+            "6sc.co",
+            "6sense.com"
           ]
         }
       },
@@ -4394,6 +4395,13 @@
         }
       },
       {
+        "DrivenIQ": {
+          "https://driveniq.com": [
+            "driveniq.com"
+          ]
+        }
+      },
+      {
         "Dstillery": {
           "https://dstillery.com": [
             "dstillery.com",
@@ -5019,6 +5027,13 @@
         }
       },
       {
+        "GeniusMonkey": {
+          "https://geniusmonkey.com": [
+            "geniusmonkey.com"
+          ]
+        }
+      },
+      {
         "GeoAds": {
           "http://www.geoads.com/": [
             "geoads.com"
@@ -5340,9 +5355,12 @@
       },
       {
         "IDG": {
-          "http://www.idg.com/": [
+          "https://www.idg.com/": [
             "idg.com",
-            "idgtechnetwork.com"
+            "idgtechnetwork.com",
+            "kickfire.com",
+            "sa-as.com",
+            "visistat.com"
           ]
         }
       },
@@ -7701,6 +7719,13 @@
         }
       },
       {
+        "Rebid.co": {
+          "https://rebid.co": [
+            "rebid.co"
+          ]
+        }
+      },
+      {
         "RebuyInc": {
           "https://rebuyengine.com": [
             "rebuyengine.com"
@@ -8148,6 +8173,13 @@
         "SendPulse": {
           "https://sendpulse.com/": [
             "sendpulse.com"
+          ]
+        }
+      },
+      {
+        "SEOptiks": {
+          "https://seoptiks.com": [
+            "seoptiks.com"
           ]
         }
       },
@@ -9334,6 +9366,13 @@
         }
       },
       {
+        "Versium": {
+          "https://versium.com/": [
+            "versium.com"
+          ]
+        }
+      },
+      {
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
@@ -9451,14 +9490,6 @@
         "VisibleBrands": {
           "http://www.visbrands.com/": [
             "visbrands.com"
-          ]
-        }
-      },
-      {
-        "VisiStat": {
-          "http://www.visistat.com/": [
-            "sa-as.com",
-            "visistat.com"
           ]
         }
       },
@@ -10888,6 +10919,13 @@
         }
       },
       {
+        "Dealfront ": {
+          "https://dealfront.com": [
+            "leadfeeder.com"
+          ]
+        }
+      },
+      {
         "Demandbase": {
           "http://www.demandbase.com/": [
             "company-target.com",
@@ -11310,6 +11348,13 @@
         }
       },
       {
+        "IDBLLC": {
+          "https://ipinfo.io": [
+            "ipinfo.io"
+          ]
+        }
+      },
+      {
         "Infernotions": {
           "https://infernotions.com/": [
             "infernotions.com"
@@ -11366,6 +11411,20 @@
         "ipify": {
           "https://ipify.org/": [
             "ipify.org"
+          ]
+        }
+      },
+      {
+        "IPQualityScore": {
+          "https://ipqualityscore.com": [
+            "ipqualityscore.com"
+          ]
+        }
+      },
+      {
+        "IPregistry": {
+          "https://ipregistry.co": [
+            "ipregistry.co"
           ]
         }
       },
@@ -12079,7 +12138,8 @@
       {
         "SolarWinds": {
           "https://www.solarwinds.com/": [
-            "pingdom.net"
+            "pingdom.net",
+            "solarwinds.com"
           ]
         }
       },

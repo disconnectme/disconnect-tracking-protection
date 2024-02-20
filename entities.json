@@ -64,7 +64,8 @@
         "6sense.com"
       ],
       "resources": [
-        "6sc.co"
+        "6sc.co",
+        "6sense.com"
       ]
     },
     "8d8.biz": {
@@ -4275,6 +4276,14 @@
         "stormiq.com"
       ]
     },
+    "Dealfront ": {
+      "properties": [
+        "dealfront.com"
+      ],
+      "resources": [
+        "leadfeeder.com"
+      ]
+    },
     "Decide": {
       "properties": [
         "decide.co",
@@ -4658,6 +4667,14 @@
         "drift.com",
         "driftt.com",
         "lookery.com"
+      ]
+    },
+    "DrivenIQ": {
+      "properties": [
+        "driveniq.com"
+      ],
+      "resources": [
+        "driveniq.com"
       ]
     },
     "Dstillery": {
@@ -5770,6 +5787,14 @@
         "gssprt.jp"
       ]
     },
+    "GeniusMonkey": {
+      "properties": [
+        "geniusmonkey.com"
+      ],
+      "resources": [
+        "geniusmonkey.com"
+      ]
+    },
     "GeoAds": {
       "properties": [
         "geoads.com"
@@ -6825,14 +6850,27 @@
         "id5-sync.com"
       ]
     },
+    "IDBLLC": {
+      "properties": [
+        "ipinfo.io"
+      ],
+      "resources": [
+        "ipinfo.io"
+      ]
+    },
     "IDG": {
       "properties": [
         "idg.com",
-        "idgtechnetwork.com"
+        "idgtechnetwork.com",
+        "kickfire.com",
+        "sa-as.com"
       ],
       "resources": [
         "idg.com",
-        "idgtechnetwork.com"
+        "idgtechnetwork.com",
+        "kickfire.com",
+        "sa-as.com",
+        "visistat.com"
       ]
     },
     "iEntry": {
@@ -7263,6 +7301,22 @@
       ],
       "resources": [
         "ipify.org"
+      ]
+    },
+    "IPQualityScore": {
+      "properties": [
+        "ipqualityscore.com"
+      ],
+      "resources": [
+        "ipqualityscore.com"
+      ]
+    },
+    "IPregistry": {
+      "properties": [
+        "ipregistry.co"
+      ],
+      "resources": [
+        "ipregistry.co"
       ]
     },
     "iPROM": {
@@ -10940,6 +10994,14 @@
         "reaktion.com"
       ]
     },
+    "Rebid.co": {
+      "properties": [
+        "rebid.co"
+      ],
+      "resources": [
+        "rebid.co"
+      ]
+    },
     "RebuyInc": {
       "properties": [
         "rebuyengine.com"
@@ -11627,6 +11689,14 @@
         "sendpulse.com"
       ]
     },
+    "SEOptiks": {
+      "properties": [
+        "seoptiks.com"
+      ],
+      "resources": [
+        "seoptiks.com"
+      ]
+    },
     "ServeNoBid": {
       "properties": [
         "servenobid.com"
@@ -12080,7 +12150,8 @@
         "solarwinds.com"
       ],
       "resources": [
-        "pingdom.net"
+        "pingdom.net",
+        "solarwinds.com"
       ]
     },
     "So-netMediaNetworks": {
@@ -13575,6 +13646,14 @@
         "mxptint.net"
       ]
     },
+    "Versium": {
+      "properties": [
+        "versium.com"
+      ],
+      "resources": [
+        "versium.com"
+      ]
+    },
     "Vertical Acuity": {
       "properties": [
         "verticalacuity.com"
@@ -13771,16 +13850,6 @@
       ],
       "resources": [
         "visbrands.com"
-      ]
-    },
-    "VisiStat": {
-      "properties": [
-        "id.kickfire.com",
-        "sa-as.com"
-      ],
-      "resources": [
-        "sa-as.com",
-        "visistat.com"
       ]
     },
     "Visit Streamer": {
