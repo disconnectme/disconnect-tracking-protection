@@ -5865,15 +5865,6 @@
         "gfkdaphne.com"
       ]
     },
-    "Gigya": {
-      "properties": [
-        "gigya.com"
-      ],
-      "resources": [
-        "gigcount.com",
-        "gigya.com"
-      ]
-    },
     "Glam Media": {
       "properties": [
         "glam.com",
@@ -11536,9 +11527,12 @@
     },
     "SAP": {
       "properties": [
+        "gigya.com",
         "sap.com"
       ],
       "resources": [
+        "gigcount.com",
+        "gigya.com",
         "leadformix.com",
         "ondemand.com",
         "scarabresearch.com"
