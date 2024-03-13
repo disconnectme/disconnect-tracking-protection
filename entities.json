@@ -1455,6 +1455,14 @@
         "anonymous-media.com"
       ]
     },
+    "Affilimate": {
+      "properties": [
+        "affilimate.com"
+      ],
+      "resources": [
+        "affilimate.io"
+      ]
+    },
     "Affine": {
       "properties": [
         "affine.tv",
@@ -1614,6 +1622,14 @@
         "go-mpulse.net",
         "imiclk.com",
         "techlab-cdn.com"
+      ]
+    },
+    "AkroseLabs": {
+      "properties": [
+        "funcaptcha.com"
+      ],
+      "resources": [
+        "funcaptcha.com"
       ]
     },
     "Albacross": {
@@ -2089,6 +2105,14 @@
         "hadronid.net"
       ]
     },
+    "AudioEye": {
+      "properties": [
+        "audioeye.com"
+      ],
+      "resources": [
+        "audioeye.com"
+      ]
+    },
     "AuditedMedia": {
       "properties": [
         "auditedmedia.com"
@@ -2292,6 +2316,22 @@
       ],
       "resources": [
         "rsz.sk"
+      ]
+    },
+    "B2": {
+      "properties": [
+        "b2.ai"
+      ],
+      "resources": [
+        "b2.ai"
+      ]
+    },
+    "B7Interactive": {
+      "properties": [
+        "searchspring.com"
+      ],
+      "resources": [
+        "searchspring.io"
       ]
     },
     "BackBeat Media": {
@@ -2756,6 +2796,14 @@
       ],
       "resources": [
         "boo-box.com"
+      ]
+    },
+    "bookmsg.com": {
+      "properties": [
+        "bookmsg.com"
+      ],
+      "resources": [
+        "bookmsg.com"
       ]
     },
     "BoomerangGmail.com": {
@@ -3476,6 +3524,14 @@
       ],
       "resources": [
         "smartlook.com"
+      ]
+    },
+    "CitySpark": {
+      "properties": [
+        "cityspark.com"
+      ],
+      "resources": [
+        "cityspark.com"
       ]
     },
     "Claritas": {
@@ -4231,6 +4287,15 @@
         "datadoghq.eu"
       ]
     },
+    "Datadome": {
+      "properties": [
+        "datadome.co"
+      ],
+      "resources": [
+        "captcha-delivery.com",
+        "datadome.co"
+      ]
+    },
     "Dataium": {
       "properties": [
         "collserve.com",
@@ -4425,6 +4490,14 @@
       "resources": [
         "did-it.com",
         "didit.com"
+      ]
+    },
+    "Didomi": {
+      "properties": [
+        "didomi.io"
+      ],
+      "resources": [
+        "privacy-center.org"
       ]
     },
     "DidTheyReadIt": {
@@ -5259,6 +5332,14 @@
       ],
       "resources": [
         "extensionfactory.com"
+      ]
+    },
+    "Extole": {
+      "properties": [
+        "extole.com"
+      ],
+      "resources": [
+        "extole.io"
       ]
     },
     "eXTReMe digital": {
@@ -6627,6 +6708,14 @@
         "helpscout.net"
       ]
     },
+    "Hextom": {
+      "properties": [
+        "hextom.com"
+      ],
+      "resources": [
+        "hextom.com"
+      ]
+    },
     "HilltopAds": {
       "properties": [
         "hilltopads.com"
@@ -6703,6 +6792,14 @@
         "hotwords.es"
       ]
     },
+    "htplayground.com": {
+      "properties": [
+        "htplayground.com"
+      ],
+      "resources": [
+        "htplayground.com"
+      ]
+    },
     "Httpool": {
       "properties": [
         "httpool.com"
@@ -6716,6 +6813,8 @@
         "hubspot.com"
       ],
       "resources": [
+        "clearbit.com",
+        "clearbitjs.com",
         "hs-analytics.net",
         "hs-banner.com",
         "hs-scripts.com",
@@ -7779,7 +7878,8 @@
         "getlasso.co"
       ],
       "resources": [
-        "getlasso.co"
+        "getlasso.co",
+        "lasso.link"
       ]
     },
     "Layer Ads": {
@@ -8477,6 +8577,7 @@
         "mediamath.com"
       ],
       "resources": [
+        "alocdn.com",
         "designbloxlive.com",
         "mathtag.com",
         "mediamath.com"
@@ -8881,10 +8982,12 @@
     },
     "MinuteMedia": {
       "properties": [
-        "minutemedia.com"
+        "minutemedia.com",
+        "stnvideo.com"
       ],
       "resources": [
-        "minutemedia-prebid.com"
+        "minutemedia-prebid.com",
+        "sendtonews.com"
       ]
     },
     "Mirando": {
@@ -9924,6 +10027,7 @@
         "optimizely.com"
       ],
       "resources": [
+        "episerver.net",
         "optimizely.com"
       ]
     },
@@ -11598,6 +11702,14 @@
         "scribol.com"
       ]
     },
+    "sda.fyi": {
+      "properties": [
+        "sda.fyi"
+      ],
+      "resources": [
+        "sda.fyi"
+      ]
+    },
     "SearchForce": {
       "properties": [
         "searchforce.com",
@@ -11802,6 +11914,7 @@
         "shopify.com"
       ],
       "resources": [
+        "shop.app",
         "shopifyapps.com",
         "shopifysvc.com"
       ]
@@ -14317,7 +14430,8 @@
         "bounceexchange.com",
         "bouncex.com",
         "bouncex.net",
-        "wknd.ai"
+        "wknd.ai",
+        "wunderkind.co"
       ]
     },
     "Wysistat": {

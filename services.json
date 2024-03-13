@@ -2539,6 +2539,13 @@
         }
       },
       {
+        "Affilimate": {
+          "https://affilimate.com": [
+            "affilimate.io"
+          ]
+        }
+      },
+      {
         "Affine": {
           "http://www.affine.tv/": [
             "affine.tv",
@@ -3010,6 +3017,20 @@
         }
       },
       {
+        "B2": {
+          "https://b2.ai": [
+            "b2.ai"
+          ]
+        }
+      },
+      {
+        "B7Interactive": {
+          "https://searchspring.com": [
+            "searchspring.io"
+          ]
+        }
+      },
+      {
         "BackBeat Media": {
           "http://www.backbeatmedia.com/": [
             "backbeatmedia.com"
@@ -3284,6 +3305,13 @@
         "Boo-Box": {
           "http://boo-box.com/": [
             "boo-box.com"
+          ]
+        }
+      },
+      {
+        "bookmsg.com": {
+          "https://bookmsg.com": [
+            "bookmsg.com"
           ]
         }
       },
@@ -3678,6 +3706,13 @@
         "Cint": {
           "https://cint.com": [
             "samplicio.us"
+          ]
+        }
+      },
+      {
+        "CitySpark": {
+          "https://cityspark.com": [
+            "cityspark.com"
           ]
         }
       },
@@ -4241,6 +4276,13 @@
         }
       },
       {
+        "Didomi": {
+          "https://didomi.io": [
+            "privacy-center.org"
+          ]
+        }
+      },
+      {
         "Digilant": {
           "https://digilant.com": [
             "wtp101.com"
@@ -4718,6 +4760,13 @@
         "Extension Factory": {
           "http://www.extensionfactory.com/": [
             "extensionfactory.com"
+          ]
+        }
+      },
+      {
+        "Extole": {
+          "https://extole.com": [
+            "extole.io"
           ]
         }
       },
@@ -5230,6 +5279,13 @@
         }
       },
       {
+        "Hextom": {
+          "https://hextom.com": [
+            "hextom.com"
+          ]
+        }
+      },
+      {
         "HilltopAds": {
           "https://hilltopads.com/": [
             "hilltopads.com",
@@ -5260,6 +5316,13 @@
         }
       },
       {
+        "htplayground.com": {
+          "https://htplayground.com": [
+            "htplayground.com"
+          ]
+        }
+      },
+      {
         "Httpool": {
           "http://www.httpool.com/": [
             "httpool.com"
@@ -5269,6 +5332,8 @@
       {
         "HubSpot": {
           "http://www.hubspot.com/": [
+            "clearbit.com",
+            "clearbitjs.com",
             "hs-banner.com",
             "hs-scripts.com",
             "hsadspixel.net",
@@ -5930,7 +5995,8 @@
       {
         "Lasso": {
           "https://getlasso.co": [
-            "getlasso.co"
+            "getlasso.co",
+            "lasso.link"
           ]
         }
       },
@@ -6318,6 +6384,7 @@
       {
         "MediaMath": {
           "http://www.mediamath.com/": [
+            "alocdn.com",
             "designbloxlive.com",
             "mathtag.com",
             "mediamath.com"
@@ -6472,7 +6539,8 @@
       {
         "MinuteMedia": {
           "https://www.minutemedia.com/": [
-            "minutemedia-prebid.com"
+            "minutemedia-prebid.com",
+            "sendtonews.com"
           ]
         }
       },
@@ -7095,6 +7163,7 @@
       {
         "Optimizely": {
           "https://www.optimizely.com/": [
+            "episerver.net",
             "optimizely.com"
           ]
         }
@@ -8123,6 +8192,13 @@
         "Scribol": {
           "http://scribol.com/": [
             "scribol.com"
+          ]
+        }
+      },
+      {
+        "sda.fyi": {
+          "https://sda.fyi": [
+            "sda.fyi"
           ]
         }
       },
@@ -9705,7 +9781,8 @@
             "bounceexchange.com",
             "bouncex.com",
             "bouncex.net",
-            "wknd.ai"
+            "wknd.ai",
+            "wunderkind.co"
           ]
         }
       },
@@ -10358,6 +10435,7 @@
       {
         "Shopify": {
           "https://shopify.com": [
+            "shop.app",
             "shopifyapps.com",
             "shopifysvc.com"
           ]
@@ -10563,6 +10641,13 @@
         "Attracta": {
           "https://www.attracta.com/": [
             "attracta.com"
+          ]
+        }
+      },
+      {
+        "AudioEye": {
+          "https://audioeye.com": [
+            "audioeye.com"
           ]
         }
       },
@@ -13797,6 +13882,13 @@
     ],
     "Anti-fraud": [
       {
+        "AkroseLabs": {
+          "https://www.arkoselabs.com/index.html": [
+            "funcaptcha.com"
+          ]
+        }
+      },
+      {
         "BrowserAnalytic": {
           "https://browseranalytic.com": [
             "browseranalytic.com"
@@ -13807,6 +13899,14 @@
         "ClickGuard": {
           "https://www.clickguard.com/": [
             "clickguard.com"
+          ]
+        }
+      },
+      {
+        "Datadome": {
+          "https://datadome.co/": [
+            "captcha-delivery.com",
+            "datadome.co"
           ]
         }
       },
