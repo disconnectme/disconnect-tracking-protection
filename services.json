@@ -166,13 +166,6 @@
         }
       },
       {
-        "AdRoll": {
-          "http://www.adroll.com/": [
-            "adroll.com"
-          ]
-        }
-      },
-      {
         "AdSpeed": {
           "http://www.adspeed.com/": [
             "adspeed.net"
@@ -460,6 +453,13 @@
         "MoEngage": {
           "https://www.moengage.com/": [
             "api-01.moengage.com"
+          ]
+        }
+      },
+      {
+        "NextRoll": {
+          "https://www.nextroll.com/": [
+            "adroll.com"
           ]
         }
       },
@@ -2178,13 +2178,6 @@
         "AdRiver": {
           "http://adriver.ru/": [
             "adriver.ru"
-          ]
-        }
-      },
-      {
-        "AdRoll": {
-          "http://www.adroll.com/": [
-            "adroll.com"
           ]
         }
       },
@@ -6853,6 +6846,13 @@
             "brainlyads.com",
             "nextmillmedia.com",
             "powerad.ai"
+          ]
+        }
+      },
+      {
+        "NextRoll": {
+          "https://www.nextroll.com/": [
+            "adroll.com"
           ]
         }
       },

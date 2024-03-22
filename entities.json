@@ -1007,14 +1007,6 @@
         "adriver.ru"
       ]
     },
-    "AdRoll": {
-      "properties": [
-        "adroll.com"
-      ],
-      "resources": [
-        "adroll.com"
-      ]
-    },
     "adscale": {
       "properties": [
         "stroeer.de"
@@ -9544,6 +9536,15 @@
         "brainlyads.com",
         "nextmillmedia.com",
         "powerad.ai"
+      ]
+    },
+    "NextRoll": {
+      "properties": [
+        "adroll.com",
+        "nextroll.com"
+      ],
+      "resources": [
+        "adroll.com"
       ]
     },
     "Nexxen": {
