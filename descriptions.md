@@ -123,7 +123,6 @@ The technical and policy review information below was recorded on the date obser
 - [PinPoll](#PinPoll)
 - [PixAnalytics](#PixAnalytics)
 - [Pixlee](#Pixlee)
-- [Playwire](#Playwire)
 - [Polen](#Polen)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
 - [Protected-Media](#Protected-Media)
@@ -4359,25 +4358,6 @@ Script: `https://assets.pixlee.com/assets/pixlee_widget_1_0_0.js`
     }
 
 ```
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## Playwire
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js`
-1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-
-|script_url|script_line|symbol|arguments|value|
-|--|--|--|--|--|
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",2,15]||
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|HTMLCanvasElement.toDataURL|None||
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|OfflineAudioContext.createOscillator|None||
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|OscillatorNode.type|None|triangle|
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.hardwareConcurrency|None|8|
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.platform|None|MacIntel|
-|https://cdn.intergient.com/pageos/1.9.16/595.6fce560e7fa7815d2879.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
-
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Polen
