@@ -634,7 +634,7 @@ Raw log:
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Akamai
-This service has been classified as `Content`, `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Content`, `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUC163X0`
 1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):

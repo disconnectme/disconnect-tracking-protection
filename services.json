@@ -2987,13 +2987,6 @@
         }
       },
       {
-        "Akamai": {
-          "http://www.akamai.com/": [
-            "imiclk.com"
-          ]
-        }
-      },
-      {
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
@@ -10436,8 +10429,6 @@
       {
         "Akamai": {
           "http://www.akamai.com/": [
-            "akamai.com",
-            "edgesuite.net",
             "techlab-cdn.com"
           ]
         }
