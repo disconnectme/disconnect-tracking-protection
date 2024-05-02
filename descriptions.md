@@ -63,7 +63,6 @@ The technical and policy review information below was recorded on the date obser
 - [Fanplayr](#Fanplayr)
 - [Fiksu](#Fiksu)
 - [FingerprintJS](#FingerprintJS)
-- [Flocktory](#Flocktory)
 - [Flux](#Flux)
 - [Foresee](#Foresee)
 - [Friends2Follow](#Friends2Follow)
@@ -126,6 +125,7 @@ The technical and policy review information below was recorded on the date obser
 - [Polen](#Polen)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
 - [Protected-Media](#Protected-Media)
+- [QIWIGroup](#QIWIGroup)
 - [Radware](#Radware)
 - [RazorPay](#RazorPay)
 - [Rollick](#Rollick)
@@ -2368,41 +2368,6 @@ Script: `https://openfpcdn.io/fingerprintjs/v3/iife.min.js`
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
-## Flocktory
-This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
-### Policy Review
-Flocktory's privacy policy States:
-
-`https://www.flocktory.com/en/data_privacy/`
-
->As a Flocktory client, you are a Data Controller and Flocktory is acting as your Data Processor for your users’ data. Flocktory collects and processes data of website visitors and their usage of the website with the purpose of:
->-   Analysis and profiling of data subjects
->-   Fulfilling its contractual obligations with its clients for services that improve the user experience on the client website.
->-   Improve our own website experience and services
->-   Electronic direct marketing
-
-
->Data that Flocktory collects may include:
->-   Online identifiers (cookies, device, browser information)
->-   Geographic location (country, region, city)
->-   Data about social media accounts
->-   Data about purchases
->-   Data about visited pages
->-   Data about membership / registration status
-
-Flocktory's website states:
-
-`https://www.flocktory.com/en/about-us/`
-
->Our solutions come as a complete platform which addresses the entire customer journey and use newest technology and communication channels.
-
-'https://www.flocktory.com/en/platform/'
-
->Flocktory tracks millions of data points every single day and combines user behavior and customer shopping history with strong cohort analysis and predictive algorithms to support and automate your business decisions
-
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
 ## Flux
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
@@ -4563,6 +4528,41 @@ Script: `https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l
   "value": ""
 }
 ```
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## QIWIGroup
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Flocktory's privacy policy States:
+
+`https://www.flocktory.com/en/data_privacy/`
+
+>As a Flocktory client, you are a Data Controller and Flocktory is acting as your Data Processor for your users’ data. Flocktory collects and processes data of website visitors and their usage of the website with the purpose of:
+>-   Analysis and profiling of data subjects
+>-   Fulfilling its contractual obligations with its clients for services that improve the user experience on the client website.
+>-   Improve our own website experience and services
+>-   Electronic direct marketing
+
+
+>Data that Flocktory collects may include:
+>-   Online identifiers (cookies, device, browser information)
+>-   Geographic location (country, region, city)
+>-   Data about social media accounts
+>-   Data about purchases
+>-   Data about visited pages
+>-   Data about membership / registration status
+
+Flocktory's website states:
+
+`https://www.flocktory.com/en/about-us/`
+
+>Our solutions come as a complete platform which addresses the entire customer journey and use newest technology and communication channels.
+
+'https://www.flocktory.com/en/platform/'
+
+>Flocktory tracks millions of data points every single day and combines user behavior and customer shopping history with strong cohort analysis and predictive algorithms to support and automate your business decisions
+
+
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Radware

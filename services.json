@@ -5235,13 +5235,6 @@
         }
       },
       {
-        "Flocktory": {
-          "https://www.flocktory.com/en/": [
-            "flocktory.com"
-          ]
-        }
-      },
-      {
         "Fluct": {
           "https://corp.fluct.jp/": [
             "adingo.jp",
@@ -8033,6 +8026,13 @@
         "Pushly": {
           "https://www.pushly.com/": [
             "p-n.io"
+          ]
+        }
+      },
+      {
+        "QIWIGroup": {
+          "https://qiwi.global": [
+            "flocktory.com"
           ]
         }
       },
@@ -13980,13 +13980,6 @@
         }
       },
       {
-        "Flocktory": {
-          "https://www.flocktory.com/en/": [
-            "flocktory.com"
-          ]
-        }
-      },
-      {
         "Google": {
           "http://www.google.com/": [
             "2mdn.net",
@@ -14162,6 +14155,13 @@
             "valueclick.com",
             "valueclick.net",
             "valueclickmedia.com"
+          ]
+        }
+      },
+      {
+        "QIWIGroup": {
+          "https://qiwi.global": [
+            "flocktory.com"
           ]
         }
       },
