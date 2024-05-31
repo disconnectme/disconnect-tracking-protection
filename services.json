@@ -3386,13 +3386,6 @@
         }
       },
       {
-        "B7Interactive": {
-          "https://searchspring.com": [
-            "searchspring.io"
-          ]
-        }
-      },
-      {
         "BackBeat Media": {
           "http://www.backbeatmedia.com/": [
             "backbeatmedia.com"
@@ -10448,6 +10441,13 @@
             "gravatar.com",
             "tumblr.com",
             "wp.com"
+          ]
+        }
+      },
+      {
+        "B7Interactive": {
+          "https://searchspring.com": [
+            "searchspring.io"
           ]
         }
       },
