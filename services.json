@@ -4395,7 +4395,23 @@
       {
         "Coveo": {
           "https://coveo.com": [
-            "coveo.com"
+            "analytics-au.cloud.coveo.com",
+            "analytics-ca.cloud.coveo.com",
+            "analytics-eu.cloud.coveo.com",
+            "analytics.cloud.coveo.com",
+            "analytics.org.coveo.com",
+            "analytics.orgdev.coveo.com",
+            "analytics.orghipaa.coveo.com",
+            "analytics.orgstg.coveo.com",
+            "analyticsdev-eu.cloud.coveo.com",
+            "analyticsdev.cloud.coveo.com",
+            "analyticshipaa.cloud.coveo.com",
+            "analyticsstg.cloud.coveo.com",
+            "platform-eu.cloud.coveo.com",
+            "platform.cloud.coveo.com",
+            "usageanalytics.coveo.com",
+            "usageanalyticsdev.coveo.com",
+            "usageanalyticshipaa.coveo.com"
           ]
         }
       },
@@ -10485,6 +10501,14 @@
         "Cloudinary": {
           "https://cloudinary.com": [
             "cloudinary.com"
+          ]
+        }
+      },
+      {
+        "Coveo": {
+          "https://coveo.com": [
+            "org.coveo.com",
+            "static.cloud.coveo.com"
           ]
         }
       },
