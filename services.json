@@ -9702,13 +9702,6 @@
         }
       },
       {
-        "UserCentrics": {
-          "https://www.usercentrics.com": [
-            "cookiebot.com"
-          ]
-        }
-      },
-      {
         "UTarget": {
           "https://utarget.pro/": [
             "utarget.ru"
@@ -14511,6 +14504,16 @@
             "rocketmail.com",
             "webmessenger.yahoo.com",
             "ymail.com"
+          ]
+        }
+      }
+    ],
+    "ConsentManagers": [
+      {
+        "UserCentrics": {
+          "https://www.usercentrics.com": [
+            "cookiebot.com",
+            "cookiebot.eu"
           ]
         }
       }
