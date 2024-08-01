@@ -1746,6 +1746,14 @@
         "adx1.com"
       ]
     },
+    "adxbid": {
+      "properties": [
+        "adxbid.info"
+      ],
+      "resources": [
+        "adxbid.info"
+      ]
+    },
     "AdXpansion": {
       "properties": [
         "adxpansion.com"
@@ -2244,6 +2252,14 @@
         "dsply.com"
       ]
     },
+    "AnyClip": {
+      "properties": [
+        "anyclip.com"
+      ],
+      "resources": [
+        "anyclip.com"
+      ]
+    },
     "AppCast": {
       "properties": [
         "appcast.io"
@@ -2691,6 +2707,14 @@
         "b2.ai"
       ]
     },
+    "b3mxnuvcer": {
+      "properties": [
+        "b3mxnuvcer.com"
+      ],
+      "resources": [
+        "b3mxnuvcer.com"
+      ]
+    },
     "B7Interactive": {
       "properties": [
         "searchspring.com"
@@ -2954,6 +2978,14 @@
       ],
       "resources": [
         "bidvertiser.com"
+      ]
+    },
+    "BigCrunch": {
+      "properties": [
+        "bigcrunch.com"
+      ],
+      "resources": [
+        "bigcrunch.com"
       ]
     },
     "bigmirnet": {
@@ -7618,6 +7650,14 @@
         "intercom.io"
       ]
     },
+    "InterdogMedia": {
+      "properties": [
+        "interdogmedia.com"
+      ],
+      "resources": [
+        "vlitag.com"
+      ]
+    },
     "Intergi": {
       "properties": [
         "intergi.com"
@@ -9809,6 +9849,14 @@
         "netmng.com"
       ]
     },
+    "NetpubMedia": {
+      "properties": [
+        "netpub.media"
+      ],
+      "resources": [
+        "netpub.media"
+      ]
+    },
     "Net-Results": {
       "properties": [
         "net-results.com",
@@ -9999,6 +10047,14 @@
       ],
       "resources": [
         "nitropay.com"
+      ]
+    },
+    "Nocodelytics": {
+      "properties": [
+        "nocodelytics.com"
+      ],
+      "resources": [
+        "nocodelytics.com"
       ]
     },
     "NoFraud": {
@@ -10240,6 +10296,7 @@
         "onetrust.com"
       ],
       "resources": [
+        "cookielaw.org",
         "onetrust.com",
         "onetrust.io"
       ]
@@ -10554,6 +10611,14 @@
       ],
       "resources": [
         "paid-to-promote.net"
+      ]
+    },
+    "PapayAds": {
+      "properties": [
+        "papayads.net"
+      ],
+      "resources": [
+        "papayads.net"
       ]
     },
     "Parse.ly": {
@@ -12027,6 +12092,14 @@
       "resources": [
         "bridgetrack.com",
         "sapient.com"
+      ]
+    },
+    "SardineAI": {
+      "properties": [
+        "sardine.ai"
+      ],
+      "resources": [
+        "sardine.ai"
       ]
     },
     "SAS": {

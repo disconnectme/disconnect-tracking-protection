@@ -131,6 +131,7 @@ The technical and policy review information below was recorded on the date obser
 - [Rollick](#Rollick)
 - [RoqAd](#RoqAd)
 - [Salesforce](#Salesforce)
+- [SardineAI](#SardineAI)
 - [Semantiqo](#Semantiqo)
 - [SendPulse](#SendPulse)
 - [ShaftTraffic](#ShaftTraffic)
@@ -4691,6 +4692,26 @@ Salesforce's website states:
 >Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
 
 
+[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
+
+## SardineAI
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://api.sardine.ai/assets/collector.min.5539dfb.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|CanvasRenderingContext2D.fillText|[""Cwm fjordbank glyphs vext quiz, 😃"",4,45]||
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|HTMLCanvasElement.toDataURL|None||
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|OfflineAudioContext.createOscillator|None||
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|OscillatorNode.type|None|triangle|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|RTCPeerConnection.setLocalDescription|[""{\""type\"":\""offer\"",\""sdp\"":\""v=0\\r\\no=mozilla...THIS_IS_SDPARTA-99.0 4497493048632180440 0 IN IP4 0.0.0.0\\r\\ns=-\\r\\nt=0 0\\r\\na=fingerprint:sha-256 E0:90:C1:13:D5:DE:54:69:02:18:4F:2E:A0:97:1F:EB:BC:D8:86:80:7B:DC:3A:F9:56:C5:B0:6F:2F:E1:B1:15\\r\\na=group:BUNDLE 0\\r\\na=ice-options:trickle\\r\\na=msid-semantic:WMS *\\r\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\r\\nc=IN IP4 0.0.0.0\\r\\na=sendrecv\\r\\na=ice-pwd:2d64b749f12d76f22271c91d89f5e858\\r\\na=ice-ufrag:bc8b16cf\\r\\na=mid:0\\r\\na=setup:actpass\\r\\na=sctp-port:5000\\r\\na=max-message-size:1073741823\\r\\n\""}""]||
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|window.navigator.hardwareConcurrency|None|8|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|window.navigator.platform|None|MacIntel|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|window.navigator.plugins|None|{""0"":{""0"":{},""1"":{}},""1"":{""0"":""object"",""1"":""object""},""2"":{""0"":""object"",""1"":""object""},""3"":{""0"":""object"",""1"":""object""},""4"":{""0"":""object"",""1"":""object""}}|
+|https://api.sardine.ai/assets/collector.min.5539dfb.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0|
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## Semantiqo
