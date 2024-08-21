@@ -6323,7 +6323,19 @@
       {
         "Klevu": {
           "https://www.klevu.com": [
-            "klevu.com"
+            "config-cdn.ksearchnet.com",
+            "ipv4check.ksearchnet.com",
+            "ipv6check.ksearchnet.com",
+            "klavyio.klevu.com",
+            "moi-ai.ksearchnet.com",
+            "moicustomizations.klevu.com",
+            "pqa-analytics.service.ksearchnet.com",
+            "stats.klevu.com",
+            "stats.ksearchnet.com",
+            "statsjs.klevu.com",
+            "visitor.service.ksearchnet.com",
+            "zjs.klevu.com",
+            "zstats.klevu.com"
           ]
         }
       },
