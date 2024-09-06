@@ -12683,14 +12683,6 @@
         }
       },
       {
-        "Sourcepoint": {
-          "https://www.sourcepoint.com/": [
-            "privacy-mgmt.com",
-            "summerhamster.com"
-          ]
-        }
-      },
-      {
         "SpeedCurve": {
           "https://speedcurve.com": [
             "speedcurve.com"
@@ -14600,6 +14592,14 @@
       }
     ],
     "ConsentManagers": [
+      {
+        "Sourcepoint": {
+          "https://www.sourcepoint.com/": [
+            "privacy-mgmt.com",
+            "summerhamster.com"
+          ]
+        }
+      },
       {
         "UserCentrics": {
           "https://www.usercentrics.com": [
