@@ -7618,13 +7618,6 @@
         }
       },
       {
-        "Osano": {
-          "https://osano.com": [
-            "osano.com"
-          ]
-        }
-      },
-      {
         "OTM": {
           "https://otm-r.ru/": [
             "otm-r.com"
@@ -14592,6 +14585,13 @@
       }
     ],
     "ConsentManagers": [
+      {
+        "Osano": {
+          "https://osano.com": [
+            "osano.com"
+          ]
+        }
+      },
       {
         "Sourcepoint": {
           "https://www.sourcepoint.com/": [
