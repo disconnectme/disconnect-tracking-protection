@@ -435,7 +435,8 @@
       ],
       "resources": [
         "a-mo.net",
-        "a-mx.com"
+        "a-mx.com",
+        "rtb.mx"
       ]
     },
     "Adara Media": {
@@ -491,6 +492,14 @@
       "resources": [
         "3dstats.com",
         "addfreestats.com"
+      ]
+    },
+    "AddtoAny": {
+      "properties": [
+        "addtoany.com"
+      ],
+      "resources": [
+        "addtoany.com"
       ]
     },
     "Addvantage Media": {
@@ -1951,6 +1960,14 @@
         "aidata.me"
       ]
     },
+    "aidem": {
+      "properties": [
+        "aidem.com"
+      ],
+      "resources": [
+        "aidemsrv.com"
+      ]
+    },
     "Aim4Media": {
       "properties": [
         "aim4media.com"
@@ -2161,6 +2178,7 @@
         "cloudfront.net",
         "imdb.com",
         "serving-sys.com",
+        "ttvnw.net",
         "twitch.tv"
       ]
     },
@@ -2819,6 +2837,16 @@
       "resources": [
         "bazaarvoice.com",
         "curalate.com"
+      ]
+    },
+    "BDOW": {
+      "properties": [
+        "bdow.com",
+        "sumome.com"
+      ],
+      "resources": [
+        "sumo.com",
+        "sumome.com"
       ]
     },
     "BeachFront": {
@@ -3490,6 +3518,15 @@
         "networldmedia.net"
       ]
     },
+    "Bytedance": {
+      "properties": [
+        "bytedance.com",
+        "pangleglobal.com"
+      ],
+      "resources": [
+        "pangle-ads.com"
+      ]
+    },
     "c1exchange": {
       "properties": [
         "c1exchange.com"
@@ -3704,6 +3741,14 @@
         "carrotquest.io"
       ]
     },
+    "CartaMarketing": {
+      "properties": [
+        "carta-marketing-firm.co.jp"
+      ],
+      "resources": [
+        "zucks.net"
+      ]
+    },
     "Cart.ro": {
       "properties": [
         "cart.ro"
@@ -3903,6 +3948,7 @@
         "cint.com"
       ],
       "resources": [
+        "cintnetworks.com",
         "samplicio.us"
       ]
     },
@@ -5182,6 +5228,14 @@
         "dwstat.cn"
       ]
     },
+    "DXKulture": {
+      "properties": [
+        "dxkulture.com"
+      ],
+      "resources": [
+        "dxkulture.com"
+      ]
+    },
     "DynAdmic": {
       "properties": [
         "dynadmic.com"
@@ -5602,6 +5656,14 @@
       ],
       "resources": [
         "etrigue.com"
+      ]
+    },
+    "EUiD": {
+      "properties": [
+        "euid.eu"
+      ],
+      "resources": [
+        "euid.eu"
       ]
     },
     "Eulerian Technologies": {
@@ -7368,6 +7430,7 @@
         "visiblemeasures.com"
       ],
       "resources": [
+        "illumin.com",
         "viewablemedia.net",
         "visiblemeasures.com"
       ]
@@ -7386,6 +7449,14 @@
       ],
       "resources": [
         "imgix.net"
+      ]
+    },
+    "IMobileCoLtd": {
+      "properties": [
+        "i-mobile.co.jp"
+      ],
+      "resources": [
+        "i-mobile.co.jp"
       ]
     },
     "Impact": {
@@ -7827,6 +7898,14 @@
       ],
       "resources": [
         "iprospect.com"
+      ]
+    },
+    "IQM": {
+      "properties": [
+        "iqm.com"
+      ],
+      "resources": [
+        "iqm.com"
       ]
     },
     "IQZone": {
@@ -8371,6 +8450,15 @@
         "bra2hmail.com"
       ]
     },
+    "LimelightInc": {
+      "properties": [
+        "limelight.inc"
+      ],
+      "resources": [
+        "open-adsyield.com",
+        "ortb.net"
+      ]
+    },
     "LineZing": {
       "properties": [
         "linezing.com"
@@ -8574,6 +8662,14 @@
       "resources": [
         "luckyorange.com",
         "luckyorange.net"
+      ]
+    },
+    "LunaMedia": {
+      "properties": [
+        "lunamedia.io"
+      ],
+      "resources": [
+        "lunamedia.live"
       ]
     },
     "Lunio": {
@@ -10085,6 +10181,14 @@
         "virgul.com"
       ]
     },
+    "nordicdataresources": {
+      "properties": [
+        "nordicdataresources.net"
+      ],
+      "resources": [
+        "nordicdataresources.net"
+      ]
+    },
     "Nosto": {
       "properties": [
         "nosto.com",
@@ -10498,6 +10602,14 @@
         "nexac.com",
         "oracle.com",
         "responsys.com"
+      ]
+    },
+    "orbsrv.com": {
+      "properties": [
+        "orbsrv.com"
+      ],
+      "resources": [
+        "orbsrv.com"
       ]
     },
     "Osano": {
@@ -10997,6 +11109,14 @@
       "resources": [
         "popads.net",
         "popadscdn.net"
+      ]
+    },
+    "PopCash": {
+      "properties": [
+        "popcash.net"
+      ],
+      "resources": [
+        "popcash.net"
       ]
     },
     "PopRule": {
@@ -11940,6 +12060,14 @@
         "rutarget.ru"
       ]
     },
+    "Saambaa": {
+      "properties": [
+        "saambaa.com"
+      ],
+      "resources": [
+        "saambaa.com"
+      ]
+    },
     "Sabavision": {
       "properties": [
         "sabavision.com"
@@ -12632,6 +12760,15 @@
         "snapengage.com"
       ]
     },
+    "SnapWidget": {
+      "properties": [
+        "snapwidget.com"
+      ],
+      "resources": [
+        "cdnsnapwidget.com",
+        "snapwidget.com"
+      ]
+    },
     "Snigel": {
       "properties": [
         "snigel.com"
@@ -12999,6 +13136,7 @@
       "resources": [
         "stripchat.com",
         "stripst.com",
+        "strpst.com",
         "xlivrdr.com"
       ]
     },
@@ -13051,14 +13189,6 @@
       ],
       "resources": [
         "summitmedia.co.uk"
-      ]
-    },
-    "Sumo": {
-      "properties": [
-        "sumome.com"
-      ],
-      "resources": [
-        "sumo.com"
       ]
     },
     "SunAdNetwork": {
@@ -13428,7 +13558,8 @@
         "tiktok.com"
       ],
       "resources": [
-        "tiktok.com"
+        "tiktok.com",
+        "tiktokv.us"
       ]
     },
     "TimesInternet": {
@@ -13974,6 +14105,14 @@
         "localytics.com",
         "sf14g.com",
         "trackalyzer.com"
+      ]
+    },
+    "Upravel": {
+      "properties": [
+        "upravel.com"
+      ],
+      "resources": [
+        "upravel.com"
       ]
     },
     "UpsellIt": {
@@ -15147,6 +15286,14 @@
         "yieldify.com"
       ]
     },
+    "yieldlove-ad-serving.net": {
+      "properties": [
+        "yieldlove-ad-serving.net"
+      ],
+      "resources": [
+        "yieldlove-ad-serving.net"
+      ]
+    },
     "Yieldmo": {
       "properties": [
         "yieldmo.com"
@@ -15238,6 +15385,7 @@
         "zopim.com"
       ],
       "resources": [
+        "zdassets.com",
         "zendesk.com",
         "zopim.com"
       ]
