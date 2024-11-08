@@ -4131,7 +4131,7 @@ Script: `https://cdn.simility.com/b.js`
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## HumanSecurity
-This service has been classified as `Analytics`, `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
+This service has been classified as `Anti-fraud` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 
 
@@ -4229,6 +4229,20 @@ This service has been classified as `Analytics`, `Anti-fraud` and `Fingerprintin
             }
         }
 ```
+Script: `https://client.px-cloud.net/PXzYvFOXaC/main.min.js`
+1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+
+|script_url|script_line|symbol|arguments|value|
+|--|--|--|--|--|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|4|CanvasRenderingContext2D.fillText|[""😇"",64,8]||
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|4|HTMLCanvasElement.toDataURL|None||
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|4|OfflineAudioContext.createOscillator|None||
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|4|OscillatorNode.type|None|sine|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|7|window.navigator.hardwareConcurrency|None|8|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|2|window.navigator.oscpu|None|Intel Mac OS X 10.15|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|6|window.navigator.platform|None|MacIntel|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|3|window.navigator.plugins|None|{""0"":{""0"":{},""1"":{}},""1"":{""0"":""object"",""1"":""object""},""2"":{""0"":""object"",""1"":""object""},""3"":{""0"":""object"",""1"":""object""},""4"":{""0"":""object"",""1"":""object""}}|
+|https://client.px-cloud.net/PXzYvFOXaC/main.min.js|2|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0|
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
 ## PinPoll
