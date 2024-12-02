@@ -12466,15 +12466,6 @@
         }
       },
       {
-        "OneTrust": {
-          "https://onetrust.com": [
-            "cookielaw.org",
-            "onetrust.com",
-            "onetrust.io"
-          ]
-        }
-      },
-      {
         "Ooyala": {
           "http://www.ooyala.com/": [
             "ooyala.com"
@@ -14706,6 +14697,15 @@
       }
     ],
     "ConsentManagers": [
+      {
+        "OneTrust": {
+          "https://onetrust.com": [
+            "cookielaw.org",
+            "onetrust.com",
+            "onetrust.io"
+          ]
+        }
+      },
       {
         "Osano": {
           "https://osano.com": [
