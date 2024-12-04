@@ -8,7 +8,6 @@ The technical and policy review information below was recorded on the date obser
 - [AdCash](#AdCash)
 - [Adjust](#Adjust)
 - [AdMaven](#AdMaven)
-- [Admicro](#Admicro)
 - [Adnium](#Adnium)
 - [Adobe](#Adobe)
 - [AdScore](#AdScore)
@@ -157,9 +156,9 @@ The technical and policy review information below was recorded on the date obser
 - [Trendemon](#Trendemon)
 - [Unseen](#Unseen)
 - [Upland](#Upland)
+- [VCCorp](#VCCorp)
 - [VerticalHealth](#VerticalHealth)
 - [VicinityMedia](#VicinityMedia)
-- [Vidoomy](#Vidoomy)
 - [Vtex](#Vtex)
 - [Warumbistdusoarm](#Warumbistdusoarm)
 - [Webmecanik](#Webmecanik)
@@ -5684,25 +5683,6 @@ Script: `https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425`
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.platform|None|MacIntel|
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 |https://static.vic-m.co/ads/vicinity-head-tag-v1.js?zoneId=4425|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## Vidoomy
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D`
-1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-
-|script_url|script_line|symbol|arguments|value|
-|--|--|--|--|--|
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|CanvasRenderingContext2D.fillText|["Cwm fjordbank gly 😃",4,45]||
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|HTMLCanvasElement.toDataURL|None||
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|OfflineAudioContext.createOscillator|None||
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|OscillatorNode.type|None|triangle|
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.hardwareConcurrency|None|8|
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.oscpu|None|Intel Mac OS X 10.15|
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.platform|None|MacIntel|
-|https://vid.vidoomy.com/sync?gdpr=0&gdpr_consent=&us_privacy=1---&redirect=https%3A%2F%2Fsync.aniview.com%2Fcookiesyncendpoint%3Fauid%3D1679328724035-978034561397-001173-001-007901%26biddername%3D133%26pid%3D59c9148628a0612da3689288%26key%3D%7B%7BVID%7D%7D|4|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
 
 [Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
 
