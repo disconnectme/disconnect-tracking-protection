@@ -5,13 +5,9 @@ body:
     attributes:
       value: |
         Our tracker protection lists are dynamic and we welcome feedback from our community. If you believe that we’ve missed a tracker, categorized a domain incorrectly, or have other feedback please fill out and submit the form below.
-        
         Please note, classifications are based on technical analysis and review of publicly available policies and statements. Evidence supporting your position should be in the form of specific citations to publicly available information.
-        
-        Appeals must explain in detail how the publicly available evidence you submit shows that the domain in question does not meet our definition of Tracking and/or Tracker Categories.
-        
+        Appeals must explain in detail how the publicly available evidence you submit shows that the domain in question does not meet our definition of Tracking and/or Tracker Categories.        
         Any breakage examples should be in the form of specific example sites where the breakage can be observed with clear, repeatable steps to recreate the breakage.
-        
         Every appeal or submission should include the domain(s) at issue and a proposed rationale for adding, removing, or re-categorizing the domain(s) based on Disconnect’s policies and definitions. Optionally, a description of where a domain was observed in a third-party context, breakage examples, additional notes, and a contact email may be submitted in case follow up beyond the published issue is necessary
   - type: input
     id: domains_to_review
