@@ -4,7 +4,7 @@ body:
   - type: markdown
     id: overview
     attributes:
-      value: |
+      value: >
         Our tracker protection lists are dynamic and we welcome feedback from our community. If you believe that we’ve missed a tracker, categorized a domain incorrectly, or have other feedback please fill out and submit the form below.
         Please note, classifications are based on technical analysis and review of publicly available policies and statements. Evidence supporting your position should be in the form of specific citations to publicly available information.
         Appeals must explain in detail how the publicly available evidence you submit shows that the domain in question does not meet our definition of Tracking and/or Tracker Categories.
