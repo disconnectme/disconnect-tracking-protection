@@ -1,56 +1,31 @@
 name: Appeals and Submissions
 description: Use this template for appeals and submissions.
 body:
-  - type: markdown
-    id: overview
-    attributes:
-      value: |
-        Our tracker protection lists are dynamic and we welcome feedback from our community. If you believe that we’ve missed a tracker, categorized a domain incorrectly, or have other feedback please fill out and submit the form below.
-  - type: markdown
-    id: overview_1
-    attributes:
-      value: |
-        Please note, classifications are based on technical analysis and review of publicly available policies and statements. Evidence supporting your position should be in the form of specific citations to publicly available information.
-  - type: markdown
-    id: overview_2
-    attributes:
-      value: |
-        Appeals must explain in detail how the publicly available evidence you submit shows that the domain in question does not meet our definition of Tracking and/or Tracker Categories.
-  - type: markdown
-    id: overview_3
-    attributes:
-      value: |
-        Any breakage examples should be in the form of specific example sites where the breakage can be observed with clear, repeatable steps to recreate the breakage.
-  - type: markdown
-    id: overview_4
-    attributes:
-      value: |
-        Every appeal or submission should include the domain(s) at issue and a proposed rationale for adding, removing, or re-categorizing the domain(s) based on Disconnect’s policies and definitions. Optionally, a description of where a domain was observed in a third-party context, breakage examples, additional notes, and a contact email may be submitted in case follow up beyond the published issue is necessary.
   - type: input
-    id: domains_to_review
-    attributes:
-      label: Domain(s) to review (separate domains by comma).
-      placeholder: domain.com
-    validations:
-      required: true
-  - type: input
-    id: rationale
-    attributes:
-      label: Rationale for removing, adding, or recategorizing (please provide citations to publicly available information).
-      placeholder: Reason
-    validations:
-      required: true
-  - type: input
-    id: observed_in_domains
-    attributes:
-      label: Where domain(s) observed (separate domains by comma).
-      placeholder: domain.com
+    id: domains_to_review
+    attributes:
+      label: Domain(s) to review (separate domains by comma).
+      placeholder: domain.com
+    validations:
+      required: true
+  - type: input
+    id: rationale
+    attributes:
+      label: Rationale for removing, adding, or recategorizing (please provide citations to publicly available information).
+      placeholder: Reason
+    validations:
+      required: true
+  - type: input
+    id: observed_in_domains
+    attributes:
+      label: Where domain(s) observed (separate domains by comma).
+      placeholder: domain.com
  - type: input
-    id: example_websites
-    attributes:
-      label: Please include example website(s) where the breakage can be observed with clear, repeatable steps to recreate the breakage (separate domains by comma).
-      placeholder: domain.com
-  - type: textarea
-    id: additional_information
-    attributes:
-      label: Additional notes
+    id: example_websites
+    attributes:
+      label: Please include example website(s) where the breakage can be observed with clear, repeatable steps to recreate the breakage (separate domains by comma).
+      placeholder: domain.com
+  - type: textarea
+    id: additional_information
+    attributes:
+      label: Additional notes
