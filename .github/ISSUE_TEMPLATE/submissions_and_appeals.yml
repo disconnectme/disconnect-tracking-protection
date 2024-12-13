@@ -20,7 +20,7 @@ body:
     attributes:
       label: Where domain(s) observed (separate domains by comma).
       placeholder: domain.com
- - type: input
+  - type: input
     id: example_websites
     attributes:
       label: Please include example website(s) where the breakage can be observed with clear, repeatable steps to recreate the breakage (separate domains by comma).
