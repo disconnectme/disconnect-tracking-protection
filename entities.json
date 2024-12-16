@@ -769,15 +769,6 @@
         "atemda.com"
       ]
     },
-    "Admicro": {
-      "properties": [
-        "admicro.vn"
-      ],
-      "resources": [
-        "admicro.vn",
-        "vcmedia.vn"
-      ]
-    },
     "Admiral": {
       "properties": [
         "getadmiral.com"
@@ -1253,6 +1244,8 @@
         "adobedc.net",
         "adsymptotic.com",
         "auditude.com",
+        "bizible.com",
+        "bizibly.com",
         "demdex.com",
         "demdex.net",
         "dmtracker.com",
@@ -2548,6 +2541,14 @@
         "lyris.com"
       ]
     },
+    "AuroraMobile": {
+      "properties": [
+        "jiguang.cn"
+      ],
+      "resources": [
+        "jpush.cn"
+      ]
+    },
     "AuthedMine": {
       "properties": [
         "authedmine.com"
@@ -3167,6 +3168,14 @@
         "getblueshift.com"
       ]
     },
+    "BlueTriangle": {
+      "properties": [
+        "bluetriangle.com"
+      ],
+      "resources": [
+        "btttag.com"
+      ]
+    },
     "Blu Trumpet": {
       "properties": [
         "blutrumpet.com"
@@ -3190,6 +3199,14 @@
       ],
       "resources": [
         "bmst.pw"
+      ]
+    },
+    "BoldCommerce": {
+      "properties": [
+        "boldcommerce.com"
+      ],
+      "resources": [
+        "boldapps.net"
       ]
     },
     "Bolide": {
@@ -4405,6 +4422,14 @@
         "contentexchange.me"
       ]
     },
+    "Contentful": {
+      "properties": [
+        "contentful.com"
+      ],
+      "resources": [
+        "contentful.com"
+      ]
+    },
     "ContentMonkey": {
       "properties": [
         "contactmonkey.com"
@@ -5138,6 +5163,14 @@
         "selectablemedia.com"
       ]
     },
+    "Dotdigital": {
+      "properties": [
+        "dotdigital.com"
+      ],
+      "resources": [
+        "trackedweb.net"
+      ]
+    },
     "DotMetrics": {
       "properties": [
         "dotmetrics.net"
@@ -5255,15 +5288,6 @@
       ],
       "resources": [
         "exitjunction.com"
-      ]
-    },
-    "DynamicYield": {
-      "properties": [
-        "dynamicyield.com"
-      ],
-      "resources": [
-        "px-eu.dynamicyield.com",
-        "px.dynamicyield.com"
       ]
     },
     "Dynata": {
@@ -5835,7 +5859,8 @@
       ],
       "resources": [
         "ezodn.com",
-        "ezoic.com"
+        "ezoic.com",
+        "ezoic.net"
       ]
     },
     "ezymarketer": {
@@ -6247,7 +6272,8 @@
       "resources": [
         "pointroll.com",
         "reachlocal.com",
-        "rlcdn.net"
+        "rlcdn.net",
+        "rlets.com"
       ]
     },
     "GB-World": {
@@ -7465,7 +7491,8 @@
     "Impact": {
       "properties": [
         "clearsaleing.com",
-        "impact.com"
+        "impact.com",
+        "trackonomics.net"
       ],
       "resources": [
         "clearsaleing.com",
@@ -7477,7 +7504,8 @@
         "impactradius-event.com",
         "impactradius-go.com",
         "ojrq.net",
-        "pxf.io"
+        "pxf.io",
+        "trackonomics.net"
       ]
     },
     "Improve Digital": {
@@ -8944,6 +8972,16 @@
         "mashero.com"
       ]
     },
+    "Mastercard": {
+      "properties": [
+        "dynamicyield.com",
+        "mastercard.com",
+        "mastercard.us"
+      ],
+      "resources": [
+        "dynamicyield.com"
+      ]
+    },
     "Match.com": {
       "properties": [
         "chemistry.com",
@@ -8998,6 +9036,7 @@
         "maxmind.com"
       ],
       "resources": [
+        "geoip-js.com",
         "maxmind.com",
         "mmapiws.com"
       ]
@@ -10673,6 +10712,15 @@
         "out-there-media.com"
       ]
     },
+    "Overcode": {
+      "properties": [
+        "affiliatly.com",
+        "overcode.bg"
+      ],
+      "resources": [
+        "affiliatly.com"
+      ]
+    },
     "Oversee.net": {
       "properties": [
         "dsnextgen.com",
@@ -10941,6 +10989,7 @@
       ],
       "resources": [
         "at-o.net",
+        "aticdn.net",
         "atinternet.com",
         "cxense.com",
         "emediate.biz",
@@ -11200,6 +11249,14 @@
       "resources": [
         "primis.tech",
         "sekindo.com"
+      ]
+    },
+    "Privy": {
+      "properties": [
+        "privy.com"
+      ],
+      "resources": [
+        "privy.com"
       ]
     },
     "Proclivity": {
@@ -12204,6 +12261,7 @@
         "sap.com"
       ],
       "resources": [
+        "emarsys.net",
         "gigcount.com",
         "gigya.com",
         "leadformix.com",
@@ -13540,6 +13598,15 @@
         "thismoment.com"
       ]
     },
+    "ThriveCart": {
+      "properties": [
+        "convertbox.com",
+        "thrivecart.com"
+      ],
+      "resources": [
+        "convertbox.com"
+      ]
+    },
     "Throtle": {
       "properties": [
         "throtle.io"
@@ -13887,6 +13954,14 @@
       "resources": [
         "trustarc.com",
         "truste.com"
+      ]
+    },
+    "TrustedSite": {
+      "properties": [
+        "trustedsite.com"
+      ],
+      "resources": [
+        "trustedsite.com"
       ]
     },
     "TrustPilot": {
@@ -14263,6 +14338,16 @@
         "medley.com",
         "nostringsattached.com",
         "various.com"
+      ]
+    },
+    "VCCorp": {
+      "properties": [
+        "admicro.vn",
+        "vccorp.vn"
+      ],
+      "resources": [
+        "admicro.vn",
+        "vcmedia.vn"
       ]
     },
     "VDX": {
@@ -14904,6 +14989,7 @@
         "wisepops.com"
       ],
       "resources": [
+        "wisepops.com",
         "wisepops.net"
       ]
     },

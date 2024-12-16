@@ -1985,14 +1985,6 @@
         }
       },
       {
-        "Admicro": {
-          "http://www.admicro.vn/": [
-            "admicro.vn",
-            "vcmedia.vn"
-          ]
-        }
-      },
-      {
         "Admiral": {
           "https://www.getadmiral.com": [
             "4jnzhl0d0.com",
@@ -2446,6 +2438,8 @@
             "2o7.net",
             "adsymptotic.com",
             "auditude.com",
+            "bizible.com",
+            "bizibly.com",
             "demdex.com",
             "demdex.net",
             "dmtracker.com",
@@ -3307,6 +3301,13 @@
         }
       },
       {
+        "AuroraMobile": {
+          "https://jiguang.cn/": [
+            "jpush.cn"
+          ]
+        }
+      },
+      {
         "AUTOCENTRE.UA": {
           "http://www.autocentre.ua/": [
             "am.ua",
@@ -3683,6 +3684,13 @@
         "Blu Trumpet": {
           "http://www.blutrumpet.com/": [
             "blutrumpet.com"
+          ]
+        }
+      },
+      {
+        "BoldCommerce": {
+          "https://boldcommerce.com/": [
+            "boldapps.net"
           ]
         }
       },
@@ -4393,6 +4401,13 @@
         }
       },
       {
+        "Contentful": {
+          "https://contentful.com": [
+            "contentful.com"
+          ]
+        }
+      },
+      {
         "CONTEXTin": {
           "http://www.contextin.com/": [
             "admailtiser.com",
@@ -4918,14 +4933,6 @@
         }
       },
       {
-        "DynamicYield": {
-          "https://www.dynamicyield.com/": [
-            "px-eu.dynamicyield.com",
-            "px.dynamicyield.com"
-          ]
-        }
-      },
-      {
         "Dynata": {
           "https://www.dynata.com/": [
             "dynata.com"
@@ -5230,7 +5237,8 @@
         "Ezoic": {
           "https://www.ezoic.com/": [
             "ezodn.com",
-            "ezoic.com"
+            "ezoic.com",
+            "ezoic.net"
           ]
         }
       },
@@ -5466,7 +5474,8 @@
           "http://www.gannett.com/": [
             "pointroll.com",
             "reachlocal.com",
-            "rlcdn.net"
+            "rlcdn.net",
+            "rlets.com"
           ]
         }
       },
@@ -5899,7 +5908,8 @@
             "impactradius-event.com",
             "impactradius-go.com",
             "ojrq.net",
-            "pxf.io"
+            "pxf.io",
+            "trackonomics.net"
           ]
         }
       },
@@ -6793,6 +6803,13 @@
         "mashero": {
           "http://www.mashero.com/": [
             "mashero.com"
+          ]
+        }
+      },
+      {
+        "Mastercard": {
+          "https://www.mastercard.us/en-us.html": [
+            "dynamicyield.com"
           ]
         }
       },
@@ -7745,6 +7762,13 @@
         }
       },
       {
+        "Overcode": {
+          "https://overcode.bg/": [
+            "affiliatly.com"
+          ]
+        }
+      },
+      {
         "Oversee.net": {
           "http://www.oversee.net/": [
             "dsnextgen.com",
@@ -8044,6 +8068,13 @@
           "https://www.primis.tech": [
             "primis.tech",
             "sekindo.com"
+          ]
+        }
+      },
+      {
+        "Privy": {
+          "https://privy.com": [
+            "privy.com"
           ]
         }
       },
@@ -8671,6 +8702,7 @@
       {
         "SAP": {
           "https://www.sap.com": [
+            "emarsys.net",
             "gigcount.com",
             "leadformix.com",
             "scarabresearch.com"
@@ -9463,6 +9495,13 @@
         }
       },
       {
+        "ThriveCart": {
+          "https://thrivecart.com": [
+            "convertbox.com"
+          ]
+        }
+      },
+      {
         "Throtle": {
           "https://throtle.io": [
             "thrtle.com"
@@ -9682,6 +9721,13 @@
         "Truffle": {
           "https://truffle.bid": [
             "truffle.bid"
+          ]
+        }
+      },
+      {
+        "TrustedSite": {
+          "https://trustedsite.com": [
+            "trustedsite.com"
           ]
         }
       },
@@ -9910,6 +9956,14 @@
             "medley.com",
             "nostringsattached.com",
             "various.com"
+          ]
+        }
+      },
+      {
+        "VCCorp": {
+          "https://vccorp.vn/": [
+            "admicro.vn",
+            "vcmedia.vn"
           ]
         }
       },
@@ -10257,6 +10311,7 @@
       {
         "Wisepops": {
           "https://wisepops.com": [
+            "wisepops.com",
             "wisepops.net"
           ]
         }
@@ -11332,6 +11387,13 @@
         }
       },
       {
+        "BlueTriangle": {
+          "https://bluetriangle.com/": [
+            "btttag.com"
+          ]
+        }
+      },
+      {
         "BMC": {
           "https://www.bmc.com/": [
             "compuware.com"
@@ -11609,6 +11671,13 @@
         "DistilNetworks": {
           "https://www.distilnetworks.com/": [
             "distiltag.com"
+          ]
+        }
+      },
+      {
+        "Dotdigital": {
+          "https://dotdigital.com": [
+            "trackedweb.net"
           ]
         }
       },
@@ -12212,6 +12281,7 @@
       {
         "MaxMind": {
           "https://www.maxmind.com/en/home": [
+            "geoip-js.com",
             "maxmind.com",
             "mmapiws.com"
           ]
@@ -12556,6 +12626,7 @@
         "Piano": {
           "https://piano.io/": [
             "at-o.net",
+            "aticdn.net",
             "atinternet.com",
             "piano.io",
             "tinypass.com",
@@ -13225,14 +13296,6 @@
           "https://ad-maven.com/": [
             "ad-maven.com",
             "wrethicap.info"
-          ]
-        }
-      },
-      {
-        "Admicro": {
-          "http://www.admicro.vn/": [
-            "admicro.vn",
-            "vcmedia.vn"
           ]
         }
       },
@@ -13969,6 +14032,14 @@
             "leadlander.com",
             "sf14g.com",
             "trackalyzer.com"
+          ]
+        }
+      },
+      {
+        "VCCorp": {
+          "https://vccorp.vn/": [
+            "admicro.vn",
+            "vcmedia.vn"
           ]
         }
       },
