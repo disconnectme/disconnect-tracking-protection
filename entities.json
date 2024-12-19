@@ -5297,7 +5297,8 @@
     },
     "ConstantContact": {
       "properties": [
-        "constantcontact.com"
+        "constantcontact.com",
+        "constantcontactpages.com"
       ],
       "resources": [
         "constantcontact.com",
