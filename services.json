@@ -1503,6 +1503,13 @@
     ],
     "Advertising": [
       {
+        "24Log": {
+          "https://24log.com": [
+            "24log.com"
+          ]
+        }
+      },
+      {
         "2leep.com": {
           "http://2leep.com/": [
             "2leep.com"
@@ -1521,6 +1528,13 @@
         "360.cn": {
           "https://360.cn": [
             "360.cn"
+          ]
+        }
+      },
+      {
+        "51yes": {
+          "https://51yes.com": [
+            "51yes.com"
           ]
         }
       },
@@ -1727,6 +1741,7 @@
       {
         "AdCash": {
           "https://adcash.com": [
+            "adcash.com",
             "ufpcdn.com"
           ]
         }
@@ -1840,6 +1855,13 @@
           "http://www.adiant.com/": [
             "adblade.com",
             "adiant.com"
+          ]
+        }
+      },
+      {
+        "AdImpact": {
+          "https://adimpact.com": [
+            "adimpact.com"
           ]
         }
       },
@@ -5770,6 +5792,13 @@
         }
       },
       {
+        "DoggybitesBV": {
+          "https://adhese.eu/": [
+            "adhese.com"
+          ]
+        }
+      },
+      {
         "DotdashMeredith": {
           "https://www.dotdashmeredith.com/": [
             "selectablemedia.com"
@@ -6214,6 +6243,13 @@
         "FirstID": {
           "https://www.first-id.fr/": [
             "first-id.fr"
+          ]
+        }
+      },
+      {
+        "FirstLead": {
+          "https://adcell.de": [
+            "adcell.de"
           ]
         }
       },
@@ -7469,6 +7505,13 @@
         }
       },
       {
+        "LiftDSP": {
+          "https://www.liftdsp.com/": [
+            "adizio.com"
+          ]
+        }
+      },
+      {
         "LimelightInc": {
           "https://limelight.inc": [
             "open-adsyield.com",
@@ -7572,6 +7615,7 @@
         "LoopMe": {
           "https://loopme.com/": [
             "loopme.com",
+            "loopme.me",
             "tk0x1.com"
           ]
         }
@@ -10615,6 +10659,13 @@
         "Triggit": {
           "http://triggit.com/": [
             "triggit.com"
+          ]
+        }
+      },
+      {
+        "Trillion": {
+          "https://www.trillion.com/": [
+            "addme.com"
           ]
         }
       },

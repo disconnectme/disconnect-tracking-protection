@@ -17,6 +17,14 @@
         "1-2-1marketing.com"
       ]
     },
+    "24Log": {
+      "properties": [
+        "24log.com"
+      ],
+      "resources": [
+        "24log.com"
+      ]
+    },
     "2leep.com": {
       "properties": [
         "2leep.com"
@@ -49,6 +57,14 @@
       ],
       "resources": [
         "4dem.it"
+      ]
+    },
+    "51yes": {
+      "properties": [
+        "51yes.com"
+      ],
+      "resources": [
+        "51yes.com"
       ]
     },
     "63 Squares": {
@@ -463,6 +479,7 @@
         "adcash.com"
       ],
       "resources": [
+        "adcash.com",
         "ufpcdn.com"
       ]
     },
@@ -603,6 +620,14 @@
       "resources": [
         "adblade.com",
         "adiant.com"
+      ]
+    },
+    "AdImpact": {
+      "properties": [
+        "adimpact.com"
+      ],
+      "resources": [
+        "adimpact.com"
       ]
     },
     "AdJug": {
@@ -6081,6 +6106,15 @@
         "dmpxs.com"
       ]
     },
+    "DoggybitesBV": {
+      "properties": [
+        "adhese.com",
+        "adhese.eu"
+      ],
+      "resources": [
+        "adhese.com"
+      ]
+    },
     "DotdashMeredith": {
       "properties": [
         "dotdashmeredith.com",
@@ -6879,6 +6913,14 @@
       ],
       "resources": [
         "first-id.fr"
+      ]
+    },
+    "FirstLead": {
+      "properties": [
+        "adcell.de"
+      ],
+      "resources": [
+        "adcell.de"
       ]
     },
     "Flashtalking": {
@@ -9400,6 +9442,14 @@
         "lifestreetmedia.com"
       ]
     },
+    "LiftDSP": {
+      "properties": [
+        "liftdsp.com"
+      ],
+      "resources": [
+        "adizio.com"
+      ]
+    },
     "Limabean": {
       "properties": [
         "limabean.agency"
@@ -9576,6 +9626,7 @@
       ],
       "resources": [
         "loopme.com",
+        "loopme.me",
         "tk0x1.com"
       ]
     },
@@ -14827,6 +14878,15 @@
       ],
       "resources": [
         "triggit.com"
+      ]
+    },
+    "Trillion": {
+      "properties": [
+        "addme.com",
+        "trillion.com"
+      ],
+      "resources": [
+        "addme.com"
       ]
     },
     "TripleLift": {
