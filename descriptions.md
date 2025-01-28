@@ -2,7 +2,6 @@
 
 The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
 
-- [AdaptMX](#AdaptMX)
 - [Adbot](#Adbot)
 - [The-Trade-Desk](#The-Trade-Desk)
 - [AdCash](#AdCash)
@@ -171,24 +170,6 @@ The technical and policy review information below was recorded on the date obser
 - [ZafulAffiliate](#ZafulAffiliate)
 - [zatnoh](#zatnoh)
 - [Zip](#Zip)
-## AdaptMX
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://assets.a-mo.net/js/adapter.js`
-1. Script makes calls to known invasive fingerprinting APIs.These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
-
-|script_url|script_line|symbol|arguments|value|
-|--|--|--|--|--|
-|https://assets.a-mo.net/js/adapter.js|1|CanvasRenderingContext2D.fillText|["Cwm fjordbank glyphs vext quiz, 😃",4,45]||
-|https://assets.a-mo.net/js/adapter.js|1|HTMLCanvasElement.toDataURL|None||
-|https://assets.a-mo.net/js/adapter.js|1|window.navigator.hardwareConcurrency|None|8|
-|https://assets.a-mo.net/js/adapter.js|1|window.navigator.oscpu|None|Intel Mac OS X 10.15|
-|https://assets.a-mo.net/js/adapter.js|1|window.navigator.platform|None|MacIntel|
-|https://assets.a-mo.net/js/adapter.js|1|window.navigator.plugins|None|{"0":{"0":{},"1":{}},"1":{"0":"object","1":"object"},"2":{"0":"object","1":"object"},"3":{"0":"object","1":"object"},"4":{"0":"object","1":"object"}}|
-|https://assets.a-mo.net/js/adapter.js|1|window.navigator.userAgent|None|Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:105.0) Gecko/20100101 Firefox/105.0|
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
 ## Adbot
 This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
