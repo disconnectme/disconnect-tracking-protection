@@ -7,3 +7,4 @@ If you believe that we’ve missed a tracker, or categorized a domain incorrectl
 Pull requests are not reviewed and will be closed.
 
 Copyright (c) 2024 Disconnect, Inc.
+
