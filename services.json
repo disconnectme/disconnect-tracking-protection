@@ -14009,14 +14009,6 @@
         }
       },
       {
-        "TrustARC": {
-          "https://trustarc.com/": [
-            "trustarc.com",
-            "truste.com"
-          ]
-        }
-      },
-      {
         "Twilio": {
           "https://twilio.com": [
             "segment.io"
@@ -15751,6 +15743,15 @@
           "https://www.sourcepoint.com/": [
             "privacy-mgmt.com",
             "summerhamster.com"
+          ]
+        }
+      },
+      {
+        "TrustARC": {
+          "https://trustarc.com/": [
+            "trustarc.com",
+            "truste-svc.net",
+            "truste.com"
           ]
         }
       },
