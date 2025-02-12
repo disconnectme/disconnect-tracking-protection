@@ -5621,7 +5621,10 @@
         "Dentsu": {
           "https://www.dentsu.com/": [
             "accordantmedia.com",
-            "bluestreak.com"
+            "bluestreak.com",
+            "rimmkaufman.com",
+            "rkdms.com",
+            "securedvisit.com"
           ]
         }
       },
@@ -7932,15 +7935,6 @@
         "MerchantAdvantage": {
           "http://www.merchantadvantage.com/": [
             "merchantadvantage.com"
-          ]
-        }
-      },
-      {
-        "Merkle": {
-          "https://www.merkleinc.com/": [
-            "rimmkaufman.com",
-            "rkdms.com",
-            "securedvisit.com"
           ]
         }
       },
@@ -12630,6 +12624,13 @@
         }
       },
       {
+        "Dentsu": {
+          "https://www.dentsu.com/": [
+            "merkleinc.com"
+          ]
+        }
+      },
+      {
         "Digioh": {
           "https://digioh.com/": [
             "lightboxcdn.com"
@@ -13305,13 +13306,6 @@
           "https://www.meltwater.com/": [
             "datasift.com",
             "tweetmeme.com"
-          ]
-        }
-      },
-      {
-        "Merkle": {
-          "https://www.merkleinc.com/": [
-            "merkleinc.com"
           ]
         }
       },

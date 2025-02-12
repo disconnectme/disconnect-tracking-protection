@@ -5862,11 +5862,17 @@
         "aemedia.com",
         "bluestreak.com",
         "dentsu.com",
-        "dentsuaegisnetwork.com"
+        "dentsuaegisnetwork.com",
+        "merkleinc.com",
+        "rkdms.com"
       ],
       "resources": [
         "accordantmedia.com",
-        "bluestreak.com"
+        "bluestreak.com",
+        "merkleinc.com",
+        "rimmkaufman.com",
+        "rkdms.com",
+        "securedvisit.com"
       ]
     },
     "Deutsche Post DHL": {
@@ -10240,18 +10246,6 @@
       ],
       "resources": [
         "merchantadvantage.com"
-      ]
-    },
-    "Merkle": {
-      "properties": [
-        "merkleinc.com",
-        "rkdms.com"
-      ],
-      "resources": [
-        "merkleinc.com",
-        "rimmkaufman.com",
-        "rkdms.com",
-        "securedvisit.com"
       ]
     },
     "Meta": {
