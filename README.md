@@ -2,7 +2,7 @@ The Tracker Protection lists are licensed under the Creative Commons Attribution
 
 Please email support@disconnect.me if you’d like to license the lists for commercial use. 
 
-If you believe that we’ve missed a tracker, or categorized a domain incorrectly please fill out and submit the form found [here](https://disconnect.me/appeals_submissions).
+If you believe that we’ve missed a tracker, or categorized a domain incorrectly you can submit domains for evaluation by following the instructions [here](https://disconnect.me/domain_evaluations).
 
 Pull requests are not reviewed and will be closed.
 
