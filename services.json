@@ -15061,13 +15061,6 @@
         }
       },
       {
-        "Transcend": {
-          "https://www.transcend.io": [
-            "transcend.io"
-          ]
-        }
-      },
-      {
         "TransUnion": {
           "https://www.transunion.com/": [
             "iesnare.com",
@@ -18060,6 +18053,13 @@
           "https://www.sourcepoint.com/": [
             "privacy-mgmt.com",
             "summerhamster.com"
+          ]
+        }
+      },
+      {
+        "Transcend": {
+          "https://www.transcend.io": [
+            "transcend.io"
           ]
         }
       },
