@@ -16678,13 +16678,6 @@
         }
       },
       {
-        "Radware": {
-          "https://www.radware.com/": [
-            "perfdrive.com"
-          ]
-        }
-      },
-      {
         "RazorPay": {
           "https://razorpay.com": [
             "thirdwatch.ai"
@@ -17621,6 +17614,13 @@
         "QIWIGroup": {
           "https://qiwi.global": [
             "flocktory.com"
+          ]
+        }
+      },
+      {
+        "Radware": {
+          "https://www.radware.com/": [
+            "perfdrive.com"
           ]
         }
       },
