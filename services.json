@@ -3438,6 +3438,7 @@
         "Adobe": {
           "http://www.adobe.com/": [
             "2o7.net",
+            "adobetarget.com",
             "adsymptotic.com",
             "auditude.com",
             "bizible.com",
@@ -5030,6 +5031,13 @@
         }
       },
       {
+        "ByBorg": {
+          "https://byborgenterprises.com": [
+            "vcmdiawe.com"
+          ]
+        }
+      },
+      {
         "Bytedance": {
           "https://bytedance.com": [
             "pangle-ads.com",
@@ -6085,9 +6093,16 @@
         }
       },
       {
-        "Drift": {
-          "https://www.drift.com/": [
-            "lookery.com"
+        "DoubleVerify": {
+          "http://www.doubleverify.com/": [
+            "dv.tech"
+          ]
+        }
+      },
+      {
+        "Dreamdata": {
+          "https://dreamdata.io": [
+            "dreamdata.cloud"
           ]
         }
       },
@@ -6747,6 +6762,14 @@
         }
       },
       {
+        "G2": {
+          "https://g2.com": [
+            "g2.com",
+            "g2crowd.com"
+          ]
+        }
+      },
+      {
         "Gamania": {
           "https://gamania.com": [
             "chat-content.beanfun.com"
@@ -7309,6 +7332,7 @@
             "impactradius-go.com",
             "ojrq.net",
             "pxf.io",
+            "sjv.io",
             "trackonomics.net"
           ]
         }
@@ -7426,6 +7450,13 @@
           "https://innovid.com": [
             "innovid.com",
             "tvsquared.com"
+          ]
+        }
+      },
+      {
+        "inPowered": {
+          "https://inpowered.ai": [
+            "inpwrd.net"
           ]
         }
       },
@@ -7565,6 +7596,7 @@
       {
         "Invoca": {
           "https://www.invoca.com/": [
+            "invoca.net",
             "invocacdn.com"
           ]
         }
@@ -7805,6 +7837,13 @@
         }
       },
       {
+        "Kimberlite.io": {
+          "https://kimberlite.io": [
+            "kimberlite.io"
+          ]
+        }
+      },
+      {
         "KissMyAds": {
           "http://kissmyads.com/": [
             "kissmyads.com"
@@ -7877,6 +7916,13 @@
         "Knorex": {
           "https://www.knorex.com/": [
             "brand-display.com"
+          ]
+        }
+      },
+      {
+        "Kochava": {
+          "https://kochava.com": [
+            "kochava.com"
           ]
         }
       },
@@ -8092,6 +8138,13 @@
         "Local Yokel Media": {
           "http://www.localyokelmedia.com/": [
             "localyokelmedia.com"
+          ]
+        }
+      },
+      {
+        "Logly": {
+          "https://logly.co.jp": [
+            "logly.co.jp"
           ]
         }
       },
@@ -8466,6 +8519,13 @@
         }
       },
       {
+        "Metadata": {
+          "https://metadata.io": [
+            "metadata.io"
+          ]
+        }
+      },
+      {
         "metricswpsh.com": {
           "https://metricswpsh.com": [
             "metricswpsh.com"
@@ -8720,6 +8780,13 @@
         "mysalo.store": {
           "https://mysalo.store": [
             "a.mysalo.store"
+          ]
+        }
+      },
+      {
+        "mythad.com": {
+          "https://mythad.com": [
+            "mythad.com"
           ]
         }
       },
@@ -9044,9 +9111,8 @@
       },
       {
         "Omnicom Group": {
-          "http://www.omnicomgroup.com/": [
-            "accuenmedia.com",
-            "omnicomgroup.com"
+          "https://www.omnicomgroup.com/": [
+            "annalect.com"
           ]
         }
       },
@@ -9348,6 +9414,13 @@
         "Parka Solutions": {
           "https://luckylabs.io": [
             "cdn.luckylabs.io"
+          ]
+        }
+      },
+      {
+        "ParkLogic": {
+          "https://parklogic.com": [
+            "parklogic.com"
           ]
         }
       },
@@ -9777,6 +9850,13 @@
         }
       },
       {
+        "Qualified": {
+          "https://qualified.com": [
+            "qualified.com"
+          ]
+        }
+      },
+      {
         "Qualigo": {
           "https://qualigo.com": [
             "binlayer.com"
@@ -9884,7 +9964,8 @@
       {
         "RateGain": {
           "https://rategain.com": [
-            "adara.com"
+            "adara.com",
+            "adaraanalytics.com"
           ]
         }
       },
@@ -10610,6 +10691,13 @@
         }
       },
       {
+        "SmartNews": {
+          "https://smartnews.com": [
+            "smartnews-ads.com"
+          ]
+        }
+      },
+      {
         "SmartyAds": {
           "https://smartyads.com/": [
             "ck-ie.com",
@@ -11074,6 +11162,13 @@
         "Targetix": {
           "http://targetix.net/": [
             "targetix.net"
+          ]
+        }
+      },
+      {
+        "Target RTB": {
+          "https://new-programmatic.com": [
+            "new-programmatic.com"
           ]
         }
       },
@@ -11950,6 +12045,13 @@
         }
       },
       {
+        "Warmly": {
+          "https://warmly.ai": [
+            "getwarmly.com"
+          ]
+        }
+      },
+      {
         "Warner Bros. Discovery": {
           "https://wbd.com": [
             "bleacherreport.net",
@@ -12106,6 +12208,7 @@
       {
         "Wunderkind": {
           "https://www.wunderkind.co/": [
+            "behave.com",
             "bounceexchange.com",
             "bouncex.com",
             "bouncex.net",
@@ -13576,14 +13679,6 @@
         }
       },
       {
-        "Drift": {
-          "https://www.drift.com/": [
-            "drift.com",
-            "driftt.com"
-          ]
-        }
-      },
-      {
         "dtscdn.com": {
           "https://dtscdn.com": [
             "dtscdn.com"
@@ -13683,6 +13778,13 @@
         "Feedjit": {
           "http://feedjit.com/": [
             "feedjit.com"
+          ]
+        }
+      },
+      {
+        "FigPii": {
+          "https://figpii.com": [
+            "figpii.com"
           ]
         }
       },
@@ -14146,6 +14248,13 @@
         "Keytiles": {
           "https://keytiles.com": [
             "keytiles.com"
+          ]
+        }
+      },
+      {
+        "Kloudend": {
+          "https://kloudend.com": [
+            "ipapi.co"
           ]
         }
       },
@@ -14818,6 +14927,14 @@
         }
       },
       {
+        "Salesloft": {
+          "https://salesloft.com/": [
+            "drift.com",
+            "driftt.com"
+          ]
+        }
+      },
+      {
         "SardineAI": {
           "https://sardine.ai": [
             "sardine.ai"
@@ -15320,6 +15437,7 @@
       {
         "ZoomInfo": {
           "https://www.zoominfo.com/": [
+            "zi-scripts.com",
             "zoominfo.com"
           ]
         }

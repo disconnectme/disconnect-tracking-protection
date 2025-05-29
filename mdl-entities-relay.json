@@ -2271,6 +2271,7 @@
         "adobe.com",
         "adobedc.net",
         "adobedtm.com",
+        "adobetarget.com",
         "adsymptotic.com",
         "auditude.com",
         "bizible.com",
@@ -4831,6 +4832,14 @@
         "networldmedia.net"
       ]
     },
+    "ByBorg": {
+      "properties": [
+        "byborgenterprises.com"
+      ],
+      "resources": [
+        "vcmdiawe.com"
+      ]
+    },
     "bytecon.com": {
       "properties": [
         "bytecon.com"
@@ -6659,17 +6668,16 @@
         "doubleverify.com"
       ],
       "resources": [
-        "doubleverify.com"
+        "doubleverify.com",
+        "dv.tech"
       ]
     },
-    "Drift": {
+    "Dreamdata": {
       "properties": [
-        "drift.com"
+        "dreamdata.io"
       ],
       "resources": [
-        "drift.com",
-        "driftt.com",
-        "lookery.com"
+        "dreamdata.cloud"
       ]
     },
     "Drip Global": {
@@ -7474,6 +7482,14 @@
         "fiftyt.com"
       ]
     },
+    "FigPii": {
+      "properties": [
+        "figpii.com"
+      ],
+      "resources": [
+        "figpii.com"
+      ]
+    },
     "Fiksu": {
       "properties": [
         "fiksu.com"
@@ -7854,6 +7870,15 @@
       "resources": [
         "semasio.com",
         "semasio.net"
+      ]
+    },
+    "G2": {
+      "properties": [
+        "g2.com"
+      ],
+      "resources": [
+        "g2.com",
+        "g2crowd.com"
       ]
     },
     "Gamania": {
@@ -9294,6 +9319,7 @@
         "impactradius-go.com",
         "ojrq.net",
         "pxf.io",
+        "sjv.io",
         "trackonomics.net"
       ]
     },
@@ -9472,6 +9498,14 @@
       "resources": [
         "innovid.com",
         "tvsquared.com"
+      ]
+    },
+    "inPowered": {
+      "properties": [
+        "inpowered.ai"
+      ],
+      "resources": [
+        "inpwrd.net"
       ]
     },
     "Inrix": {
@@ -9665,6 +9699,7 @@
         "invoca.com"
       ],
       "resources": [
+        "invoca.net",
         "invocacdn.com"
       ]
     },
@@ -10101,6 +10136,14 @@
         "keywee.co"
       ]
     },
+    "Kimberlite.io": {
+      "properties": [
+        "kimberlite.io"
+      ],
+      "resources": [
+        "kimberlite.io"
+      ]
+    },
     "KissMyAds": {
       "properties": [
         "kissmyads.com"
@@ -10160,6 +10203,14 @@
         "ksearchnet.com"
       ]
     },
+    "Kloudend": {
+      "properties": [
+        "kloudend.com"
+      ],
+      "resources": [
+        "ipapi.co"
+      ]
+    },
     "km0trk.com": {
       "properties": [
         "km0trk.com"
@@ -10174,6 +10225,14 @@
       ],
       "resources": [
         "brand-display.com"
+      ]
+    },
+    "Kochava": {
+      "properties": [
+        "kochava.com"
+      ],
+      "resources": [
+        "kochava.com"
       ]
     },
     "Kokteyl": {
@@ -10502,6 +10561,14 @@
       ],
       "resources": [
         "logdy.com"
+      ]
+    },
+    "Logly": {
+      "properties": [
+        "logly.co.jp"
+      ],
+      "resources": [
+        "logly.co.jp"
       ]
     },
     "Loomia": {
@@ -11254,6 +11321,14 @@
         "roiservice.com"
       ]
     },
+    "Metadata": {
+      "properties": [
+        "metadata.io"
+      ],
+      "resources": [
+        "metadata.io"
+      ]
+    },
     "metricswpsh.com": {
       "properties": [
         "metricswpsh.com"
@@ -11770,6 +11845,14 @@
       ],
       "resources": [
         "mysalo.store"
+      ]
+    },
+    "mythad.com": {
+      "properties": [
+        "mythad.com"
+      ],
+      "resources": [
+        "mythad.com"
       ]
     },
     "myThings": {
@@ -12403,12 +12486,12 @@
     },
     "Omnicom Group": {
       "properties": [
-        "accuenmedia.com",
+        "annalect.com",
+        "omg.com",
         "omnicomgroup.com"
       ],
       "resources": [
-        "accuenmedia.com",
-        "omnicomgroup.com"
+        "annalect.com"
       ]
     },
     "omni-databank.com": {
@@ -12874,6 +12957,14 @@
       ],
       "resources": [
         "luckylabs.io"
+      ]
+    },
+    "ParkLogic": {
+      "properties": [
+        "parklogic.com"
+      ],
+      "resources": [
+        "parklogic.com"
       ]
     },
     "Parse.ly": {
@@ -13590,6 +13681,14 @@
         "qualaroo.com"
       ]
     },
+    "Qualified": {
+      "properties": [
+        "qualified.com"
+      ],
+      "resources": [
+        "qualified.com"
+      ]
+    },
     "Qualigo": {
       "properties": [
         "binlayer.com",
@@ -13812,7 +13911,8 @@
         "rategain.com"
       ],
       "resources": [
-        "adara.com"
+        "adara.com",
+        "adaraanalytics.com"
       ]
     },
     "RavMesserLtd": {
@@ -14394,9 +14494,12 @@
     },
     "Salesloft": {
       "properties": [
+        "drift.com",
         "salesloft.com"
       ],
       "resources": [
+        "drift.com",
+        "driftt.com",
         "salesloft.com",
         "salesloftlinks.com"
       ]
@@ -14979,6 +15082,14 @@
       ],
       "resources": [
         "smlists.com"
+      ]
+    },
+    "SmartNews": {
+      "properties": [
+        "smartnews.com"
+      ],
+      "resources": [
+        "smartnews-ads.com"
       ]
     },
     "SmartSendy": {
@@ -15776,6 +15887,14 @@
       ],
       "resources": [
         "targetix.net"
+      ]
+    },
+    "Target RTB": {
+      "properties": [
+        "new-programmatic.com"
+      ],
+      "resources": [
+        "new-programmatic.com"
       ]
     },
     "TargetVideo": {
@@ -17267,6 +17386,14 @@
         "punchtab.com"
       ]
     },
+    "Warmly": {
+      "properties": [
+        "warmly.ai"
+      ],
+      "resources": [
+        "getwarmly.com"
+      ]
+    },
     "Warner Bros. Discovery": {
       "properties": [
         "adultswim.com",
@@ -17638,6 +17765,7 @@
         "wunderkind.co"
       ],
       "resources": [
+        "behave.com",
         "bounceexchange.com",
         "bouncex.com",
         "bouncex.net",
@@ -18111,6 +18239,7 @@
       ],
       "resources": [
         "clickagy.com",
+        "zi-scripts.com",
         "zoominfo.com"
       ]
     },
