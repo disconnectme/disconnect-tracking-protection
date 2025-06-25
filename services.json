@@ -1484,13 +1484,6 @@
         }
       },
       {
-        "Zendable": {
-          "https://zendable.com/": [
-            "zendable.com"
-          ]
-        }
-      },
-      {
         "ZiffDavis": {
           "https://www.ziffdavis.com/": [
             "icptrack.com"
@@ -1614,7 +1607,15 @@
         "Acoustic": {
           "https://www.acoustic.com/": [
             "mkt51.net",
+            "pages01.net",
+            "pages02.net",
+            "pages03.net",
+            "pages04.net",
             "pages05.net",
+            "pages06.net",
+            "pages07.net",
+            "pages08.net",
+            "pages09.net",
             "silverpop.com",
             "vtrenz.net"
           ]
@@ -1826,13 +1827,6 @@
         }
       },
       {
-        "AdExtent": {
-          "http://www.adextent.com/": [
-            "adextent.com"
-          ]
-        }
-      },
-      {
         "Adfonic": {
           "http://adfonic.com/": [
             "adfonic.com"
@@ -1962,7 +1956,6 @@
       {
         "Ad Magnet": {
           "http://www.admagnet.com/": [
-            "admagnet.com",
             "admagnet.net"
           ]
         }
@@ -3108,7 +3101,6 @@
             "settleshoes.com",
             "shadeship.com",
             "shaggytank.com",
-            "shakyseat.com",
             "shakysurprise.com",
             "shakytaste.com",
             "shallowblade.com",
@@ -4228,6 +4220,13 @@
         }
       },
       {
+        "Anymind Group": {
+          "https://anymindgroup.com": [
+            "anymind360.com"
+          ]
+        }
+      },
+      {
         "AppCast": {
           "https://appcast.io/": [
             "appcast.io"
@@ -4289,6 +4288,13 @@
         "ARANet": {
           "https://www.aranet.io/": [
             "adfusion.com"
+          ]
+        }
+      },
+      {
+        "Arcspire": {
+          "https://arcspire.io": [
+            "arcspire.io"
           ]
         }
       },
@@ -4423,6 +4429,13 @@
         }
       },
       {
+        "Audience Solutions": {
+          "https://audience-solutions.com": [
+            "nsaudience.pl"
+          ]
+        }
+      },
+      {
         "Audigent": {
           "https://audigent.com/": [
             "ad.gt",
@@ -4538,6 +4551,7 @@
             "madvertise.com",
             "quantum-advertising.com",
             "sublime.xyz",
+            "themoneytizer.com",
             "widespace.com"
           ]
         }
@@ -5374,6 +5388,13 @@
         }
       },
       {
+        "CleverTap": {
+          "https://clevertap.com": [
+            "leanplum.com"
+          ]
+        }
+      },
+      {
         "Clickadu": {
           "https://clickadu.com": [
             "bncloudfl.com"
@@ -5503,7 +5524,6 @@
         "Collective": {
           "http://collective.com/": [
             "collective-media.net",
-            "tumri.com",
             "tumri.net"
           ]
         }
@@ -5587,7 +5607,8 @@
       {
         "ConstantContact": {
           "http://constantcontact.com/": [
-            "ctctcdn.com"
+            "ctctcdn.com",
+            "marketingautomation.services"
           ]
         }
       },
@@ -5632,6 +5653,13 @@
         "Contentful": {
           "https://contentful.com": [
             "contentful.com"
+          ]
+        }
+      },
+      {
+        "Contentstack": {
+          "https://contentstack.com": [
+            "lytics.io"
           ]
         }
       },
@@ -5763,7 +5791,6 @@
             "criteo.net",
             "fg8dgt.com",
             "hlserve.com",
-            "hooklogic.com",
             "iponweb.com",
             "iponweb.net",
             "storetail.io"
@@ -6045,7 +6072,6 @@
             "adcolony.com",
             "admarvel.com",
             "fyber.com",
-            "heyzap.com",
             "inner-active.com",
             "tpbid.com"
           ]
@@ -6111,6 +6137,13 @@
         }
       },
       {
+        "DMM": {
+          "https://dmm.com": [
+            "dmm.co.jp"
+          ]
+        }
+      },
+      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
@@ -6135,6 +6168,13 @@
         "DotdashMeredith": {
           "https://www.dotdashmeredith.com/": [
             "selectablemedia.com"
+          ]
+        }
+      },
+      {
+        "dotdigital Group": {
+          "https://dotdigitalgroup.com": [
+            "trackedlink.net"
           ]
         }
       },
@@ -6489,8 +6529,7 @@
       {
         "eWayDirect": {
           "http://www.ewaydirect.com/": [
-            "ewaydirect.com",
-            "ixs1.net"
+            "ewaydirect.com"
           ]
         }
       },
@@ -6642,6 +6681,13 @@
           "https://adcell.de": [
             "adcell.com",
             "adcell.de"
+          ]
+        }
+      },
+      {
+        "Five9": {
+          "https://five9.com": [
+            "five9.com"
           ]
         }
       },
@@ -6808,8 +6854,7 @@
       {
         "Future Ads": {
           "https://www.futureads.com/": [
-            "futureads.com",
-            "resultlinks.com"
+            "futureads.com"
           ]
         }
       },
@@ -6875,6 +6920,7 @@
       {
         "Gannett": {
           "http://www.gannett.com/": [
+            "lytiks.com",
             "pointroll.com",
             "reachlocal.com",
             "rlcdn.net",
@@ -7048,7 +7094,6 @@
             "2mdn.net",
             "admeld.com",
             "admob.com",
-            "adometry.com",
             "adservice.google.com",
             "adwords.google.com",
             "channelintelligence.com",
@@ -7162,11 +7207,17 @@
         }
       },
       {
+        "Hatena": {
+          "https://hatena.co.jp": [
+            "hatena.ne.jp"
+          ]
+        }
+      },
+      {
         "Hearst": {
           "http://www.hearst.com/": [
             "ic-live.com",
-            "icrossing.com",
-            "sptag3.com"
+            "icrossing.com"
           ]
         }
       },
@@ -7324,7 +7375,6 @@
       {
         "iBehavior": {
           "http://www.i-behavior.com/": [
-            "i-behavior.com",
             "ib-ibi.com"
           ]
         }
@@ -7348,7 +7398,6 @@
         "IDG": {
           "https://www.idg.com/": [
             "idg.com",
-            "idgtechnetwork.com",
             "kickfire.com",
             "sa-as.com",
             "visistat.com"
@@ -7476,6 +7525,13 @@
         "Infolinks": {
           "http://www.infolinks.com/": [
             "infolinks.com"
+          ]
+        }
+      },
+      {
+        "Informa": {
+          "https://informa.com": [
+            "techtarget.com"
           ]
         }
       },
@@ -7626,8 +7682,12 @@
       {
         "Internet Brands": {
           "http://www.internetbrands.com/": [
+            "contextweb.com",
+            "datranmedia.com",
+            "displaymarketplace.com",
             "ibpxl.com",
-            "internetbrands.com"
+            "internetbrands.com",
+            "pulsepoint.com"
           ]
         }
       },
@@ -7694,8 +7754,7 @@
           "http://www.iprom.si/": [
             "centraliprom.com",
             "iprom.net",
-            "iprom.si",
-            "mediaiprom.com"
+            "iprom.si"
           ]
         }
       },
@@ -7948,8 +8007,7 @@
       {
         "KIT digital": {
           "http://kitd.com/": [
-            "kitd.com",
-            "peerset.com"
+            "kitd.com"
           ]
         }
       },
@@ -8101,13 +8159,6 @@
         }
       },
       {
-        "LeanPlum": {
-          "https://www.leanplum.com/": [
-            "leanplum.com"
-          ]
-        }
-      },
-      {
         "Lemma": {
           "https://lemmatechnologies.com/": [
             "lemmatechnologies.com"
@@ -8118,13 +8169,6 @@
         "Levexis": {
           "http://www.levexis.com/": [
             "levexis.com"
-          ]
-        }
-      },
-      {
-        "Lexos Media": {
-          "http://www.lexosmedia.com/": [
-            "lexosmedia.com"
           ]
         }
       },
@@ -8216,13 +8260,6 @@
         }
       },
       {
-        "LocalIQ": {
-          "https://localiq.com/": [
-            "lytiks.com"
-          ]
-        }
-      },
-      {
         "Local Yokel Media": {
           "http://www.localyokelmedia.com/": [
             "localyokelmedia.com"
@@ -8285,6 +8322,13 @@
         "lptracker": {
           "https://lptracker.io/": [
             "lptracker.io"
+          ]
+        }
+      },
+      {
+        "LSC Digital": {
+          "https://lscmarketinggroup.com": [
+            "ixs1.net"
           ]
         }
       },
@@ -8648,7 +8692,8 @@
       {
         "MicroAd": {
           "http://www.microad.jp/": [
-            "microad.jp"
+            "microad.jp",
+            "microad.net"
           ]
         }
       },
@@ -8660,7 +8705,6 @@
             "adlantic.nl",
             "adnxs-simple.com",
             "adnxs.com",
-            "adrdgt.com",
             "alenty.com",
             "appnexus.com",
             "aquantive.com",
@@ -8803,6 +8847,13 @@
         "Monster": {
           "http://www.monster.com/": [
             "monster.com"
+          ]
+        }
+      },
+      {
+        "monu.delivery": {
+          "https://monu.delivery": [
+            "monu.delivery"
           ]
         }
       },
@@ -9149,6 +9200,7 @@
       {
         "Nosto": {
           "https://www.nosto.com/": [
+            "nosto.com",
             "stackla.com"
           ]
         }
@@ -9219,7 +9271,6 @@
       {
         "Ohana Media": {
           "http://www.ohana-media.com/": [
-            "adohana.com",
             "ohana-media.com",
             "ohanaqb.com"
           ]
@@ -9369,6 +9420,7 @@
       {
         "Opper": {
           "https://opper.com": [
+            "ownpage.fr",
             "qiota.com"
           ]
         }
@@ -9379,6 +9431,13 @@
             "advg.jp",
             "opt.ne.jp",
             "p-advg.com"
+          ]
+        }
+      },
+      {
+        "Optad360": {
+          "https://optad360.com": [
+            "optad360.io"
           ]
         }
       },
@@ -9501,13 +9560,6 @@
         "Overwolf": {
           "https://overwolf.com": [
             "tebex.io"
-          ]
-        }
-      },
-      {
-        "OwnPage": {
-          "https://www.ownpage.fr/": [
-            "ownpage.fr"
           ]
         }
       },
@@ -9667,7 +9719,6 @@
           "https://piano.io/": [
             "cxense.com",
             "emediate.biz",
-            "emediate.com",
             "emediate.dk",
             "emediate.eu",
             "hit-parade.com",
@@ -9801,6 +9852,13 @@
         "Popunder.ru": {
           "http://popunder.ru/": [
             "popunder.ru"
+          ]
+        }
+      },
+      {
+        "Powerfront": {
+          "https://powerfront.com": [
+            "inside-graph.com"
           ]
         }
       },
@@ -9957,18 +10015,7 @@
           "http://pulse360.com/": [
             "kanoodle.com",
             "pulse360.com",
-            "seevast.com",
-            "syndigonetworks.com"
-          ]
-        }
-      },
-      {
-        "PulsePoint": {
-          "https://www.pulsepoint.com/": [
-            "contextweb.com",
-            "datranmedia.com",
-            "displaymarketplace.com",
-            "pulsepoint.com"
+            "seevast.com"
           ]
         }
       },
@@ -9997,6 +10044,13 @@
         "Qualigo": {
           "https://qualigo.com": [
             "binlayer.com"
+          ]
+        }
+      },
+      {
+        "Quality Unit": {
+          "https://qualityunit.com": [
+            "postaffiliatepro.com"
           ]
         }
       },
@@ -10038,8 +10092,7 @@
           "https://quisma.com/": [
             "quisma.com",
             "quismatch.com",
-            "xaded.com",
-            "xmladed.com"
+            "xaded.com"
           ]
         }
       },
@@ -10131,6 +10184,13 @@
         "RebuyInc": {
           "https://rebuyengine.com": [
             "rebuyengine.com"
+          ]
+        }
+      },
+      {
+        "Redbrick": {
+          "https://rdbrck.com": [
+            "getdrip.com"
           ]
         }
       },
@@ -10244,8 +10304,9 @@
       },
       {
         "Resonate": {
-          "http://www.resonateinsights.com/": [
+          "https://resonate.com/": [
             "reson8.com",
+            "resonate.com",
             "resonateinsights.com"
           ]
         }
@@ -10275,6 +10336,7 @@
         "Retyp": {
           "https://optinmonster.com/": [
             "omappapi.com",
+            "opmnstr.com",
             "optinmonster.com",
             "optnmstr.com"
           ]
@@ -10358,6 +10420,13 @@
         }
       },
       {
+        "Rokt": {
+          "https://rokt.com": [
+            "rokt.com"
+          ]
+        }
+      },
+      {
         "Roku": {
           "https://www.roku.com/": [
             "dataxu.com",
@@ -10371,6 +10440,13 @@
         "RoqAd": {
           "https://www.roq.ad/": [
             "rqtrk.eu"
+          ]
+        }
+      },
+      {
+        "Route": {
+          "https://route.com": [
+            "route.com"
           ]
         }
       },
@@ -10467,7 +10543,6 @@
           "https://www.salesforce.com/": [
             "evergage.com",
             "krux.com",
-            "kruxdigital.com",
             "krxd.net",
             "leadforce1.com",
             "mybuys.com"
@@ -11798,8 +11873,16 @@
       {
         "Unbounce": {
           "http://unbounce.com/": [
+            "leadsrx.com",
             "ubembed.com",
             "unbounce.com"
+          ]
+        }
+      },
+      {
+        "unbxdapi.com": {
+          "https://unbxdapi.com": [
+            "unbxdapi.com"
           ]
         }
       },
@@ -11920,7 +12003,8 @@
         "ValueCommerce": {
           "https://valuecommerce.co.jp": [
             "adimg.net",
-            "adlantis.jp"
+            "adlantis.jp",
+            "valuecommerce.com"
           ]
         }
       },
@@ -12242,8 +12326,7 @@
         "Warner Bros. Discovery": {
           "https://wbd.com": [
             "bleacherreport.net",
-            "zedo.com",
-            "zincx.com"
+            "zedo.com"
           ]
         }
       },
@@ -12374,7 +12457,6 @@
       {
         "WPP": {
           "http://www.wpp.com/": [
-            "accelerator-media.com",
             "decdna.net",
             "decideinteractive.com",
             "gmads.net",
@@ -12443,7 +12525,6 @@
       {
         "Yahoo!": {
           "http://www.yahoo.com/": [
-            "adinterax.com",
             "adrevolver.com",
             "ads.yahoo.com",
             "adserver.yahoo.com",
@@ -12519,7 +12600,6 @@
           "http://www.yhmg.com/": [
             "attracto.com",
             "clickhype.com",
-            "yellowhammermg.com",
             "yhmg.com"
           ]
         }
@@ -13889,13 +13969,6 @@
         }
       },
       {
-        "DistilNetworks": {
-          "https://www.distilnetworks.com/": [
-            "distiltag.com"
-          ]
-        }
-      },
-      {
         "dnofd.com": {
           "https://dnofd.com": [
             "dnofd.com"
@@ -14156,15 +14229,6 @@
         }
       },
       {
-        "GfK Group": {
-          "http://www.gfk.com/": [
-            "daphnecm.com",
-            "gfk.com",
-            "gfkdaphne.com"
-          ]
-        }
-      },
-      {
         "GlassBox": {
           "https://www.glassbox.com/": [
             "sessioncam.com"
@@ -14370,8 +14434,7 @@
       {
         "InfoStars": {
           "http://infostars.ru/": [
-            "hotlog.ru",
-            "infostars.ru"
+            "hotlog.ru"
           ]
         }
       },
@@ -14746,6 +14809,13 @@
         }
       },
       {
+        " MTY Food Group": {
+          "https://mtygroup.com": [
+            "thecounter.com"
+          ]
+        }
+      },
+      {
         "Mux": {
           "https://mux.com": [
             "muxanalytics.com"
@@ -14841,8 +14911,18 @@
       {
         "Nielsen": {
           "http://www.nielsen.com/": [
-            "glanceguide.com",
             "nielsen.com"
+          ]
+        }
+      },
+      {
+        "NIQ": {
+          "https://nielseniq.com/global/en/": [
+            "gfk.com",
+            "gfkdaphne.com",
+            "nurago.com",
+            "nurago.de",
+            "sensic.net"
           ]
         }
       },
@@ -14878,15 +14958,6 @@
         "NPDigital": {
           "https://npdigital.com/": [
             "kissmetrics.com"
-          ]
-        }
-      },
-      {
-        "nurago": {
-          "http://www.nurago.com/": [
-            "nurago.com",
-            "nurago.de",
-            "sensic.net"
           ]
         }
       },
@@ -15086,13 +15157,6 @@
         "QuantumMetric": {
           "https://www.quantummetric.com": [
             "quantummetric.com"
-          ]
-        }
-      },
-      {
-        "QuinStreet": {
-          "http://quinstreet.com/": [
-            "thecounter.com"
           ]
         }
       },
@@ -18288,8 +18352,7 @@
       {
         "Salesforce": {
           "https://www.salesforce.com/": [
-            "krux.com",
-            "kruxdigital.com"
+            "krux.com"
           ]
         }
       },
