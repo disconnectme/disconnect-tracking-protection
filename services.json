@@ -4988,7 +4988,7 @@
       },
       {
         "BrightEdge": {
-          "http://www.brightedge.com/": [
+          "https://www.brightedge.com/": [
             "b0e8.com",
             "bc0a.com",
             "brightedge.com"
@@ -16247,13 +16247,6 @@
         "BreakTime": {
           "https://www.breaktime.com.tw/": [
             "breaktime.com.tw"
-          ]
-        }
-      },
-      {
-        "BrightEdge": {
-          "http://www.brightedge.com/": [
-            "b0e8.com"
           ]
         }
       },

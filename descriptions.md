@@ -31,7 +31,6 @@ The technical and policy review information below was recorded on the date obser
 - [BoostBox](#BoostBox)
 - [BrainNordic](#BrainNordic)
 - [BreakTime](#BreakTime)
-- [BrightEdge](#BrightEdge)
 - [BrowserAnalytic](#BrowserAnalytic)
 - [Buzzoola](#Buzzoola)
 - [C3-Metrics](#C3-Metrics)
@@ -1185,45 +1184,6 @@ Script: `https://a.breaktime.com.tw/js/au.js`
                 }
             }
 
-
-```
-
-[Go back to top](#tracker-descriptions-for-fingerprinters-and-cryptominers)
-
-## BrightEdge
-This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
-### Technical Review
-Script: `https://cdn.b0e8.com/conv_v3.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var audioTimeoutId$jscomp$0 = setTimeout(function() {
-       console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".');
-       /**
-        * @return {undefined}
-        */
-       context$jscomp$0.oncomplete = function() {
-       };
-       /** @type {null} */
-       context$jscomp$0 = null;
-       return done$jscomp$1("audioTimeout");
-     }
-
-```
-2. Fingerprint is then sent to to BrightEdge:
-```
- var _bright3 = new Object({
-   C_NAME : "BE_CLA3",
-   BE_URL : "a.b0e8.com/brightedge3.php",
-   BE_SURL : "a.b0e8.com/brightedge3.php",
-   IX_CONTENTS_HOSTNAME : "ix-contents.brightedge.com",
-   IX_CONTENTS_STAGING_HOSTNAME : "ixl-nginx1-001.gcp.staging.brightedge.com",
-   IX_STAGING_EXTERNAL_HOSTNAMES : /(ix-testing.brightedge.com)|(valuemyweb.com)/g,
-   IX_STAGING_INTERNAL_HOSTNAMES : /(-staging.brightedge.com)/g,
-   IX_TRUNCATE_HEADLINE_CHAR_COUNT : 100,
-   IX_TRUNCATE_DESC_CHAR_COUNT : 200,
-   TIMEOUT : 100 * 12 * 31 * 24 * 60 * 60 * 1E3,
-   S_TIMEOUT : 30 * 60 * 1E3,
-   VERSION : "3.39",
 
 ```
 
