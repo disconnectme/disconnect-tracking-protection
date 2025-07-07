@@ -5991,13 +5991,6 @@
         }
       },
       {
-        "Didomi": {
-          "https://didomi.io": [
-            "privacy-center.org"
-          ]
-        }
-      },
-      {
         "Digilant": {
           "https://digilant.com": [
             "wtp101.com"
@@ -18742,6 +18735,13 @@
       }
     ],
     "ConsentManagers": [
+      {
+        "Didomi": {
+          "https://didomi.io": [
+            "privacy-center.org"
+          ]
+        }
+      },
       {
         "OneTrust": {
           "https://onetrust.com": [
