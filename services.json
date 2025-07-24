@@ -1737,6 +1737,13 @@
         }
       },
       {
+        "Adalyser": {
+          "https://adalyser.com": [
+            "adalyser.com"
+          ]
+        }
+      },
+      {
         "AdaptiveAds": {
           "http://www.adaptiveads.com/": [
             "adaptiveads.com"
@@ -2051,6 +2058,7 @@
             "accuratecoal.com",
             "achieverknee.com",
             "acidicstraw.com",
+            "acidpigs.com",
             "acridangle.com",
             "acridtwist.com",
             "actuallysheep.com",
@@ -2070,6 +2078,7 @@
             "aheadmachine.com",
             "ak0gsh40.com",
             "aliasanvil.com",
+            "alikeaddition.com",
             "aliveachiever.com",
             "alleythecat.com",
             "alluringbucket.com",
@@ -2089,6 +2098,7 @@
             "analogwonder.com",
             "analyzecorona.com",
             "ancientact.com",
+            "annoyedairport.com",
             "annoyingacoustics.com",
             "annoyingclover.com",
             "anxiousapples.com",
@@ -2119,6 +2129,7 @@
             "azuremystique.com",
             "badgeboat.com",
             "badgerabbit.com",
+            "badgevolcano.com",
             "bagbeam.com",
             "baitbaseball.com",
             "balloonbelieve.com",
@@ -2160,6 +2171,7 @@
             "boatsvest.com",
             "boiledegglabs.com",
             "boilingbeetle.com",
+            "boilingcredit.com",
             "boostbehavior.com",
             "boredcrown.com",
             "bouncyproperty.com",
@@ -2196,13 +2208,16 @@
             "bustlingbook.com",
             "butterbulb.com",
             "butterburst.com",
+            "buttonladybug.com",
             "cakesdrum.com",
             "calculatingcircle.com",
             "calculatingtoothbrush.com",
+            "calculatorstatement.com",
             "callousbrake.com",
             "calmcactus.com",
             "calypsocapsule.com",
             "cannonchange.com",
+            "capablecup.com",
             "capriciouscorn.com",
             "captivatingcanyon.com",
             "captivatingillusion.com",
@@ -2212,6 +2227,7 @@
             "caringcast.com",
             "caringzinc.com",
             "carloforward.com",
+            "carpentercomparison.com",
             "carscannon.com",
             "cartkitten.com",
             "carvecakes.com",
@@ -2238,6 +2254,7 @@
             "charmingplate.com",
             "charscroll.com",
             "cheerycraze.com",
+            "cherriescare.com",
             "chessbranch.com",
             "chesscolor.com",
             "chesscrowd.com",
@@ -2286,9 +2303,11 @@
             "conditioncrush.com",
             "confesschairs.com",
             "configchain.com",
+            "confusedcart.com",
             "connectashelf.com",
             "consciouschairs.com",
             "consciouscheese.com",
+            "consciousdirt.com",
             "consumerzero.com",
             "controlcola.com",
             "controlhall.com",
@@ -2303,6 +2322,7 @@
             "cosmicsculptor.com",
             "cosmosjackson.com",
             "courageousbaby.com",
+            "coverapparatus.com",
             "cozydusk.com",
             "cozyhillside.com",
             "cozytryst.com",
@@ -2345,11 +2365,13 @@
             "dailydivision.com",
             "damagedadvice.com",
             "damageddistance.com",
+            "damdoor.com",
             "dampdock.com",
             "dancemistake.com",
             "dandydune.com",
             "dandyglow.com",
             "dapperdiscussion.com",
+            "dapperfloor.com",
             "datastoried.com",
             "daughterstone.com",
             "daymodern.com",
@@ -2360,6 +2382,7 @@
             "debonairtree.com",
             "debugentity.com",
             "decidedrum.com",
+            "decisivebase.com",
             "decisivedrawer.com",
             "decisiveducks.com",
             "decoycreation.com",
@@ -2377,6 +2400,7 @@
             "desiredirt.com",
             "detailedgovernment.com",
             "detectdinner.com",
+            "detectdiscovery.com",
             "detourgame.com",
             "deviceseal.com",
             "deviceworkshop.com",
@@ -2388,6 +2412,7 @@
             "diplomahawaii.com",
             "direfuldesk.com",
             "disagreeabledrop.com",
+            "discreetfield.com",
             "discreetquarter.com",
             "distributionneck.com",
             "distributionpocket.com",
@@ -2511,6 +2536,7 @@
             "fewjuice.com",
             "fewkittens.com",
             "finalizeforce.com",
+            "financefear.com",
             "finestpiece.com",
             "finitecube.com",
             "firecatfilms.com",
@@ -2534,6 +2560,7 @@
             "flowerstreatment.com",
             "flowerycreature.com",
             "floweryfact.com",
+            "floweryflavor.com",
             "floweryoperation.com",
             "flutteringfireman.com",
             "foambench.com",
@@ -2545,6 +2572,7 @@
             "forgetfulsnail.com",
             "fortunatemark.com",
             "fractalcoast.com",
+            "frailfruit.com",
             "framebanana.com",
             "franticroof.com",
             "frazzleart.com",
@@ -2571,6 +2599,7 @@
             "fuzzybasketball.com",
             "fuzzyerror.com",
             "fvl1f.pw",
+            "gammamaximum.com",
             "gardenovens.com",
             "gaudyairplane.com",
             "geekactive.com",
@@ -2595,6 +2624,7 @@
             "goldfishgrowth.com",
             "gondolagnome.com",
             "goodbark.com",
+            "gorgeousedge.com",
             "gracefulmilk.com",
             "grainmass.com",
             "grandfatherguitar.com",
@@ -2602,6 +2632,7 @@
             "gravitykick.com",
             "grayoranges.com",
             "grayreceipt.com",
+            "greasysquare.com",
             "greyinstrument.com",
             "gripcorn.com",
             "groovyornament.com",
@@ -2623,6 +2654,7 @@
             "halcyoncanyon.com",
             "halcyonsculpture.com",
             "hallowedinvention.com",
+            "haltingbadge.com",
             "haltingdivision.com",
             "hammerhearing.com",
             "handleteeth.com",
@@ -2637,6 +2669,7 @@
             "haplesshydrant.com",
             "haplessland.com",
             "happysponge.com",
+            "harborcaption.com",
             "harborcub.com",
             "harmonicbamboo.com",
             "harmonywing.com",
@@ -2654,11 +2687,13 @@
             "highfalutinhoney.com",
             "hilariouszinc.com",
             "historicalbeam.com",
+            "hocgeese.com",
             "hollowafterthought.com",
             "homelycrown.com",
             "honeybulb.com",
             "honeywhipped.com",
             "honorablehydrant.com",
+            "honorableland.com",
             "hospitablehall.com",
             "hospitablehat.com",
             "howdyinbox.com",
@@ -2741,6 +2776,7 @@
             "loadsurprise.com",
             "lonelyflavor.com",
             "longingtrees.com",
+            "looseloaf.com",
             "lorenzourban.com",
             "losslace.com",
             "loudlunch.com",
@@ -2757,6 +2793,7 @@
             "lunchroomlock.com",
             "lustroushaven.com",
             "lyricshook.com",
+            "maddeningpowder.com",
             "madebyintent.com",
             "magicaljoin.com",
             "magnetairport.com",
@@ -2769,11 +2806,13 @@
             "marblediscussion.com",
             "markedmeasure.com",
             "marketspiders.com",
+            "marriedbelief.com",
             "marriedmailbox.com",
             "marriedvalue.com",
             "massivemark.com",
             "materialisticmoon.com",
             "materialmilk.com",
+            "materialparcel.com",
             "materialplayground.com",
             "meadowlullaby.com",
             "measlymiddle.com",
@@ -2836,6 +2875,7 @@
             "needlessnorth.com",
             "needyneedle.com",
             "neighborlywatch.com",
+            "nervoussummer.com",
             "niftygraphs.com",
             "niftyhospital.com",
             "niftyjelly.com",
@@ -2854,6 +2894,7 @@
             "nudgeduck.com",
             "nullnorth.com",
             "numerousnest.com",
+            "nutritiousbean.com",
             "oafishchance.com",
             "oafishobservation.com",
             "obscenesidewalk.com",
@@ -2871,6 +2912,7 @@
             "orientedargument.com",
             "orionember.com",
             "ourblogthing.com",
+            "overconfidentfood.com",
             "overkick.com",
             "overratedchalk.com",
             "owlsr.us",
@@ -2881,8 +2923,10 @@
             "paintpear.com",
             "paleleaf.com",
             "pamelarandom.com",
+            "panickypancake.com",
             "panoramicplane.com",
             "parallelbulb.com",
+            "parchedsofa.com",
             "pardonpopular.com",
             "parentpicture.com",
             "parsimoniouspolice.com",
@@ -2928,6 +2972,7 @@
             "politeplanes.com",
             "politicalporter.com",
             "popplantation.com",
+            "possibleboats.com",
             "possiblepencil.com",
             "potatoinvention.com",
             "powderjourney.com",
@@ -2937,6 +2982,8 @@
             "prepareplanes.com",
             "presetrabbits.com",
             "previousplayground.com",
+            "priceypies.com",
+            "pricklydebt.com",
             "pricklypollution.com",
             "pristinegale.com",
             "probablepartner.com",
@@ -2966,10 +3013,13 @@
             "quantumlagoon.com",
             "quantumshine.com",
             "queenskart.com",
+            "quietknowledge.com",
             "quillkick.com",
             "quirkybliss.com",
             "quirkysugar.com",
             "quixoticnebula.com",
+            "quizzicalpartner.com",
+            "quizzicalzephyr.com",
             "rabbitbreath.com",
             "rabbitrifle.com",
             "radiantcanopy.com",
@@ -3009,6 +3059,7 @@
             "reloadphoto.com",
             "rememberdiscussion.com",
             "rentinfinity.com",
+            "repeatsweater.com",
             "replaceroute.com",
             "resonantbrush.com",
             "resonantrock.com",
@@ -3024,6 +3075,7 @@
             "rhythmrule.com",
             "richstring.com",
             "righteouscrayon.com",
+            "rightfulfall.com",
             "rigidrobin.com",
             "rigidveil.com",
             "rigorlab.com",
@@ -3042,14 +3094,17 @@
             "ruthlessmilk.com",
             "sableloss.com",
             "sablesmile.com",
+            "sablesong.com",
             "sadloaf.com",
             "saffronrefuge.com",
             "sagargift.com",
             "saltsacademy.com",
             "samesticks.com",
+            "samestretch.com",
             "samplesamba.com",
             "sandstrophies.com",
             "satisfycork.com",
+            "savoryorange.com",
             "scarcecard.com",
             "scarceshock.com",
             "scarcesign.com",
@@ -3080,6 +3135,7 @@
             "scribblestring.com",
             "scrollservice.com",
             "scrubswim.com",
+            "seatsmoke.com",
             "secondhandfall.com",
             "secretivesheep.com",
             "secretspiders.com",
@@ -3087,6 +3143,7 @@
             "seedscissors.com",
             "selectivesummer.com",
             "selfishsea.com",
+            "selfishsnake.com",
             "sendingspire.com",
             "sensorsmile.com",
             "separatesort.com",
@@ -3101,6 +3158,7 @@
             "settleshoes.com",
             "shadeship.com",
             "shaggytank.com",
+            "shakegoldfish.com",
             "shakysurprise.com",
             "shakytaste.com",
             "shallowblade.com",
@@ -3117,6 +3175,7 @@
             "shredquiz.com",
             "shrillspoon.com",
             "shydinosaurs.com",
+            "sicksmash.com",
             "sierrakermit.com",
             "signaturepod.com",
             "siliconslow.com",
@@ -3127,6 +3186,7 @@
             "sincerepelican.com",
             "sinceresubstance.com",
             "singroot.com",
+            "sixauthority.com",
             "sixscissors.com",
             "sizzlingsmoke.com",
             "skillfuldrop.com",
@@ -3136,8 +3196,10 @@
             "slinksuggestion.com",
             "slopesoap.com",
             "smallershops.com",
+            "smashquartz.com",
             "smashshoe.com",
             "smashsurprise.com",
+            "smilingswim.com",
             "smoggysnakes.com",
             "smoggysongs.com",
             "smoggystation.com",
@@ -3160,12 +3222,14 @@
             "soundstocking.com",
             "sparklingshelf.com",
             "specialscissors.com",
+            "spectacularstamp.com",
             "spellmist.com",
             "spellsalsa.com",
             "spiffymachine.com",
             "spirebaboon.com",
             "spookyexchange.com",
             "spookyskate.com",
+            "spookysleet.com",
             "spoonsilk.com",
             "spotlessstamp.com",
             "spottednoise.com",
@@ -3188,8 +3252,11 @@
             "startingcars.com",
             "stayaction.com",
             "steadfastseat.com",
+            "steadfastsound.com",
             "steadfastsystem.com",
+            "steadycopper.com",
             "stealsteel.com",
+            "steepsquirrel.com",
             "stepcattle.com",
             "stepwisevideo.com",
             "stereoproxy.com",
@@ -3216,7 +3283,9 @@
             "stretchsneeze.com",
             "stretchsquirrel.com",
             "strivesidewalk.com",
+            "strivesquirrel.com",
             "strokesystem.com",
+            "stupendoussleet.com",
             "stupendoussnow.com",
             "stupidscene.com",
             "sublimequartz.com",
@@ -3228,8 +3297,10 @@
             "sulkycook.com",
             "summerobject.com",
             "superchichair.com",
+            "superficialeyes.com",
             "superficialspring.com",
             "superficialsquare.com",
+            "supportwaves.com",
             "swankysquare.com",
             "swellstocking.com",
             "swingslip.com",
@@ -3237,6 +3308,7 @@
             "synonymoussticks.com",
             "tackytrains.com",
             "tangibleteam.com",
+            "tangyamount.com",
             "tangycover.com",
             "tastelesstrees.com",
             "tastelesstrucks.com",
@@ -3246,15 +3318,21 @@
             "tediousticket.com",
             "teenytinycellar.com",
             "teenytinyshirt.com",
+            "teenytinytongue.com",
             "tempertrick.com",
             "tempttalk.com",
+            "temptteam.com",
+            "tendertest.com",
+            "terriblethumb.com",
             "terrifictooth.com",
             "testadmiral.com",
             "texturetrick.com",
             "thicktrucks.com",
             "thingsafterthought.com",
+            "thinkitten.com",
             "thinkitwice.com",
             "thirdrespect.com",
+            "thomastorch.com",
             "thoughtlessknot.com",
             "threetruck.com",
             "ticketaunt.com",
@@ -3271,6 +3349,7 @@
             "tranquilveil.com",
             "tranquilveranda.com",
             "treadbun.com",
+            "tremendousplastic.com",
             "tritebadge.com",
             "tritetongue.com",
             "troubleshade.com",
@@ -3279,8 +3358,11 @@
             "tumbleicicle.com",
             "twistloss.com",
             "twistsweater.com",
+            "typicalairplane.com",
+            "typicalteeth.com",
             "ubiquitoussea.com",
             "ubiquitousyard.com",
+            "ultraoranges.com",
             "unablehope.com",
             "unaccountablecreator.com",
             "unaccountablepie.com",
@@ -3291,11 +3373,13 @@
             "understoodocean.com",
             "unequalbrake.com",
             "unequaltrail.com",
+            "uninterestedquarter.com",
             "unknowncontrol.com",
             "unknowncrate.com",
             "unknowntray.com",
             "untidyquestion.com",
             "untidyrice.com",
+            "unusedstone.com",
             "unusualtitle.com",
             "unwieldyhealth.com",
             "unwieldyimpulse.com",
@@ -3312,6 +3396,7 @@
             "verdantloom.com",
             "verseballs.com",
             "vibrantcelebration.com",
+            "vibranthaven.com",
             "vibrantpact.com",
             "vibranttalisman.com",
             "vibrantvale.com",
@@ -3333,11 +3418,13 @@
             "whisperingcascade.com",
             "whisperingquasar.com",
             "whisperingsummit.com",
+            "whispermeeting.com",
             "whymaze.com",
             "wildcommittee.com",
             "wirecomic.com",
             "wiredforcoffee.com",
             "wittypopcorn.com",
+            "workoperation.com",
             "worriednumber.com",
             "wretchedfloor.com",
             "wtaccesscontrol.com",
@@ -3346,6 +3433,7 @@
             "zephyrlabyrinth.com",
             "zestycrime.com",
             "zestyhorizon.com",
+            "zipperxray.com",
             "zipthelake.com",
             "zlp6s.pw"
           ]
@@ -3581,13 +3669,6 @@
         }
       },
       {
-        "adscale": {
-          "http://www.adscale.de/": [
-            "adscale.de"
-          ]
-        }
-      },
-      {
         "adschill.com": {
           "https://adschill.com": [
             "adschill.com"
@@ -3796,6 +3877,13 @@
         }
       },
       {
+        "Advally": {
+          "https://advally.com": [
+            "adligature.com"
+          ]
+        }
+      },
+      {
         "AdvancedStore": {
           "https://www.advanced-store.com/de/": [
             "ad4m.at",
@@ -3990,7 +4078,8 @@
       {
         "Affle": {
           "https://affle.com/": [
-            "atomex.net"
+            "atomex.net",
+            "vizury.com"
           ]
         }
       },
@@ -4266,6 +4355,7 @@
         "Applovin": {
           "http://www.applovin.com/": [
             "applovin.com",
+            "axon.ai",
             "mopub.com"
           ]
         }
@@ -4632,9 +4722,15 @@
         }
       },
       {
+        "Batch": {
+          "https://batch.com": [
+            "batch.com"
+          ]
+        }
+      },
+      {
         "BDOW": {
           "https://bdow.com/": [
-            "sumo.com",
             "sumome.com"
           ]
         }
@@ -6418,7 +6514,8 @@
       {
         "Epsilon": {
           "http://www.epsilon.com/": [
-            "epsilon.com"
+            "epsilon.com",
+            "yieldify.com"
           ]
         }
       },
@@ -6563,6 +6660,15 @@
         "expo-MAX": {
           "http://expo-max.com/": [
             "expo-max.com"
+          ]
+        }
+      },
+      {
+        "EXTE": {
+          "https://exte.com": [
+            "richaudience.com",
+            "sunmedia.tv",
+            "unblockia.com"
           ]
         }
       },
@@ -6917,7 +7023,8 @@
             "pointroll.com",
             "reachlocal.com",
             "rlcdn.net",
-            "rlets.com"
+            "rlets.com",
+            "wordstream.com"
           ]
         }
       },
@@ -7088,6 +7195,7 @@
             "admeld.com",
             "admob.com",
             "adservice.google.com",
+            "adtrafficquality.google",
             "adwords.google.com",
             "channelintelligence.com",
             "dartsearch.net",
@@ -7333,6 +7441,7 @@
       {
         "HybridAI": {
           "https://hybrid.ai/": [
+            "hbrd.io",
             "hybrid.ai"
           ]
         }
@@ -7681,6 +7790,13 @@
             "ibpxl.com",
             "internetbrands.com",
             "pulsepoint.com"
+          ]
+        }
+      },
+      {
+        "Internet Info": {
+          "https://iinfo.cz": [
+            "slunecnice.cz"
           ]
         }
       },
@@ -8152,6 +8268,13 @@
         }
       },
       {
+        "LeadTip": {
+          "https://hushly.com": [
+            "hushly.com"
+          ]
+        }
+      },
+      {
         "Lemma": {
           "https://lemmatechnologies.com/": [
             "lemmatechnologies.com"
@@ -8445,6 +8568,13 @@
         }
       },
       {
+        "Market Metrics": {
+          "https://the-metrics.com": [
+            "mrktmtrcs.net"
+          ]
+        }
+      },
+      {
         "MarketOps": {
           "https://marketops.com": [
             "marketiq.com"
@@ -8593,6 +8723,7 @@
       {
         "Mediavine": {
           "https://www.mediavine.com/": [
+            "adsbymediavine.com",
             "grow.me",
             "mediavine.com"
           ]
@@ -9255,6 +9386,13 @@
         }
       },
       {
+        "Obviyo": {
+          "https://obviyo.com": [
+            "hiconversion.com"
+          ]
+        }
+      },
+      {
         "Ogury": {
           "https://ogury.com/": [
             "presage.io"
@@ -9347,13 +9485,6 @@
           "http://www.oneupweb.com/": [
             "oneupweb.com",
             "sodoit.com"
-          ]
-        }
-      },
-      {
-        "OnlineMetrix": {
-          "http://h.online-metrix.net": [
-            "online-metrix.net"
           ]
         }
       },
@@ -9673,7 +9804,9 @@
       {
         "Perion": {
           "https://www.perion.com/": [
-            "legolas-media.com"
+            "legolas-media.com",
+            "undertone.com",
+            "vidazoo.com"
           ]
         }
       },
@@ -10181,6 +10314,13 @@
         }
       },
       {
+        "receptivity.io": {
+          "https://receptivity.io": [
+            "receptivity.io"
+          ]
+        }
+      },
+      {
         "Redbrick": {
           "https://rdbrck.com": [
             "getdrip.com"
@@ -10256,6 +10396,13 @@
         "Reliz": {
           "https://reliz.com/": [
             "bumlam.com"
+          ]
+        }
+      },
+      {
+        "RELX": {
+          "https://relx.com": [
+            "online-metrix.net"
           ]
         }
       },
@@ -10353,13 +10500,6 @@
         "Revtracks": {
           "http://revtrax.com/": [
             "revtrax.com"
-          ]
-        }
-      },
-      {
-        "RichAudience": {
-          "https://richaudience.com/": [
-            "richaudience.com"
           ]
         }
       },
@@ -10896,13 +11036,6 @@
         }
       },
       {
-        "Slunecnice": {
-          "https://www.slunecnice.cz/": [
-            "slunecnice.cz"
-          ]
-        }
-      },
-      {
         "Smarketer": {
           "https://smarketer.de": [
             "smarketer.de"
@@ -11219,6 +11352,13 @@
         }
       },
       {
+        "Ströer": {
+          "https://stroeer.de": [
+            "adscale.de"
+          ]
+        }
+      },
+      {
         "StrongMail": {
           "http://www.strongmail.com/": [
             "popularmedia.com"
@@ -11240,6 +11380,13 @@
         }
       },
       {
+        "Sumo Group": {
+          "https://appsumo.com": [
+            "sumo.com"
+          ]
+        }
+      },
+      {
         "SunAdNetwork": {
           "https://www.sunadnetwork.com/": [
             "adclickmedia.com"
@@ -11250,13 +11397,6 @@
         "SundaySky": {
           "https://sundaysky.com": [
             "sundaysky.com"
-          ]
-        }
-      },
-      {
-        "Sunmedia": {
-          "https://www.sunmedia.tv/en/": [
-            "sunmedia.tv"
           ]
         }
       },
@@ -11418,7 +11558,8 @@
           "https://www.teads.com/": [
             "brainient.com",
             "ebuzzing.com",
-            "teads.tv"
+            "teads.tv",
+            "vi.ai"
           ]
         }
       },
@@ -11830,7 +11971,8 @@
         "TXGroup": {
           "https://tamedia.ch": [
             "goldbach.com",
-            "goldbachgroup.com"
+            "goldbachgroup.com",
+            "tamedia.link"
           ]
         }
       },
@@ -11857,13 +11999,6 @@
         }
       },
       {
-        "Unblockia": {
-          "https://www.unblockia.com": [
-            "unblockia.com"
-          ]
-        }
-      },
-      {
         "Unbounce": {
           "http://unbounce.com/": [
             "leadsrx.com",
@@ -11883,14 +12018,8 @@
         "Underdog Media": {
           "http://www.underdogmedia.com/": [
             "udmserve.net",
+            "underdog.media",
             "underdogmedia.com"
-          ]
-        }
-      },
-      {
-        "Undertone": {
-          "http://www.undertone.com/": [
-            "undertone.com"
           ]
         }
       },
@@ -12169,23 +12298,9 @@
         }
       },
       {
-        "Vidazoo": {
-          "https://vidazoo.com": [
-            "vidazoo.com"
-          ]
-        }
-      },
-      {
         "VideoAmp": {
           "https://videoamp.com": [
             "videoamp.com"
-          ]
-        }
-      },
-      {
-        "VideoIntelligence": {
-          "https://www.vi.ai/": [
-            "vi.ai"
           ]
         }
       },
@@ -12234,13 +12349,6 @@
         }
       },
       {
-        "Vizury": {
-          "http://www.vizury.com/": [
-            "vizury.com"
-          ]
-        }
-      },
-      {
         "Vocento": {
           "https://en.vocento.com/": [
             "vocento.com",
@@ -12252,6 +12360,13 @@
         "Voltn": {
           "https://voltn.com": [
             "nytrng.com"
+          ]
+        }
+      },
+      {
+        "Vox Media": {
+          "https://voxmedia.com": [
+            "concert.io"
           ]
         }
       },
@@ -12430,13 +12545,6 @@
         "Wistia": {
           "https://wistia.com": [
             "wistia.com"
-          ]
-        }
-      },
-      {
-        "WordStream": {
-          "http://www.wordstream.com/": [
-            "wordstream.com"
           ]
         }
       },
@@ -12626,13 +12734,6 @@
         }
       },
       {
-        "Yieldify": {
-          "https://www.yieldify.com/": [
-            "yieldify.com"
-          ]
-        }
-      },
-      {
         "yieldlove-ad-serving.net": {
           "https://yieldlove-ad-serving.net": [
             "yieldlove-ad-serving.net"
@@ -12670,8 +12771,8 @@
         }
       },
       {
-        "ZafulAffiliate": {
-          "https://affiliate.zaful.com/": [
+        "Zaful": {
+          "https://zaful.com/": [
             "affasi.com",
             "gw-ec.com",
             "zaful.com"
@@ -13353,6 +13454,20 @@
         }
       },
       {
+        "Acceleration Partners": {
+          "https://accelerationpartners.com": [
+            "roeyecdn.com"
+          ]
+        }
+      },
+      {
+        "Acquia": {
+          "https://acquia.com": [
+            "monsido.com"
+          ]
+        }
+      },
+      {
         "AddFreeStats": {
           "http://www.addfreestats.com/": [
             "3dstats.com",
@@ -13396,7 +13511,8 @@
         "Airship": {
           "https://airship.com": [
             "airship.com",
-            "asnapieu.com"
+            "asnapieu.com",
+            "aswpsdkus.com"
           ]
         }
       },
@@ -13470,6 +13586,14 @@
           "http://anormal-media.de/": [
             "anormal-media.de",
             "anormal-tracker.de"
+          ]
+        }
+      },
+      {
+        "Appier": {
+          "http://appier.com/": [
+            "woopra-ns.com",
+            "woopra.com"
           ]
         }
       },
@@ -13644,6 +13768,13 @@
         }
       },
       {
+        "BrainPad": {
+          "https://brainpad.co.jp": [
+            "rtoaster.jp"
+          ]
+        }
+      },
+      {
         "Branica": {
           "http://www.branica.com/": [
             "branica.com"
@@ -13675,6 +13806,20 @@
         "buySAFE": {
           "http://www.buysafe.com/": [
             "buysafe.com"
+          ]
+        }
+      },
+      {
+        "CallTrackingMetrics": {
+          "https://calltrackingmetrics.com": [
+            "tctm.co"
+          ]
+        }
+      },
+      {
+        "Catchpoint": {
+          "https://catchpoint.com": [
+            "3gl.net"
           ]
         }
       },
@@ -13847,6 +13992,13 @@
           "http://www.convert.com/": [
             "convert.com",
             "reedge.com"
+          ]
+        }
+      },
+      {
+        "convertlanguage.com": {
+          "https://convertlanguage.com": [
+            "convertlanguage.com"
           ]
         }
       },
@@ -14389,7 +14541,8 @@
           "http://www.ibm.com/": [
             "cmcore.com",
             "coremetrics.com",
-            "ibm.com"
+            "ibm.com",
+            "instana.io"
           ]
         }
       },
@@ -14627,7 +14780,8 @@
         "Mapp": {
           "https://mapp.com/": [
             "webtrekk.com",
-            "webtrekk.net"
+            "webtrekk.net",
+            "wt-safetag.com"
           ]
         }
       },
@@ -14781,23 +14935,9 @@
         }
       },
       {
-        "Monsido": {
-          "https://www.monsido.com": [
-            "monsido.com"
-          ]
-        }
-      },
-      {
         "Mouseflow": {
           "http://mouseflow.com/": [
             "mouseflow.com"
-          ]
-        }
-      },
-      {
-        "mParticle": {
-          "https://www.mparticle.com/": [
-            "mparticle.com"
           ]
         }
       },
@@ -15220,6 +15360,13 @@
         "Riskified": {
           "https://www.riskified.com": [
             "riskified.com"
+          ]
+        }
+      },
+      {
+        "Rokt": {
+          "https://rokt.com": [
+            "mparticle.com"
           ]
         }
       },
@@ -15687,7 +15834,8 @@
       {
         "whos.amung.us": {
           "http://whos.amung.us/": [
-            "amung.us"
+            "amung.us",
+            "waust.at"
           ]
         }
       },
@@ -15696,14 +15844,6 @@
           "http://wingify.com/": [
             "visualwebsiteoptimizer.com",
             "wingify.com"
-          ]
-        }
-      },
-      {
-        "Woopra": {
-          "http://www.woopra.com/": [
-            "woopra-ns.com",
-            "woopra.com"
           ]
         }
       },
@@ -15774,6 +15914,14 @@
         "Yoox": {
           "https://www.yoox.com/us": [
             "yoox.it"
+          ]
+        }
+      },
+      {
+        "Yotta": {
+          "https://yottaa.com": [
+            "yottaa.com",
+            "yottaa.net"
           ]
         }
       },
@@ -17158,13 +17306,6 @@
         }
       },
       {
-        "OnlineMetrix": {
-          "http://h.online-metrix.net": [
-            "online-metrix.net"
-          ]
-        }
-      },
-      {
         "opin.media": {
           "https://opin.media": [
             "jssdk.opin.media"
@@ -17287,6 +17428,13 @@
         "rdrctgoweb.com": {
           "https://rdrctgoweb.com": [
             "rdrctgoweb.com"
+          ]
+        }
+      },
+      {
+        "RELX": {
+          "https://relx.com": [
+            "online-metrix.net"
           ]
         }
       },
@@ -17740,8 +17888,8 @@
         }
       },
       {
-        "ZafulAffiliate": {
-          "https://affiliate.zaful.com/": [
+        "Zaful": {
+          "https://zaful.com/": [
             "affasi.com",
             "gw-ec.com",
             "zaful.com"
