@@ -3195,7 +3195,19 @@
     },
     "Airbnb": {
       "properties": [
-        "airbnb.com"
+        "air.tl",
+        "airbnb.be",
+        "airbnb.ca",
+        "airbnb.ch",
+        "airbnb.cn",
+        "airbnb.co.in",
+        "airbnb.co.za",
+        "airbnb.com",
+        "airbnb.com.mt",
+        "airbnb.ie",
+        "airbnb.lu",
+        "luxuryretreats.com",
+        "muscache.com"
       ],
       "resources": [
         "muscache.com"
@@ -3299,7 +3311,12 @@
         "alibabagroup.com",
         "alibabapictures.com",
         "alicdn.com",
+        "aliexpress-media.com",
+        "aliexpress-service.com",
+        "aliexpress-tech-open.com",
         "aliexpress.com",
+        "aliexpress.fr",
+        "aliexpress.ge",
         "aliexpress.ru",
         "aliexpress.us",
         "alipay.cn",
@@ -3308,21 +3325,66 @@
         "alipay.hk",
         "alipaydns.com",
         "alipayobjects.com",
+        "aliyun.com",
         "aliyuncs.com",
         "amap.com",
         "cainiao.com",
         "damai.cn",
+        "daraz.com",
+        "daraz.com.bd",
+        "daraz.com.np",
+        "daraz.lk",
         "daraz.pk",
         "dingtalk.com",
         "ele.me",
+        "fxm.so",
         "goofish.com",
+        "homestyler.com",
+        "ihuiwa.com",
+        "lazada-seller.cn",
+        "lazada.co.id",
+        "lazada.co.th",
         "lazada.com",
+        "lazada.com.hk",
+        "lazada.com.my",
+        "lazada.com.ph",
+        "lazada.jp",
+        "lazada.kr",
+        "lazada.sg",
+        "lazada.vn",
+        "lazadapay.co.id",
+        "lazadapay.co.th",
+        "lazadapay.com.my",
+        "lazadapay.com.ph",
+        "lazadapay.sg",
+        "lazcdn.com",
+        "lazlogistics.co.id",
+        "lazlogistics.in.th",
+        "lazlogistics.my",
+        "lazlogistics.ph",
+        "lazlogistics.sg",
+        "lel.asia",
+        "llportal.co.id",
+        "llportal.com.my",
+        "llportal.com.ph",
+        "llportal.in.th",
+        "llportal.sg",
+        "lzd.co",
+        "metrocourier-inc.com.ph",
         "miravia.es",
         "mmstat.com",
+        "modelscope.cn",
+        "redmart.com",
+        "shop.com.mm",
+        "tao.co",
         "taobao.com",
+        "taobao.global",
+        "taobao.hk",
+        "taobao.tw",
         "tb.cn",
         "tmall.com",
         "tmall.hk",
+        "tmall.ru",
         "trendyol.com",
         "uc.cn",
         "umeng.com",
@@ -4149,7 +4211,16 @@
     },
     "Azion": {
       "properties": [
-        "azion.com"
+        "azion.app",
+        "azion.com",
+        "azion.com.br",
+        "azion.net",
+        "azionapi.net",
+        "azioncdn.net",
+        "azionedge.com",
+        "azionedge.net",
+        "azioningest.net",
+        "azionrum.net"
       ],
       "resources": [
         "azionedge.net"
@@ -4198,6 +4269,9 @@
     "Baidu": {
       "properties": [
         "baidu.com",
+        "baidu.com.hk",
+        "baidu.hk",
+        "baidu.net.au",
         "popin.cc"
       ],
       "resources": [
@@ -4511,7 +4585,8 @@
     },
     "Bilibili": {
       "properties": [
-        "bilibili.com"
+        "bilibili.com",
+        "hdslb.com"
       ],
       "resources": [
         "hdslb.com"
@@ -5129,7 +5204,8 @@
         "nvsgames.com",
         "pangleglobal.com",
         "picoxr.com",
-        "tiktok.com"
+        "tiktok.com",
+        "ttwstatic.com"
       ],
       "resources": [
         "pangle-ads.com",
@@ -6363,14 +6439,6 @@
         "crazyegg.com"
       ]
     },
-    "creditkarmacdn-a.akamaihd.net": {
-      "properties": [
-        "creditkarmacdn-a.akamaihd.net"
-      ],
-      "resources": [
-        "creditkarmacdn-a.akamaihd.net"
-      ]
-    },
     "Crimtan": {
       "properties": [
         "crimtan.com"
@@ -6684,14 +6752,6 @@
         "securedvisit.com"
       ]
     },
-    "Despegar": {
-      "properties": [
-        "investor.despegar.com"
-      ],
-      "resources": [
-        "despegar.com"
-      ]
-    },
     "Deutsche Post DHL": {
       "properties": [
         "dpdhl.com"
@@ -6937,7 +6997,8 @@
     },
     "D-MARKET Elektronik Hizmetler Tic.": {
       "properties": [
-        "hepsiburada.com"
+        "hepsiburada.com",
+        "hepsiburada.net"
       ],
       "resources": [
         "hepsiburada.net"
@@ -10106,6 +10167,17 @@
         "im-apps.net"
       ]
     },
+    "Intuit": {
+      "properties": [
+        "creditkarma.ca",
+        "creditkarma.co.uk",
+        "creditkarma.com",
+        "creditkarmacdn-a.akamaihd.net"
+      ],
+      "resources": [
+        "creditkarmacdn-a.akamaihd.net"
+      ]
+    },
     "Inuvo": {
       "properties": [
         "inuvo.com"
@@ -11901,29 +11973,92 @@
         "azure.net",
         "azurerms.com",
         "bing.com",
+        "bingplaces.com",
         "bizo.com",
         "bizographics.com",
+        "businesscentral.be",
+        "businesscentral.ch",
+        "businesscentral.jp",
+        "businesscentral.mx",
+        "businesscentral.tw",
+        "businesscentral.us",
         "clarity.ms",
+        "clearsoftware.com",
         "cloud.microsoft",
         "cloudappsecurity.com",
+        "collegepuzzlechallenge.com",
+        "cortanaskills.com",
+        "cosmosdb.com",
+        "designedforsurface.com",
+        "digestibledynamicspodcast.com",
         "drawbridge.com",
+        "dynamics.asia",
+        "dynamics.com",
+        "dynamics.com.tr",
+        "dynamics.cz",
+        "dynamics.eu",
+        "dynamics.sk",
+        "dynamics365.ae",
+        "dynamics365.at",
+        "dynamics365.ch",
+        "dynamics365.cl",
+        "dynamics365.co",
+        "dynamics365.com",
+        "dynamics365.cz",
+        "dynamics365.dk",
+        "dynamics365.ec",
+        "dynamics365.es",
+        "dynamics365.eu",
+        "dynamics365.fr",
+        "dynamics365.hk",
+        "dynamics365.in",
+        "dynamics365.it",
+        "dynamics365.lt",
+        "dynamics365.mx",
+        "dynamics365.nz",
+        "dynamics365.pt",
+        "dynamics365.ro",
+        "dynamics365.ru",
+        "dynamics365.se",
+        "dynamics365.us",
+        "dynamics365.vn",
+        "dynamics365businesscentral.be",
+        "dynamics365businesscentral.ca",
+        "dynamics365businesscentral.ch",
+        "dynamics365businesscentral.co.nz",
+        "dynamics365businesscentral.co.za",
+        "dynamics365businesscentral.com.au",
+        "edge.ms",
+        "fsinsider.com",
+        "fsxinsider.com",
         "gamesforwindows.com",
         "gaug.es",
+        "gears.gg",
         "getgamesmart.com",
         "gfx.ms",
         "github.com",
         "healthvault.com",
         "hockeyapp.net",
+        "hololensevents.com",
         "ieaddons.com",
         "iegallery.com",
+        "indexnow.org",
         "linkedin.com",
         "live.com",
         "lnkd.in",
+        "mdcs.rs",
+        "meetfasttrack.com",
+        "microsoft.ch",
         "microsoft.com",
+        "microsoft.fr",
+        "microsoft.io",
+        "microsoft.org",
         "microsoft365.com",
+        "microsoftaffiliates.com",
         "microsoftalumni.com",
         "microsoftalumni.org",
         "microsoftazuread-sso.com",
+        "microsoftedge.com",
         "microsoftedgeinsider.com",
         "microsoftedgeinsiders.com",
         "microsoftonline-p.com",
@@ -11931,13 +12066,16 @@
         "microsoftonline.com",
         "microsoftstart.cn",
         "microsoftstart.com",
+        "microsoftstore.ca",
         "microsoftstore.com",
         "microsoftstream.com",
         "msappproxy.net",
         "msft.net",
         "msftidentity.com",
+        "msfttransform.ca",
         "msidentity.com",
         "msn.com",
+        "msphu.net",
         "nuance.com",
         "o365weve.com",
         "oaspapps.com",
@@ -11949,20 +12087,31 @@
         "outlook.com",
         "outlookmobile.com",
         "phonefactor.net",
+        "powerapps.com",
+        "powerapps.io",
+        "powerplatform.com",
+        "redtigerwiki.com",
         "s-msn.com",
         "sfx.ms",
         "sharepoint-df.com",
         "sharepoint.com",
         "skype.com",
+        "skype.net",
         "skypeforbusiness.com",
         "staffhub.ms",
+        "storageexplorer.com",
         "sway-extensions.com",
         "sway.com",
+        "thedigestibledynamicspodcast.com",
         "trafficmanager.net",
+        "tryazuremarketplace.com",
+        "videobreakdown.com",
         "virtualearth.net",
         "visualstudio.com",
         "windows.net",
         "windowsazure.com",
+        "windowsforiotdevices.com",
+        "windowsondevices.com",
         "windowsphone.com",
         "worldwidetelescope.org",
         "wunderlist.com",
@@ -12647,7 +12796,10 @@
     },
     "Nextdoor": {
       "properties": [
-        "nextdoor.com"
+        "nextdoor.co.uk",
+        "nextdoor.com",
+        "nextdoor.de",
+        "nextdoor.nl"
       ],
       "resources": [
         "nextdoor.com"
@@ -13575,8 +13727,96 @@
     },
     "Paypal": {
       "properties": [
+        "buyindiaonline.com",
+        "cash2india.com",
+        "curv.cc",
+        "curv.co",
+        "paypal-australia.com.au",
+        "paypal-business.co.uk",
+        "paypal-business.com.au",
+        "paypal-businesscenter.com",
+        "paypal-communications.com",
+        "paypal-community.com",
+        "paypal-danmark.dk",
+        "paypal-deutschland.de",
+        "paypal-donations.co.uk",
+        "paypal-donations.com",
+        "paypal-experience.com",
+        "paypal-gifts.com",
+        "paypal-globalshops.com",
+        "paypal-information.com",
+        "paypal-knowledge-test.com",
+        "paypal-knowledge.com",
+        "paypal-latam.com",
+        "paypal-marketing.ca",
+        "paypal-marketing.co.uk",
+        "paypal-marketing.pl",
+        "paypal-media.com",
+        "paypal-mena.com",
+        "paypal-mktg.com",
+        "paypal-nakit.com",
+        "paypal-norge.no",
+        "paypal-optimizer.com",
+        "paypal-partners.com",
+        "paypal-passport.com",
+        "paypal-prepagata.com",
+        "paypal-promo.es",
+        "paypal-support.com",
+        "paypal-sverige.se",
+        "paypal-turkiye.com",
+        "paypal-workplace.com",
+        "paypal.at",
+        "paypal.be",
+        "paypal.biz",
+        "paypal.ca",
+        "paypal.ch",
+        "paypal.cl",
+        "paypal.co",
+        "paypal.co.id",
+        "paypal.co.il",
+        "paypal.co.nz",
+        "paypal.co.th",
+        "paypal.co.uk",
+        "paypal.co.za",
         "paypal.com",
-        "simility.com"
+        "paypal.com.ar",
+        "paypal.com.au",
+        "paypal.com.br",
+        "paypal.com.hk",
+        "paypal.com.mx",
+        "paypal.com.my",
+        "paypal.com.pe",
+        "paypal.com.sa",
+        "paypal.com.sg",
+        "paypal.com.tr",
+        "paypal.com.tw",
+        "paypal.com.ve",
+        "paypal.de",
+        "paypal.dk",
+        "paypal.es",
+        "paypal.eu",
+        "paypal.fi",
+        "paypal.fr",
+        "paypal.ie",
+        "paypal.it",
+        "paypal.jp",
+        "paypal.lu",
+        "paypal.me",
+        "paypal.nl",
+        "paypal.no",
+        "paypal.ph",
+        "paypal.pl",
+        "paypal.pt",
+        "paypal.se",
+        "paypalbenefits.com",
+        "paypalgivingfund.org",
+        "paypalobjects.com",
+        "pypl.com",
+        "simility.com",
+        "thepaypalblog.com",
+        "venmo-experience.com",
+        "xoom-experience.com",
+        "xoom.com"
       ],
       "resources": [
         "paypal.com"
@@ -14108,6 +14348,33 @@
       ],
       "resources": [
         "propelleremail.co.uk"
+      ]
+    },
+    "Prosus": {
+      "properties": [
+        "decolar.com",
+        "decolar.com.br",
+        "despegar.cl",
+        "despegar.co.cr",
+        "despegar.com",
+        "despegar.com.ar",
+        "despegar.com.bo",
+        "despegar.com.co",
+        "despegar.com.do",
+        "despegar.com.ec",
+        "despegar.com.gt",
+        "despegar.com.mx",
+        "despegar.com.ni",
+        "despegar.com.pa",
+        "despegar.com.pe",
+        "despegar.com.pr",
+        "despegar.com.py",
+        "despegar.com.sv",
+        "despegar.com.uy",
+        "despegar.com.ve"
+      ],
+      "resources": [
+        "despegar.com"
       ]
     },
     "PRPosting": {
@@ -15495,7 +15762,9 @@
     },
     "Shein": {
       "properties": [
+        "ltwebstatic.com",
         "romwe.com",
+        "shein.com",
         "shein.com.mx",
         "shein.com.vn",
         "shein.se"
@@ -16299,7 +16568,10 @@
     },
     "Stripe": {
       "properties": [
-        "stripe.com"
+        "link.com",
+        "stripe.com",
+        "stripe.network",
+        "stripecdn.com"
       ],
       "resources": [
         "lmsqueezy.com",
@@ -16654,8 +16926,11 @@
         "edgeone.ai",
         "fitgroup.com",
         "iflix.com",
+        "leagueoflegends.com",
         "mps.live",
+        "qcloud.com",
         "qq.com",
+        "riotgames.com",
         "sanook.com",
         "tencentmusic.com",
         "tenpay.com",
@@ -17781,7 +18056,18 @@
     },
     "VEVOR": {
       "properties": [
-        "vevor.fr"
+        "vevor.ca",
+        "vevor.co.uk",
+        "vevor.com",
+        "vevor.com.au",
+        "vevor.de",
+        "vevor.es",
+        "vevor.fr",
+        "vevor.it",
+        "vevor.mx",
+        "vevor.nl",
+        "vevor.pl",
+        "vevorstatic.com"
       ],
       "resources": [
         "vevorstatic.com"
@@ -18131,6 +18417,7 @@
         "cartoonnetwork.com",
         "cinemax.com",
         "cnn.com",
+        "cnn.io",
         "dc.com",
         "destinationamerica.com",
         "discovery.com",
@@ -18677,14 +18964,34 @@
       "properties": [
         "kinopoisk.ru",
         "moikrug.ru",
+        "xn--d1acpjx3f.xn--p1ai",
         "ya.ru",
         "yadi.sk",
+        "yandex.aero",
+        "yandex.az",
         "yandex.by",
+        "yandex.co.il",
         "yandex.com",
+        "yandex.com.am",
+        "yandex.com.ge",
         "yandex.com.tr",
+        "yandex.de",
+        "yandex.ee",
+        "yandex.fr",
+        "yandex.jobs",
+        "yandex.kz",
+        "yandex.lt",
+        "yandex.lv",
+        "yandex.md",
+        "yandex.net",
+        "yandex.org",
         "yandex.ru",
         "yandex.st",
-        "yandex.ua"
+        "yandex.tj",
+        "yandex.tm",
+        "yandex.tr",
+        "yandex.ua",
+        "yandex.uz"
       ],
       "resources": [
         "adfox.ru",

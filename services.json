@@ -14018,13 +14018,6 @@
         }
       },
       {
-        "creditkarmacdn-a.akamaihd.net": {
-          "https://creditkarmacdn-a.akamaihd.net": [
-            "creditkarmacdn-a.akamaihd.net"
-          ]
-        }
-      },
-      {
         "Crowd Science": {
           "http://crowdscience.com/": [
             "crowdscience.com"
@@ -14089,13 +14082,6 @@
         "Dentsu": {
           "https://www.dentsu.com/": [
             "merkleinc.com"
-          ]
-        }
-      },
-      {
-        "Despegar": {
-          "https://investor.despegar.com": [
-            "despegar.com"
           ]
         }
       },
@@ -14609,6 +14595,13 @@
         "IntelligenceFocus": {
           "http://www.intelligencefocus.com/": [
             "domodomain.com"
+          ]
+        }
+      },
+      {
+        "Intuit": {
+          "https://intuit.com": [
+            "creditkarmacdn-a.akamaihd.net"
           ]
         }
       },
@@ -15261,6 +15254,13 @@
         "ProlificTrade": {
           "https://www.blaze.com": [
             "blaze.com"
+          ]
+        }
+      },
+      {
+        "Prosus": {
+          "https://prosus.com": [
+            "despegar.com"
           ]
         }
       },
@@ -18121,13 +18121,6 @@
         }
       },
       {
-        "creditkarmacdn-a.akamaihd.net": {
-          "https://creditkarmacdn-a.akamaihd.net": [
-            "creditkarmacdn-a.akamaihd.net"
-          ]
-        }
-      },
-      {
         "DoubleVerify": {
           "http://www.doubleverify.com/": [
             "doubleverify.com"
@@ -18269,6 +18262,13 @@
         "Infolinks": {
           "http://www.infolinks.com/": [
             "infolinks.com"
+          ]
+        }
+      },
+      {
+        "Intuit": {
+          "https://intuit.com": [
+            "creditkarmacdn-a.akamaihd.net"
           ]
         }
       },
