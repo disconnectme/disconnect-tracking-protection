@@ -376,6 +376,13 @@
         }
       },
       {
+        "Intuit": {
+          "https://intuit.com": [
+            "agentofficemail.com"
+          ]
+        }
+      },
+      {
         "IxactContact": {
           "https://www.ixactcontact.com/": [
             "ixactcontact.com"
@@ -422,13 +429,6 @@
         "MailCamp": {
           "https://www.mailcamp.nl/": [
             "eds5.mailcamp.nl"
-          ]
-        }
-      },
-      {
-        "MailChimp": {
-          "http://mailchimp.com/": [
-            "agentofficemail.com"
           ]
         }
       },
@@ -1174,6 +1174,17 @@
         }
       },
       {
+        "Intuit": {
+          "https://intuit.com": [
+            "answerbook.com",
+            "list-manage.com",
+            "list-manage1.com",
+            "mandrillapp.com",
+            "tinyletter.com"
+          ]
+        }
+      },
+      {
         "Keap": {
           "https://keap.com/": [
             "infusionsoft.com"
@@ -1212,17 +1223,6 @@
         "MailCamp": {
           "https://www.mailcamp.nl/": [
             "mailcamp.nl"
-          ]
-        }
-      },
-      {
-        "MailChimp": {
-          "http://mailchimp.com/": [
-            "answerbook.com",
-            "list-manage.com",
-            "list-manage1.com",
-            "mandrillapp.com",
-            "tinyletter.com"
           ]
         }
       },
@@ -7815,6 +7815,16 @@
         }
       },
       {
+        "Intuit": {
+          "https://intuit.com": [
+            "campaign-archive1.com",
+            "chimpstatic.com",
+            "list-manage.com",
+            "mailchimp.com"
+          ]
+        }
+      },
+      {
         "Inuvo": {
           "http://inuvo.com/": [
             "inuvo.com",
@@ -8502,16 +8512,6 @@
             "rubiconproject.com",
             "spotx.tv",
             "spotxchange.com"
-          ]
-        }
-      },
-      {
-        "MailChimp": {
-          "http://mailchimp.com/": [
-            "campaign-archive1.com",
-            "chimpstatic.com",
-            "list-manage.com",
-            "mailchimp.com"
           ]
         }
       },

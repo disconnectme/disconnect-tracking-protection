@@ -5246,8 +5246,12 @@
       "properties": [
         "bytedance.com",
         "byteplus.com",
+        "capcut.com",
+        "cici.com",
         "douyin.com",
+        "dreamina.ai",
         "larksuite.com",
+        "mawf.io",
         "mobapay.com",
         "mobilelegends.com",
         "moonton.com",
@@ -10402,13 +10406,27 @@
     },
     "Intuit": {
       "properties": [
+        "campaign-archive1.com",
         "creditkarma.ca",
         "creditkarma.co.uk",
         "creditkarma.com",
-        "creditkarmacdn-a.akamaihd.net"
+        "creditkarmacdn-a.akamaihd.net",
+        "intuit.com",
+        "mailchi.mp",
+        "mailchimp.com",
+        "tinyletter.com"
       ],
       "resources": [
-        "creditkarmacdn-a.akamaihd.net"
+        "agentofficemail.com",
+        "answerbook.com",
+        "campaign-archive1.com",
+        "chimpstatic.com",
+        "creditkarmacdn-a.akamaihd.net",
+        "list-manage.com",
+        "list-manage1.com",
+        "mailchimp.com",
+        "mandrillapp.com",
+        "tinyletter.com"
       ]
     },
     "IntuitionMachines": {
@@ -11581,25 +11599,6 @@
       ],
       "resources": [
         "mailcamp.nl"
-      ]
-    },
-    "MailChimp": {
-      "properties": [
-        "campaign-archive1.com",
-        "mailchi.mp",
-        "mailchimp.com",
-        "tinyletter.com"
-      ],
-      "resources": [
-        "agentofficemail.com",
-        "answerbook.com",
-        "campaign-archive1.com",
-        "chimpstatic.com",
-        "list-manage.com",
-        "list-manage1.com",
-        "mailchimp.com",
-        "mandrillapp.com",
-        "tinyletter.com"
       ]
     },
     "MailerLite": {
@@ -13562,6 +13561,9 @@
     },
     "OnePlus": {
       "properties": [
+        "h2os.com",
+        "oneplus.cn",
+        "oneplus.com",
         "oneplus.in"
       ],
       "resources": [
@@ -14997,6 +14999,7 @@
         "rakuten.com.hk",
         "rakuten.com.tw",
         "rakuten.de",
+        "rakuten.es",
         "rakuten.net",
         "rakuten.tv",
         "rakutenadvertising.com",

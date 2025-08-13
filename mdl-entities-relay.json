@@ -124,6 +124,14 @@
         "8d8.biz"
       ]
     },
+    "8tip5whk.xyz": {
+      "properties": [
+        "8tip5whk.xyz"
+      ],
+      "resources": [
+        "8tip5whk.xyz"
+      ]
+    },
     "91App": {
       "properties": [
         "91app.com"
@@ -2279,7 +2287,9 @@
         "zestyhorizon.com",
         "zipperxray.com",
         "zipthelake.com",
-        "zlp6s.pw"
+        "zlp6s.pw",
+        "scenicchicago.com",
+        "libraryfacts.com"
       ]
     },
     "Admixer": {
@@ -3665,6 +3675,15 @@
       ],
       "resources": [
         "dsply.com"
+      ]
+    },
+    "Anthropic": {
+      "properties": [
+        "anthropic.com",
+        "claude.ai"
+      ],
+      "resources": [
+        "s-cdn.anthropic.com"
       ]
     },
     "Anura": {
@@ -5195,8 +5214,12 @@
       "properties": [
         "bytedance.com",
         "byteplus.com",
+        "capcut.com",
+        "cici.com",
         "douyin.com",
+        "dreamina.ai",
         "larksuite.com",
+        "mawf.io",
         "mobapay.com",
         "mobilelegends.com",
         "moonton.com",
@@ -5213,7 +5236,9 @@
         "tiktokcdn-us.com",
         "tiktokcdn.com",
         "tiktokv.us",
-        "ttwstatic.com"
+        "ttwstatic.com",
+        "sf-flow-web-cdn.ciciaicdn.com",
+        "sf16-web-tos-buz.capcutstatic.com"
       ]
     },
     "bytetetos.com": {
@@ -5694,7 +5719,8 @@
         "thisgreencolumn.com",
         "withflowersea.com",
         "yougreencolumn.com",
-        "youseasky.com"
+        "youseasky.com",
+        "ob.youstarsbuilding.com"
       ]
     },
     "Chewy": {
@@ -6024,6 +6050,15 @@
         "cmmeglobal.com"
       ]
     },
+    "COGNOSPHERE": {
+      "properties": [
+        "hoyoverse.com",
+        "hoyolab.com"
+      ],
+      "resources": [
+        "webstatic.hoyoverse.com"
+      ]
+    },
     "cohesionapps.com": {
       "properties": [
         "cohesionapps.com"
@@ -6086,6 +6121,14 @@
       ],
       "resources": [
         "commander1.com"
+      ]
+    },
+    "commonvisitor.site": {
+      "properties": [
+        "commonvisitor.site"
+      ],
+      "resources": [
+        "df.commonvisitor.site"
       ]
     },
     "Compass Labs": {
@@ -6389,6 +6432,17 @@
         "copper.com"
       ]
     },
+    "Corbado": {
+      "properties": [
+        "corbado.com",
+        "state-of-passkeys.io",
+        "passkeys-auth.com",
+        "corbado.io"
+      ],
+      "resources": [
+        "cdn.vr.corbado.io"
+      ]
+    },
     "CoreMotives": {
       "properties": [
         "coremotives.com"
@@ -6542,6 +6596,14 @@
         "adtdp.com"
       ]
     },
+    "d1mahjlm.xyz": {
+      "properties": [
+        "d1mahjlm.xyz"
+      ],
+      "resources": [
+        "d1mahjlm.xyz"
+      ]
+    },
     "Dada": {
       "properties": [
         "dada.eu",
@@ -6674,6 +6736,40 @@
       ],
       "resources": [
         "deliverimp.com"
+      ]
+    },
+    "Delivery Hero": {
+      "properties": [
+        "deliveryhero.com",
+        "foodora.com",
+        "foodora.no",
+        "foodora.fi",
+        "foodora.se",
+        "foodora.hu",
+        "foodora.at",
+        "foodora.cz",
+        "foodpanda.com",
+        "hungerstation.com",
+        "pedidosya.com",
+        "pedidosya.com.ar",
+        "pedidosyacreditos.com",
+        "pedidosya.com.bo",
+        "pedidosya.cl",
+        "pedidosya.cr",
+        "pedidosya.com.ec",
+        "pedidosya.com.sv",
+        "pedidosya.com.gt",
+        "pedidosya.com.hn",
+        "pedidosya.com.ni",
+        "pedidosya.com.pa",
+        "pedidosya.com.py",
+        "pedidosya.com.pe",
+        "pedidosya.com.do",
+        "pedidosya.com.uy",
+        "pedidosya.com.ve"
+      ],
+      "resources": [
+        "micro-assets.foodora.com"
       ]
     },
     "deliveryjs.com": {
@@ -7125,6 +7221,20 @@
       ],
       "resources": [
         "driveniq.com"
+      ]
+    },
+    "Dropbox": {
+      "properties": [
+        "dropbox.com",
+        "dropboxforum.com",
+        "dropbox.tech",
+        "dash.ai",
+        "reclaim.ai",
+        "docsend.com",
+        "dropboxstatic.com"
+      ],
+      "resources": [
+        "cfl.dropboxstatic.com"
       ]
     },
     "Dstillery": {
@@ -7740,6 +7850,16 @@
         "scrippsdigital.com"
       ]
     },
+    "Exness": {
+      "properties": [
+        "exness.com",
+        "exness.org",
+        "ex-markets.com"
+      ],
+      "resources": [
+        "ex.exnessstats.com"
+      ]
+    },
     "ExoClick": {
       "properties": [
         "exoclick.com"
@@ -7875,6 +7995,25 @@
       ],
       "resources": [
         "ezymarketer.net"
+      ]
+    },
+    "Falabella": {
+      "properties": [
+        "falabella.com",
+        "sodimac.cl",
+        "sodimac.com",
+        "sodimac.com.pe",
+        "tottus.cl",
+        "tottus.com",
+        "tottus.com.pe",
+        "mallplaza.com",
+        "fpay.cl",
+        "segurosfalabella.com",
+        "bancofalabella.cl",
+        "circulodeespecialistas.cl"
+      ],
+      "resources": [
+        "assets.falabella.com"
       ]
     },
     "Fanplayr": {
@@ -8162,6 +8301,64 @@
       ],
       "resources": [
         "fouanalytics.com"
+      ]
+    },
+    "Fox": {
+      "properties": [
+        "foxcorporation.com",
+        "fox.com",
+        "foxnews.com",
+        "foxweather.com",
+        "foxlocal.com",
+        "foxbusiness.com",
+        "foxsports.com",
+        "tubitv.com",
+        "foxcareers.com",
+        "foxdeportes.com",
+        "foxsports.com.mx",
+        "speed.com",
+        "tmz.com",
+        "foxnewsinternational.com",
+        "livenowfox.com",
+        "foxsoul.tv",
+        "mynetworktv.com",
+        "fox10phoenix.com",
+        "foxla.com",
+        "ktvu.com",
+        "fox5dc.com",
+        "wogx.com",
+        "fox35orlando.com",
+        "fox13news.com",
+        "fox5atlanta.com",
+        "fox32chicago.com",
+        "fox2detroit.com",
+        "fox9.com",
+        "fox5ny.com",
+        "fox29.com",
+        "fox7austin.com",
+        "fox4news.com",
+        "fox26houston.com",
+        "fox13seattle.com",
+        "my9nj.com",
+        "fox6now.com",
+        "foxadvertising.com",
+        "outkick.com",
+        "credible.com",
+        "bentoboxent.com",
+        "studioramsay.com",
+        "princessbento.com",
+        "bentoboxatl.com",
+        "foxfirstrun.com",
+        "foxstudiolot.com",
+        "foxcanvasroom.com",
+        "foxcostumes.com",
+        "foxcincy.com",
+        "adrise.com",
+        "myfoxhurricane.com",
+        "caliente.tv"
+      ],
+      "resources": [
+        "player.fox.com"
       ]
     },
     "Fox One Stop Media": {
@@ -9816,6 +10013,14 @@
         "improvedigital.com"
       ]
     },
+    "Incognia": {
+      "properties": [
+        "incognia.com"
+      ],
+      "resources": [
+        "repo.incognia.com"
+      ]
+    },
     "Incross": {
       "properties": [
         "adotsolution.com",
@@ -10169,13 +10374,27 @@
     },
     "Intuit": {
       "properties": [
+        "campaign-archive1.com",
         "creditkarma.ca",
         "creditkarma.co.uk",
         "creditkarma.com",
-        "creditkarmacdn-a.akamaihd.net"
+        "creditkarmacdn-a.akamaihd.net",
+        "intuit.com",
+        "mailchi.mp",
+        "mailchimp.com",
+        "tinyletter.com"
       ],
       "resources": [
-        "creditkarmacdn-a.akamaihd.net"
+        "agentofficemail.com",
+        "answerbook.com",
+        "campaign-archive1.com",
+        "chimpstatic.com",
+        "creditkarmacdn-a.akamaihd.net",
+        "list-manage.com",
+        "list-manage1.com",
+        "mailchimp.com",
+        "mandrillapp.com",
+        "tinyletter.com"
       ]
     },
     "Inuvo": {
@@ -10841,6 +11060,14 @@
         "kueezrtb.com"
       ]
     },
+    "kuti8iar.xyz": {
+      "properties": [
+        "kuti8iar.xyz"
+      ],
+      "resources": [
+        "kuti8iar.xyz"
+      ]
+    },
     "Lasso": {
       "properties": [
         "getlasso.co"
@@ -11067,6 +11294,14 @@
         "privacymanager.io",
         "rlcdn.com",
         "tvpixel.com"
+      ]
+    },
+    "livetwo.space": {
+      "properties": [
+        "livetwo.space"
+      ],
+      "resources": [
+        "enma.livetwo.space"
       ]
     },
     "Local Yokel Media": {
@@ -11326,25 +11561,6 @@
       ],
       "resources": [
         "mailcamp.nl"
-      ]
-    },
-    "MailChimp": {
-      "properties": [
-        "campaign-archive1.com",
-        "mailchi.mp",
-        "mailchimp.com",
-        "tinyletter.com"
-      ],
-      "resources": [
-        "agentofficemail.com",
-        "answerbook.com",
-        "campaign-archive1.com",
-        "chimpstatic.com",
-        "list-manage.com",
-        "list-manage1.com",
-        "mailchimp.com",
-        "mandrillapp.com",
-        "tinyletter.com"
       ]
     },
     "MailerLite": {
@@ -13269,10 +13485,14 @@
     },
     "OnePlus": {
       "properties": [
+        "h2os.com",
+        "oneplus.cn",
+        "oneplus.com",
         "oneplus.in"
       ],
       "resources": [
-        "oneplus.com"
+        "oneplus.com",
+        "cdn.opstatics.com"
       ]
     },
     "OneSignal": {
@@ -14145,6 +14365,14 @@
         "plista.com"
       ]
     },
+    "plsgotoasg.com": {
+      "properties": [
+        "plsgotoasg.com"
+      ],
+      "resources": [
+        "now.plsgotoasg.com"
+      ]
+    },
     "PocketCents": {
       "properties": [
         "pocketcents.com"
@@ -14628,6 +14856,14 @@
         "xaded.com"
       ]
     },
+    "Quizmaker": {
+      "properties": [
+        "quiz-maker.com"
+      ],
+      "resources": [
+        "take.quiz-maker.com"
+      ]
+    },
     "Quora": {
       "properties": [
         "quora.com"
@@ -14719,6 +14955,7 @@
         "rakuten.com.hk",
         "rakuten.com.tw",
         "rakuten.de",
+        "rakuten.es",
         "rakuten.net",
         "rakuten.tv",
         "rakutenadvertising.com",
@@ -16464,6 +16701,14 @@
         "staticimg.com"
       ]
     },
+    "staticspic.com": {
+      "properties": [
+        "staticspic.com"
+      ],
+      "resources": [
+        "static.staticspic.com"
+      ]
+    },
     "Statisfy": {
       "properties": [
         "statisfy.net"
@@ -17025,6 +17270,136 @@
         "uidapi.com"
       ]
     },
+    "The Walt Disney Company": {
+      "properties": [
+        "detpress.com",
+        "abc11.com",
+        "abc30.com",
+        "abcotvpress.com",
+        "ouramericaabc.com",
+        "ilm.com",
+        "disneyprivacycenter.com",
+        "skysound.com",
+        "disneycareers.com",
+        "dolimg.com",
+        "disneyresearch.com",
+        "foxdigitalmovies.com",
+        "disneystudios.com",
+        "disneyonbroadway.com",
+        "lionking.com",
+        "beautyandthebeastthemusical.com",
+        "aladdinthemusical.com",
+        "disneytheatricalsales.com",
+        "disneyonice.com",
+        "disneymusicpublishing.com",
+        "disneyconcerts.com",
+        "disneyaulani.com",
+        "disneyweddings.com",
+        "disneymeetingsandevents.com",
+        "hollywoodrecords.com",
+        "disneynow.com",
+        "fxnetworkspressroom.com",
+        "natgeomaps.com",
+        "abcaudio.com",
+        "24kitchen.bg",
+        "24kitchen.com.hr",
+        "24kitchen.nl",
+        "24kitchen.pt",
+        "24kitchen.rs",
+        "24kitchen.si",
+        "babytv.com",
+        "disney.fr",
+        "disney.co.uk",
+        "disney.de",
+        "disney.com.au",
+        "venom.com",
+        "readriordan.com",
+        "30for30podcasts.com",
+        "disney.in",
+        "disney.nl",
+        "espncricinfo.com",
+        "thecricketmonthly.com",
+        "disneyworld.eu",
+        "disneyholidays.com",
+        "disneyholidays.co.uk",
+        "disneytravelagents.com",
+        "espnpressroom.com",
+        "disney.co.jp",
+        "disney.cz",
+        "disney.bg",
+        "disney.be",
+        "disney.dk",
+        "disney.no",
+        "fxchannel.gr",
+        "fxchannel.ee",
+        "nowtv.com.tr",
+        "disneyexperiences.com",
+        "disneyparksblog.com",
+        "hongkongdisneyland.com",
+        "espnbet.com",
+        "getaccn.com",
+        "secsports.com",
+        "espn.com",
+        "disney.com",
+        "go.com",
+        "thewaltdisneycompany.com",
+        "waltdisneystudios.com",
+        "freeform.com",
+        "fxnetworks.com",
+        "nationalgeographic.com",
+        "disneyplus.com",
+        "hulu.com",
+        "hotstar.com",
+        "shanghaidisneyresort.com",
+        "disneylandparis.com",
+        "tokyodisneyresort.jp",
+        "adventuresbydisney.com",
+        "disneystore.com",
+        "disneyanimation.com",
+        "pixar.com",
+        "marvel.com",
+        "lucasfilm.com",
+        "20thcenturystudios.com",
+        "searchlightpictures.com",
+        "6abc.com",
+        "abc7.com",
+        "abc7chicago.com",
+        "abc7ny.com",
+        "abc7news.com",
+        "abc13.com",
+        "abc.com",
+        "andscape.com",
+        "elcapitantheatre.com",
+        "disneyme.com",
+        "disney.co.il",
+        "disney.co.za",
+        "disney.es",
+        "disney.gr",
+        "disney.hu",
+        "disney.it",
+        "disney.pl",
+        "disney.pt",
+        "disney.ro",
+        "disney.se",
+        "disneylatino.com",
+        "espn.cl",
+        "espn.com.au",
+        "espn.com.br",
+        "espn.com.mx",
+        "espn.com.pe",
+        "espn.in",
+        "marvelhq.com",
+        "starwars.com",
+        "bamgrid.com",
+        "d23.com",
+        "disneymusicemporium.com",
+        "disneytermsofuse.com"
+      ],
+      "resources": [
+        "dcf.espn.com",
+        "hiveplayer-static.bamgrid.com"
+      ]
+    },
     "The Website Intelligence Platform": {
       "properties": [
         "twipla.com"
@@ -17303,7 +17678,8 @@
         "transmitsecurity.com"
       ],
       "resources": [
-        "riskid.security"
+        "riskid.security",
+        "platform-websdk.transmitsecurity.io"
       ]
     },
     "TransUnion": {
@@ -17377,6 +17753,23 @@
         "addme.com"
       ]
     },
+    "Trip.com Group": {
+      "properties": [
+        "trip.com",
+        "mytrainpal.com",
+        "flightai.net",
+        "triplinkintl.com",
+        "skyscanner.com",
+        "qunar.com",
+        "travix.com",
+        "travelfusion.com",
+        "tripcdn.com"
+      ],
+      "resources": [
+        "ak-s-cw.tripcdn.com",
+        "aw-s.tripcdn.com"
+      ]
+    },
     "TripleLift": {
       "properties": [
         "1plusx.com",
@@ -17386,6 +17779,14 @@
         "3lift.com",
         "opecloud.com",
         "triplelift.com"
+      ]
+    },
+    "trkwwtarget.cloud": {
+      "properties": [
+        "trkwwtarget.cloud"
+      ],
+      "resources": [
+        "trkwwtarget.cloud"
       ]
     },
     "TrueAnthem": {
@@ -18141,6 +18542,14 @@
       ],
       "resources": [
         "vidoomy.com"
+      ]
+    },
+    "VietnamNet": {
+      "properties": [
+        "vietnamnet.vn"
+      ],
+      "resources": [
+        "tracking.vnncdn.net"
       ]
     },
     "Viewbix": {
