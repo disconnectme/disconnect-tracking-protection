@@ -14168,13 +14168,6 @@
         }
       },
       {
-        "media-rockstargames-com.akamaized.net": {
-          "https://media-rockstargames-com.akamaized.net": [
-            "media-rockstargames-com.akamaized.net"
-          ]
-        }
-      },
-      {
         "Mediascope": {
           "https://mediascope.net/": [
             "sesamestats.com",
@@ -14922,6 +14915,13 @@
         "Synacor": {
           "http://www.synacor.com/": [
             "synacor.com"
+          ]
+        }
+      },
+      {
+        "Take-Two": {
+          "https://take2games.com": [
+            "media-rockstargames-com.akamaized.net"
           ]
         }
       },
@@ -16124,6 +16124,13 @@
         }
       },
       {
+        "eMAG": {
+          "https://emag.ro": [
+            "s13emagst.akamaized.net"
+          ]
+        }
+      },
+      {
         "Emplifi": {
           "https://emplifi.io": [
             "pixlee.com"
@@ -16441,13 +16448,6 @@
         "Jewel ML": {
           "https://jewelml.com": [
             "rerender.jewelml.io"
-          ]
-        }
-      },
-      {
-        "jioadsweb.akamaized.net": {
-          "https://jioadsweb.akamaized.net": [
-            "jioadsweb.akamaized.net"
           ]
         }
       },
@@ -16884,6 +16884,13 @@
         }
       },
       {
+        "Reliance": {
+          "https://ril.com": [
+            "jioadsweb.akamaized.net"
+          ]
+        }
+      },
+      {
         "RELX": {
           "https://relx.com": [
             "online-metrix.net"
@@ -16915,13 +16922,6 @@
         "rxayc.com": {
           "https://rxayc.com": [
             "rxayc.com"
-          ]
-        }
-      },
-      {
-        "s13emagst.akamaized.net": {
-          "https://s13emagst.akamaized.net": [
-            "s13emagst.akamaized.net"
           ]
         }
       },
@@ -17862,13 +17862,6 @@
         }
       },
       {
-        "media-rockstargames-com.akamaized.net": {
-          "https://media-rockstargames-com.akamaized.net": [
-            "media-rockstargames-com.akamaized.net"
-          ]
-        }
-      },
-      {
         "Mediaworks": {
           "https://mediaworks.hu": [
             "origo.hu"
@@ -18108,6 +18101,13 @@
         "Stytch": {
           "https://stytch.com": [
             "elements.stytch.com"
+          ]
+        }
+      },
+      {
+        "Take-Two": {
+          "https://take2games.com": [
+            "media-rockstargames-com.akamaized.net"
           ]
         }
       },

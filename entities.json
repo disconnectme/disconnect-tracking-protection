@@ -6846,6 +6846,16 @@
         "elfsight.com"
       ]
     },
+    "eMAG": {
+      "properties": [
+        "emag.bg",
+        "emag.hu",
+        "emag.ro"
+      ],
+      "resources": [
+        "s13emagst.akamaized.net"
+      ]
+    },
     "EmailLabs": {
       "properties": [
         "emaillabs.io"
@@ -10072,14 +10082,6 @@
         "jinkads.com"
       ]
     },
-    "jioadsweb.akamaized.net": {
-      "properties": [
-        "jioadsweb.akamaized.net"
-      ],
-      "resources": [
-        "jioadsweb.akamaized.net"
-      ]
-    },
     "JivoChat": {
       "properties": [
         "jivochat.com"
@@ -11338,14 +11340,6 @@
       ],
       "resources": [
         "y-track.com"
-      ]
-    },
-    "media-rockstargames-com.akamaized.net": {
-      "properties": [
-        "media-rockstargames-com.akamaized.net"
-      ],
-      "resources": [
-        "media-rockstargames-com.akamaized.net"
       ]
     },
     "Mediascope": {
@@ -14669,6 +14663,32 @@
         "relevant-digital.com"
       ]
     },
+    "Reliance": {
+      "properties": [
+        "ajio.com",
+        "hamleys.in",
+        "jio.com",
+        "jiomart.com",
+        "jioworldcentre.com",
+        "mumbaiindians.com",
+        "netmeds.com",
+        "netmeds.tech",
+        "netmedshealthcare.com",
+        "nmacc.com",
+        "reliancecentro.store",
+        "reliancedigital.in",
+        "reliancefashionfactorystores.com",
+        "reliancefoundation.org",
+        "reliancejewels.com",
+        "relianceretail.com",
+        "reliancesmartbazaar.com",
+        "ril.com",
+        "tirabeauty.com"
+      ],
+      "resources": [
+        "jioadsweb.akamaized.net"
+      ]
+    },
     "Reliz": {
       "properties": [
         "reliz.com"
@@ -15052,14 +15072,6 @@
       ],
       "resources": [
         "rxayc.com"
-      ]
-    },
-    "s13emagst.akamaized.net": {
-      "properties": [
-        "s13emagst.akamaized.net"
-      ],
-      "resources": [
-        "s13emagst.akamaized.net"
       ]
     },
     "Saambaa": {
@@ -16627,6 +16639,28 @@
       ],
       "resources": [
         "tailsweep.com"
+      ]
+    },
+    "Take-Two": {
+      "properties": [
+        "2k.com",
+        "cloudchamberstudios.com",
+        "firaxis.com",
+        "gearboxsoftware.com",
+        "ghoststorygames.com",
+        "hangar13games.com",
+        "hb-studios.com",
+        "massmedia.com",
+        "rockstargames.com",
+        "take2games.com",
+        "thirtyfirstunion.com",
+        "vcentertainment.com",
+        "zynga.com",
+        "zyngaads.com",
+        "zyngagames.com"
+      ],
+      "resources": [
+        "media-rockstargames-com.akamaized.net"
       ]
     },
     "Tapad": {
