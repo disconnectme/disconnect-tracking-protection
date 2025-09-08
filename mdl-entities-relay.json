@@ -12217,7 +12217,18 @@
     },
     "Naver": {
       "properties": [
-        "navercorp.com"
+        "d2startup.com",
+        "naver.com",
+        "naver.net",
+        "navercloudcorp.com",
+        "navercorp.com",
+        "naverfincorp.com",
+        "naverlabs.com",
+        "nheos.com",
+        "pstatic.net",
+        "snow.me",
+        "snowcorp.com",
+        "webtoonscorp.com"
       ],
       "resources": [
         "pstatic.net"
