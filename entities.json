@@ -3026,10 +3026,13 @@
     "Atlassian": {
       "properties": [
         "agile.dev",
+        "atlassian.cloud",
+        "atlassian.net",
         "bitbucket.io",
         "bitbucket.org",
         "cicd.dev",
         "git.dev",
+        "loom.com",
         "software.dev",
         "sourcetreeapp.com",
         "testgitcode.sbs",
@@ -12263,13 +12266,18 @@
     },
     "Naver": {
       "properties": [
+        "band.com",
+        "band.us",
         "d2startup.com",
+        "fin-ncloud.com",
+        "gov-ncloud.com",
         "naver.com",
         "naver.net",
         "navercloudcorp.com",
         "navercorp.com",
         "naverfincorp.com",
         "naverlabs.com",
+        "ncloud.com",
         "nheos.com",
         "pstatic.net",
         "snow.me",
