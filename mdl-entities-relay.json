@@ -3078,15 +3078,8 @@
         "attentive.com"
       ],
       "resources": [
+        "attentivemobile.com",
         "attn.tv"
-      ]
-    },
-    "AttentiveMobile": {
-      "properties": [
-        "attentivemobile.com"
-      ],
-      "resources": [
-        "attentivemobile.com"
       ]
     },
     "Attracta": {
@@ -11249,7 +11242,10 @@
     },
     "Medallia": {
       "properties": [
-        "medallia.com"
+        "medallia.ca",
+        "medallia.com",
+        "medallia.com.au",
+        "medallia.eu"
       ],
       "resources": [
         "kampyle.com",
@@ -12233,9 +12229,11 @@
         "naverlabs.com",
         "ncloud.com",
         "nheos.com",
+        "papago-plus.com",
         "pstatic.net",
         "snow.me",
         "snowcorp.com",
+        "webtoon.com",
         "webtoonscorp.com"
       ],
       "resources": [

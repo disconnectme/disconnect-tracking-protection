@@ -3577,14 +3577,8 @@
       {
         "Attentive": {
           "https://www.attentive.com/": [
+            "attentivemobile.com",
             "attn.tv"
-          ]
-        }
-      },
-      {
-        "AttentiveMobile": {
-          "https://attentivemobile.com": [
-            "attentivemobile.com"
           ]
         }
       },
