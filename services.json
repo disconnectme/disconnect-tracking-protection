@@ -7632,15 +7632,6 @@
         }
       },
       {
-        "LYCorp": {
-          "https://www.lycorp.co.jp/ja/": [
-            "line-scdn.net",
-            "line.me",
-            "yahoo.co.jp"
-          ]
-        }
-      },
-      {
         "m167cw.com": {
           "https://m167cw.com": [
             "m167cw.com"
@@ -8287,7 +8278,10 @@
       {
         "Naver": {
           "https://navercorp.com": [
-            "pstatic.net"
+            "line-scdn.net",
+            "line.me",
+            "pstatic.net",
+            "yahoo.co.jp"
           ]
         }
       },
@@ -12499,13 +12493,6 @@
         }
       },
       {
-        "LYCorp": {
-          "https://www.lycorp.co.jp/ja/": [
-            "yimg.jp"
-          ]
-        }
-      },
-      {
         "McAfee": {
           "http://www.mcafee.com/": [
             "mcafee.com"
@@ -12540,6 +12527,13 @@
         "Mux": {
           "https://mux.com": [
             "mux.com"
+          ]
+        }
+      },
+      {
+        "Naver": {
+          "https://navercorp.com": [
+            "yimg.jp"
           ]
         }
       },

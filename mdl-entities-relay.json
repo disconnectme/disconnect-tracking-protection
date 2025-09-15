@@ -10812,21 +10812,6 @@
         "ppcprotect.com"
       ]
     },
-    "LYCorp": {
-      "properties": [
-        "line.biz",
-        "line.me",
-        "lycorp.co.jp",
-        "lymcampus.jp",
-        "yahoo.co.jp"
-      ],
-      "resources": [
-        "line-scdn.net",
-        "line.me",
-        "yahoo.co.jp",
-        "yimg.jp"
-      ]
-    },
     "Lynchpin": {
       "properties": [
         "lynchpin.com"
@@ -12221,6 +12206,12 @@
         "d2startup.com",
         "fin-ncloud.com",
         "gov-ncloud.com",
+        "kream.co.kr",
+        "kreamcorp.com",
+        "line.biz",
+        "line.me",
+        "lycorp.co.jp",
+        "lymcampus.jp",
         "naver.com",
         "naver.net",
         "navercloudcorp.com",
@@ -12234,10 +12225,16 @@
         "snow.me",
         "snowcorp.com",
         "webtoon.com",
-        "webtoonscorp.com"
+        "webtoons.com",
+        "webtoonscorp.com",
+        "yahoo.co.jp"
       ],
       "resources": [
-        "pstatic.net"
+        "line-scdn.net",
+        "line.me",
+        "pstatic.net",
+        "yahoo.co.jp",
+        "yimg.jp"
       ]
     },
     "NCAudienceExchange": {
