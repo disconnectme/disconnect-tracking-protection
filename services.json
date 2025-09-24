@@ -12461,6 +12461,13 @@
         }
       },
       {
+        "Judge": {
+          "https://www.judge.me": [
+            "judge.me"
+          ]
+        }
+      },
+      {
         "Justo": {
           "https://getjusto.com": [
             "websites.getjusto.com"
@@ -13960,13 +13967,6 @@
         "JSKit": {
           "https://js-kit.com/": [
             "js-kit.com"
-          ]
-        }
-      },
-      {
-        "Judge": {
-          "https://www.judge.me": [
-            "judge.me"
           ]
         }
       },
