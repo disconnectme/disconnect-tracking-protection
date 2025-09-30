@@ -1065,6 +1065,7 @@
         "frugalfiestas.com",
         "fudgegenie.com",
         "fuelinspector.com",
+        "functionalfeather.com",
         "futuristicframe.com",
         "gammamaximum.com",
         "gardenovens.com",
@@ -2781,14 +2782,6 @@
         "aniview.com"
       ]
     },
-    "anmq6by5.xyz": {
-      "properties": [
-        "anmq6by5.xyz"
-      ],
-      "resources": [
-        "anmq6by5.xyz"
-      ]
-    },
     "anormal-media.de": {
       "properties": [
         "anormal-media.de",
@@ -2824,15 +2817,6 @@
       ],
       "resources": [
         "dsply.com"
-      ]
-    },
-    "Anthropic": {
-      "properties": [
-        "anthropic.com",
-        "claude.ai"
-      ],
-      "resources": [
-        "s-cdn.anthropic.com"
       ]
     },
     "Anura": {
@@ -2977,6 +2961,14 @@
       ],
       "resources": [
         "ascent360.com"
+      ]
+    },
+    "asepourioter.com": {
+      "properties": [
+        "asepourioter.com"
+      ],
+      "resources": [
+        "asepourioter.com"
       ]
     },
     "Asksuite": {
@@ -3663,6 +3655,14 @@
         "beop.io"
       ]
     },
+    "bestofall.info": {
+      "properties": [
+        "bestofall.info"
+      ],
+      "resources": [
+        "bestofall.info"
+      ]
+    },
     "bestofluck.io": {
       "properties": [
         "bestofluck.io"
@@ -3796,6 +3796,15 @@
       ],
       "resources": [
         "bitcoinplus.com"
+      ]
+    },
+    "Bitget": {
+      "properties": [
+        "bgportable.com",
+        "bitget.com"
+      ],
+      "resources": [
+        "static.bgbstatic.com"
       ]
     },
     "BitMedia": {
@@ -4402,6 +4411,7 @@
         "ttwstatic.com"
       ],
       "resources": [
+        "lf-douyin-pc-web.douyinstatic.com",
         "pangle-ads.com",
         "sf16-web-tos-buz.capcutstatic.com",
         "tiktok.com",
@@ -4707,6 +4717,14 @@
         "3gl.net"
       ]
     },
+    "catiuribripent.com": {
+      "properties": [
+        "catiuribripent.com"
+      ],
+      "resources": [
+        "catiuribripent.com"
+      ]
+    },
     "Causes": {
       "properties": [
         "causes.com"
@@ -4772,14 +4790,6 @@
       ],
       "resources": [
         "cdn-path.com"
-      ]
-    },
-    "cdn-platform.com": {
-      "properties": [
-        "cdn-platform.com"
-      ],
-      "resources": [
-        "static.pl-01.cdn-platform.com"
       ]
     },
     "CDNWidget": {
@@ -4911,6 +4921,7 @@
         "greencolumnhealth.com",
         "healthroundprince.com",
         "herbgreencolumn.com",
+        "herbstarsbuilding.com",
         "iseaskies.com",
         "isstarsbuilding.com",
         "lordofthesuperfrogs.com",
@@ -5265,15 +5276,6 @@
         "cmmeglobal.com"
       ]
     },
-    "COGNOSPHERE": {
-      "properties": [
-        "hoyolab.com",
-        "hoyoverse.com"
-      ],
-      "resources": [
-        "webstatic.hoyoverse.com"
-      ]
-    },
     "cohesionapps.com": {
       "properties": [
         "cohesionapps.com"
@@ -5336,14 +5338,6 @@
       ],
       "resources": [
         "commander1.com"
-      ]
-    },
-    "commonvisitor.site": {
-      "properties": [
-        "commonvisitor.site"
-      ],
-      "resources": [
-        "df.commonvisitor.site"
       ]
     },
     "Compass Labs": {
@@ -6060,14 +6054,6 @@
         "indieclick.com"
       ]
     },
-    "demoaccount.site": {
-      "properties": [
-        "demoaccount.site"
-      ],
-      "resources": [
-        "agr.demoaccount.site"
-      ]
-    },
     "Dentsu": {
       "properties": [
         "accordantmedia.com",
@@ -6478,20 +6464,6 @@
         "driveniq.com"
       ]
     },
-    "Dropbox": {
-      "properties": [
-        "dash.ai",
-        "docsend.com",
-        "dropbox.com",
-        "dropbox.tech",
-        "dropboxforum.com",
-        "dropboxstatic.com",
-        "reclaim.ai"
-      ],
-      "resources": [
-        "cfl.dropboxstatic.com"
-      ]
-    },
     "Dstillery": {
       "properties": [
         "dstillery.com"
@@ -6688,6 +6660,14 @@
       ],
       "resources": [
         "webclicktracker.com"
+      ]
+    },
+    "Edge NPD": {
+      "properties": [
+        "edgenpd.com"
+      ],
+      "resources": [
+        "abtshield.com"
       ]
     },
     "Edgio": {
@@ -7133,16 +7113,6 @@
       ],
       "resources": [
         "scrippsdigital.com"
-      ]
-    },
-    "Exness": {
-      "properties": [
-        "ex-markets.com",
-        "exness.com",
-        "exness.org"
-      ],
-      "resources": [
-        "ex.exnessstats.com"
       ]
     },
     "ExoClick": {
@@ -7604,64 +7574,6 @@
         "fouanalytics.com"
       ]
     },
-    "Fox": {
-      "properties": [
-        "adrise.com",
-        "bentoboxatl.com",
-        "bentoboxent.com",
-        "caliente.tv",
-        "credible.com",
-        "fox.com",
-        "fox10phoenix.com",
-        "fox13news.com",
-        "fox13seattle.com",
-        "fox26houston.com",
-        "fox29.com",
-        "fox2detroit.com",
-        "fox32chicago.com",
-        "fox35orlando.com",
-        "fox4news.com",
-        "fox5atlanta.com",
-        "fox5dc.com",
-        "fox5ny.com",
-        "fox6now.com",
-        "fox7austin.com",
-        "fox9.com",
-        "foxadvertising.com",
-        "foxbusiness.com",
-        "foxcanvasroom.com",
-        "foxcareers.com",
-        "foxcincy.com",
-        "foxcorporation.com",
-        "foxcostumes.com",
-        "foxdeportes.com",
-        "foxfirstrun.com",
-        "foxla.com",
-        "foxlocal.com",
-        "foxnews.com",
-        "foxnewsinternational.com",
-        "foxsoul.tv",
-        "foxsports.com",
-        "foxsports.com.mx",
-        "foxstudiolot.com",
-        "foxweather.com",
-        "ktvu.com",
-        "livenowfox.com",
-        "my9nj.com",
-        "myfoxhurricane.com",
-        "mynetworktv.com",
-        "outkick.com",
-        "princessbento.com",
-        "speed.com",
-        "studioramsay.com",
-        "tmz.com",
-        "tubitv.com",
-        "wogx.com"
-      ],
-      "resources": [
-        "player.fox.com"
-      ]
-    },
     "Fox One Stop Media": {
       "properties": [
         "fimserve.com",
@@ -7676,16 +7588,6 @@
         "foxonestop.com",
         "mobsmith.com",
         "myads.com"
-      ]
-    },
-    "FPT": {
-      "properties": [
-        "eclick.vn",
-        "fpt.com",
-        "vnexpress.net"
-      ],
-      "resources": [
-        "s1cdn.vnecdn.net"
       ]
     },
     "Fraud0": {
@@ -8014,6 +7916,14 @@
       ],
       "resources": [
         "geniusmonkey.com"
+      ]
+    },
+    "Genius Sports": {
+      "properties": [
+        "geniussports.com"
+      ],
+      "resources": [
+        "geniussports.com"
       ]
     },
     "GeoAds": {
@@ -9072,6 +8982,14 @@
         "hprofits.com"
       ]
     },
+    "hsprotect.net": {
+      "properties": [
+        "hsprotect.net"
+      ],
+      "resources": [
+        "hsprotect.net"
+      ]
+    },
     "htplayground.com": {
       "properties": [
         "htplayground.com"
@@ -9316,12 +9234,12 @@
         "visiblemeasures.com"
       ]
     },
-    "ilpgfdbc.xyz": {
+    "imedao.com": {
       "properties": [
-        "ilpgfdbc.xyz"
+        "imedao.com"
       ],
       "resources": [
-        "ilpgfdbc.xyz"
+        "imedao.com"
       ]
     },
     "iMedia": {
@@ -10121,10 +10039,12 @@
     },
     "JuicyScore": {
       "properties": [
+        "juicyscore.ai",
         "juicyscore.online"
       ],
       "resources": [
-        "juicyscore.com"
+        "juicyscore.com",
+        "score.jcsc.online"
       ]
     },
     "Justo": {
@@ -10425,14 +10345,6 @@
         "ktkjmp.com"
       ]
     },
-    "ktlasik.space": {
-      "properties": [
-        "ktktkt.ktlasik.space"
-      ],
-      "resources": [
-        "ktktkt.ktlasik.space"
-      ]
-    },
     "Kueez": {
       "properties": [
         "kueez.com"
@@ -10669,14 +10581,6 @@
         "tvpixel.com"
       ]
     },
-    "livetwo.space": {
-      "properties": [
-        "livetwo.space"
-      ],
-      "resources": [
-        "enma.livetwo.space"
-      ]
-    },
     "Local Yokel Media": {
       "properties": [
         "localyokelmedia.com"
@@ -10843,6 +10747,21 @@
       ],
       "resources": [
         "m2911p.com"
+      ]
+    },
+    "Macy's": {
+      "properties": [
+        "bloomingdales.com",
+        "bluemercury.com",
+        "customerservice-macys.com",
+        "macys.com",
+        "macysbackstage.com",
+        "macysinc.com",
+        "macysrestaurants.com",
+        "macyswineshop.com"
+      ],
+      "resources": [
+        "macysassets.com"
       ]
     },
     "Madhouse": {
@@ -12735,6 +12654,14 @@
         "novaontech.com"
       ]
     },
+    "Novel": {
+      "properties": [
+        "benovel.com"
+      ],
+      "resources": [
+        "benovel.com"
+      ]
+    },
     "NPDigital": {
       "properties": [
         "kissmetrics.com",
@@ -12833,6 +12760,14 @@
       ],
       "resources": [
         "ocms.cloud"
+      ]
+    },
+    "Oddschecker": {
+      "properties": [
+        "oddschecker.com"
+      ],
+      "resources": [
+        "oddschecker.com"
       ]
     },
     "Ogury": {
@@ -14015,6 +13950,14 @@
         "proclivitymedia.com",
         "proclivitysystems.com",
         "pswec.com"
+      ]
+    },
+    "prod-adenty-cdn.azureedge.net": {
+      "properties": [
+        "prod-adenty-cdn.azureedge.net"
+      ],
+      "resources": [
+        "prod-adenty-cdn.azureedge.net"
       ]
     },
     "Project Wonderful": {
@@ -15445,6 +15388,14 @@
         "sendpulse.com"
       ]
     },
+    "Seon": {
+      "properties": [
+        "seon.io"
+      ],
+      "resources": [
+        "dfsdk.com"
+      ]
+    },
     "SEOptiks": {
       "properties": [
         "seoptiks.com"
@@ -16308,6 +16259,15 @@
         "usabilla.com"
       ]
     },
+    "Stiddle": {
+      "properties": [
+        "datasplot.com",
+        "stiddle.com"
+      ],
+      "resources": [
+        "fp.stiddle.com"
+      ]
+    },
     "Storeland": {
       "properties": [
         "storeland.ru"
@@ -16616,6 +16576,7 @@
     "Take-Two": {
       "properties": [
         "2k.com",
+        "circolocorecords.com",
         "cloudchamberstudios.com",
         "firaxis.com",
         "gearboxsoftware.com",
@@ -16624,6 +16585,7 @@
         "hb-studios.com",
         "massmedia.com",
         "rockstargames.com",
+        "rockstarnorth.com",
         "take2games.com",
         "thirtyfirstunion.com",
         "vcentertainment.com",
@@ -16632,7 +16594,8 @@
         "zyngagames.com"
       ],
       "resources": [
-        "media-rockstargames-com.akamaized.net"
+        "media-rockstargames-com.akamaized.net",
+        "s.rsg.sc"
       ]
     },
     "Tapad": {
@@ -16706,6 +16669,14 @@
       ],
       "resources": [
         "tchibo.de"
+      ]
+    },
+    "tdslinetraffic.com": {
+      "properties": [
+        "tdslinetraffic.com"
+      ],
+      "resources": [
+        "tdslinetraffic.com"
       ]
     },
     "Teads": {
@@ -17048,14 +17019,6 @@
         "sensisdata.com.au"
       ]
     },
-    "tiktokcdn1.xyz": {
-      "properties": [
-        "tiktokcdn1.xyz"
-      ],
-      "resources": [
-        "p15-tiktok-ads-us.tiktokcdn1.xyz"
-      ]
-    },
     "TimesInternet": {
       "properties": [
         "indiatimes.com",
@@ -17382,23 +17345,6 @@
         "addme.com"
       ]
     },
-    "Trip.com Group": {
-      "properties": [
-        "flightai.net",
-        "mytrainpal.com",
-        "qunar.com",
-        "skyscanner.com",
-        "travelfusion.com",
-        "travix.com",
-        "trip.com",
-        "tripcdn.com",
-        "triplinkintl.com"
-      ],
-      "resources": [
-        "ak-s-cw.tripcdn.com",
-        "aw-s.tripcdn.com"
-      ]
-    },
     "TripleLift": {
       "properties": [
         "1plusx.com",
@@ -17509,6 +17455,14 @@
       ],
       "resources": [
         "trvdp.com"
+      ]
+    },
+    "trynow.net": {
+      "properties": [
+        "trynow.net"
+      ],
+      "resources": [
+        "trynow.net"
       ]
     },
     "TTarget": {
@@ -17808,6 +17762,14 @@
       ],
       "resources": [
         "upsellit.com"
+      ]
+    },
+    "Upsun": {
+      "properties": [
+        "upsun.com"
+      ],
+      "resources": [
+        "blackfire.io"
       ]
     },
     "Uptrends": {
@@ -18199,20 +18161,20 @@
         "videobaba.xyz"
       ]
     },
+    "video-cdn.net": {
+      "properties": [
+        "video-cdn.net"
+      ],
+      "resources": [
+        "video-cdn.net"
+      ]
+    },
     "Vidoomy": {
       "properties": [
         "vidoomy.com"
       ],
       "resources": [
         "vidoomy.com"
-      ]
-    },
-    "VietnamNet": {
-      "properties": [
-        "vietnamnet.vn"
-      ],
-      "resources": [
-        "tracking.vnncdn.net"
       ]
     },
     "Viewbix": {
@@ -18468,6 +18430,14 @@
         "adsnative.com",
         "getpolymorph.com",
         "punchtab.com"
+      ]
+    },
+    "Wandz.ai": {
+      "properties": [
+        "wandz.ai"
+      ],
+      "resources": [
+        "wandzcdn.com"
       ]
     },
     "Warmly": {
@@ -18908,14 +18878,6 @@
       ],
       "resources": [
         "5ka-cdn.x5static.net"
-      ]
-    },
-    "xd51vd1y.xyz": {
-      "properties": [
-        "xd51vd1y.xyz"
-      ],
-      "resources": [
-        "xd51vd1y.xyz"
       ]
     },
     "xdiwbc.com": {

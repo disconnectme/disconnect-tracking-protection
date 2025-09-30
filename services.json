@@ -12552,6 +12552,13 @@
         }
       },
       {
+        "Oddschecker": {
+          "https://oddschecker.com": [
+            "oddschecker.com"
+          ]
+        }
+      },
+      {
         "Oracle": {
           "http://www.oracle.com/": [
             "oracle.com"
@@ -12872,6 +12879,13 @@
         "Attracta": {
           "https://www.attracta.com/": [
             "attracta.com"
+          ]
+        }
+      },
+      {
+        "attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net": {
+          "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net": [
+            "attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net"
           ]
         }
       },
@@ -13804,6 +13818,13 @@
         }
       },
       {
+        "hsprotect.net": {
+          "https://hsprotect.net": [
+            "hsprotect.net"
+          ]
+        }
+      },
+      {
         "HubSpot": {
           "http://www.hubspot.com/": [
             "hs-analytics.net",
@@ -14060,6 +14081,13 @@
         "m2911p.com": {
           "https://m2911p.com": [
             "m2911p.com"
+          ]
+        }
+      },
+      {
+        "Macy's": {
+          "https://macys.com": [
+            "assets.macysassets.com"
           ]
         }
       },
@@ -15095,6 +15123,13 @@
         }
       },
       {
+        "video-cdn.net": {
+          "https://video-cdn.net": [
+            "video-cdn.net"
+          ]
+        }
+      },
+      {
         "Visit Streamer": {
           "http://www.visitstreamer.com/": [
             "visitstreamer.com"
@@ -15628,6 +15663,13 @@
         }
       },
       {
+        "asepourioter.com": {
+          "https://asepourioter.com": [
+            "asepourioter.com"
+          ]
+        }
+      },
+      {
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
@@ -15704,6 +15746,13 @@
         "BeMob": {
           "https://bemob.com": [
             "7a75ebcbd7.com"
+          ]
+        }
+      },
+      {
+        "bestofall.info": {
+          "https://bestofall.info": [
+            "bestofall.info"
           ]
         }
       },
@@ -15849,6 +15898,13 @@
         }
       },
       {
+        "catiuribripent.com": {
+          "https://catiuribripent.com": [
+            "catiuribripent.com"
+          ]
+        }
+      },
+      {
         "cdn1cloudflare.xyz": {
           "https://cdn1cloudflare.xyz": [
             "cdn1cloudflare.xyz"
@@ -15889,6 +15945,7 @@
             "greencolumnhealth.com",
             "healthroundprince.com",
             "herbgreencolumn.com",
+            "herbstarsbuilding.com",
             "iseaskies.com",
             "isstarsbuilding.com",
             "lordofthesuperfrogs.com",
@@ -16352,6 +16409,13 @@
         "iHerb": {
           "https://iherb.com": [
             "s3.images-iherb.com"
+          ]
+        }
+      },
+      {
+        "imedao.com": {
+          "https://imedao.com": [
+            "imedao.com"
           ]
         }
       },
@@ -16830,6 +16894,13 @@
         }
       },
       {
+        "prod-adenty-cdn.azureedge.net": {
+          "https://prod-adenty-cdn.azureedge.net": [
+            "prod-adenty-cdn.azureedge.net"
+          ]
+        }
+      },
+      {
         "PrometheusIntelligenceTechnology": {
           "https://prometheusintelligencetechnology.com/": [
             "prometheusintelligencetechnology.com"
@@ -17083,6 +17154,13 @@
         }
       },
       {
+        "tdslinetraffic.com": {
+          "https://tdslinetraffic.com": [
+            "tdslinetraffic.com"
+          ]
+        }
+      },
+      {
         "Tealium": {
           "https://tealium.com": [
             "tags.tiqcdn.com"
@@ -17189,6 +17267,13 @@
         }
       },
       {
+        "trynow.net": {
+          "https://trynow.net": [
+            "trynow.net"
+          ]
+        }
+      },
+      {
         "Twik": {
           "https://twik.io": [
             "twik.io"
@@ -17216,6 +17301,13 @@
             "leadlander.com",
             "sf14g.com",
             "trackalyzer.com"
+          ]
+        }
+      },
+      {
+        "Upsun": {
+          "https://upsun.com": [
+            "blackfire.io"
           ]
         }
       },
@@ -17638,6 +17730,13 @@
         }
       },
       {
+        "Edge NPD": {
+          "https://edgenpd.com": [
+            "abtshield.com"
+          ]
+        }
+      },
+      {
         "eKonsilio": {
           "https://ekonsilio.com": [
             "webmessenger.ekonsilio.io"
@@ -17713,6 +17812,13 @@
         "Gamania": {
           "https://gamania.com": [
             "chat-content.beanfun.com"
+          ]
+        }
+      },
+      {
+        "Genius Sports": {
+          "https://geniussports.com": [
+            "tag.fanhub.geniussports.com"
           ]
         }
       },
@@ -17899,6 +18005,13 @@
         }
       },
       {
+        "Novel": {
+          "https://benovel.com": [
+            "benovel.com"
+          ]
+        }
+      },
+      {
         "NPDigital": {
           "https://npdigital.com/": [
             "kissmetrics.com"
@@ -18025,6 +18138,13 @@
         "Seel": {
           "https://seel.com": [
             "seel.com"
+          ]
+        }
+      },
+      {
+        "Seon": {
+          "https://seon.io": [
+            "dfsdk.com"
           ]
         }
       },
@@ -18159,6 +18279,13 @@
         }
       },
       {
+        "Wandz.ai": {
+          "https://wandz.ai": [
+            "wandzcdn.com"
+          ]
+        }
+      },
+      {
         "Yieldmo": {
           "https://yieldmo.com": [
             "yieldmo.com"
@@ -18193,6 +18320,13 @@
         "BrowserAnalytic": {
           "https://browseranalytic.com": [
             "browseranalytic.com"
+          ]
+        }
+      },
+      {
+        "CleanTalk": {
+          "https://cleantalk.org": [
+            "cleantalk.org"
           ]
         }
       },
@@ -18272,6 +18406,7 @@
       {
         "Signifyd": {
           "https://www.signifyd.com/": [
+            "kyc.red",
             "signifyd.com"
           ]
         }
