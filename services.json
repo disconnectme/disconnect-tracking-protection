@@ -6028,8 +6028,10 @@
         "FriendFinder Networks": {
           "http://ffn.com/": [
             "adultfriendfinder.com",
+            "cams.com",
             "ffn.com",
-            "pop6.com"
+            "pop6.com",
+            "streamray.com"
           ]
         }
       },
@@ -6245,14 +6247,6 @@
         "Giant Travel Unicorn Two": {
           "https://aviasales.com": [
             "static.aviasales.com"
-          ]
-        }
-      },
-      {
-        "Glam Media": {
-          "http://www.glammedia.com/": [
-            "glam.com",
-            "glammedia.com"
           ]
         }
       },
@@ -7478,13 +7472,6 @@
         }
       },
       {
-        "LiveChat": {
-          "https://livechat.com": [
-            "livechatinc.com"
-          ]
-        }
-      },
-      {
         "LiveIntent": {
           "http://www.liveintent.com/": [
             "liadm.com",
@@ -7727,7 +7714,7 @@
         }
       },
       {
-        "Match.com": {
+        "Match Group": {
           "http://www.match.com/": [
             "chemistry.com",
             "match.com"
@@ -8406,13 +8393,6 @@
         }
       },
       {
-        "NitroPay": {
-          "https://nitropay.com": [
-            "nitropay.com"
-          ]
-        }
-      },
-      {
         "nmgassets.com": {
           "https://nmgassets.com": [
             "nmgassets.com"
@@ -8811,6 +8791,7 @@
       {
         "Overwolf": {
           "https://overwolf.com": [
+            "nitropay.com",
             "tebex.io"
           ]
         }
@@ -10463,6 +10444,14 @@
         }
       },
       {
+        "Static Media": {
+          "https://static.com": [
+            "glam.com",
+            "glammedia.com"
+          ]
+        }
+      },
+      {
         "Stay22": {
           "https://stay22.com": [
             "stay22.com"
@@ -10481,14 +10470,6 @@
         "Storyly": {
           "https://storyly.io": [
             "storyly.io"
-          ]
-        }
-      },
-      {
-        "Streamray": {
-          "http://streamray.com/": [
-            "cams.com",
-            "streamray.com"
           ]
         }
       },
@@ -10760,6 +10741,13 @@
         "Terra": {
           "http://www.terra.com.br/": [
             "terra.com.br"
+          ]
+        }
+      },
+      {
+        "Text": {
+          "https://text.com": [
+            "livechatinc.com"
           ]
         }
       },
@@ -12434,8 +12422,8 @@
         }
       },
       {
-        "JWPlayer": {
-          "https://jwplayer.com/": [
+        "JWP Connatix": {
+          "https://jwpconnatix.com": [
             "jwpcdn.com",
             "jwplatform.com",
             "jwplayer.com",
@@ -13965,8 +13953,8 @@
         }
       },
       {
-        "JWPlayer": {
-          "https://jwplayer.com/": [
+        "JWP Connatix": {
+          "https://jwpconnatix.com": [
             "jwpltx.com",
             "longtailvideo.com",
             "ltassrv.com"
@@ -16747,13 +16735,6 @@
         }
       },
       {
-        "NitroPay": {
-          "https://nitropay.com": [
-            "s.nitropay.com"
-          ]
-        }
-      },
-      {
         "nnowa.com": {
           "https://nnowa.com": [
             "nnowa.com"
@@ -16856,7 +16837,8 @@
       {
         "Overwolf": {
           "https://overwolf.com": [
-            "nsure.tebex.io"
+            "nsure.tebex.io",
+            "s.nitropay.com"
           ]
         }
       },
