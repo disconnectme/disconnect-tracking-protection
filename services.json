@@ -4829,13 +4829,6 @@
         }
       },
       {
-        "Contentful": {
-          "https://contentful.com": [
-            "contentful.com"
-          ]
-        }
-      },
-      {
         "Contentstack": {
           "https://contentstack.com": [
             "lytics.io"
@@ -12162,6 +12155,13 @@
         }
       },
       {
+        "Contentful": {
+          "https://contentful.com": [
+            "contentful.com"
+          ]
+        }
+      },
+      {
         "Coveo": {
           "https://coveo.com": [
             "org.coveo.com",
@@ -12393,7 +12393,6 @@
             "googleusercontent.com",
             "googlevideo.com",
             "gstatic.com",
-            "recaptcha.net",
             "youtube-nocookie.com",
             "youtube.com",
             "ytimg.com"
@@ -13593,13 +13592,6 @@
         }
       },
       {
-        "GeeTest": {
-          "https://www.geetest.com/en/": [
-            "geetest.com"
-          ]
-        }
-      },
-      {
         "Genesys": {
           "https://www.genesys.com/": [
             "boldchat.com"
@@ -13785,16 +13777,6 @@
             "hsforms.net",
             "hubspot.com",
             "usemessages.com"
-          ]
-        }
-      },
-      {
-        "HumanSecurity": {
-          "https://www.humansecurity.com/": [
-            "adxyield.com",
-            "adzmath.com",
-            "clean.gg",
-            "whiteops.com"
           ]
         }
       },
@@ -14399,23 +14381,9 @@
         }
       },
       {
-        "NoFraud": {
-          "https://www.nofraud.com/": [
-            "nofraud.com"
-          ]
-        }
-      },
-      {
         "Noibu": {
           "https://www.noibu.com": [
             "noibu.com"
-          ]
-        }
-      },
-      {
-        "Noto": {
-          "https://notolytix.com/": [
-            "notolytix.com"
           ]
         }
       },
@@ -14770,13 +14738,6 @@
         "ShinyStat": {
           "http://www.shinystat.com/": [
             "shinystat.com"
-          ]
-        }
-      },
-      {
-        "SiftScience": {
-          "https://sift.com/": [
-            "sift.com"
           ]
         }
       },
@@ -15838,13 +15799,6 @@
         }
       },
       {
-        "BrowserAnalytic": {
-          "https://browseranalytic.com": [
-            "browseranalytic.com"
-          ]
-        }
-      },
-      {
         "Buzzoola": {
           "https://www.buzzoola.com/en/": [
             "buzzoola.com"
@@ -16297,13 +16251,6 @@
         }
       },
       {
-        "GeeTest": {
-          "https://www.geetest.com/en/": [
-            "geetest.com"
-          ]
-        }
-      },
-      {
         "getdeviceinf.com": {
           "https://getdeviceinf.com": [
             "cdn.getdeviceinf.com"
@@ -16381,14 +16328,6 @@
         }
       },
       {
-        "HumanSecurity": {
-          "https://www.humansecurity.com/": [
-            "perimeterx.net",
-            "px-cloud.net"
-          ]
-        }
-      },
-      {
         "iafstats.com": {
           "https://iafstats.com": [
             "api.iafstats.com"
@@ -16455,13 +16394,6 @@
         "intent.ly": {
           "https://intent.ly/en/": [
             "smct.io"
-          ]
-        }
-      },
-      {
-        "IntuitionMachines": {
-          "https://www.imachines.com/": [
-            "hcaptcha.com"
           ]
         }
       },
@@ -16742,20 +16674,6 @@
         }
       },
       {
-        "NoFraud": {
-          "https://www.nofraud.com/": [
-            "nofraud.com"
-          ]
-        }
-      },
-      {
-        "Noto": {
-          "https://notolytix.com/": [
-            "notolytix.com"
-          ]
-        }
-      },
-      {
         "Novaon Tech": {
           "https://novaontech.com": [
             "cdn-onmar.novaontech.com"
@@ -16853,13 +16771,6 @@
         "PartyPoker": {
           "https://www.partypoker.com/": [
             "iivt.com"
-          ]
-        }
-      },
-      {
-        "Paypal": {
-          "https://www.paypal.com": [
-            "simility.com"
           ]
         }
       },
@@ -17056,21 +16967,6 @@
         "showmeyouradsnow.com": {
           "https://showmeyouradsnow.com": [
             "go.showmeyouradsnow.com"
-          ]
-        }
-      },
-      {
-        "SiftScience": {
-          "https://sift.com/": [
-            "sift.com",
-            "siftscience.com"
-          ]
-        }
-      },
-      {
-        "Signifyd": {
-          "https://www.signifyd.com/": [
-            "signifyd.com"
           ]
         }
       },
