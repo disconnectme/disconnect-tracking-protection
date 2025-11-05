@@ -258,16 +258,6 @@
         }
       },
       {
-        "Campaigner": {
-          "https://www.campaigner.com/": [
-            "cp20.com",
-            "cpro20.com",
-            "cpro30.com",
-            "skem1.com"
-          ]
-        }
-      },
-      {
         "CarrotQuest": {
           "https://www.carrotquest.io/": [
             "api.carrotquest.io"
@@ -730,6 +720,16 @@
           "https://www.yotpo.com/": [
             "em.yotpo.com",
             "p.yotpo.com"
+          ]
+        }
+      },
+      {
+        "ZiffDavis": {
+          "https://www.ziffdavis.com/": [
+            "cp20.com",
+            "cpro20.com",
+            "cpro30.com",
+            "skem1.com"
           ]
         }
       }
@@ -3532,7 +3532,9 @@
       {
         "Atlassian": {
           "https://atlassian.com": [
-            "atlassian.com"
+            "api-private.atlassian.com",
+            "as.atlassian.com",
+            "jsd-widget.atlassian.com"
           ]
         }
       },
@@ -4323,13 +4325,6 @@
         "CallRail": {
           "https://callrail.com": [
             "callrail.com"
-          ]
-        }
-      },
-      {
-        "Campaigner": {
-          "https://www.campaigner.com/": [
-            "communicatorcorp.com"
           ]
         }
       },
@@ -11993,6 +11988,7 @@
       {
         "ZiffDavis": {
           "https://www.ziffdavis.com/": [
+            "communicatorcorp.com",
             "netshelter.com",
             "netshelter.net"
           ]
