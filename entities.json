@@ -11657,8 +11657,7 @@
         "contactatonce.com",
         "liveperson.com",
         "liveperson.net",
-        "lpsnmedia.net",
-        "nuconomy.com"
+        "lpsnmedia.net"
       ]
     },
     "LiveRamp": {
@@ -13877,8 +13876,9 @@
         "stackla.com"
       ],
       "resources": [
-        "nosto.com",
-        "stackla.com"
+        "connect.nosto.com",
+        "stackla.com",
+        "thumbs.nosto.com"
       ]
     },
     "NotifyGroup": {

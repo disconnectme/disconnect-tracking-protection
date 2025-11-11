@@ -6269,13 +6269,6 @@
         }
       },
       {
-        "Go Daddy": {
-          "http://www.godaddy.com/": [
-            "godaddy.com"
-          ]
-        }
-      },
-      {
         "GoDataFeed": {
           "http://godatafeed.com/": [
             "godatafeed.com"
@@ -6463,13 +6456,6 @@
         "Horyzon Media": {
           "http://www.horyzon-media.com/": [
             "horyzon-media.com"
-          ]
-        }
-      },
-      {
-        "HotMart": {
-          "https://www.hotmart.com/en/": [
-            "hotmart.com"
           ]
         }
       },
@@ -8405,7 +8391,6 @@
       {
         "Nosto": {
           "https://www.nosto.com/": [
-            "nosto.com",
             "stackla.com"
           ]
         }
@@ -10065,9 +10050,7 @@
       {
         "Shopline": {
           "https://shopline.com": [
-            "kmalgo.com",
-            "myshopline.com",
-            "shoplineapp.com"
+            "kmalgo.com"
           ]
         }
       },
@@ -12175,6 +12158,13 @@
         }
       },
       {
+        "Emplifi": {
+          "https://emplifi.io": [
+            "turnto.com"
+          ]
+        }
+      },
+      {
         "FundraiseUp": {
           "https://fundraiseup.com/": [
             "fundraiseup.com"
@@ -12185,6 +12175,13 @@
         "GeoComply": {
           "https://geocomply.com": [
             "geocomply.com"
+          ]
+        }
+      },
+      {
+        "Go Daddy": {
+          "http://www.godaddy.com/": [
+            "godaddy.com"
           ]
         }
       },
@@ -12396,6 +12393,13 @@
         }
       },
       {
+        "HotMart": {
+          "https://www.hotmart.com/en/": [
+            "hotmart.com"
+          ]
+        }
+      },
+      {
         "Imgix": {
           "https://imgix.com": [
             "imgix.net"
@@ -12438,6 +12442,16 @@
         "Kaltura": {
           "http://corp.kaltura.com/": [
             "kaltura.com"
+          ]
+        }
+      },
+      {
+        "LivePerson": {
+          "http://www.liveperson.net/": [
+            "contactatonce.com",
+            "liveperson.com",
+            "liveperson.net",
+            "lpsnmedia.net"
           ]
         }
       },
@@ -12494,6 +12508,14 @@
         }
       },
       {
+        "Nosto": {
+          "https://www.nosto.com/": [
+            "connect.nosto.com",
+            "thumbs.nosto.com"
+          ]
+        }
+      },
+      {
         "Oddschecker": {
           "https://oddschecker.com": [
             "oddschecker.com"
@@ -12522,10 +12544,25 @@
         }
       },
       {
+        "Piano": {
+          "https://piano.io/": [
+            "piano.io",
+            "tinypass.com"
+          ]
+        }
+      },
+      {
         "Pinterest": {
           "http://pinterest.com/": [
             "pinimg.com",
             "pinterest.com"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "salesforceliveagent.com"
           ]
         }
       },
@@ -12543,6 +12580,14 @@
             "shop.app",
             "shopifyapps.com",
             "shopifysvc.com"
+          ]
+        }
+      },
+      {
+        "Shopline": {
+          "https://shopline.com": [
+            "myshopline.com",
+            "shoplineapp.com"
           ]
         }
       },
@@ -12647,6 +12692,15 @@
             "yandex.net",
             "yandex.ru",
             "yandex.st"
+          ]
+        }
+      },
+      {
+        "Zendesk": {
+          "http://www.zendesk.com/": [
+            "zdassets.com",
+            "zendesk.com",
+            "zopim.com"
           ]
         }
       }
@@ -13433,13 +13487,6 @@
         }
       },
       {
-        "Emplifi": {
-          "https://emplifi.io": [
-            "turnto.com"
-          ]
-        }
-      },
-      {
         "eProof.com": {
           "http://www.eproof.com/": [
             "eproof.com"
@@ -13971,17 +14018,6 @@
         "LineZing": {
           "http://www.linezing.com/": [
             "linezing.com"
-          ]
-        }
-      },
-      {
-        "LivePerson": {
-          "http://www.liveperson.net/": [
-            "contactatonce.com",
-            "liveperson.com",
-            "liveperson.net",
-            "lpsnmedia.net",
-            "nuconomy.com"
           ]
         }
       },
@@ -14518,8 +14554,6 @@
             "at-o.net",
             "aticdn.net",
             "atinternet.com",
-            "piano.io",
-            "tinypass.com",
             "xiti.com"
           ]
         }
@@ -14695,8 +14729,7 @@
             "cquotient.com",
             "evgnet.com",
             "igodigital.com",
-            "salesforce.com",
-            "salesforceliveagent.com"
+            "salesforce.com"
           ]
         }
       },
@@ -15269,15 +15302,6 @@
         "yvmads.com": {
           "https://yvmads.com": [
             "z0000g.yvmads.com"
-          ]
-        }
-      },
-      {
-        "Zendesk": {
-          "http://www.zendesk.com/": [
-            "zdassets.com",
-            "zendesk.com",
-            "zopim.com"
           ]
         }
       },
@@ -17758,13 +17782,6 @@
         }
       },
       {
-        "HotMart": {
-          "https://www.hotmart.com/en/": [
-            "hotmart.com"
-          ]
-        }
-      },
-      {
         "HyperKu": {
           "https://hyperku.com": [
             "ecal.com"
@@ -18042,14 +18059,6 @@
         "Shift4": {
           "https://shift4.com": [
             "js.securionpay.com"
-          ]
-        }
-      },
-      {
-        "Shopline": {
-          "https://shopline.com": [
-            "myshopline.com",
-            "shoplineapp.com"
           ]
         }
       },
