@@ -19606,10 +19606,31 @@
     },
     "VKontakte": {
       "properties": [
+        "apiok.ru",
+        "dzen.ru",
+        "insideok.ru",
         "list.ru",
         "mail.ru",
+        "max.ru",
+        "ok.ru",
+        "oktech.ru",
+        "rustore.ru",
+        "sferum.ru",
+        "skillbox.com",
+        "skillfactory.ru",
+        "sportmail.ru",
+        "tamtam.chat",
+        "tetrika-school.ru",
+        "uchi.ru",
+        "vk-apps.com",
         "vk.com",
-        "vkvideo.ru"
+        "vk.company",
+        "vk.me",
+        "vkclips.app",
+        "vkcombo.ru",
+        "vkplay.ru",
+        "vkvideo.ru",
+        "youla.ru"
       ],
       "resources": [
         "list.ru",
