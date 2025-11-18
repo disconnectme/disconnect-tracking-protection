@@ -12487,6 +12487,13 @@
         }
       },
       {
+        "MovingImage": {
+          "https://www.movingimage.com": [
+            "video-cdn.net"
+          ]
+        }
+      },
+      {
         "Mux": {
           "https://mux.com": [
             "mux.com"
@@ -15113,13 +15120,6 @@
         "videobaba.xyz": {
           "https://videobaba.xyz": [
             "videobaba.xyz"
-          ]
-        }
-      },
-      {
-        "video-cdn.net": {
-          "https://video-cdn.net": [
-            "video-cdn.net"
           ]
         }
       },

@@ -12966,6 +12966,14 @@
         "affbuzzads.com"
       ]
     },
+    "MovingImage": {
+      "properties": [
+        "movingimage.com"
+      ],
+      "resources": [
+        "video-cdn.net"
+      ]
+    },
     "mpeasylink.com": {
       "properties": [
         "mpeasylink.com"
@@ -16574,7 +16582,9 @@
     },
     "Shift4": {
       "properties": [
-        "shift4.com"
+        "inspiration4.com",
+        "shift4.com",
+        "shift4shop.com"
       ],
       "resources": [
         "securionpay.com"
@@ -19432,14 +19442,6 @@
       ],
       "resources": [
         "videobaba.xyz"
-      ]
-    },
-    "video-cdn.net": {
-      "properties": [
-        "video-cdn.net"
-      ],
-      "resources": [
-        "video-cdn.net"
       ]
     },
     "Vidoomy": {
