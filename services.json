@@ -2941,13 +2941,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "AdTruth": {
           "http://adtruth.com/": [
             "adtruth.com"
@@ -3172,13 +3165,6 @@
           "http://www.afterdownload.com/": [
             "afdads.com",
             "afterdownload.com"
-          ]
-        }
-      },
-      {
-        "AfterPay": {
-          "https://afterpay.com": [
-            "afterpay.com"
           ]
         }
       },
@@ -7225,13 +7211,6 @@
         }
       },
       {
-        "Klarna": {
-          "https://klarna.com": [
-            "klarnaservices.com"
-          ]
-        }
-      },
-      {
         "Klaviyo": {
           "https://klaviyo.com": [
             "klaviyo.com"
@@ -8068,13 +8047,6 @@
         }
       },
       {
-        "MoveableInk": {
-          "https://movableink.com": [
-            "micpn.com"
-          ]
-        }
-      },
-      {
         "MovieLush.com": {
           "https://www.movielush.com/": [
             "affbuzzads.com"
@@ -8499,13 +8471,6 @@
         "OnAudience": {
           "http://www.onaudience.com/": [
             "onaudience.com"
-          ]
-        }
-      },
-      {
-        "Onclusive": {
-          "https://onclusive.com/": [
-            "airpr.com"
           ]
         }
       },
@@ -10041,13 +10006,6 @@
         }
       },
       {
-        "Shogun": {
-          "https://getshogun.com": [
-            "getshogun.com"
-          ]
-        }
-      },
-      {
         "Shopline": {
           "https://shopline.com": [
             "kmalgo.com"
@@ -10426,6 +10384,14 @@
         "Stay22": {
           "https://stay22.com": [
             "stay22.com"
+          ]
+        }
+      },
+      {
+        "STG": {
+          "https://stg.com/": [
+            "airpr.com",
+            "micpn.com"
           ]
         }
       },
@@ -11488,6 +11454,13 @@
         }
       },
       {
+        "VNG Group": {
+          "https://vng.com.vn": [
+            "zadn.vn"
+          ]
+        }
+      },
+      {
         "Vocento": {
           "https://en.vocento.com/": [
             "vocento.com",
@@ -11521,13 +11494,6 @@
           "http://www.vserv.com/": [
             "vserv.com",
             "vserv.mobi"
-          ]
-        }
-      },
-      {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
           ]
         }
       },
@@ -11684,13 +11650,6 @@
           "http://wishabi.com": [
             "wishabi.com",
             "wishabi.net"
-          ]
-        }
-      },
-      {
-        "Wistia": {
-          "https://wistia.com": [
-            "wistia.com"
           ]
         }
       },
@@ -12013,6 +11972,13 @@
         "Affirm": {
           "https://www.affirm.com/": [
             "affirm.com"
+          ]
+        }
+      },
+      {
+        "AfterPay": {
+          "https://afterpay.com": [
+            "afterpay.com"
           ]
         }
       },
@@ -12446,6 +12412,13 @@
         }
       },
       {
+        "Klarna": {
+          "https://klarna.com": [
+            "klarnaservices.com"
+          ]
+        }
+      },
+      {
         "LivePerson": {
           "http://www.liveperson.net/": [
             "contactatonce.com",
@@ -12569,6 +12542,7 @@
       {
         "Salesforce": {
           "https://www.salesforce.com/": [
+            "evgnet.com",
             "salesforceliveagent.com"
           ]
         }
@@ -12577,6 +12551,13 @@
         "SAP": {
           "https://www.sap.com": [
             "gigya.com"
+          ]
+        }
+      },
+      {
+        "Shogun": {
+          "https://getshogun.com": [
+            "getshogun.com"
           ]
         }
       },
@@ -12674,6 +12655,20 @@
         "Volentio JSD": {
           "https://jsdelivr.com": [
             "cdn.jsdelivr.net"
+          ]
+        }
+      },
+      {
+        "Vtex": {
+          "https://vtex.com/br-pt/": [
+            "vtex.com.br"
+          ]
+        }
+      },
+      {
+        "Wistia": {
+          "https://wistia.com": [
+            "wistia.com"
           ]
         }
       },
@@ -14734,7 +14729,6 @@
         "Salesforce": {
           "https://www.salesforce.com/": [
             "cquotient.com",
-            "evgnet.com",
             "igodigital.com",
             "salesforce.com"
           ]
@@ -17470,13 +17464,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "airpackapp.com": {
           "https://airpackapp.com": [
             "static.airpackapp.com"
@@ -18164,16 +18151,16 @@
         }
       },
       {
-        "Vocento": {
-          "https://en.vocento.com/": [
-            "vocento.com"
+        "VNG Group": {
+          "https://vng.com.vn": [
+            "zadn.vn"
           ]
         }
       },
       {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
+        "Vocento": {
+          "https://en.vocento.com/": [
+            "vocento.com"
           ]
         }
       },

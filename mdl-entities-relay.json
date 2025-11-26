@@ -1900,14 +1900,6 @@
         "adtiger.de"
       ]
     },
-    "Adtima": {
-      "properties": [
-        "adrima.vn"
-      ],
-      "resources": [
-        "zadn.vn"
-      ]
-    },
     "AdTruth": {
       "properties": [
         "adtruth.com"
@@ -12299,8 +12291,48 @@
     },
     "Mediaworks": {
       "properties": [
+        "24ora.hu",
+        "agrokep.vg.hu",
+        "automotor.hu",
+        "bama.hu",
+        "baon.hu",
+        "beol.hu",
+        "boon.hu",
+        "borsonline.hu",
+        "delmagyar.hu",
+        "dietaesfitnesz.hu",
+        "duol.hu",
+        "feol.hu",
+        "haon.hu",
+        "heol.hu",
+        "hirfm.hu",
+        "ingatlanbazar.hu",
+        "kemma.hu",
+        "kisalfold.hu",
+        "koponyeg.hu",
+        "lakaskultura.hu",
+        "lapcentrum.hu",
+        "life.hu",
+        "likebalaton.hu",
+        "magyarnemzet.hu",
         "mediaworks.hu",
-        "origo.hu"
+        "metropol.hu",
+        "mindmegette.hu",
+        "nool.hu",
+        "origo.hu",
+        "ripost.hu",
+        "sonline.hu",
+        "szabadfold.hu",
+        "szegedma.hu",
+        "szoljon.hu",
+        "szon.hu",
+        "teol.hu",
+        "vaol.hu",
+        "veol.hu",
+        "vg.hu",
+        "videkize.hu",
+        "vitorlazasmagazin.hu",
+        "zaol.hu"
       ],
       "resources": [
         "origo.hu"
@@ -12581,7 +12613,10 @@
         "gears.gg",
         "getgamesmart.com",
         "gfx.ms",
+        "github.co.jp",
         "github.com",
+        "github.dev",
+        "githubstatus.com",
         "healthvault.com",
         "hockeyapp.net",
         "hololensevents.com",
@@ -12591,6 +12626,7 @@
         "linkedin.com",
         "live.com",
         "lnkd.in",
+        "logicalawesome.com",
         "mdcs.rs",
         "meetfasttrack.com",
         "microsoft.ch",
@@ -12947,14 +12983,6 @@
       ],
       "resources": [
         "mouseflow.com"
-      ]
-    },
-    "MoveableInk": {
-      "properties": [
-        "movableink.com"
-      ],
-      "resources": [
-        "micpn.com"
       ]
     },
     "MovieLush.com": {
@@ -13880,14 +13908,6 @@
       ],
       "resources": [
         "livecamcdn.com"
-      ]
-    },
-    "Onclusive": {
-      "properties": [
-        "onclusive.com"
-      ],
-      "resources": [
-        "airpr.com"
       ]
     },
     "OneAd": {
@@ -17509,9 +17529,41 @@
     },
     "STG": {
       "properties": [
-        "stg.com"
+        "avid.com",
+        "caisoft.com",
+        "caseworthy.com",
+        "celtra.com",
+        "confience.io",
+        "epackagingsw.com",
+        "epssw.com",
+        "escalent.co",
+        "escalentclient.co",
+        "escalentportal.co",
+        "extendaretail.com",
+        "fishbowl.com",
+        "getfeedback.com",
+        "gocadmium.com",
+        "greshamtech.com",
+        "jobrapido.com",
+        "mediavalet.com",
+        "movableink.com",
+        "nomissolutions.com",
+        "onclusive.com",
+        "printepssw.com",
+        "quoreka.com",
+        "redseal.net",
+        "sai360.com",
+        "sibelius.com",
+        "stg.com",
+        "stgpartners.com",
+        "surveymonkey.com",
+        "trellix.com",
+        "wrike.com",
+        "yodlee.com"
       ],
       "resources": [
+        "airpr.com",
+        "micpn.com",
         "usabilla.com"
       ]
     },
@@ -19599,6 +19651,24 @@
         "userapi.com",
         "vk.com",
         "vkontakte.ru"
+      ]
+    },
+    "VNG Group": {
+      "properties": [
+        "vng.com.vn",
+        "vnggames.com",
+        "zadn.vn",
+        "zalo.ai",
+        "zalo.careers",
+        "zalo.cloud",
+        "zalo.me",
+        "zalo.vn",
+        "zalopay.vn",
+        "zdn.vn",
+        "zing.vn"
+      ],
+      "resources": [
+        "zadn.vn"
       ]
     },
     "Vocento": {
