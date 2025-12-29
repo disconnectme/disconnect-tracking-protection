@@ -848,6 +848,14 @@
         "ampxchange.com"
       ]
     },
+    "Ad Master": {
+      "properties": [
+        "admaster.cc"
+      ],
+      "resources": [
+        "admaster.cc"
+      ]
+    },
     "AdMatrix": {
       "properties": [
         "admatrix.jp"
@@ -2227,6 +2235,14 @@
         "adgibbon.com"
       ]
     },
+    "Agentio": {
+      "properties": [
+        "agentio.com"
+      ],
+      "resources": [
+        "agentio.com"
+      ]
+    },
     "AggregateIntelligence": {
       "properties": [
         "aggregateintelligence.com"
@@ -2942,6 +2958,19 @@
       ],
       "resources": [
         "arcspire.io"
+      ]
+    },
+    "Aristocrat": {
+      "properties": [
+        "aristocrat.com",
+        "aristocratinteractive.com",
+        "casiplay.com",
+        "neogames.com",
+        "playfrank.com",
+        "productmadness.com"
+      ],
+      "resources": [
+        "aspireglobal.com"
       ]
     },
     "ArtificialComputationIntelligence": {
@@ -5042,6 +5071,7 @@
         "webex.com"
       ],
       "resources": [
+        "appdynamics.com",
         "smartlook.com"
       ]
     },
@@ -7047,6 +7077,39 @@
         "engago.com"
       ]
     },
+    "Entain": {
+      "properties": [
+        "betboo.bet.br",
+        "betcity.nl",
+        "bwin.be",
+        "bwin.com",
+        "bwin.de",
+        "bwin.es",
+        "bwin.fr",
+        "bwin.it",
+        "coral.co.uk",
+        "entaingroup.com",
+        "eurobet.it",
+        "foxybingo.com",
+        "galabingo.com",
+        "galacasino.com",
+        "giocodigitale.it",
+        "ladbrokes.be",
+        "ladbrokes.com",
+        "ladbrokeshub.be",
+        "laimz.lv",
+        "neds.com.au",
+        "optibet.com",
+        "partycasino.com",
+        "sportingbet.com",
+        "sportsinteraction.com",
+        "sts.pl",
+        "vistabet.gr"
+      ],
+      "resources": [
+        "itsfogo.com"
+      ]
+    },
     "Entireweb": {
       "properties": [
         "entireweb.com"
@@ -7317,6 +7380,15 @@
       ],
       "resources": [
         "scrippsdigital.com"
+      ]
+    },
+    "EX.CO Technologies": {
+      "properties": [
+        "ex.co"
+      ],
+      "resources": [
+        "ex.co",
+        "playbuzz.com"
       ]
     },
     "ExoClick": {
@@ -9238,6 +9310,15 @@
         "gostats.com"
       ]
     },
+    "GOVX": {
+      "properties": [
+        "govx.com",
+        "govxinc.com"
+      ],
+      "resources": [
+        "govx.com"
+      ]
+    },
     "GrapheneMedia": {
       "properties": [
         "graphenemedia.in"
@@ -9445,7 +9526,8 @@
         "hatena.co.jp"
       ],
       "resources": [
-        "hatena.ne.jp"
+        "hatena.ne.jp",
+        "st-hatena.com"
       ]
     },
     "Heap": {
@@ -10384,6 +10466,14 @@
         "inspectlet.com"
       ]
     },
+    "Insticator": {
+      "properties": [
+        "insticator.com"
+      ],
+      "resources": [
+        "ingage.tech"
+      ]
+    },
     "Instinctive": {
       "properties": [
         "instinctive.io"
@@ -11078,6 +11168,14 @@
         "keywee.co"
       ]
     },
+    "Kilkaya": {
+      "properties": [
+        "kilkaya.com"
+      ],
+      "resources": [
+        "k5a.io"
+      ]
+    },
     "Kimberlite.io": {
       "properties": [
         "kimberlite.io"
@@ -11721,6 +11819,14 @@
         "spotxchange.com"
       ]
     },
+    "magsrv.com": {
+      "properties": [
+        "magsrv.com"
+      ],
+      "resources": [
+        "magsrv.com"
+      ]
+    },
     "Mail365": {
       "properties": [
         "mail365.ru"
@@ -11835,7 +11941,9 @@
       ],
       "resources": [
         "industrybrains.com",
-        "marchex.com"
+        "marchex.com",
+        "marchex.io",
+        "web-2-tel.com"
       ]
     },
     "Marfeel": {
@@ -14147,6 +14255,22 @@
         "optimizely.com"
       ]
     },
+    "Optimonk": {
+      "properties": [
+        "optimonk.com"
+      ],
+      "resources": [
+        "optimonk.com"
+      ]
+    },
+    "Optimove": {
+      "properties": [
+        "optimove.com"
+      ],
+      "resources": [
+        "optimove.net"
+      ]
+    },
     "OptimumResponse": {
       "properties": [
         "optimumresponse.com"
@@ -14754,6 +14878,14 @@
         "leadersend.com"
       ]
     },
+    "Pixalate": {
+      "properties": [
+        "pixalate.com"
+      ],
+      "resources": [
+        "adrta.com"
+      ]
+    },
     "PixAnalytics": {
       "properties": [
         "pixanalytics.com"
@@ -14943,6 +15075,14 @@
       "resources": [
         "v12data.com",
         "v12group.com"
+      ]
+    },
+    "PostHog": {
+      "properties": [
+        "posthog.com"
+      ],
+      "resources": [
+        "posthog.com"
       ]
     },
     "Postmark": {
@@ -17350,7 +17490,8 @@
         "spotify.com"
       ],
       "resources": [
-        "pdst.fm"
+        "pdst.fm",
+        "spotify.com"
       ]
     },
     "Spotler": {
@@ -17416,6 +17557,14 @@
       ],
       "resources": [
         "stamped.io"
+      ]
+    },
+    "Stanworth Development Limited": {
+      "properties": [
+        "src-play.com"
+      ],
+      "resources": [
+        "src-play.com"
       ]
     },
     "StarGames": {
@@ -18070,6 +18219,7 @@
         "yuewen.com"
       ],
       "resources": [
+        "gtimg.cn",
         "qcloud.com",
         "qq.com",
         "riotgames.com"
