@@ -1,6 +1,11 @@
-# Tracker Descriptions for Fingerprinters and Cryptominers
+# Tracker Descriptions for Selected Fingerprinters and Cryptominers
+The descriptions below provide illustrative examples of Fingerprinters and Cryptominers identified by Disconnect at the time of review. They do not represent a complete, up to date, or exhaustive list of all Fingerprinters or Cryptominers included in the Disconnect Tracking Protection lists.
 
-The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
+The technical and policy information summarized here was recorded on the date observed and is not intended to enumerate every data point, detection method, or internal criterion used to determine classification. Additional technical indicators, behavioral evidence, and contextual analysis may inform classification decisions beyond what is documented below. For more information, please see our policy page at https://disconnect.me/trackerprotection.
+
+Tracker classifications are subject to ongoing review and may change over time as behaviors evolve, new information becomes available, or methodologies are refined.
+
+If you have questions, concerns, or requests for review, please contact support@disconnect.me
 
 - [Adbot](#Adbot)
 - [The-Trade-Desk](#The-Trade-Desk)
