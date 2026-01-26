@@ -402,16 +402,6 @@
         "trackcmp.net"
       ]
     },
-    "ActiveConversion": {
-      "properties": [
-        "activeconversion.com",
-        "activemeter.com"
-      ],
-      "resources": [
-        "activeconversion.com",
-        "activemeter.com"
-      ]
-    },
     "ActiveDemand": {
       "properties": [
         "activedemand.com"
@@ -419,6 +409,17 @@
       "resources": [
         "acsmedia.us",
         "activedemand.com"
+      ]
+    },
+    "ActiveIQ": {
+      "properties": [
+        "activeconversion.com",
+        "activeiq.co",
+        "activemeter.com"
+      ],
+      "resources": [
+        "activeconversion.com",
+        "activemeter.com"
       ]
     },
     "ActivEngage": {
@@ -734,6 +735,17 @@
       ],
       "resources": [
         "adimpact.com"
+      ]
+    },
+    "Aditude": {
+      "properties": [
+        "aditude.com",
+        "cpmstar.com",
+        "hashtag-labs.com"
+      ],
+      "resources": [
+        "cpmstar.com",
+        "htlbid.com"
       ]
     },
     "AdJug": {
@@ -3755,6 +3767,14 @@
         "aivalabs.com"
       ]
     },
+    "BidBerry": {
+      "properties": [
+        "bidberrymedia.com"
+      ],
+      "resources": [
+        "bidberry.com"
+      ]
+    },
     "Bidfluence": {
       "properties": [
         "bidfluence.com"
@@ -3898,14 +3918,6 @@
       ],
       "resources": [
         "blings.io"
-      ]
-    },
-    "Blis": {
-      "properties": [
-        "blis.com"
-      ],
-      "resources": [
-        "blismedia.com"
       ]
     },
     "bloblohub.com": {
@@ -4814,6 +4826,14 @@
       ],
       "resources": [
         "cdn1cloudflare.xyz"
+      ]
+    },
+    "cdnbasket.net": {
+      "properties": [
+        "cdnbasket.net"
+      ],
+      "resources": [
+        "cdnbasket.net"
       ]
     },
     "cdn-path.com": {
@@ -5896,14 +5916,6 @@
         "thinkrealtime.com"
       ]
     },
-    "CPMStar": {
-      "properties": [
-        "cpmstar.com"
-      ],
-      "resources": [
-        "cpmstar.com"
-      ]
-    },
     "Crazy Egg": {
       "properties": [
         "cetrk.com",
@@ -6702,6 +6714,17 @@
         "media6degrees.com"
       ]
     },
+    "DT": {
+      "properties": [
+        "blis.com",
+        "t-mobile.com",
+        "telekom.com"
+      ],
+      "resources": [
+        "blis.com",
+        "blismedia.com"
+      ]
+    },
     "dtscdn.com": {
       "properties": [
         "dtscdn.com"
@@ -6883,6 +6906,14 @@
         "lassocrm.com"
       ]
     },
+    "ECOtanka Global": {
+      "properties": [
+        "ecotanka.com"
+      ],
+      "resources": [
+        "d9stats.com"
+      ]
+    },
     "EcreativeWorks": {
       "properties": [
         "ecreativeworks.com",
@@ -6910,6 +6941,14 @@
         "limelight.com",
         "llnwd.net",
         "uplynk.com"
+      ]
+    },
+    "edkt.io": {
+      "properties": [
+        "edkt.io"
+      ],
+      "resources": [
+        "edkt.io"
       ]
     },
     "edrone": {
@@ -9513,14 +9552,6 @@
         "harrenmedianetwork.com"
       ]
     },
-    "HashtagLabs": {
-      "properties": [
-        "hashtag-labs.com"
-      ],
-      "resources": [
-        "htlbid.com"
-      ]
-    },
     "Hatena": {
       "properties": [
         "hatena.co.jp"
@@ -9528,6 +9559,14 @@
       "resources": [
         "hatena.ne.jp",
         "st-hatena.com"
+      ]
+    },
+    "HB Agency": {
+      "properties": [
+        "hbagency.it"
+      ],
+      "resources": [
+        "hbagency.it"
       ]
     },
     "Heap": {
@@ -10230,6 +10269,14 @@
       "resources": [
         "360yield.com",
         "improvedigital.com"
+      ]
+    },
+    "INBS.software": {
+      "properties": [
+        "inbs.software"
+      ],
+      "resources": [
+        "metricscube.io"
       ]
     },
     "Incognia": {
@@ -11751,6 +11798,14 @@
       ],
       "resources": [
         "m2911p.com"
+      ]
+    },
+    "macromill.com": {
+      "properties": [
+        "macromill.com"
+      ],
+      "resources": [
+        "macromill.com"
       ]
     },
     "Macy's": {
@@ -14520,6 +14575,16 @@
         "pntrs.com"
       ]
     },
+    "PartnerStack": {
+      "properties": [
+        "partnerstack.com"
+      ],
+      "resources": [
+        "grsm.io",
+        "partnerlinks.io",
+        "partnerstack.com"
+      ]
+    },
     "PartyPoker": {
       "properties": [
         "partypoker.com"
@@ -14932,6 +14997,14 @@
       ],
       "resources": [
         "platform-one.co.jp"
+      ]
+    },
+    "Plausible": {
+      "properties": [
+        "plausible.io"
+      ],
+      "resources": [
+        "plausible.io"
       ]
     },
     "PlayD": {
@@ -15680,6 +15753,14 @@
         "rdrctgoweb.com"
       ]
     },
+    "Read the Docs": {
+      "properties": [
+        "readthedocs.com"
+      ],
+      "resources": [
+        "ethicalads.io"
+      ]
+    },
     "Reaktion": {
       "properties": [
         "reaktion.com"
@@ -16263,6 +16344,14 @@
         "reztrack.com",
         "sabre.com",
         "sabrehospitality.com"
+      ]
+    },
+    "safe-iplay.com": {
+      "properties": [
+        "safe-iplay.com"
+      ],
+      "resources": [
+        "safe-iplay.com"
       ]
     },
     "SafeOpt": {
@@ -17766,6 +17855,14 @@
         "mailfoogae.appspot.com"
       ]
     },
+    "streetmetrics": {
+      "properties": [
+        "streetmetrics.com"
+      ],
+      "resources": [
+        "streetmetrics.io"
+      ]
+    },
     "StrikeAd": {
       "properties": [
         "strikead.com"
@@ -17920,6 +18017,14 @@
       ],
       "resources": [
         "survicate.com"
+      ]
+    },
+    "Swetrix": {
+      "properties": [
+        "swetrix.com"
+      ],
+      "resources": [
+        "swetrix.com"
       ]
     },
     "Switch": {
@@ -18632,6 +18737,15 @@
         "tp88trk.com"
       ]
     },
+    "TPMN": {
+      "properties": [
+        "tpmn.io"
+      ],
+      "resources": [
+        "tpmn.co.kr",
+        "tpmn.io"
+      ]
+    },
     "TraceMyIP.org": {
       "properties": [
         "tracemyip.org"
@@ -19094,6 +19208,14 @@
       ],
       "resources": [
         "ujet.co"
+      ]
+    },
+    "Umami Software": {
+      "properties": [
+        "umami.is"
+      ],
+      "resources": [
+        "umami.is"
       ]
     },
     "Umbel": {
@@ -19610,6 +19732,14 @@
         "specificclick.net",
         "specificmedia.com",
         "vindicosuite.com"
+      ]
+    },
+    "Vibe": {
+      "properties": [
+        "vibe.co"
+      ],
+      "resources": [
+        "vibe.co"
       ]
     },
     "Vibrant Media": {

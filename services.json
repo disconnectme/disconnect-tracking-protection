@@ -1652,8 +1652,8 @@
         }
       },
       {
-        "ActiveConversion": {
-          "http://www.activeconversion.com/": [
+        "ActiveIQ": {
+          "https://activeiq.co": [
             "activeconversion.com",
             "activemeter.com"
           ]
@@ -1898,6 +1898,14 @@
         "AdImpact": {
           "https://adimpact.com": [
             "adimpact.com"
+          ]
+        }
+      },
+      {
+        "Aditude": {
+          "https://aditude.com": [
+            "cpmstar.com",
+            "htlbid.com"
           ]
         }
       },
@@ -3902,6 +3910,13 @@
         }
       },
       {
+        "BidBerry": {
+          "https://bidberrymedia.com": [
+            "bidberry.com"
+          ]
+        }
+      },
+      {
         "Bidfluence": {
           "https://www.bidfluence.com/": [
             "bidfluence.com"
@@ -3983,13 +3998,6 @@
         "Blings": {
           "https://blings.io": [
             "blings.io"
-          ]
-        }
-      },
-      {
-        "Blis": {
-          "https://blis.com/": [
-            "blismedia.com"
           ]
         }
       },
@@ -4936,13 +4944,6 @@
         }
       },
       {
-        "CPMStar": {
-          "http://www.cpmstar.com/": [
-            "cpmstar.com"
-          ]
-        }
-      },
-      {
         "Crimtan": {
           "https://www.crimtan.com/": [
             "crimtan.com",
@@ -5400,6 +5401,14 @@
             "dstillery.com",
             "m6d.com",
             "media6degrees.com"
+          ]
+        }
+      },
+      {
+        "DT": {
+          "https://telekom.com/": [
+            "blis.com",
+            "blismedia.com"
           ]
         }
       },
@@ -6417,17 +6426,17 @@
         }
       },
       {
-        "HashtagLabs": {
-          "https://hashtag-labs.com": [
-            "htlbid.com"
-          ]
-        }
-      },
-      {
         "Hatena": {
           "https://hatena.co.jp": [
             "hatena.ne.jp",
             "st-hatena.com"
+          ]
+        }
+      },
+      {
+        "HB Agency": {
+          "https://hbagency.it": [
+            "hbagency.it"
           ]
         }
       },
@@ -7593,6 +7602,13 @@
         "m167cw.com": {
           "https://m167cw.com": [
             "m167cw.com"
+          ]
+        }
+      },
+      {
+        "macromill.com": {
+          "https://macromill.com": [
+            "macromill.com"
           ]
         }
       },
@@ -8864,6 +8880,15 @@
         }
       },
       {
+        "PartnerStack": {
+          "https://partnerstack.com": [
+            "grsm.io",
+            "partnerlinks.io",
+            "partnerstack.com"
+          ]
+        }
+      },
+      {
         "PartyPoker": {
           "https://www.partypoker.com/": [
             "iivt.com"
@@ -9416,6 +9441,13 @@
           "https://rategain.com": [
             "adara.com",
             "adaraanalytics.com"
+          ]
+        }
+      },
+      {
+        "Read the Docs": {
+          "https://readthedocs.com": [
+            "ethicalads.io"
           ]
         }
       },
@@ -10935,6 +10967,14 @@
         }
       },
       {
+        "TPMN": {
+          "https://tpmn.io": [
+            "tpmn.co.kr",
+            "tpmn.io"
+          ]
+        }
+      },
+      {
         "TrackingSoft": {
           "http://trackingsoft.com/": [
             "trackingsoft.com"
@@ -11472,6 +11512,13 @@
             "specificclick.net",
             "specificmedia.com",
             "vindicosuite.com"
+          ]
+        }
+      },
+      {
+        "Vibe": {
+          "https://vibe.co": [
+            "vibe.co"
           ]
         }
       },
@@ -13213,6 +13260,13 @@
         }
       },
       {
+        "cdnbasket.net": {
+          "https://cdnbasket.net": [
+            "cdnbasket.net"
+          ]
+        }
+      },
+      {
         "Cedexis": {
           "http://www.cedexis.com/": [
             "cedexis.com",
@@ -13563,6 +13617,13 @@
         }
       },
       {
+        "ECOtanka Global": {
+          "https://ecotanka.com": [
+            "d9stats.com"
+          ]
+        }
+      },
+      {
         "EcreativeWorks": {
           "https://www.ecreativeworks.com/": [
             "webclicktracker.com"
@@ -13575,6 +13636,13 @@
             "clickability.com",
             "limelight.com",
             "llnwd.net"
+          ]
+        }
+      },
+      {
+        "edkt.io": {
+          "https://edkt.io": [
+            "edkt.io"
           ]
         }
       },
@@ -13959,6 +14027,13 @@
         "illiweb.com": {
           "https://illiweb.com": [
             "illiweb.com"
+          ]
+        }
+      },
+      {
+        "INBS.software": {
+          "https://inbs.software": [
+            "metricscube.io"
           ]
         }
       },
@@ -14674,6 +14749,13 @@
         }
       },
       {
+        "Plausible": {
+          "https://plausible.io": [
+            "plausible.io"
+          ]
+        }
+      },
+      {
         "Polen": {
           "https://polen.com.br/": [
             "opolen.com.br"
@@ -14828,6 +14910,13 @@
             "getclicky.com",
             "roxr.net",
             "staticstuff.net"
+          ]
+        }
+      },
+      {
+        "safe-iplay.com": {
+          "https://safe-iplay.com": [
+            "safe-iplay.com"
           ]
         }
       },
@@ -15020,6 +15109,20 @@
         }
       },
       {
+        "streetmetrics": {
+          "https://streetmetrics.com": [
+            "streetmetrics.io"
+          ]
+        }
+      },
+      {
+        "Swetrix": {
+          "https://swetrix.com": [
+            "swetrix.com"
+          ]
+        }
+      },
+      {
         "Swym": {
           "https://swym.it": [
             "swymrelay.com"
@@ -15161,6 +15264,13 @@
         "UJET": {
           "https://ujet.cx": [
             "ujet.co"
+          ]
+        }
+      },
+      {
+        "Umami Software": {
+          "https://umami.is": [
+            "umami.is"
           ]
         }
       },
