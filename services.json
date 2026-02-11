@@ -6973,13 +6973,6 @@
         }
       },
       {
-        "JuicyScore": {
-          "https://juicyscore.online": [
-            "score.juicyscore.com"
-          ]
-        }
-      },
-      {
         "justuno": {
           "https://www.justuno.com/": [
             "justuno.com"
@@ -16413,13 +16406,6 @@
         }
       },
       {
-        "JuicyScore": {
-          "https://juicyscore.online": [
-            "score.juicyscore.com"
-          ]
-        }
-      },
-      {
         "Katalys": {
           "https://katalys.com/": [
             "revoffers.com"
@@ -18224,6 +18210,13 @@
         "IntuitionMachines": {
           "https://www.imachines.com/": [
             "hcaptcha.com"
+          ]
+        }
+      },
+      {
+        "JuicyScore": {
+          "https://juicyscore.ai": [
+            "score.juicyscore.com"
           ]
         }
       },
