@@ -1679,7 +1679,7 @@
       },
       {
         "Acxiom": {
-          "http://www.acxiom.com/": [
+          "https://www.acxiom.com/": [
             "acxiom.com",
             "acxiomapac.com"
           ]
@@ -13642,6 +13642,13 @@
         "GrapheneMedia": {
           "http://graphenemedia.in/": [
             "graphenedigitalanalytics.in"
+          ]
+        }
+      },
+      {
+        "GrowthBuddy": {
+          "https://growthbuddy.app/": [
+            "growthbuddy.app"
           ]
         }
       },

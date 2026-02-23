@@ -8920,6 +8920,14 @@
         "xad.com"
       ]
     },
+    "GrowthBuddy": {
+      "properties": [
+        "growthbuddy.app"
+      ],
+      "resources": [
+        "growthbuddy.app"
+      ]
+    },
     "GrupoGlobo": {
       "properties": [
         "agenciaoglobo.com.br",
