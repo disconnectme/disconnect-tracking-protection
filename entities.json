@@ -8920,6 +8920,14 @@
         "xad.com"
       ]
     },
+    "GrowthBuddy": {
+      "properties": [
+        "growthbuddy.app"
+      ],
+      "resources": [
+        "growthbuddy.app"
+      ]
+    },
     "GrupoGlobo": {
       "properties": [
         "agenciaoglobo.com.br",
@@ -9470,6 +9478,7 @@
         "hsms06.com",
         "hubapi.com",
         "hubspot.com",
+        "hubspot.net",
         "hubspotemail.net",
         "usemessages.com"
       ]
