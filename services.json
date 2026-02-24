@@ -531,13 +531,6 @@
         }
       },
       {
-        "SAP": {
-          "https://www.sap.com": [
-            "ondemand.com"
-          ]
-        }
-      },
-      {
         "Sendiio": {
           "https://sendiio.vip/": [
             "sendiio.app"
@@ -6368,14 +6361,17 @@
           "http://www.hubspot.com/": [
             "clearbit.com",
             "clearbitjs.com",
+            "cta-service-cms2.hubspot.com",
             "hs-banner.com",
             "hs-scripts.com",
             "hsadspixel.net",
-            "hsappstatic.net",
             "hscollectedforms.net",
-            "hsforms.com",
             "hsleadflows.net",
-            "hubapi.com"
+            "hubapi.com",
+            "js-eu1.hubspot.com",
+            "js.hubspot.com",
+            "track-eu1.hubspot.com",
+            "track.hubspot.com"
           ]
         }
       },
@@ -6582,10 +6578,12 @@
         "InMobi": {
           "http://www.inmobi.com/": [
             "aerserv.com",
-            "inmobi.com",
+            "ck.inmobi.com",
             "inmobiapis.com",
             "inmobicdn.net",
-            "sproutinc.com"
+            "sproutinc.com",
+            "sync.inmobi.com",
+            "w.inmobi.com"
           ]
         }
       },
@@ -7091,7 +7089,7 @@
       {
         "Klaviyo": {
           "https://klaviyo.com": [
-            "klaviyo.com"
+            "a.klaviyo.com"
           ]
         }
       },
@@ -8018,9 +8016,9 @@
       {
         "Naver": {
           "https://navercorp.com": [
-            "line-scdn.net",
-            "line.me",
+            "d.line-scdn.net",
             "pstatic.net",
+            "tr.line.me",
             "yahoo.co.jp"
           ]
         }
@@ -8401,8 +8399,12 @@
         "OpenWeb": {
           "https://openweb.com": [
             "adyoulike.com",
+            "api-ssp.spot.im",
+            "direct-events-collector.spot.im",
+            "metrics-logger.spot.im",
             "omnitagjs.com",
-            "spot.im",
+            "pix.spot.im",
+            "publisher-assets.spot.im",
             "spotim.market"
           ]
         }
@@ -9240,13 +9242,6 @@
         "Rebid.co": {
           "https://rebid.co": [
             "rebid.co"
-          ]
-        }
-      },
-      {
-        "RebuyInc": {
-          "https://rebuyengine.com": [
-            "rebuyengine.com"
           ]
         }
       },
@@ -10448,13 +10443,6 @@
         "Target RTB": {
           "https://new-programmatic.com": [
             "new-programmatic.com"
-          ]
-        }
-      },
-      {
-        "TargetVideo": {
-          "https://target-video.com/": [
-            "brid.tv"
           ]
         }
       },
@@ -12274,9 +12262,32 @@
         }
       },
       {
+        "HubSpot": {
+          "http://www.hubspot.com/": [
+            "api-eu1.hubspot.com",
+            "api.hubspot.com",
+            "app-eu1.hubspot.com",
+            "app.hubspot.com",
+            "cdn2.hubspot.net",
+            "hsappstatic.net",
+            "hsforms.com",
+            "hsforms.net",
+            "meetings.hubspot.com",
+            "usemessages.com"
+          ]
+        }
+      },
+      {
         "Imgix": {
           "https://imgix.com": [
             "imgix.net"
+          ]
+        }
+      },
+      {
+        "InMobi": {
+          "http://www.inmobi.com/": [
+            "cmp.inmobi.com"
           ]
         }
       },
@@ -12323,6 +12334,15 @@
         "Klarna": {
           "https://klarna.com": [
             "klarnaservices.com"
+          ]
+        }
+      },
+      {
+        "Klaviyo": {
+          "https://klaviyo.com": [
+            "static-forms.klaviyo.com",
+            "static.klaviyo.com",
+            "www.klaviyo.com"
           ]
         }
       },
@@ -12384,6 +12404,8 @@
       {
         "Naver": {
           "https://navercorp.com": [
+            "line-scdn.net",
+            "line.me",
             "yimg.jp"
           ]
         }
@@ -12407,6 +12429,13 @@
         "Oddschecker": {
           "https://oddschecker.com": [
             "oddschecker.com"
+          ]
+        }
+      },
+      {
+        "OpenWeb": {
+          "https://openweb.com": [
+            "spot.im"
           ]
         }
       },
@@ -12441,9 +12470,17 @@
         }
       },
       {
+        "RebuyInc": {
+          "https://rebuyengine.com": [
+            "rebuyengine.com"
+          ]
+        }
+      },
+      {
         "Salesforce": {
           "https://www.salesforce.com/": [
             "evgnet.com",
+            "salesforce.com",
             "salesforceliveagent.com"
           ]
         }
@@ -12451,7 +12488,8 @@
       {
         "SAP": {
           "https://www.sap.com": [
-            "gigya.com"
+            "gigya.com",
+            "ondemand.com"
           ]
         }
       },
@@ -12485,6 +12523,13 @@
           "https://stripe.com": [
             "paystack.com",
             "stripe.com"
+          ]
+        }
+      },
+      {
+        "TargetVideo": {
+          "https://target-video.com/": [
+            "brid.tv"
           ]
         }
       },
@@ -13723,9 +13768,8 @@
         "HubSpot": {
           "http://www.hubspot.com/": [
             "hs-analytics.net",
-            "hsforms.net",
-            "hubspot.com",
-            "usemessages.com"
+            "metrics-fe-eu1.hubspot.com",
+            "metrics-fe-na1.hubspot.com"
           ]
         }
       },
@@ -14663,8 +14707,7 @@
         "Salesforce": {
           "https://www.salesforce.com/": [
             "cquotient.com",
-            "igodigital.com",
-            "salesforce.com"
+            "igodigital.com"
           ]
         }
       },
