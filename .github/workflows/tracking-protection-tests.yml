@@ -1,0 +1,45 @@
+name: Tracking Protection Tests
+
+on:
+  pull_request:
+    paths:
+      - entities.json
+      - services.json
+      - test_tracking_protection_lists.py
+      - .github/workflows/tracking-protection-tests.yml
+  push:
+    branches:
+      - main
+    paths:
+      - entities.json
+      - services.json
+      - test_tracking_protection_lists.py
+      - .github/workflows/tracking-protection-tests.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tracking-protection-tests-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-tracking-protection-lists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tldextract
+
+      - name: Run tracker list tests
+        run: python -m unittest -v test_tracking_protection_lists.py
