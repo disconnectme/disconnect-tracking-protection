@@ -179,7 +179,7 @@
       },
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "2o7.net",
             "demdex.net",
             "omtrdc.net"
@@ -611,7 +611,7 @@
       },
       {
         "Twilio": {
-          "https://twilio.com": [
+          "https://www.twilio.com": [
             "segment.io"
           ]
         }
@@ -842,7 +842,7 @@
       },
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "adobe.com"
           ]
         }
@@ -1380,7 +1380,7 @@
       },
       {
         "Twilio": {
-          "https://twilio.com": [
+          "https://www.twilio.com": [
             "sendgrid.net"
           ]
         }
@@ -2571,7 +2571,7 @@
       },
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "2o7.net",
             "adobetarget.com",
             "adsymptotic.com",
@@ -4032,10 +4032,10 @@
       },
       {
         "BrightEdge": {
-          "https://www.brightedge.com/": [
+          "https://www.brightedge.com": [
             "b0e8.com",
-            "bc0a.com",
-            "brightedge.com"
+            "brightedge.com",
+            "cookie-cdn.bc0a.com"
           ]
         }
       },
@@ -6007,13 +6007,6 @@
         }
       },
       {
-        "Glomex": {
-          "https://glomex.com": [
-            "glomex.com"
-          ]
-        }
-      },
-      {
         "GMO": {
           "https://gmo-ap.jp/": [
             "gmossp-sp.jp",
@@ -7210,7 +7203,7 @@
       },
       {
         "Listrak": {
-          "http://www.listrak.com/": [
+          "https://www.listrak.com": [
             "espssl.com",
             "listrak.com",
             "listrakbi.com"
@@ -8323,13 +8316,6 @@
         }
       },
       {
-        "ONNetwork": {
-          "https://onnetwork.tv": [
-            "onnetwork.tv"
-          ]
-        }
-      },
-      {
         "OpenWeb": {
           "https://openweb.com": [
             "adyoulike.com",
@@ -9142,7 +9128,7 @@
       },
       {
         "Raptive": {
-          "https://raptive.com/": [
+          "https://raptive.com": [
             "adthrive.com"
           ]
         }
@@ -9199,7 +9185,7 @@
       },
       {
         "reddit": {
-          "http://www.reddit.com/": [
+          "https://www.reddit.com": [
             "redditstatic.com"
           ]
         }
@@ -10054,7 +10040,7 @@
       },
       {
         "Spotify": {
-          "https://spotify.com": [
+          "https://www.spotify.com": [
             "pixels.spotify.com"
           ]
         }
@@ -10084,13 +10070,6 @@
         "StackAdapt": {
           "https://www.stackadapt.com/": [
             "stackadapt.com"
-          ]
-        }
-      },
-      {
-        "Stamped": {
-          "https://stamped.io": [
-            "stamped.io"
           ]
         }
       },
@@ -10767,7 +10746,7 @@
       },
       {
         "TrustPilot": {
-          "https://trustpilot.com": [
+          "https://www.trustpilot.com": [
             "trustpilot.com"
           ]
         }
@@ -10816,14 +10795,14 @@
       },
       {
         "Twilio": {
-          "https://twilio.com": [
+          "https://www.twilio.com": [
             "segment.com"
           ]
         }
       },
       {
         "Twitter": {
-          "https://twitter.com/": [
+          "https://x.com": [
             "ads-twitter.com",
             "t.co"
           ]
@@ -10870,7 +10849,7 @@
       },
       {
         "Unbounce": {
-          "http://unbounce.com/": [
+          "https://unbounce.com": [
             "leadsrx.com",
             "ubembed.com",
             "unbounce.com"
@@ -10939,13 +10918,6 @@
             "leadlander.com",
             "localytics.com",
             "trackalyzer.com"
-          ]
-        }
-      },
-      {
-        "Uplynk": {
-          "https://uplynk.com": [
-            "uplynk.com"
           ]
         }
       },
@@ -11139,8 +11111,8 @@
       },
       {
         "Viafoura": {
-          "https://viafoura.com/": [
-            "viafoura.co",
+          "https://viafoura.com": [
+            "i.viafoura.co",
             "viafoura.net"
           ]
         }
@@ -11723,8 +11695,9 @@
     "Content": [
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "adobe.com",
+            "edge.adobedc.net",
             "scene7.com",
             "typekit.com"
           ]
@@ -11848,9 +11821,23 @@
         }
       },
       {
+        "BrightEdge": {
+          "https://www.brightedge.com": [
+            "bc0a.com"
+          ]
+        }
+      },
+      {
         "Browser-Update.org": {
           "www.browser-update.org/": [
             "browser-update.org"
+          ]
+        }
+      },
+      {
+        "Chartbeat": {
+          "https://chartbeat.com": [
+            "static.chartbeat.com"
           ]
         }
       },
@@ -11901,6 +11888,13 @@
         }
       },
       {
+        "Dynatrace": {
+          "https://www.dynatrace.com": [
+            "js-cdn.dynatrace.com"
+          ]
+        }
+      },
+      {
         "ElfSight": {
           "https://elfsight.com": [
             "elfsight.com"
@@ -11925,6 +11919,13 @@
         "GeoComply": {
           "https://geocomply.com": [
             "geocomply.com"
+          ]
+        }
+      },
+      {
+        "Glomex": {
+          "https://www.glomex.com": [
+            "glomex.com"
           ]
         }
       },
@@ -12143,6 +12144,13 @@
         }
       },
       {
+        "Gorgias": {
+          "https://www.gorgias.com": [
+            "gorgias.chat"
+          ]
+        }
+      },
+      {
         "HotMart": {
           "https://www.hotmart.com/en/": [
             "hotmart.com"
@@ -12166,6 +12174,13 @@
         }
       },
       {
+        "IDBLLC": {
+          "https://ipinfo.io": [
+            "ipinfo.io"
+          ]
+        }
+      },
+      {
         "Imgix": {
           "https://imgix.com": [
             "imgix.net"
@@ -12176,6 +12191,13 @@
         "InMobi": {
           "http://www.inmobi.com/": [
             "cmp.inmobi.com"
+          ]
+        }
+      },
+      {
+        "ipify": {
+          "https://www.ipify.org": [
+            "api.ipify.org"
           ]
         }
       },
@@ -12219,6 +12241,13 @@
         }
       },
       {
+        "Kit": {
+          "https://kit.com": [
+            "pages.convertkit.com"
+          ]
+        }
+      },
+      {
         "Klarna": {
           "https://klarna.com": [
             "klarnaservices.com"
@@ -12231,6 +12260,13 @@
             "static-forms.klaviyo.com",
             "static.klaviyo.com",
             "www.klaviyo.com"
+          ]
+        }
+      },
+      {
+        "Listrak": {
+          "https://www.listrak.com": [
+            "services.listrak.com"
           ]
         }
       },
@@ -12321,6 +12357,13 @@
         }
       },
       {
+        "ONNetwork": {
+          "https://www.onnetwork.tv": [
+            "onnetwork.tv"
+          ]
+        }
+      },
+      {
         "OpenWeb": {
           "https://openweb.com": [
             "spot.im"
@@ -12358,9 +12401,30 @@
         }
       },
       {
+        "Qualtrics": {
+          "https://www.qualtrics.com": [
+            "qualtrics.com"
+          ]
+        }
+      },
+      {
+        "Raptive": {
+          "https://raptive.com": [
+            "slickstream.com"
+          ]
+        }
+      },
+      {
         "RebuyInc": {
           "https://rebuyengine.com": [
             "rebuyengine.com"
+          ]
+        }
+      },
+      {
+        "reddit": {
+          "https://www.reddit.com": [
+            "reddit.com"
           ]
         }
       },
@@ -12407,6 +12471,20 @@
         }
       },
       {
+        "Spotify": {
+          "https://www.spotify.com": [
+            "pdst.fm"
+          ]
+        }
+      },
+      {
+        "Stamped": {
+          "https://stamped.io": [
+            "stamped.io"
+          ]
+        }
+      },
+      {
         "Stripe": {
           "https://stripe.com": [
             "paystack.com",
@@ -12443,6 +12521,34 @@
         }
       },
       {
+        "TrustPilot": {
+          "https://www.trustpilot.com": [
+            "widget.trustpilot.com"
+          ]
+        }
+      },
+      {
+        "Twilio": {
+          "https://www.twilio.com": [
+            "cdn.segment.com"
+          ]
+        }
+      },
+      {
+        "Twitter": {
+          "https://x.com": [
+            "twimg.com"
+          ]
+        }
+      },
+      {
+        "Unbounce": {
+          "https://unbounce.com": [
+            "builder-assets.unbounce.com"
+          ]
+        }
+      },
+      {
         "UNPKG": {
           "https://unpkg.com": [
             "unpkg.com"
@@ -12450,9 +12556,24 @@
         }
       },
       {
+        "Uplynk": {
+          "https://www.uplynk.com": [
+            "uplynk.com"
+          ]
+        }
+      },
+      {
         "VG WORT": {
           "http://www.vgwort.de/": [
             "vgwort.de"
+          ]
+        }
+      },
+      {
+        "Viafoura": {
+          "https://viafoura.com": [
+            "cdn.viafoura.net",
+            "viafoura.co"
           ]
         }
       },
@@ -12572,7 +12693,7 @@
       },
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "adobedc.net",
             "livefyre.com",
             "mktoresp.com",
@@ -12957,7 +13078,7 @@
       },
       {
         "Chartbeat": {
-          "http://chartbeat.com/": [
+          "https://chartbeat.com": [
             "chartbeat.com",
             "chartbeat.net"
           ]
@@ -13256,7 +13377,7 @@
       },
       {
         "Dynatrace": {
-          "https://dynatrace.com": [
+          "https://www.dynatrace.com": [
             "axf8.net",
             "dynatrace.com",
             "gomez.com"
@@ -13520,13 +13641,6 @@
         }
       },
       {
-        "Gorgias": {
-          "https://gorgias.com": [
-            "gorgias.chat"
-          ]
-        }
-      },
-      {
         "GoSquared": {
           "https://www.gosquared.com/": [
             "gosquared.com"
@@ -13669,13 +13783,6 @@
         }
       },
       {
-        "IDBLLC": {
-          "https://ipinfo.io": [
-            "ipinfo.io"
-          ]
-        }
-      },
-      {
         "illiweb.com": {
           "https://illiweb.com": [
             "illiweb.com"
@@ -13757,7 +13864,7 @@
       },
       {
         "ipify": {
-          "https://ipify.org/": [
+          "https://www.ipify.org": [
             "ipify.org"
           ]
         }
@@ -14439,13 +14546,6 @@
         }
       },
       {
-        "Qualtrics": {
-          "https://www.qualtrics.com/": [
-            "qualtrics.com"
-          ]
-        }
-      },
-      {
         "QuantumMetric": {
           "https://www.quantummetric.com": [
             "quantummetric.com"
@@ -14477,13 +14577,6 @@
         "Radware": {
           "https://www.radware.com/": [
             "perfdrive.com"
-          ]
-        }
-      },
-      {
-        "Raptive": {
-          "https://raptive.com/": [
-            "slickstream.com"
           ]
         }
       },
@@ -14680,8 +14773,9 @@
       },
       {
         "Spotify": {
-          "https://spotify.com": [
-            "pdst.fm"
+          "https://www.spotify.com": [
+            "cdn.pdst.fm",
+            "ping.pdst.fm"
           ]
         }
       },
@@ -14902,7 +14996,7 @@
       },
       {
         "Twilio": {
-          "https://twilio.com": [
+          "https://www.twilio.com": [
             "segment.io"
           ]
         }
@@ -17303,7 +17397,7 @@
       },
       {
         "Adobe": {
-          "http://www.adobe.com/": [
+          "https://www.adobe.com": [
             "2o7.net",
             "adsymptotic.com",
             "auditude.com",
@@ -17997,7 +18091,7 @@
       },
       {
         "Twilio": {
-          "https://twilio.com": [
+          "https://www.twilio.com": [
             "elements.stytch.com"
           ]
         }
@@ -18248,8 +18342,9 @@
       },
       {
         "reddit": {
-          "http://www.reddit.com/": [
-            "reddit.com"
+          "https://www.reddit.com": [
+            "alb.reddit.com",
+            "pixel-config.reddit.com"
           ]
         }
       },
@@ -18269,8 +18364,7 @@
       },
       {
         "Twitter": {
-          "https://twitter.com/": [
-            "twimg.com",
+          "https://x.com": [
             "twitter.com",
             "twitter.jp",
             "x.com"

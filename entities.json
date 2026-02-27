@@ -2324,7 +2324,6 @@
         "akamaihd.net",
         "akstat.io",
         "go-mpulse.net",
-        "pxlclnmdecom-a.akamaihd.net",
         "techlab-cdn.com"
       ]
     },
@@ -20290,10 +20289,7 @@
       ],
       "resources": [
         "adfox.ru",
-        "api-maps.yandex.ru",
-        "bs.yandex.ru",
         "kinopoisk.ru",
-        "mc.yandex.com",
         "smartcaptcha.yandexcloud.net",
         "web-visor.com",
         "webvisor.com",
