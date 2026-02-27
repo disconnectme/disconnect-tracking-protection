@@ -7450,7 +7450,7 @@
       },
       {
         "Match Group": {
-          "http://www.match.com/": [
+          "https://mtch.com": [
             "chemistry.com",
             "match.com"
           ]
