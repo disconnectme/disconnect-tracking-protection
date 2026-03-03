@@ -5671,8 +5671,10 @@
       },
       {
         "Flipp": {
-          "https://flipp.com": [
-            "flipp.com"
+          "https://corp.flipp.com/": [
+            "flipp.com",
+            "wishabi.com",
+            "wishabi.net"
           ]
         }
       },
@@ -11381,14 +11383,6 @@
         }
       },
       {
-        "Wishabi": {
-          "http://wishabi.com": [
-            "wishabi.com",
-            "wishabi.net"
-          ]
-        }
-      },
-      {
         "wpadmngr": {
           "https://js.wpadmngr.com": [
             "wpadmngr.com"
@@ -12610,6 +12604,13 @@
         "Winamp Group": {
           "https://llama-group.com": [
             "winamp.com"
+          ]
+        }
+      },
+      {
+        "Wingify": {
+          "http://wingify.com/": [
+            "dev.visualwebsiteoptimizer.com"
           ]
         }
       },
@@ -14209,7 +14210,7 @@
         }
       },
       {
-        " MTY Food Group": {
+        "MTY Food Group": {
           "https://mtygroup.com": [
             "thecounter.com"
           ]

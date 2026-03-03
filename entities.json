@@ -2605,6 +2605,7 @@
         "audible.fr",
         "audible.in",
         "audible.it",
+        "aws.com",
         "aws.dev",
         "bookdepository.com",
         "boxofficemojo.com",
@@ -2615,6 +2616,7 @@
         "dpreview.in",
         "eastdane.com",
         "fabric.com",
+        "globalaccelerator.aws",
         "goodreads.com",
         "iberlibro.com",
         "imdb.com",
@@ -2623,6 +2625,7 @@
         "look.com",
         "on.aws",
         "pillpack.com",
+        "ring.com",
         "sagemaker.aws",
         "shopbop.com",
         "souq.com",
@@ -7568,10 +7571,15 @@
     },
     "Flipp": {
       "properties": [
-        "flipp.com"
+        "flipp.com",
+        "flyertown.ca",
+        "wishabi.com",
+        "wishabi.net"
       ],
       "resources": [
-        "flipp.com"
+        "flipp.com",
+        "wishabi.com",
+        "wishabi.net"
       ]
     },
     "Flite": {
@@ -12677,7 +12685,7 @@
         "mts.ru"
       ]
     },
-    " MTY Food Group": {
+    "MTY Food Group": {
       "properties": [
         "mtygroup.com",
         "thecounter.com"
@@ -19976,16 +19984,6 @@
       ],
       "resources": [
         "doyouad.com"
-      ]
-    },
-    "Wishabi": {
-      "properties": [
-        "wishabi.com",
-        "wishabi.net"
-      ],
-      "resources": [
-        "wishabi.com",
-        "wishabi.net"
       ]
     },
     "Wishpond": {
