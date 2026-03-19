@@ -11,7 +11,7 @@
       },
       {
         "4dem": {
-          "4dem.it": [
+          "https://www.4dem.it/": [
             "4dem.it"
           ]
         }
@@ -9473,9 +9473,8 @@
       },
       {
         "Sabre": {
-          "http://www.sabre.com/": [
+          "https://www.sabre.com/": [
             "reztrack.com",
-            "sabre.com",
             "sabrehospitality.com"
           ]
         }
@@ -11823,7 +11822,7 @@
       },
       {
         "Browser-Update.org": {
-          "www.browser-update.org/": [
+          "https://browser-update.org/": [
             "browser-update.org"
           ]
         }
@@ -11899,6 +11898,13 @@
         "Emplifi": {
           "https://emplifi.io": [
             "turnto.com"
+          ]
+        }
+      },
+      {
+        "Flipp": {
+          "https://corp.flipp.com/": [
+            "f.wishabi.net"
           ]
         }
       },
@@ -12423,6 +12429,13 @@
         }
       },
       {
+        "Sabre": {
+          "https://www.sabre.com/": [
+            "sabre.com"
+          ]
+        }
+      },
+      {
         "Salesforce": {
           "https://www.salesforce.com/": [
             "evgnet.com",
@@ -12831,13 +12844,6 @@
         "Attracta": {
           "https://www.attracta.com/": [
             "attracta.com"
-          ]
-        }
-      },
-      {
-        "attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net": {
-          "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net": [
-            "attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net"
           ]
         }
       },
@@ -17761,6 +17767,13 @@
         "Infolinks": {
           "http://www.infolinks.com/": [
             "infolinks.com"
+          ]
+        }
+      },
+      {
+        "Integral Ad Science": {
+          "https://integralads.com/": [
+            "adsafeprotected.com"
           ]
         }
       },
