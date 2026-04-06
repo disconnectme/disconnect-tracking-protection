@@ -2732,6 +2732,14 @@
         "aniview.com"
       ]
     },
+    "Anonymised": {
+      "properties": [
+        "anonymised.io"
+      ],
+      "resources": [
+        "anonymised.io"
+      ]
+    },
     "anormal-media.de": {
       "properties": [
         "anormal-media.de",
@@ -4424,6 +4432,7 @@
         "4info.com",
         "adhaven.com",
         "adtheorent.com",
+        "cadent.com",
         "cadent.tv",
         "emxdigital.com"
       ],
@@ -4432,6 +4441,7 @@
         "adentifi.com",
         "adhaven.com",
         "brealtime.com",
+        "cadent.com",
         "clearstream.tv",
         "emxdgt.com",
         "emxdigital.com"
@@ -6394,6 +6404,14 @@
       ],
       "resources": [
         "dnofd.com"
+      ]
+    },
+    "DNS-Finder": {
+      "properties": [
+        "dns-finder.com"
+      ],
+      "resources": [
+        "dns-finder.com"
       ]
     },
     "DoggybitesBV": {
@@ -11797,6 +11815,14 @@
         "mdotm.com"
       ]
     },
+    "measureadv.com": {
+      "properties": [
+        "measureadv.com"
+      ],
+      "resources": [
+        "measureadv.com"
+      ]
+    },
     "Medallia": {
       "properties": [
         "medallia.ca",
@@ -12455,12 +12481,30 @@
         "mobials.com"
       ]
     },
+    "Mobian": {
+      "properties": [
+        "outcomes.net",
+        "themobian.ai",
+        "themobian.com"
+      ],
+      "resources": [
+        "outcomes.net"
+      ]
+    },
     "MobileAdTrading.com": {
       "properties": [
         "mobileadtrading.com"
       ],
       "resources": [
         "mobileadtrading.com"
+      ]
+    },
+    "MobileFuse": {
+      "properties": [
+        "mobilefuse.com"
+      ],
+      "resources": [
+        "mobilefuse.com"
       ]
     },
     "Mobile Storm": {
@@ -14190,6 +14234,14 @@
         "paypopup.com"
       ]
     },
+    "PDD Holdings": {
+      "properties": [
+        "temu.com"
+      ],
+      "resources": [
+        "temu.com"
+      ]
+    },
     "PebblePost": {
       "properties": [
         "pebblepost.com"
@@ -14363,6 +14415,14 @@
         "apps.pingone.com"
       ]
     },
+    "PinkLion": {
+      "properties": [
+        "pinklion.io"
+      ],
+      "resources": [
+        "pinklion.io"
+      ]
+    },
     "PinPoll": {
       "properties": [
         "pinpoll.com"
@@ -14484,6 +14544,14 @@
         "nsm-corp.com"
       ]
     },
+    "Playdigo": {
+      "properties": [
+        "playdigo.com"
+      ],
+      "resources": [
+        "playdigo.com"
+      ]
+    },
     "Playwire": {
       "properties": [
         "playwire.com"
@@ -14595,6 +14663,14 @@
       ],
       "resources": [
         "user.com"
+      ]
+    },
+    "Positive Mobile": {
+      "properties": [
+        "pmbmonetize.com"
+      ],
+      "resources": [
+        "pmbmonetize.live"
       ]
     },
     "PostHog": {
@@ -17359,6 +17435,14 @@
         "syncapse.com"
       ]
     },
+    "syncingbridge.com": {
+      "properties": [
+        "syncingbridge.com"
+      ],
+      "resources": [
+        "syncingbridge.com"
+      ]
+    },
     "System1": {
       "properties": [
         "answers.com",
@@ -18227,6 +18311,14 @@
       ],
       "resources": [
         "trustedsite.com"
+      ]
+    },
+    "TrustedStack": {
+      "properties": [
+        "trustedstack.com"
+      ],
+      "resources": [
+        "trustedstack.com"
       ]
     },
     "TrustPilot": {
@@ -20418,6 +20510,14 @@
       ],
       "resources": [
         "yieldmo.com"
+      ]
+    },
+    "ymmobi.com": {
+      "properties": [
+        "ymmobi.com"
+      ],
+      "resources": [
+        "ymmobi.com"
       ]
     },
     "YOC": {

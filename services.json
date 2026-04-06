@@ -3247,6 +3247,13 @@
         }
       },
       {
+        "Anonymised": {
+          "https://anonymised.io": [
+            "anonymised.io"
+          ]
+        }
+      },
+      {
         "Ansira": {
           "https://ansira.com/": [
             "admission.net",
@@ -4169,6 +4176,7 @@
             "adentifi.com",
             "adhaven.com",
             "brealtime.com",
+            "cadent.com",
             "clearstream.tv",
             "emxdgt.com",
             "emxdigital.com"
@@ -7504,6 +7512,13 @@
         }
       },
       {
+        "measureadv.com": {
+          "https://measureadv.com": [
+            "measureadv.com"
+          ]
+        }
+      },
+      {
         "MediaBrix": {
           "http://www.mediabrix.com/": [
             "mediabrix.com"
@@ -7719,9 +7734,23 @@
         }
       },
       {
+        "Mobian": {
+          "https://themobian.com": [
+            "outcomes.net"
+          ]
+        }
+      },
+      {
         "MobileAdTrading.com": {
           "https://mobileadtrading.com/": [
             "mobileadtrading.com"
+          ]
+        }
+      },
+      {
+        "MobileFuse": {
+          "https://mobilefuse.com": [
+            "mobilefuse.com"
           ]
         }
       },
@@ -8615,6 +8644,13 @@
         }
       },
       {
+        "PDD Holdings": {
+          "https://pddholdings.com": [
+            "temu.com"
+          ]
+        }
+      },
+      {
         "PebblePost": {
           "https://www.pebblepost.com/": [
             "pbbl.co"
@@ -8715,6 +8751,13 @@
         }
       },
       {
+        "PinkLion": {
+          "https://pinklion.io": [
+            "pinklion.io"
+          ]
+        }
+      },
+      {
         "PinPoll": {
           "https://pinpoll.com/": [
             "pinpoll.com"
@@ -8767,6 +8810,13 @@
         "PlayD": {
           "https://playd.com": [
             "nsm-corp.com"
+          ]
+        }
+      },
+      {
+        "Playdigo": {
+          "https://playdigo.com": [
+            "playdigo.com"
           ]
         }
       },
@@ -8825,6 +8875,13 @@
         "Positive Aging SourceBook": {
           "https://retirementlivingsourcebook.com": [
             "retirement-living.com"
+          ]
+        }
+      },
+      {
+        "Positive Mobile": {
+          "https://pmbmonetize.com": [
+            "pmbmonetize.live"
           ]
         }
       },
@@ -10247,6 +10304,13 @@
         }
       },
       {
+        "syncingbridge.com": {
+          "https://syncingbridge.com": [
+            "syncingbridge.com"
+          ]
+        }
+      },
+      {
         "System1": {
           "https://system1.com": [
             "dsply.com"
@@ -10742,6 +10806,13 @@
         "TrustedSite": {
           "https://trustedsite.com": [
             "trustedsite.com"
+          ]
+        }
+      },
+      {
+        "TrustedStack": {
+          "https://trustedstack.com": [
+            "trustedstack.com"
           ]
         }
       },
@@ -11586,6 +11657,13 @@
         "Yieldmo": {
           "https://yieldmo.com": [
             "yieldmo.com"
+          ]
+        }
+      },
+      {
+        "ymmobi.com": {
+          "https://ymmobi.com": [
+            "ymmobi.com"
           ]
         }
       },
@@ -13336,6 +13414,13 @@
         "dnofd.com": {
           "https://dnofd.com": [
             "dnofd.com"
+          ]
+        }
+      },
+      {
+        "DNS-Finder": {
+          "https://dns-finder.com": [
+            "dns-finder.com"
           ]
         }
       },
