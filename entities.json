@@ -563,17 +563,6 @@
         "rtb.mx"
       ]
     },
-    "Adara Media": {
-      "properties": [
-        "adaramedia.com",
-        "opinmind.com",
-        "yieldoptimizer.com"
-      ],
-      "resources": [
-        "adaramedia.com",
-        "yieldoptimizer.com"
-      ]
-    },
     "Adbot": {
       "properties": [
         "adbot.tw"
@@ -1883,15 +1872,6 @@
         "adventori.com"
       ]
     },
-    "Adverline": {
-      "properties": [
-        "adnext.fr",
-        "adverline.com"
-      ],
-      "resources": [
-        "adnext.fr"
-      ]
-    },
     "Adversal.com": {
       "properties": [
         "adv-adserver.com",
@@ -2664,16 +2644,6 @@
         "twitch.tv"
       ]
     },
-    "Ambient Digital": {
-      "properties": [
-        "adnetwork.vn",
-        "ambientdigital.com.vn"
-      ],
-      "resources": [
-        "adnetwork.vn",
-        "ambientdigital.com.vn"
-      ]
-    },
     "American Express": {
       "properties": [
         "americanexpress.ae",
@@ -3354,6 +3324,8 @@
     "Azerion": {
       "properties": [
         "360yield.com",
+        "adnext.fr",
+        "adverline.com",
         "azerion.com",
         "deltaprojects.com",
         "himediagroup.com",
@@ -3367,6 +3339,7 @@
       ],
       "resources": [
         "360yield.com",
+        "adnext.fr",
         "affec.tv",
         "ayads.co",
         "azerion.com",
@@ -3490,14 +3463,6 @@
       ],
       "resources": [
         "bandzoogle.com"
-      ]
-    },
-    "Bannerconnect": {
-      "properties": [
-        "bannerconnect.net"
-      ],
-      "resources": [
-        "bannerconnect.net"
       ]
     },
     "Bannercrowd": {
@@ -3712,14 +3677,6 @@
         "bidfluence.com"
       ]
     },
-    "BidMind": {
-      "properties": [
-        "bidmind.com"
-      ],
-      "resources": [
-        "fksnk.com"
-      ]
-    },
     "BidVertiser": {
       "properties": [
         "bidvertiser.com"
@@ -3762,15 +3719,6 @@
       ],
       "resources": [
         "bnbstatic.com"
-      ]
-    },
-    "Bisnode": {
-      "properties": [
-        "bisnode.com",
-        "vendemore.com"
-      ],
-      "resources": [
-        "vendemore.com"
       ]
     },
     "Bitcoin Trader": {
@@ -3935,7 +3883,35 @@
     },
     "BML Group": {
       "properties": [
-        "betsson.com"
+        "betfirst.be",
+        "betsafe.com",
+        "betsafe.ee",
+        "betsafe.lv",
+        "betsafesports.com",
+        "betsson.bet.ar",
+        "betsson.co",
+        "betsson.com",
+        "betsson.dk",
+        "betsson.es",
+        "betsson.gr",
+        "betssonab.com",
+        "betssongroup.com",
+        "betssongroupaffiliates.com",
+        "casinoeuro.com",
+        "dhoze.com",
+        "guts.com",
+        "inkabet.pe",
+        "jackpot247.com",
+        "jallacasino.se",
+        "kaboo.com",
+        "liveroulette.com",
+        "nordicbet.com",
+        "racebets.com",
+        "rizk.com",
+        "starcasino.it",
+        "supercasino.com",
+        "thrills.com",
+        "tonybet.com"
       ],
       "resources": [
         "bpsgameserver.com"
@@ -4009,8 +3985,85 @@
     },
     "Bonnier": {
       "properties": [
+        "adlibris.com",
+        "adlibriscampus.com",
+        "akateeminen.com",
+        "alphaforlag.dk",
+        "arcy.se",
+        "aripaev.ee",
+        "arsedition.de",
+        "arslege.pl",
+        "bankier.pl",
+        "blockbuster.dk",
+        "blogbank.pl",
         "bonnier.com",
-        "tailsweep.com"
+        "bonnier.de",
+        "bonnier.pl",
+        "bonnierbooks.co.uk",
+        "bonnierbooks.com",
+        "bonniercapital.se",
+        "bonniercorp.com",
+        "bonnierfastigheter.se",
+        "bonnierforlag.no",
+        "bonnierforlagen.se",
+        "bonniernews.se",
+        "bonnierrights.fi",
+        "bonnierventures.com",
+        "bookbeat.com",
+        "borsen.dk",
+        "campusbokhandeln.se",
+        "carlsen.de",
+        "conni.de",
+        "dn.se",
+        "expressen.se",
+        "gdzieskierowac24.pl",
+        "gutkind-verlag.de",
+        "gutkind.dk",
+        "hd.se",
+        "helsinkinoir.net",
+        "hoerbuch-hamburg.de",
+        "hotkeybooks.com",
+        "igloobooks.com",
+        "indeks24.pl",
+        "inthebite.com",
+        "kirja.fi",
+        "kirjab2b.fi",
+        "konsylium24.pl",
+        "lexlege.pl",
+        "m-vg.de",
+        "mambiznes.pl",
+        "marginesy.com.pl",
+        "marlinmag.com",
+        "medibas.pl",
+        "offroadexpo.com",
+        "openseasonsportsmansexpo.com",
+        "pb.pl",
+        "piper.de",
+        "pit.pl",
+        "privataaffarer.se",
+        "prnews.pl",
+        "pulsmedycyny.pl",
+        "readly.com",
+        "sandsportssupershow.com",
+        "scammingout.pl",
+        "sfanytime.com",
+        "sfstudios.se",
+        "spotdata.pl",
+        "streetmachinenationals.net",
+        "sydsvenskan.se",
+        "systempartnerski.pl",
+        "tailsweep.com",
+        "tammi.fi",
+        "thienemann.de",
+        "ullstein.de",
+        "vz.lt",
+        "world-ent.com",
+        "wsoy.fi",
+        "wydawnictwo-jaguar.pl",
+        "wydawnictwokropka.com.pl",
+        "wydawnictwoluna.pl",
+        "zgarnijpremie.pl",
+        "zlotybankier.pl"
       ],
       "resources": [
         "tailsweep.com"
@@ -6097,7 +6150,9 @@
     "Dentsu": {
       "properties": [
         "accordantmedia.com",
+        "adnetwork.vn",
         "aemedia.com",
+        "ambientdigital.com.vn",
         "bluestreak.com",
         "dentsu.com",
         "dentsuaegisnetwork.com",
@@ -6106,6 +6161,8 @@
       ],
       "resources": [
         "accordantmedia.com",
+        "adnetwork.vn",
+        "ambientdigital.com.vn",
         "bluestreak.com",
         "merkleinc.com",
         "rimmkaufman.com",
@@ -6551,10 +6608,13 @@
     },
     "Dun & Bradstreet": {
       "properties": [
-        "eyeota.net"
+        "bisnode.com",
+        "eyeota.net",
+        "vendemore.com"
       ],
       "resources": [
-        "eyeota.net"
+        "eyeota.net",
+        "vendemore.com"
       ]
     },
     "DurationMedia": {
@@ -7479,10 +7539,12 @@
     },
     "Fiksu": {
       "properties": [
+        "bidmind.com",
         "fiksu.com"
       ],
       "resources": [
-        "fiksu.com"
+        "fiksu.com",
+        "fksnk.com"
       ]
     },
     "FinancialContent": {
@@ -8722,15 +8784,6 @@
       ],
       "resources": [
         "govx.com"
-      ]
-    },
-    "Grammarly": {
-      "properties": [
-        "grammarly.co",
-        "superhuman.com"
-      ],
-      "resources": [
-        "superhuman.com"
       ]
     },
     "GrapheneMedia": {
@@ -15243,11 +15296,18 @@
     },
     "RateGain": {
       "properties": [
-        "rategain.com"
+        "adaramedia.com",
+        "opinmind.com",
+        "rategain.com",
+        "sojern.com",
+        "yieldoptimizer.com"
       ],
       "resources": [
         "adara.com",
-        "adaraanalytics.com"
+        "adaraanalytics.com",
+        "adaramedia.com",
+        "sojern.com",
+        "yieldoptimizer.com"
       ]
     },
     "ratevoice.com": {
@@ -15875,12 +15935,15 @@
         "force.com",
         "heroku.com",
         "herokuapp.com",
+        "informatica.com",
         "mulesoft.com",
+        "owndata.com",
         "quip.com",
         "salesforce-sites.com",
         "salesforce.com",
         "slack.com",
         "slackdemo.com",
+        "spiff.com",
         "tableau.com",
         "trailblazer.me"
       ],
@@ -16657,14 +16720,6 @@
         "socital.com"
       ]
     },
-    "Sojern": {
-      "properties": [
-        "sojern.com"
-      ],
-      "resources": [
-        "sojern.com"
-      ]
-    },
     "SolarWinds": {
       "properties": [
         "solarwinds.com"
@@ -17339,6 +17394,20 @@
         "superawesome.tv"
       ]
     },
+    "Superhuman": {
+      "properties": [
+        "coda.io",
+        "grammarly.co",
+        "grammarly.com",
+        "grammarly.io",
+        "grammarly.net",
+        "superhuman.com",
+        "superhumanstatic.com"
+      ],
+      "resources": [
+        "superhuman.com"
+      ]
+    },
     "Supership": {
       "properties": [
         "supership.jp"
@@ -17691,9 +17760,57 @@
     },
     "Telefónica": {
       "properties": [
+        "acens.com",
+        "ayyildiz.de",
+        "basecamp.digital",
+        "blau.de",
+        "bluevia.es",
         "eztargetmedia.com",
+        "fibrasil.com.br",
+        "fonic.de",
+        "fundaciontelefonica.cl",
+        "fundaciontelefonica.com",
+        "fundaciontelefonica.com.mx",
+        "fundaciontelefonica.com.ve",
+        "luca-d3.com",
+        "mejorconectados.com",
+        "movistar.cl",
+        "movistar.com.co",
+        "movistar.com.ec",
+        "movistar.com.mx",
+        "movistar.com.pe",
+        "movistar.com.uy",
+        "movistar.com.ve",
+        "movistar.es",
+        "movistarplus.es",
+        "o2.co.uk",
+        "o2online.de",
+        "o2online.es",
+        "ortelmobile.de",
+        "telefonica.cl",
+        "telefonica.co",
         "telefonica.com",
-        "terra.com.br"
+        "telefonica.com.br",
+        "telefonica.com.ve",
+        "telefonica.de",
+        "telefonica.es",
+        "telefonicaempresas.es",
+        "telefonicahispam.com",
+        "telefonicatech.com",
+        "telxius.com",
+        "terra.cl",
+        "terra.com",
+        "terra.com.br",
+        "terra.com.co",
+        "terra.com.mx",
+        "terra.com.pe",
+        "terra.us",
+        "terraempresas.com.mx",
+        "tuenti.com",
+        "vivo.com.br",
+        "wayra.com",
+        "wayra.de",
+        "wayra.es"
       ],
       "resources": [
         "terra.com.br"
@@ -19174,7 +19291,14 @@
       "properties": [
         "adimg.net",
         "adlantis.jp",
-        "valuecommerce.co.jp"
+        "bspace.jp",
+        "buzma.jp",
+        "castbook.jp",
+        "dyn.co.jp",
+        "monicam.jp",
+        "value-point.jp",
+        "valuecommerce.co.jp",
+        "valuecommerce.ne.jp"
       ],
       "resources": [
         "adimg.net",
@@ -19219,7 +19343,27 @@
     "VCCorp": {
       "properties": [
         "admicro.vn",
-        "vccorp.vn"
+        "afamily.vn",
+        "autopro.com.vn",
+        "bizfly.vn",
+        "bizflycloud.vn",
+        "cafebiz.vn",
+        "cafef.vn",
+        "enbac.com",
+        "gamek.vn",
+        "genk.vn",
+        "kenh14.vn",
+        "linkhay.com",
+        "lotus.vn",
+        "marketingai.vn",
+        "muare.vn",
+        "rongbay.com",
+        "soha.vn",
+        "sohagame.vn",
+        "solo.vn",
+        "toasoanai.vn",
+        "vccorp.vn",
+        "vietid.net"
       ],
       "resources": [
         "admicro.vn",
@@ -20139,6 +20283,7 @@
     },
     "WPP": {
       "properties": [
+        "bannerconnect.net",
         "decdna.net",
         "groupm.com",
         "kantarmedia.com",
@@ -20152,6 +20297,7 @@
         "xaxis.com"
       ],
       "resources": [
+        "bannerconnect.net",
         "decdna.net",
         "decideinteractive.com",
         "dl-rms.com",

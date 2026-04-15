@@ -1054,13 +1054,6 @@
         }
       },
       {
-        "Grammarly": {
-          "https://grammarly.co": [
-            "superhuman.com"
-          ]
-        }
-      },
-      {
         "HubSpot": {
           "http://www.hubspot.com/": [
             "hsms06.com",
@@ -1361,6 +1354,13 @@
         "Substack": {
           "https://substack.com/": [
             "substack.com"
+          ]
+        }
+      },
+      {
+        "Superhuman": {
+          "https://superhuman.com/": [
+            "superhuman.com"
           ]
         }
       },
@@ -1742,14 +1742,6 @@
             "a-mo.net",
             "a-mx.com",
             "rtb.mx"
-          ]
-        }
-      },
-      {
-        "Adara Media": {
-          "http://www.adaramedia.com/": [
-            "adaramedia.com",
-            "yieldoptimizer.com"
           ]
         }
       },
@@ -2887,13 +2879,6 @@
         }
       },
       {
-        "Adverline": {
-          "http://www.adverline.com/": [
-            "adnext.fr"
-          ]
-        }
-      },
-      {
         "Adversal.com": {
           "http://www.adversal.com/": [
             "adv-adserver.com",
@@ -3207,14 +3192,6 @@
             "assoc-amazon.com",
             "imdb.com",
             "serving-sys.com"
-          ]
-        }
-      },
-      {
-        "Ambient Digital": {
-          "http://ambientdigital.com.vn/": [
-            "adnetwork.vn",
-            "ambientdigital.com.vn"
           ]
         }
       },
@@ -3634,6 +3611,7 @@
         "Azerion": {
           "https://www.azerion.com/": [
             "360yield.com",
+            "adnext.fr",
             "affec.tv",
             "ayads.co",
             "de17a.com",
@@ -3682,13 +3660,6 @@
           "https://www.baincapital.com": [
             "insightexpress.com",
             "insightexpressai.com"
-          ]
-        }
-      },
-      {
-        "Bannerconnect": {
-          "http://www.bannerconnect.net/": [
-            "bannerconnect.net"
           ]
         }
       },
@@ -3802,13 +3773,6 @@
         }
       },
       {
-        "BidMind": {
-          "https://bidmind.com": [
-            "fksnk.com"
-          ]
-        }
-      },
-      {
         "BidVertiser": {
           "http://www.bidvertiser.com/": [
             "bidvertiser.com"
@@ -3826,13 +3790,6 @@
         "bigmirnet": {
           "http://www.bigmir.net/": [
             "bigmir.net"
-          ]
-        }
-      },
-      {
-        "Bisnode": {
-          "https://www.bisnode.com/": [
-            "vendemore.com"
           ]
         }
       },
@@ -3909,7 +3866,7 @@
       },
       {
         "BML Group": {
-          "https://betsson.com": [
+          "https://betssongroup.com/": [
             "cdnroute.bpsgameserver.com"
           ]
         }
@@ -3937,7 +3894,7 @@
       },
       {
         "Bonnier": {
-          "https://bonnier.com": [
+          "https://www.bonnier.com/": [
             "tailsweep.com"
           ]
         }
@@ -4916,6 +4873,8 @@
         "Dentsu": {
           "https://www.dentsu.com/": [
             "accordantmedia.com",
+            "adnetwork.vn",
+            "ambientdigital.com.vn",
             "bluestreak.com",
             "rimmkaufman.com",
             "rkdms.com",
@@ -5205,6 +5164,13 @@
           "https://dtscout.com": [
             "dtscout.com",
             "dtssrv.com"
+          ]
+        }
+      },
+      {
+        "Dun & Bradstreet": {
+          "https://www.dnb.com/": [
+            "vendemore.com"
           ]
         }
       },
@@ -5607,8 +5573,9 @@
       },
       {
         "Fiksu": {
-          "http://www.fiksu.com/": [
-            "fiksu.com"
+          "https://fiksu.com/": [
+            "fiksu.com",
+            "fksnk.com"
           ]
         }
       },
@@ -7460,7 +7427,7 @@
       },
       {
         "Match Group": {
-          "https://mtch.com": [
+          "https://mtch.com/": [
             "chemistry.com",
             "match.com"
           ]
@@ -9194,9 +9161,12 @@
       },
       {
         "RateGain": {
-          "https://rategain.com": [
+          "https://rategain.com/": [
             "adara.com",
-            "adaraanalytics.com"
+            "adaraanalytics.com",
+            "adaramedia.com",
+            "sojern.com",
+            "yieldoptimizer.com"
           ]
         }
       },
@@ -9992,13 +9962,6 @@
         }
       },
       {
-        "Sojern": {
-          "https://www.sojern.com": [
-            "sojern.com"
-          ]
-        }
-      },
-      {
         "So-netMediaNetworks": {
           "https://so-netmedia.jp": [
             "ladsp.com"
@@ -10451,7 +10414,7 @@
       },
       {
         "Telefónica": {
-          "https://telefonica.com": [
+          "https://www.telefonica.com/": [
             "terra.com.br"
           ]
         }
@@ -11049,7 +11012,7 @@
       },
       {
         "ValueCommerce": {
-          "https://valuecommerce.co.jp": [
+          "https://www.valuecommerce.co.jp/": [
             "adimg.net",
             "adlantis.jp",
             "valuecommerce.com"
@@ -11184,8 +11147,7 @@
       {
         "Viafoura": {
           "https://viafoura.com": [
-            "i.viafoura.co",
-            "viafoura.net"
+            "i.viafoura.co"
           ]
         }
       },
@@ -11461,7 +11423,8 @@
       },
       {
         "WPP": {
-          "http://www.wpp.com/": [
+          "https://www.wpp.com/": [
+            "bannerconnect.net",
             "decdna.net",
             "decideinteractive.com",
             "gmads.net",
@@ -12657,8 +12620,8 @@
       {
         "Viafoura": {
           "https://viafoura.com": [
-            "cdn.viafoura.net",
-            "viafoura.co"
+            "viafoura.co",
+            "viafoura.net"
           ]
         }
       },
@@ -13447,7 +13410,7 @@
       },
       {
         "Dun & Bradstreet": {
-          "https://dnb.com": [
+          "https://www.dnb.com/": [
             "eyeota.net"
           ]
         }
@@ -15284,7 +15247,7 @@
       },
       {
         "WPP": {
-          "http://www.wpp.com/": [
+          "https://www.wpp.com/": [
             "dl-rms.com",
             "dlqm.net",
             "questionmarket.com",
@@ -17616,13 +17579,6 @@
         }
       },
       {
-        "Bisnode": {
-          "https://www.bisnode.com/": [
-            "vendemore.com"
-          ]
-        }
-      },
-      {
         "boletius.com": {
           "https://boletius.com": [
             "cdn.boletius.com"
@@ -17681,6 +17637,13 @@
         }
       },
       {
+        "Dun & Bradstreet": {
+          "https://www.dnb.com/": [
+            "vendemore.com"
+          ]
+        }
+      },
+      {
         "Edge NPD": {
           "https://edgenpd.com": [
             "abtshield.com"
@@ -17724,7 +17687,7 @@
       },
       {
         "Fiksu": {
-          "http://www.fiksu.com/": [
+          "https://fiksu.com/": [
             "fiksu.com"
           ]
         }
