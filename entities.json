@@ -17,6 +17,14 @@
         "1film.to"
       ]
     },
+    "23trgaaddg.com": {
+      "properties": [
+        "23trgaaddg.com"
+      ],
+      "resources": [
+        "23trgaaddg.com"
+      ]
+    },
     "24Log": {
       "properties": [
         "24log.com"
@@ -1521,6 +1529,14 @@
         "adomik.com"
       ]
     },
+    "Adoric Technologies": {
+      "properties": [
+        "adoric.com"
+      ],
+      "resources": [
+        "adoric-om.com"
+      ]
+    },
     "Adot": {
       "properties": [
         "adotmob.com",
@@ -2593,6 +2609,7 @@
         "amazoninspire.com",
         "amazonmgmstudios.com",
         "amazonstudios.com",
+        "app.aws",
         "art19.com",
         "assoc-amazon.com",
         "audible.ca",
@@ -2634,6 +2651,7 @@
         "onemedical.com",
         "pillpack.com",
         "primevideo.com",
+        "repost.aws",
         "ring.com",
         "sagemaker.aws",
         "shopbop.com",
@@ -3352,6 +3370,14 @@
         "awio.com",
         "w3counter.com",
         "w3roi.com"
+      ]
+    },
+    "Axeptio": {
+      "properties": [
+        "axept.io"
+      ],
+      "resources": [
+        "axept.io"
       ]
     },
     "Azerion": {
@@ -4817,14 +4843,6 @@
         "chartbeat.net"
       ]
     },
-    "Chaturbate": {
-      "properties": [
-        "chaturbate.com"
-      ],
-      "resources": [
-        "chaturbate.com"
-      ]
-    },
     "Checkmate": {
       "properties": [
         "joincheckmate.com"
@@ -5048,7 +5066,8 @@
         "clickadu.com"
       ],
       "resources": [
-        "bncloudfl.com"
+        "bncloudfl.com",
+        "pecantinglytripod.com"
       ]
     },
     "Clickayab": {
@@ -11053,6 +11072,14 @@
         "personalizer.io"
       ]
     },
+    "Limy AI": {
+      "properties": [
+        "limy.ai"
+      ],
+      "resources": [
+        "getlimy.ai"
+      ]
+    },
     "Linehub": {
       "properties": [
         "conversive.nl",
@@ -12523,14 +12550,6 @@
         "mlytics.com"
       ]
     },
-    "mmcdn.com": {
-      "properties": [
-        "mmcdn.com"
-      ],
-      "resources": [
-        "mmcdn.com"
-      ]
-    },
     "mnaspm.com": {
       "properties": [
         "mnaspm.com"
@@ -12814,6 +12833,19 @@
       ],
       "resources": [
         "thecounter.com"
+      ]
+    },
+    "Multi Media LLC": {
+      "properties": [
+        "chaturbate.com",
+        "mmcdn.com",
+        "multimediallc.com",
+        "xnxx-livecams.com",
+        "xvlivecams.com"
+      ],
+      "resources": [
+        "chaturbate.com",
+        "mmcdn.com"
       ]
     },
     "Multiple Stream Media": {
@@ -16310,8 +16342,27 @@
     },
     "Seznam": {
       "properties": [
+        "firmy.cz",
+        "garaz.cz",
+        "horoskopy.cz",
         "imedia.cz",
-        "seznam.cz"
+        "kupi.cz",
+        "mapy.com",
+        "novinky.cz",
+        "o-seznam.cz",
+        "prozeny.cz",
+        "sauto.cz",
+        "sbazar.cz",
+        "seznam.cz",
+        "seznamzpravy.cz",
+        "sklik.cz",
+        "sport.cz",
+        "sreality.cz",
+        "stream.cz",
+        "super.cz",
+        "televizeseznam.cz",
+        "volnamista.cz",
+        "zbozi.cz"
       ],
       "resources": [
         "imedia.cz",

@@ -1489,6 +1489,13 @@
     ],
     "Advertising": [
       {
+        "23trgaaddg.com": {
+          "https://23trgaaddg.com/": [
+            "23trgaaddg.com"
+          ]
+        }
+      },
+      {
         "24Log": {
           "https://24log.com": [
             "24log.com"
@@ -2593,6 +2600,13 @@
         "Adomik": {
           "http://www.adomik.com/": [
             "adomik.com"
+          ]
+        }
+      },
+      {
+        "Adoric Technologies": {
+          "https://adoric.com/": [
+            "adoric-om.com"
           ]
         }
       },
@@ -4270,13 +4284,6 @@
         }
       },
       {
-        "Chaturbate": {
-          "https://chaturbate.com": [
-            "chaturbate.com"
-          ]
-        }
-      },
-      {
         "Checkmate": {
           "https://joincheckmate.com": [
             "joincheckmate.com"
@@ -4367,8 +4374,9 @@
       },
       {
         "Clickadu": {
-          "https://clickadu.com": [
-            "bncloudfl.com"
+          "https://clickadu.com/": [
+            "bncloudfl.com",
+            "pecantinglytripod.com"
           ]
         }
       },
@@ -7151,6 +7159,13 @@
         }
       },
       {
+        "Limy AI": {
+          "https://limy.ai/": [
+            "getlimy.ai"
+          ]
+        }
+      },
+      {
         "Linehub": {
           "https://linehub.com": [
             "conversive.nl"
@@ -7849,6 +7864,13 @@
         "MTS": {
           "https://moskva.mts.ru/": [
             "mts.ru"
+          ]
+        }
+      },
+      {
+        "Multi Media LLC": {
+          "https://multimediallc.com/": [
+            "chaturbate.com"
           ]
         }
       },
@@ -9734,7 +9756,7 @@
       },
       {
         "Seznam": {
-          "https://seznam.cz": [
+          "https://www.seznam.cz/": [
             "seznam.cz"
           ]
         }
@@ -14229,13 +14251,6 @@
         }
       },
       {
-        "mmcdn.com": {
-          "https://mmcdn.com": [
-            "mmcdn.com"
-          ]
-        }
-      },
-      {
         "Mongoose Metrics": {
           "http://www.mongoosemetrics.com/": [
             "mongoosemetrics.com"
@@ -14267,6 +14282,13 @@
         "MTY Food Group": {
           "https://mtygroup.com": [
             "thecounter.com"
+          ]
+        }
+      },
+      {
+        "Multi Media LLC": {
+          "https://multimediallc.com/": [
+            "mmcdn.com"
           ]
         }
       },
@@ -16602,13 +16624,6 @@
         }
       },
       {
-        "mmcdn.com": {
-          "https://mmcdn.com": [
-            "web.static.mmcdn.com"
-          ]
-        }
-      },
-      {
         "Mobials": {
           "http://mobials.com": [
             "mobials.com"
@@ -16619,6 +16634,13 @@
         "mocortech.com": {
           "https://mocortech.com": [
             "static.mocortech.com"
+          ]
+        }
+      },
+      {
+        "Multi Media LLC": {
+          "https://multimediallc.com/": [
+            "web.static.mmcdn.com"
           ]
         }
       },
@@ -16928,7 +16950,7 @@
       },
       {
         "Seznam": {
-          "https://seznam.cz": [
+          "https://www.seznam.cz/": [
             "imedia.cz"
           ]
         }
@@ -18463,6 +18485,13 @@
       }
     ],
     "ConsentManagers": [
+      {
+        "Axeptio": {
+          "https://www.axept.io/": [
+            "axept.io"
+          ]
+        }
+      },
       {
         "Didomi": {
           "https://didomi.io": [
