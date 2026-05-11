@@ -3644,6 +3644,20 @@
         "belboon.com"
       ]
     },
+    "Bell Media": {
+      "properties": [
+        "9c9media.ca",
+        "bellmedia.ca",
+        "crave.ca",
+        "ctv.ca",
+        "noovo.ca",
+        "rds.ca",
+        "tsn.ca"
+      ],
+      "resources": [
+        "9c9media.ca"
+      ]
+    },
     "Belstat": {
       "properties": [
         "belstat.be",
@@ -5439,12 +5453,10 @@
     },
     "Com Laude": {
       "properties": [
-        "9c9media.ca",
         "comlaude.com",
         "markmonitor.com"
       ],
       "resources": [
-        "9c9media.ca",
         "markmonitor.com"
       ]
     },
