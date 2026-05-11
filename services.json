@@ -12992,6 +12992,13 @@
         }
       },
       {
+        "Bell Media": {
+          "https://www.bellmedia.ca": [
+            "9c9media.ca"
+          ]
+        }
+      },
+      {
         "Belstat": {
           "http://www.belstat.com/": [
             "belstat.be",
@@ -13239,7 +13246,6 @@
       {
         "Com Laude": {
           "https://comlaude.com": [
-            "9c9media.ca",
             "markmonitor.com"
           ]
         }
