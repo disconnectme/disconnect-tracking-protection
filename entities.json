@@ -563,11 +563,14 @@
     },
     "AdaptMX": {
       "properties": [
-        "adaptmx.com"
+        "adaptmx.com",
+        "amxrtb.com"
       ],
       "resources": [
         "a-mo.net",
         "a-mx.com",
+        "amx1.net",
+        "amxrtb.com",
         "rtb.mx"
       ]
     },
@@ -856,6 +859,16 @@
       ],
       "resources": [
         "admaster.cc"
+      ]
+    },
+    "Admatic": {
+      "properties": [
+        "admatic.com.tr",
+        "admatic.de"
+      ],
+      "resources": [
+        "admatic.com.tr",
+        "admatic.de"
       ]
     },
     "AdMaven": {
@@ -1804,6 +1817,23 @@
       ],
       "resources": [
         "adsxtits.com"
+      ]
+    },
+    "AdTarget Media": {
+      "properties": [
+        "adtarget.biz",
+        "adtarget.com.tr"
+      ],
+      "resources": [
+        "adtarget.biz"
+      ]
+    },
+    "adtech.ink": {
+      "properties": [
+        "adtech.ink"
+      ],
+      "resources": [
+        "adtech.ink"
       ]
     },
     "ADTELLIGENCE": {
@@ -3288,6 +3318,14 @@
         "wp.com"
       ]
     },
+    "avads.net": {
+      "properties": [
+        "avads.net"
+      ],
+      "resources": [
+        "avads.net"
+      ]
+    },
     "AvantLink": {
       "properties": [
         "avantlink.com",
@@ -3753,6 +3791,14 @@
       ],
       "resources": [
         "bidfluence.com"
+      ]
+    },
+    "Bidmatic": {
+      "properties": [
+        "bidmatic.io"
+      ],
+      "resources": [
+        "bidmatic.io"
       ]
     },
     "BidVertiser": {
@@ -4708,6 +4754,16 @@
       ],
       "resources": [
         "carts.guru"
+      ]
+    },
+    "Carty": {
+      "properties": [
+        "advolve.io",
+        "carty.io",
+        "cartydsp.com"
+      ],
+      "resources": [
+        "advolve.io"
       ]
     },
     "CashBeet": {
@@ -10014,11 +10070,13 @@
     },
     "Integral Ad Science": {
       "properties": [
+        "getpublica.com",
         "integralads.com"
       ],
       "resources": [
         "adsafemedia.com",
         "adsafeprotected.com",
+        "getpublica.com",
         "iasds01.com",
         "integralads.com"
       ]
@@ -12712,6 +12770,14 @@
         "res-x.com"
       ]
     },
+    "MonetixAds": {
+      "properties": [
+        "monetixads.com"
+      ],
+      "resources": [
+        "monetixads.com"
+      ]
+    },
     "MONETIZEdigital": {
       "properties": [
         "cpalead.com"
@@ -13945,6 +14011,14 @@
         "p-advg.com"
       ]
     },
+    "Optable": {
+      "properties": [
+        "optable.co"
+      ],
+      "resources": [
+        "optable.co"
+      ]
+    },
     "Optad360": {
       "properties": [
         "optad360.com"
@@ -14107,6 +14181,14 @@
         "otm-r.com"
       ]
     },
+    "OTT Advisors": {
+      "properties": [
+        "ottadvisors.com"
+      ],
+      "resources": [
+        "ottadvisors.com"
+      ]
+    },
     "Otto": {
       "properties": [
         "otto.de"
@@ -14194,6 +14276,14 @@
       ],
       "resources": [
         "p7cloud.net"
+      ]
+    },
+    "Pacvue": {
+      "properties": [
+        "pacvue.com"
+      ],
+      "resources": [
+        "pacvue.com"
       ]
     },
     "Paid-To-Promote.net": {
@@ -15909,6 +15999,14 @@
       ],
       "resources": [
         "rtbsystem.com"
+      ]
+    },
+    "rtbwise": {
+      "properties": [
+        "rtbwise.com"
+      ],
+      "resources": [
+        "rtbwise.com"
       ]
     },
     "RTL Group": {
@@ -19838,6 +19936,14 @@
       ],
       "resources": [
         "visme.co"
+      ]
+    },
+    "ViSTARS": {
+      "properties": [
+        "vistarsagency.com"
+      ],
+      "resources": [
+        "vistarsagency.com"
       ]
     },
     "Visually": {
