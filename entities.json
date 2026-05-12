@@ -9062,7 +9062,9 @@
     },
     "Hatena": {
       "properties": [
-        "hatena.co.jp"
+        "hatena.blog",
+        "hatena.co.jp",
+        "hatena.ne.jp"
       ],
       "resources": [
         "hatena.ne.jp",
