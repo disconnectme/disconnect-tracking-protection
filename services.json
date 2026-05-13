@@ -1748,6 +1748,8 @@
           "https://adaptmx.com/": [
             "a-mo.net",
             "a-mx.com",
+            "a.amxrtb.com",
+            "amx1.net",
             "rtb.mx"
           ]
         }
@@ -1964,6 +1966,18 @@
         "Ad Master": {
           "https://admaster.cc": [
             "admaster.cc"
+          ]
+        }
+      },
+      {
+        "Admatic": {
+          "https://admatic.de": [
+            "dsp-service.admatic.de",
+            "prebid.admatic.com.tr",
+            "prebid.admatic.de",
+            "prebid.serve.admatic.com.tr",
+            "static.cdn.admatic.com.tr",
+            "static.cdn.admatic.de"
           ]
         }
       },
@@ -2821,6 +2835,22 @@
         }
       },
       {
+        "AdTarget Media": {
+          "https://www.adtarget.com.tr": [
+            "dsp-service.adtarget.biz",
+            "prebid.adtarget.biz",
+            "static.cdn.adtarget.biz"
+          ]
+        }
+      },
+      {
+        "adtech.ink": {
+          "https://adtech.ink": [
+            "sync.adtech.ink"
+          ]
+        }
+      },
+      {
         "ADTELLIGENCE": {
           "http://www.adtelligence.de/": [
             "adtelligence.de"
@@ -3558,6 +3588,13 @@
         }
       },
       {
+        "avads.net": {
+          "https://avads.net": [
+            "ads.avads.net"
+          ]
+        }
+      },
+      {
         "AvantLink": {
           "http://www.avantlink.com/": [
             "avantlink.com",
@@ -3783,6 +3820,13 @@
         "Bidfluence": {
           "https://www.bidfluence.com/": [
             "bidfluence.com"
+          ]
+        }
+      },
+      {
+        "Bidmatic": {
+          "https://bidmatic.io": [
+            "adapter.bidmatic.io"
           ]
         }
       },
@@ -4237,6 +4281,13 @@
         "CartsGuru": {
           "https://carts.guru/": [
             "carts.guru"
+          ]
+        }
+      },
+      {
+        "Carty": {
+          "https://advolve.io": [
+            "cm-mx.advolve.io"
           ]
         }
       },
@@ -6536,7 +6587,9 @@
             "adsafemedia.com",
             "adsafeprotected.com",
             "iasds01.com",
-            "integralads.com"
+            "integralads.com",
+            "sync.getpublica.com",
+            "usersync.getpublica.com"
           ]
         }
       },
@@ -7782,6 +7835,16 @@
         }
       },
       {
+        "MonetixAds": {
+          "https://monetixads.com": [
+            "dsp-service.monetixads.com",
+            "maybic.rtb.monetixads.com",
+            "prebid.monetixads.com",
+            "static.cdn.monetixads.com"
+          ]
+        }
+      },
+      {
         "MONETIZEdigital": {
           "https://www.cpalead.com/": [
             "cpalead.com"
@@ -8391,6 +8454,14 @@
         }
       },
       {
+        "Optable": {
+          "https://optable.co": [
+            "freestar.solutions.cdn.optable.co",
+            "na.edge.optable.co"
+          ]
+        }
+      },
+      {
         "Optad360": {
           "https://optad360.com": [
             "optad360.io"
@@ -8501,6 +8572,13 @@
         }
       },
       {
+        "OTT Advisors": {
+          "https://ottadvisors.com": [
+            "sync.ottadvisors.com"
+          ]
+        }
+      },
+      {
         "Otto": {
           "https://otto.de": [
             "otto.de"
@@ -8549,6 +8627,14 @@
         "OzoneProject": {
           "https://www.ozoneproject.com/": [
             "the-ozone-project.com"
+          ]
+        }
+      },
+      {
+        "Pacvue": {
+          "https://pacvue.com": [
+            "bidserver.pacvue.com",
+            "prism-tracking.pacvue.com"
           ]
         }
       },
@@ -9468,6 +9554,13 @@
         "RTBsystem": {
           "https://www.rtbsystem.com/": [
             "rtbsystem.com"
+          ]
+        }
+      },
+      {
+        "rtbwise": {
+          "https://rtbwise.com": [
+            "trace.us.rtbwise.com"
           ]
         }
       },
@@ -11250,6 +11343,14 @@
         "VisibleBrands": {
           "http://www.visbrands.com/": [
             "visbrands.com"
+          ]
+        }
+      },
+      {
+        "ViSTARS": {
+          "https://vistarsagency.com": [
+            "cpm.vistarsagency.com",
+            "sync.vistarsagency.com"
           ]
         }
       },
