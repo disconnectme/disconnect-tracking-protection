@@ -7799,7 +7799,8 @@
     },
     "Flodesk": {
       "properties": [
-        "flodesk.com"
+        "flodesk.com",
+        "myflodesk.com"
       ],
       "resources": [
         "flodesk.com"
