@@ -12045,6 +12045,13 @@
         }
       },
       {
+        "DataDog": {
+          "https://datadoghq.com": [
+            "datadoghq-browser-agent.com"
+          ]
+        }
+      },
+      {
         "Dynatrace": {
           "https://www.dynatrace.com": [
             "js-cdn.dynatrace.com"
@@ -13453,7 +13460,6 @@
         "DataDog": {
           "https://datadoghq.com": [
             "browser-intake-datadoghq.com",
-            "datadoghq-browser-agent.com",
             "datadoghq.com",
             "datadoghq.eu"
           ]
