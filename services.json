@@ -3290,13 +3290,6 @@
         }
       },
       {
-        "Anura": {
-          "https://anura.io": [
-            "script.anura.io"
-          ]
-        }
-      },
-      {
         "AnyClip": {
           "https://anyclip.com": [
             "pixel.anyclip.com"
@@ -17662,13 +17655,6 @@
         }
       },
       {
-        "Anura": {
-          "https://anura.io": [
-            "script.anura.io"
-          ]
-        }
-      },
-      {
         "AppCast": {
           "https://appcast.io/": [
             "appcast.io"
@@ -18329,6 +18315,13 @@
       }
     ],
     "Anti-fraud": [
+      {
+        "Anura": {
+          "https://www.anura.io": [
+            "script.anura.io"
+          ]
+        }
+      },
       {
         "ArkoseLabs": {
           "https://www.arkoselabs.com/index.html": [
