@@ -3290,13 +3290,6 @@
         }
       },
       {
-        "Anura": {
-          "https://anura.io": [
-            "script.anura.io"
-          ]
-        }
-      },
-      {
         "AnyClip": {
           "https://anyclip.com": [
             "pixel.anyclip.com"
@@ -12045,6 +12038,13 @@
         }
       },
       {
+        "DataDog": {
+          "https://datadoghq.com": [
+            "datadoghq-browser-agent.com"
+          ]
+        }
+      },
+      {
         "Dynatrace": {
           "https://www.dynatrace.com": [
             "js-cdn.dynatrace.com"
@@ -12652,6 +12652,13 @@
         "Stamped": {
           "https://stamped.io": [
             "stamped.io"
+          ]
+        }
+      },
+      {
+        "Stefanini Group": {
+          "https://stefanini.com/": [
+            "dnofd.com"
           ]
         }
       },
@@ -13453,7 +13460,6 @@
         "DataDog": {
           "https://datadoghq.com": [
             "browser-intake-datadoghq.com",
-            "datadoghq-browser-agent.com",
             "datadoghq.com",
             "datadoghq.eu"
           ]
@@ -13499,13 +13505,6 @@
         "Digioh": {
           "https://digioh.com/": [
             "lightboxcdn.com"
-          ]
-        }
-      },
-      {
-        "dnofd.com": {
-          "https://dnofd.com": [
-            "dnofd.com"
           ]
         }
       },
@@ -16248,13 +16247,6 @@
         }
       },
       {
-        "dnofd.com": {
-          "https://dnofd.com": [
-            "dnofd.com"
-          ]
-        }
-      },
-      {
         "duube1y6ojsji.cloudfront.net": {
           "https://duube1y6ojsji.cloudfront.net": [
             "duube1y6ojsji.cloudfront.net"
@@ -16741,13 +16733,6 @@
         "mocortech.com": {
           "https://mocortech.com": [
             "static.mocortech.com"
-          ]
-        }
-      },
-      {
-        "Multi Media LLC": {
-          "https://multimediallc.com/": [
-            "web.static.mmcdn.com"
           ]
         }
       },
@@ -17656,13 +17641,6 @@
         }
       },
       {
-        "Anura": {
-          "https://anura.io": [
-            "script.anura.io"
-          ]
-        }
-      },
-      {
         "AppCast": {
           "https://appcast.io/": [
             "appcast.io"
@@ -18323,6 +18301,13 @@
       }
     ],
     "Anti-fraud": [
+      {
+        "Anura": {
+          "https://www.anura.io": [
+            "script.anura.io"
+          ]
+        }
+      },
       {
         "ArkoseLabs": {
           "https://www.arkoselabs.com/index.html": [

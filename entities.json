@@ -6580,14 +6580,6 @@
         "dmpxs.com"
       ]
     },
-    "dnofd.com": {
-      "properties": [
-        "dnofd.com"
-      ],
-      "resources": [
-        "dnofd.com"
-      ]
-    },
     "DNS-Finder": {
       "properties": [
         "dns-finder.com"
@@ -17444,6 +17436,16 @@
       ],
       "resources": [
         "stay22.com"
+      ]
+    },
+    "Stefanini Group": {
+      "properties": [
+        "dnofd.com",
+        "stefanini.com",
+        "topazevolution.com"
+      ],
+      "resources": [
+        "dnofd.com"
       ]
     },
     "STG": {
