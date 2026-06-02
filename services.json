@@ -12656,6 +12656,13 @@
         }
       },
       {
+        "Stefanini Group": {
+          "https://stefanini.com/": [
+            "dnofd.com"
+          ]
+        }
+      },
+      {
         "Stripe": {
           "https://stripe.com": [
             "paystack.com",
@@ -13498,13 +13505,6 @@
         "Digioh": {
           "https://digioh.com/": [
             "lightboxcdn.com"
-          ]
-        }
-      },
-      {
-        "dnofd.com": {
-          "https://dnofd.com": [
-            "dnofd.com"
           ]
         }
       },
@@ -16247,13 +16247,6 @@
         }
       },
       {
-        "dnofd.com": {
-          "https://dnofd.com": [
-            "dnofd.com"
-          ]
-        }
-      },
-      {
         "duube1y6ojsji.cloudfront.net": {
           "https://duube1y6ojsji.cloudfront.net": [
             "duube1y6ojsji.cloudfront.net"
@@ -16740,13 +16733,6 @@
         "mocortech.com": {
           "https://mocortech.com": [
             "static.mocortech.com"
-          ]
-        }
-      },
-      {
-        "Multi Media LLC": {
-          "https://multimediallc.com/": [
-            "web.static.mmcdn.com"
           ]
         }
       },
