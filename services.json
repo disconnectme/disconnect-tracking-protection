@@ -1555,8 +1555,9 @@
       },
       {
         "91App": {
-          "https://91app.com": [
-            "91app.com"
+          "https://91app.com/": [
+            "static.91app.com",
+            "tracking-client.91app.com"
           ]
         }
       },
@@ -15508,8 +15509,8 @@
       },
       {
         "91App": {
-          "https://91app.com": [
-            "91app.com"
+          "https://91app.com/": [
+            "tracking-client.91app.com"
           ]
         }
       },
