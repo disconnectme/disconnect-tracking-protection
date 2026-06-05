@@ -10868,13 +10868,6 @@
         }
       },
       {
-        "Trusted Shops": {
-          "https://trustedshops.com": [
-            "trustedshops.com"
-          ]
-        }
-      },
-      {
         "TrustedSite": {
           "https://trustedsite.com": [
             "trustedsite.com"
@@ -12696,6 +12689,13 @@
         "Trumba": {
           "http://www.trumba.com/": [
             "trumba.com"
+          ]
+        }
+      },
+      {
+        "Trusted Shops": {
+          "https://www.trustedshops.com/": [
+            "trustedshops.com"
           ]
         }
       },
@@ -18248,13 +18248,6 @@
             "adbrn.com",
             "adsrvr.org",
             "thetradedesk.com"
-          ]
-        }
-      },
-      {
-        "Trusted Shops": {
-          "https://trustedshops.com": [
-            "widgets.trustedshops.com"
           ]
         }
       },

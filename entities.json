@@ -18654,7 +18654,34 @@
     },
     "Trusted Shops": {
       "properties": [
-        "trustedshops.com"
+        "etrusted.at",
+        "etrusted.be",
+        "etrusted.ch",
+        "etrusted.co.uk",
+        "etrusted.com",
+        "etrusted.dk",
+        "etrusted.es",
+        "etrusted.eu",
+        "etrusted.it",
+        "etrusted.net",
+        "etrusted.se",
+        "trustbadge.com",
+        "trustbadge.de",
+        "trusted-shops.com",
+        "trustedshops.at",
+        "trustedshops.be",
+        "trustedshops.ch",
+        "trustedshops.co.uk",
+        "trustedshops.com",
+        "trustedshops.de",
+        "trustedshops.es",
+        "trustedshops.eu",
+        "trustedshops.fr",
+        "trustedshops.it",
+        "trustedshops.nl",
+        "trustedshops.org",
+        "trustedshops.pl",
+        "trustedshops.pt"
       ],
       "resources": [
         "trustedshops.com"
