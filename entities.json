@@ -5053,6 +5053,7 @@
         "duo.com",
         "duosecurity.com",
         "isovalent.com",
+        "isovalent.tech",
         "kennasecurity.com",
         "mindmeld.com",
         "netacad.com",
@@ -5142,6 +5143,7 @@
       ],
       "resources": [
         "bncloudfl.com",
+        "demandingoverdriveunthread.com",
         "pecantinglytripod.com"
       ]
     },
@@ -9047,6 +9049,15 @@
         "gtopstats.com"
       ]
     },
+    "Gubagoo": {
+      "properties": [
+        "gubagoo.com",
+        "gubagoo.io"
+      ],
+      "resources": [
+        "gubagoo.io"
+      ]
+    },
     "GumGum": {
       "properties": [
         "gumgum.com",
@@ -10489,6 +10500,14 @@
       ],
       "resources": [
         "j189eb.com"
+      ]
+    },
+    "Janusaent": {
+      "properties": [
+        "janusaent.com"
+      ],
+      "resources": [
+        "janusaent.com"
       ]
     },
     "Jaroop": {
@@ -15541,6 +15560,15 @@
         "reaktion.com"
       ]
     },
+    "RebelMouse": {
+      "properties": [
+        "rbl.ms",
+        "rebelmouse.com"
+      ],
+      "resources": [
+        "rbl.ms"
+      ]
+    },
     "Rebid.co": {
       "properties": [
         "rebid.co"
@@ -18457,6 +18485,14 @@
         "tradedoubler.com"
       ]
     },
+    "Trade House Media": {
+      "properties": [
+        "tradehouse.media"
+      ],
+      "resources": [
+        "tradehouse.media"
+      ]
+    },
     "TradeTracker": {
       "properties": [
         "tradetracker.com"
@@ -18701,6 +18737,14 @@
       ],
       "resources": [
         "trustedstack.com"
+      ]
+    },
+    "Trustpielote": {
+      "properties": [
+        "trustpielote.com"
+      ],
+      "resources": [
+        "trustpielote.com"
       ]
     },
     "TrustPilot": {
