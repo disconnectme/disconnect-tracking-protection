@@ -9122,10 +9122,14 @@
     },
     "Hatena": {
       "properties": [
+        "hateblo.jp",
         "hatena.blog",
         "hatena.co.jp",
         "hatena.ne.jp",
-        "hatenablog.com"
+        "hatenablog.com",
+        "hatenablog.jp",
+        "hatenadiary.com",
+        "hatenadiary.jp"
       ],
       "resources": [
         "hatena.ne.jp",
