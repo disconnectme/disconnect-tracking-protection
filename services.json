@@ -8440,8 +8440,9 @@
       {
         "Opper": {
           "https://opper.io": [
+            "data.qiota.com",
             "ownpage.fr",
-            "qiota.com"
+            "www.qiota.com"
           ]
         }
       },
@@ -18103,7 +18104,8 @@
       {
         "Opper": {
           "https://opper.io": [
-            "qiota.com"
+            "static.qiota.com",
+            "www.qiota.com"
           ]
         }
       },
