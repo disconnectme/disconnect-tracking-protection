@@ -5841,13 +5841,6 @@
         }
       },
       {
-        "Funraise": {
-          "https://funraise.org": [
-            "assets.funraise.io"
-          ]
-        }
-      },
-      {
         "fuseplatform.net": {
           "https://fuseplatform.net": [
             "fuseplatform.net"
@@ -8439,10 +8432,9 @@
       },
       {
         "Opper": {
-          "https://opper.io": [
+          "https://opper.io/": [
             "data.qiota.com",
-            "ownpage.fr",
-            "www.qiota.com"
+            "ownpage.fr"
           ]
         }
       },
@@ -8611,9 +8603,8 @@
       },
       {
         "Overwolf": {
-          "https://overwolf.com": [
-            "nitropay.com",
-            "tebex.io"
+          "https://overwolf.com/": [
+            "nitropay.com"
           ]
         }
       },
@@ -12096,6 +12087,13 @@
         }
       },
       {
+        "Funraise": {
+          "https://www.funraise.org/": [
+            "assets.funraise.io"
+          ]
+        }
+      },
+      {
         "GeoComply": {
           "https://geocomply.com": [
             "geocomply.com"
@@ -12558,9 +12556,23 @@
         }
       },
       {
+        "Opper": {
+          "https://opper.io/": [
+            "www.qiota.com"
+          ]
+        }
+      },
+      {
         "Oracle": {
           "http://www.oracle.com/": [
             "oracle.com"
+          ]
+        }
+      },
+      {
+        "Overwolf": {
+          "https://overwolf.com/": [
+            "tebex.io"
           ]
         }
       },
@@ -16903,8 +16915,7 @@
       },
       {
         "Overwolf": {
-          "https://overwolf.com": [
-            "nsure.tebex.io",
+          "https://overwolf.com/": [
             "s.nitropay.com"
           ]
         }
@@ -18103,9 +18114,8 @@
       },
       {
         "Opper": {
-          "https://opper.io": [
-            "static.qiota.com",
-            "www.qiota.com"
+          "https://opper.io/": [
+            "static.qiota.com"
           ]
         }
       },
