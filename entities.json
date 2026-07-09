@@ -5528,6 +5528,16 @@
         "tagcommander.com"
       ]
     },
+    "Communify": {
+      "properties": [
+        "chartworks.io",
+        "communify.com",
+        "wsod.com"
+      ],
+      "resources": [
+        "wsod.com"
+      ]
+    },
     "Compass Labs": {
       "properties": [
         "compasslabs.com"
@@ -17241,13 +17251,11 @@
       "properties": [
         "collserve.com",
         "markit.com",
-        "spglobal.com",
-        "wsod.com"
+        "spglobal.com"
       ],
       "resources": [
         "collserve.com",
-        "dataium.com",
-        "wsod.com"
+        "dataium.com"
       ]
     },
     "spiddefrexpron.com": {
