@@ -4570,6 +4570,13 @@
         }
       },
       {
+        "Communify": {
+          "https://communify.com/": [
+            "ad.wsod.com"
+          ]
+        }
+      },
+      {
         "Compass Labs": {
           "http://compasslabs.com/": [
             "compasslabs.com"
@@ -14996,10 +15003,9 @@
       },
       {
         "S&P Global": {
-          "https://spglobal.com": [
+          "https://spglobal.com/": [
             "collserve.com",
-            "dataium.com",
-            "wsod.com"
+            "dataium.com"
           ]
         }
       },
