@@ -7420,6 +7420,13 @@
         }
       },
       {
+        "Manago AI": {
+          "https://manago.ai/": [
+            "salesmanago.com"
+          ]
+        }
+      },
+      {
         "Manifest": {
           "http://www.manifest.ru/": [
             "bannerbank.ru",
@@ -9651,13 +9658,6 @@
         "Salesintelligence": {
           "https://salesintelligence.pl/": [
             "plugin.management"
-          ]
-        }
-      },
-      {
-        "SALESmanago": {
-          "https://salesmanago.com": [
-            "salesmanago.com"
           ]
         }
       },
@@ -17056,13 +17056,6 @@
         "rxayc.com": {
           "https://rxayc.com": [
             "rxayc.com"
-          ]
-        }
-      },
-      {
-        "SALESmanago": {
-          "https://salesmanago.com": [
-            "salesmanago.com"
           ]
         }
       },

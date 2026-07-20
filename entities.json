@@ -11594,6 +11594,18 @@
         "mambasms.com"
       ]
     },
+    "Manago AI": {
+      "properties": [
+        "leadoo.com",
+        "manago.ai",
+        "salesmanago.com",
+        "salesmanago.pl",
+        "thulium.com"
+      ],
+      "resources": [
+        "salesmanago.com"
+      ]
+    },
     "Manifest": {
       "properties": [
         "bannerbank.ru",
@@ -16216,14 +16228,6 @@
         "driftt.com",
         "salesloft.com",
         "salesloftlinks.com"
-      ]
-    },
-    "SALESmanago": {
-      "properties": [
-        "salesmanago.com"
-      ],
-      "resources": [
-        "salesmanago.com"
       ]
     },
     "Samba.tv": {
