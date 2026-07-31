@@ -4421,6 +4421,10 @@
         "Clickadu": {
           "https://clickadu.com/": [
             "bncloudfl.com",
+            "campfirecroutondecorator.com",
+            "deductgreedyheadroom.com",
+            "demandingoverdriveunthread.com",
+            "earmuffpostnasalrisotto.com",
             "pecantinglytripod.com"
           ]
         }
@@ -8408,15 +8412,26 @@
       },
       {
         "OpenWeb": {
-          "https://openweb.com": [
+          "https://openweb.com/": [
             "adyoulike.com",
             "api-ssp.spot.im",
             "direct-events-collector.spot.im",
+            "eventer-display-identity.bqstreamer.com",
+            "eventer-player.bqstreamer.com",
+            "eventer-upsdisplay.bqstreamer.com",
+            "eventer-widget.bqstreamer.com",
             "metrics-logger.spot.im",
+            "monti-config.bqstreamer.com",
+            "monti-version.bqstreamer.com",
             "omnitagjs.com",
             "pix.spot.im",
             "publisher-assets.spot.im",
-            "spotim.market"
+            "rtb-configuration.bqstreamer.com",
+            "spotim.market",
+            "uds-config.bqstreamer.com",
+            "uds-selector.bqstreamer.com",
+            "uid-creation.bqstreamer.com",
+            "ups-library.bqstreamer.com"
           ]
         }
       },
@@ -12557,7 +12572,7 @@
       },
       {
         "OpenWeb": {
-          "https://openweb.com": [
+          "https://openweb.com/": [
             "spot.im"
           ]
         }
@@ -13339,6 +13354,13 @@
         "Civic Science": {
           "https://civicscience.com": [
             "civicscience.com"
+          ]
+        }
+      },
+      {
+        "Clay": {
+          "https://clay.com/": [
+            "claydar.com"
           ]
         }
       },
@@ -16143,6 +16165,13 @@
         }
       },
       {
+        "Clay": {
+          "https://clay.com/": [
+            "claydar.com"
+          ]
+        }
+      },
+      {
         "ClearLink": {
           "https://www.clearlink.com/": [
             "clearlink.com"
@@ -16152,7 +16181,10 @@
       {
         "Clickadu": {
           "https://clickadu.com/": [
-            "demandingoverdriveunthread.com"
+            "campfirecroutondecorator.com",
+            "deductgreedyheadroom.com",
+            "demandingoverdriveunthread.com",
+            "earmuffpostnasalrisotto.com"
           ]
         }
       },
@@ -16902,6 +16934,13 @@
         "OneF": {
           "https://track.onef.pro": [
             "onef.pro"
+          ]
+        }
+      },
+      {
+        "OpenWeb": {
+          "https://openweb.com/": [
+            "monti-config.bqstreamer.com"
           ]
         }
       },
