@@ -5103,6 +5103,15 @@
         "trkn.us"
       ]
     },
+    "Clay": {
+      "properties": [
+        "clay.com",
+        "claydar.com"
+      ],
+      "resources": [
+        "claydar.com"
+      ]
+    },
     "CleanTalk": {
       "properties": [
         "cleantalk.org"
@@ -5144,7 +5153,10 @@
       ],
       "resources": [
         "bncloudfl.com",
+        "campfirecroutondecorator.com",
+        "deductgreedyheadroom.com",
         "demandingoverdriveunthread.com",
+        "earmuffpostnasalrisotto.com",
         "pecantinglytripod.com"
       ]
     },
@@ -13990,6 +14002,7 @@
       ],
       "resources": [
         "adyoulike.com",
+        "bqstreamer.com",
         "omnitagjs.com",
         "spot.im",
         "spotim.market"
