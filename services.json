@@ -11890,13 +11890,6 @@
         }
       },
       {
-        "AfterPay": {
-          "https://afterpay.com": [
-            "afterpay.com"
-          ]
-        }
-      },
-      {
         "AirNav Radar": {
           "https://airnavradar.com": [
             "airnavradar.com"
@@ -11980,6 +11973,13 @@
         "BitMovin": {
           "https://bitmovin.com": [
             "bitmovin.com"
+          ]
+        }
+      },
+      {
+        "Block": {
+          "https://block.xyz/": [
+            "afterpay.com"
           ]
         }
       },
@@ -13203,6 +13203,18 @@
         }
       },
       {
+        "Block": {
+          "https://block.xyz/": [
+            "cdn11.editmysite.com",
+            "cdn2.editmysite.com",
+            "cdn3.editmysite.com",
+            "cdn5.editmysite.com",
+            "cdn6.editmysite.com",
+            "ec.editmysite.com"
+          ]
+        }
+      },
+      {
         "BlueConic": {
           "https://www.blueconic.com/": [
             "blueconic.net"
@@ -13398,6 +13410,14 @@
         "ClustrMaps": {
           "http://www.clustrmaps.com/": [
             "clustrmaps.com"
+          ]
+        }
+      },
+      {
+        "Cognition": {
+          "https://www.cognitionads.com/": [
+            "app.trialfire.com",
+            "cdn.trialfire.com"
           ]
         }
       },
@@ -13665,6 +13685,13 @@
         "edkt.io": {
           "https://edkt.io": [
             "edkt.io"
+          ]
+        }
+      },
+      {
+        "Edmunds": {
+          "https://www.edmunds.com/": [
+            "edw.edmunds.com"
           ]
         }
       },
