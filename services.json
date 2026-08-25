@@ -15845,13 +15845,6 @@
         }
       },
       {
-        "Alpine IQ": {
-          "https://aiq.com": [
-            "lab.alpineiq.com"
-          ]
-        }
-      },
-      {
         "Amazon": {
           "https://www.amazon.com/": [
             "4e7d2b3cdfc7.edge.sdk.awswaf.com",
