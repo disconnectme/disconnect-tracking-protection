@@ -6220,13 +6220,6 @@
         }
       },
       {
-        "Hextom": {
-          "https://hextom.com": [
-            "hextom.com"
-          ]
-        }
-      },
-      {
         "heyaiii111iidsfsdbfjb132222ffco.xyz": {
           "https://heyaiii111iidsfsdbfjb132222ffco.xyz": [
             "heyaiii111iidsfsdbfjb132222ffco.xyz"
@@ -12354,6 +12347,13 @@
         "Gubagoo": {
           "https://www.gubagoo.com/": [
             "gubagoo.io"
+          ]
+        }
+      },
+      {
+        "Hextom": {
+          "https://hextom.com": [
+            "hextom.com"
           ]
         }
       },
