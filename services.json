@@ -6995,13 +6995,6 @@
         }
       },
       {
-        "Kit": {
-          "https://kit.com": [
-            "convertkit.com"
-          ]
-        }
-      },
-      {
         "Kitara Media": {
           "http://www.kitaramedia.com/": [
             "103092804.com"
@@ -8501,8 +8494,7 @@
       {
         "Optimizely": {
           "https://www.optimizely.com/": [
-            "episerver.net",
-            "optimizely.com"
+            "episerver.net"
           ]
         }
       },
@@ -11016,8 +11008,7 @@
         "Unbounce": {
           "https://unbounce.com": [
             "leadsrx.com",
-            "ubembed.com",
-            "unbounce.com"
+            "ubembed.com"
           ]
         }
       },
@@ -12450,7 +12441,7 @@
       {
         "Kit": {
           "https://kit.com": [
-            "pages.convertkit.com"
+            "convertkit.com"
           ]
         }
       },
@@ -12581,6 +12572,13 @@
         "Opper": {
           "https://opper.io/": [
             "www.qiota.com"
+          ]
+        }
+      },
+      {
+        "Optimizely": {
+          "https://www.optimizely.com/": [
+            "optimizely.com"
           ]
         }
       },
@@ -12786,7 +12784,7 @@
       {
         "Unbounce": {
           "https://unbounce.com": [
-            "builder-assets.unbounce.com"
+            "unbounce.com"
           ]
         }
       },
@@ -14696,6 +14694,7 @@
       {
         "Optimizely": {
           "https://www.optimizely.com/": [
+            "logx.optimizely.com",
             "peerius.com"
           ]
         }
