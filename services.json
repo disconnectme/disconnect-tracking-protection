@@ -12395,7 +12395,7 @@
       {
         "ipify": {
           "https://www.ipify.org": [
-            "api.ipify.org"
+            "ipify.org"
           ]
         }
       },
@@ -14138,13 +14138,6 @@
         "iotechnologies": {
           "https://www.public.iotechnologies.com/": [
             "onthe.io"
-          ]
-        }
-      },
-      {
-        "ipify": {
-          "https://www.ipify.org": [
-            "ipify.org"
           ]
         }
       },
