@@ -10012,13 +10012,6 @@
         }
       },
       {
-        "Smile": {
-          "https://smile.io": [
-            "smile.io"
-          ]
-        }
-      },
-      {
         "SmileWanted": {
           "https://www.smilewanted.com/": [
             "smilewanted.com"
@@ -12693,6 +12686,13 @@
           "https://shopline.com": [
             "myshopline.com",
             "shoplineapp.com"
+          ]
+        }
+      },
+      {
+        "Smile": {
+          "https://smile.io": [
+            "smile.io"
           ]
         }
       },
