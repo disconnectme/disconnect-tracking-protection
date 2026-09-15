@@ -6183,14 +6183,6 @@
         }
       },
       {
-        "Hatena": {
-          "https://hatena.co.jp": [
-            "hatena.ne.jp",
-            "st-hatena.com"
-          ]
-        }
-      },
-      {
         "HB Agency": {
           "https://hbagency.it": [
             "hbagency.it"
@@ -12331,6 +12323,14 @@
         "Gubagoo": {
           "https://www.gubagoo.com/": [
             "gubagoo.io"
+          ]
+        }
+      },
+      {
+        "Hatena": {
+          "https://hatena.co.jp": [
+            "hatena.ne.jp",
+            "st-hatena.com"
           ]
         }
       },
