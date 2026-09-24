@@ -19635,6 +19635,15 @@
         "utarget.ru"
       ]
     },
+    "Utiq": {
+      "properties": [
+        "utiq.com"
+      ],
+      "resources": [
+        "utiq-aws.net",
+        "utiqcontent.com"
+      ]
+    },
     "Validity": {
       "properties": [
         "litmus.com",
