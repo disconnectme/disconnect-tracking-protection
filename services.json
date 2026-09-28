@@ -1874,6 +1874,13 @@
         }
       },
       {
+        "Adipolo": {
+          "https://adipolo.com/": [
+            "adipolo.live"
+          ]
+        }
+      },
+      {
         "Aditude": {
           "https://aditude.com": [
             "cpmstar.com",
@@ -3301,6 +3308,13 @@
         "Anymind Group": {
           "https://anymindgroup.com": [
             "anymind360.com"
+          ]
+        }
+      },
+      {
+        "Apostra": {
+          "https://apostra.com/": [
+            "scope3.com"
           ]
         }
       },
@@ -6146,7 +6160,8 @@
       },
       {
         "GumGum": {
-          "http://gumgum.com/": [
+          "https://gumgum.com/": [
+            "attentionxyz.com",
             "gumgum.com",
             "justpremium.com",
             "playground.xyz"
@@ -7030,8 +7045,9 @@
       },
       {
         "Kochava": {
-          "https://kochava.com": [
-            "kochava.com"
+          "https://www.kochava.com/": [
+            "kochava.com",
+            "smart.link"
           ]
         }
       },
@@ -8470,9 +8486,10 @@
         }
       },
       {
-        "optidigital": {
-          "https://www.optidigital.com/": [
-            "opti-digital.com"
+        "OptiDigital": {
+          "https://optidigital.com/": [
+            "opti-digital.com",
+            "optidigital.com"
           ]
         }
       },
@@ -11364,6 +11381,13 @@
         "Vitec Software Group": {
           "https://vitecsoftware.com": [
             "bidtheatre.com"
+          ]
+        }
+      },
+      {
+        "vlcapi.net": {
+          "https://vlcapi.net/": [
+            "vlcapi.net"
           ]
         }
       },
@@ -14293,6 +14317,13 @@
         "m2911p.com": {
           "https://m2911p.com": [
             "m2911p.com"
+          ]
+        }
+      },
+      {
+        "MA Aporia LTD": {
+          "https://serviceclic.com/": [
+            "serviceclic.com"
           ]
         }
       },
