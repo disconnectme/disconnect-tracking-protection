@@ -3237,13 +3237,15 @@
             "amazon.co.jp",
             "amazon.co.uk",
             "amazon.de",
-            "amazon.dev",
             "amazon.es",
             "amazon.fr",
             "amazon.it",
             "assoc-amazon.com",
             "imdb.com",
-            "serving-sys.com"
+            "na.prod.celyx.datax.audible.amazon.dev",
+            "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev",
+            "serving-sys.com",
+            "tungsten-service.prod.na.adsqtungsten.a9.amazon.dev"
           ]
         }
       },
@@ -11891,6 +11893,13 @@
         }
       },
       {
+        "Airbnb": {
+          "https://airbnb.com": [
+            "muscache.com"
+          ]
+        }
+      },
+      {
         "AirNav Radar": {
           "https://airnavradar.com": [
             "airnavradar.com"
@@ -11916,6 +11925,7 @@
         "Amazon": {
           "https://www.amazon.com/": [
             "amazon.com",
+            "amazon.dev",
             "cloudfront.net",
             "media-amazon.com",
             "s3-ap-southeast-1.amazonaws.com",
@@ -12015,6 +12025,13 @@
         }
       },
       {
+        "Cbox": {
+          "http://www.cbox.ws/": [
+            "cbox.ws"
+          ]
+        }
+      },
+      {
         "Chartbeat": {
           "https://chartbeat.com": [
             "static.chartbeat.com"
@@ -12070,7 +12087,8 @@
       {
         "DataDog": {
           "https://datadoghq.com": [
-            "datadoghq-browser-agent.com"
+            "datadoghq-browser-agent.com",
+            "datadoghq.com"
           ]
         }
       },
@@ -12397,6 +12415,13 @@
         }
       },
       {
+        "IBM": {
+          "http://www.ibm.com/": [
+            "ibm.com"
+          ]
+        }
+      },
+      {
         "IDBLLC": {
           "https://ipinfo.io": [
             "ipinfo.io"
@@ -12530,7 +12555,8 @@
             "microsoft.com",
             "msn.com",
             "nuance.com",
-            "skype.com"
+            "skype.com",
+            "visualstudio.com"
           ]
         }
       },
@@ -12996,13 +13022,6 @@
         }
       },
       {
-        "Airbnb": {
-          "https://airbnb.com": [
-            "muscache.com"
-          ]
-        }
-      },
-      {
         "Airship": {
           "https://airship.com": [
             "airship.com",
@@ -13345,13 +13364,6 @@
         }
       },
       {
-        "Cbox": {
-          "http://www.cbox.ws/": [
-            "cbox.ws"
-          ]
-        }
-      },
-      {
         "cdnbasket.net": {
           "https://cdnbasket.net": [
             "cdnbasket.net"
@@ -13580,9 +13592,13 @@
       {
         "DataDog": {
           "https://datadoghq.com": [
+            "browser-http-intake.logs.datadoghq.com",
             "browser-intake-datadoghq.com",
-            "datadoghq.com",
-            "datadoghq.eu"
+            "datadoghq.eu",
+            "http-intake.logs.datadoghq.com",
+            "http-intake.logs.us5.datadoghq.com",
+            "rum-http-intake.logs.datadoghq.com",
+            "sentry-intake.datadoghq.com"
           ]
         }
       },
@@ -14081,7 +14097,7 @@
           "http://www.ibm.com/": [
             "cmcore.com",
             "coremetrics.com",
-            "ibm.com",
+            "eventtracking-log.services.video.ibm.com",
             "instana.io"
           ]
         }
@@ -14459,13 +14475,13 @@
         "Microsoft": {
           "http://www.microsoft.com/": [
             "clarity.ms",
+            "dc.services.visualstudio.com",
             "footprintdns.com",
             "inq.com",
             "live.net",
             "microsoftstore.com",
             "officelive.com",
-            "touchcommerce.com",
-            "visualstudio.com"
+            "touchcommerce.com"
           ]
         }
       },
