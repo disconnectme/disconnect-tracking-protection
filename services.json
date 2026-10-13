@@ -16546,13 +16546,6 @@
         }
       },
       {
-        "GCN Publishing": {
-          "https://one-count.com": [
-            "validate.onecount.net"
-          ]
-        }
-      },
-      {
         "getdeviceinf.com": {
           "https://getdeviceinf.com": [
             "cdn.getdeviceinf.com"
