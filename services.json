@@ -13254,11 +13254,6 @@
       {
         "Block": {
           "https://block.xyz/": [
-            "cdn11.editmysite.com",
-            "cdn2.editmysite.com",
-            "cdn3.editmysite.com",
-            "cdn5.editmysite.com",
-            "cdn6.editmysite.com",
             "ec.editmysite.com"
           ]
         }
