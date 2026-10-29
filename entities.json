@@ -6662,12 +6662,12 @@
     },
     "DoorDash": {
       "properties": [
-        "Wolt.com",
         "careersatdoordash.com",
         "doordash.com",
         "doordashcateringconcierge.com",
         "sevenrooms.com",
-        "trycaviar.com"
+        "trycaviar.com",
+        "wolt.com"
       ],
       "resources": [
         "cdn4dd.com"
