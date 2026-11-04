@@ -607,6 +607,14 @@
         "viralhosts.com"
       ]
     },
+    "AdDaptive Intelligence": {
+      "properties": [
+        "addaptive.com"
+      ],
+      "resources": [
+        "dpmsrv.com"
+      ]
+    },
     "Ad Decisive": {
       "properties": [
         "addecisive.com"
@@ -16280,6 +16288,14 @@
         "salesforceliveagent.com"
       ]
     },
+    "SalesIntel": {
+      "properties": [
+        "salesintel.io"
+      ],
+      "resources": [
+        "scriptintel.io"
+      ]
+    },
     "Salesintelligence": {
       "properties": [
         "salesintelligence.pl"
@@ -17383,6 +17399,7 @@
         "spotifyjobs.com"
       ],
       "resources": [
+        "byspotify.com",
         "pdst.fm",
         "spotify.com"
       ]
@@ -18101,6 +18118,14 @@
       ],
       "resources": [
         "adop.cc"
+      ]
+    },
+    "Technolutions": {
+      "properties": [
+        "technolutions.com"
+      ],
+      "resources": [
+        "technolutions.net"
       ]
     },
     "TechSolutions": {

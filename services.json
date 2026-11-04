@@ -1778,6 +1778,13 @@
         }
       },
       {
+        "AdDaptive Intelligence": {
+          "https://www.addaptive.com": [
+            "dpmsrv.com"
+          ]
+        }
+      },
+      {
         "Ad Decisive": {
           "http://www.addecisive.com/": [
             "addecisive.com"
@@ -10181,6 +10188,7 @@
       {
         "Spotify": {
           "https://www.spotify.com": [
+            "byspotify.com",
             "pixels.spotify.com"
           ]
         }
@@ -15005,6 +15013,13 @@
         }
       },
       {
+        "SalesIntel": {
+          "https://salesintel.io": [
+            "scriptintel.io"
+          ]
+        }
+      },
+      {
         "Salesloft": {
           "https://salesloft.com/": [
             "drift.com",
@@ -15225,6 +15240,14 @@
           "https://tealium.com": [
             "tealiumiq.com",
             "tiqcdn.com"
+          ]
+        }
+      },
+      {
+        "Technolutions": {
+          "https://technolutions.com": [
+            "mx.technolutions.net",
+            "wat.test.technolutions.net"
           ]
         }
       },
