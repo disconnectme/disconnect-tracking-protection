@@ -12458,6 +12458,13 @@
         }
       },
       {
+        "IPregistry": {
+          "https://ipregistry.co": [
+            "ipregistry.co"
+          ]
+        }
+      },
+      {
         "Judge": {
           "https://www.judge.me": [
             "judge.me"
@@ -12954,6 +12961,13 @@
             "yandex.net",
             "yandex.ru",
             "yandex.st"
+          ]
+        }
+      },
+      {
+        "Yottaa": {
+          "https://yottaa.com": [
+            "yottaa.com"
           ]
         }
       },
@@ -14196,13 +14210,6 @@
         "IPQualityScore": {
           "https://ipqualityscore.com": [
             "ipqualityscore.com"
-          ]
-        }
-      },
-      {
-        "IPregistry": {
-          "https://ipregistry.co": [
-            "ipregistry.co"
           ]
         }
       },
@@ -15609,9 +15616,8 @@
         }
       },
       {
-        "Yotta": {
+        "Yottaa": {
           "https://yottaa.com": [
-            "yottaa.com",
             "yottaa.net"
           ]
         }
