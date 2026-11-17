@@ -5735,8 +5735,7 @@
         "Flipp": {
           "https://corp.flipp.com/": [
             "flipp.com",
-            "wishabi.com",
-            "wishabi.net"
+            "wishabi.com"
           ]
         }
       },
@@ -12124,7 +12123,7 @@
       {
         "Flipp": {
           "https://corp.flipp.com/": [
-            "f.wishabi.net"
+            "wishabi.net"
           ]
         }
       },
@@ -12454,6 +12453,13 @@
         "ipify": {
           "https://www.ipify.org": [
             "ipify.org"
+          ]
+        }
+      },
+      {
+        "IPregistry": {
+          "https://ipregistry.co": [
+            "ipregistry.co"
           ]
         }
       },
@@ -12954,6 +12960,13 @@
             "yandex.net",
             "yandex.ru",
             "yandex.st"
+          ]
+        }
+      },
+      {
+        "Yottaa": {
+          "https://yottaa.com": [
+            "yottaa.com"
           ]
         }
       },
@@ -14196,13 +14209,6 @@
         "IPQualityScore": {
           "https://ipqualityscore.com": [
             "ipqualityscore.com"
-          ]
-        }
-      },
-      {
-        "IPregistry": {
-          "https://ipregistry.co": [
-            "ipregistry.co"
           ]
         }
       },
@@ -15609,9 +15615,8 @@
         }
       },
       {
-        "Yotta": {
+        "Yottaa": {
           "https://yottaa.com": [
-            "yottaa.com",
             "yottaa.net"
           ]
         }
