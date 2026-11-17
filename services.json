@@ -5735,8 +5735,7 @@
         "Flipp": {
           "https://corp.flipp.com/": [
             "flipp.com",
-            "wishabi.com",
-            "wishabi.net"
+            "wishabi.com"
           ]
         }
       },
@@ -12124,7 +12123,7 @@
       {
         "Flipp": {
           "https://corp.flipp.com/": [
-            "f.wishabi.net"
+            "wishabi.net"
           ]
         }
       },
