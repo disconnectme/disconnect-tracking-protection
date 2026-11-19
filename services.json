@@ -17021,13 +17021,6 @@
         }
       },
       {
-        "OpenWeb": {
-          "https://openweb.com/": [
-            "monti-config.bqstreamer.com"
-          ]
-        }
-      },
-      {
         "opin.media": {
           "https://opin.media": [
             "jssdk.opin.media"
