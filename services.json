@@ -10283,13 +10283,6 @@
         }
       },
       {
-        "Stripe": {
-          "https://stripe.com": [
-            "stripe.network"
-          ]
-        }
-      },
-      {
         "Ströer Core": {
           "https://stroeer.de": [
             "adscale.de",
@@ -17322,13 +17315,6 @@
         }
       },
       {
-        "Stripe": {
-          "https://stripe.com": [
-            "stripe.network"
-          ]
-        }
-      },
-      {
         "tdslinetraffic.com": {
           "https://tdslinetraffic.com": [
             "tdslinetraffic.com"
@@ -18591,6 +18577,13 @@
           "https://www.signifyd.com/": [
             "kyc.red",
             "signifyd.com"
+          ]
+        }
+      },
+      {
+        "Stripe": {
+          "https://stripe.com": [
+            "stripe.network"
           ]
         }
       }
